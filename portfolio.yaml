@@ -1,0 +1,138 @@
+# Catalyst Desk — Portfolio
+#
+# Each entry needs:
+#   symbol     : NSE trading symbol (used by yfinance with .NS suffix)
+#   bse_code   : BSE numeric scrip code (used by BSE announcements API)
+#   name       : Full company name (used to match news + SEBI press)
+#   isin       : Optional, useful for cross-referencing
+#   sector     : Optional, used for grouping/filtering in the dashboard
+#   notes      : Optional, free-form commentary you'd like to remember
+#   skip_catalysts : Optional bool. If true, fetch price-only and skip the
+#                    LLM correlation step. Use for ETFs, SGBs, and other
+#                    non-equity instruments where "catalyst" doesn't apply.
+
+stocks:
+  # ─── Tata Motors group (post Oct-2025 demerger) ────────────────────────
+  # CV business inherited the original "Tata Motors Limited" name and the
+  # NSE symbol TATAMOTORS. PV business (cars + EVs + JLR) trades as TMPV.
+  - symbol: TATAMOTORS
+    bse_code: "500570"
+    name: Tata Motors Limited
+    isin: INE155A01022
+    sector: Commercial Vehicles
+    notes: Post-demerger CV business (trucks, buses, Iveco). Was TMLCV.
+
+  - symbol: TMPV
+    bse_code: "544535"
+    name: Tata Motors Passenger Vehicles Limited
+    isin: INE155A01030
+    sector: Passenger Vehicles
+    notes: Post-demerger PV business (cars, EVs, JLR).
+
+  # ─── Banks ─────────────────────────────────────────────────────────────
+  - symbol: ICICIBANK
+    bse_code: "532174"
+    name: ICICI Bank Limited
+    isin: INE090A01021
+    sector: Banking
+
+  - symbol: HDFCLIFE
+    bse_code: "540777"
+    name: HDFC Life Insurance Company Limited
+    isin: INE795G01014
+    sector: Insurance
+    notes: Assumed "HDFC Live" was HDFC Life. Tell me if you meant HDFC Bank.
+
+  - symbol: BANDHANBNK
+    bse_code: "541153"
+    name: Bandhan Bank Limited
+    isin: INE545U01014
+    sector: Banking
+
+  - symbol: IDFCFIRSTB
+    bse_code: "539437"
+    name: IDFC First Bank Limited
+    isin: INE092T01019
+    sector: Banking
+
+  - symbol: CGCL
+    bse_code: "531595"
+    name: Capri Global Capital Limited
+    isin: INE180C01042
+    sector: NBFC
+
+  # ─── Power / Renewables ────────────────────────────────────────────────
+  - symbol: TATAPOWER
+    bse_code: "500400"
+    name: Tata Power Company Limited
+    isin: INE245A01021
+    sector: Power
+
+  - symbol: SUZLON
+    bse_code: "532667"
+    name: Suzlon Energy Limited
+    isin: INE040H01021
+    sector: Renewable Energy
+
+  - symbol: IREDA
+    bse_code: "544026"
+    name: Indian Renewable Energy Development Agency Limited
+    isin: INE202E01016
+    sector: Renewable Energy Finance
+
+  - symbol: SWSOLAR
+    bse_code: "542760"
+    name: Sterling and Wilson Renewable Energy Limited
+    isin: INE00M201021
+    sector: Solar EPC
+
+  - symbol: TARIL
+    bse_code: "538314"
+    name: Transformers and Rectifiers (India) Limited
+    isin: INE763I01026
+    sector: Heavy Electrical Equipment
+
+  # ─── FMCG / Consumer ───────────────────────────────────────────────────
+  - symbol: ITC
+    bse_code: "500875"
+    name: ITC Limited
+    isin: INE154A01025
+    sector: FMCG
+
+  - symbol: ITCHOTELS
+    bse_code: "544325"
+    name: ITC Hotels Limited
+    isin: INE379A01028
+    sector: Hospitality
+    notes: Demerged from ITC, listed Jan 2025.
+
+  - symbol: LEMONTREE
+    bse_code: "541233"
+    name: Lemon Tree Hotels Limited
+    isin: INE970X01018
+    sector: Hospitality
+
+  - symbol: FINPIPE
+    bse_code: "500940"
+    name: Finolex Industries Limited
+    isin: INE183A01024
+    sector: Plastics / Pipes
+
+  # ─── Tech / Refurb ─────────────────────────────────────────────────────
+  - symbol: EBGNG
+    bse_code: "544455"
+    name: GNG Electronics Limited
+    isin: INE18JU01028
+    sector: Electronics Refurbishing
+    notes: Listed Jul-2025. NSE symbol is EBGNG (not GNG).
+
+  # ─── Sovereign Gold Bonds (price-only tracking) ────────────────────────
+  # SGBs don't have catalysts in the equity sense; their price tracks gold
+  # spot. We pull the price daily but skip the LLM correlation step.
+  - symbol: SGBJUN31I
+    bse_code: "726632"
+    name: Sovereign Gold Bond 2.50% June 2031 Series I
+    isin: IN0020230069
+    sector: Sovereign Gold Bond
+    skip_catalysts: true
+    notes: Tracks gold spot. No filings/earnings — price-only display.

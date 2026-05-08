@@ -1,0 +1,55 @@
+name: Daily Portfolio Report
+
+# Runs at 03:30 UTC = 09:00 IST every weekday.
+# (NSE/BSE close at 15:30 IST the previous day, so news/filings have settled
+# by morning. We run before market open at 09:15 to surface anomalies.)
+
+on:
+  schedule:
+    - cron: "30 3 * * 1-5"
+  workflow_dispatch: # manual trigger from the Actions UI
+
+permissions:
+  contents: write   # needed so the workflow can commit reports back to the repo
+
+concurrency:
+  group: daily-report
+  cancel-in-progress: false
+
+jobs:
+  build-report:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run pipeline
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: gemini-2.0-flash
+        run: python -m scripts.run_daily
+
+      - name: Commit report
+        run: |
+          git config user.name  "catalyst-desk-bot"
+          git config user.email "catalyst-desk-bot@users.noreply.github.com"
+          git add reports/
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "report: $(date -u +'%Y-%m-%d')"
+            git push
+          fi
