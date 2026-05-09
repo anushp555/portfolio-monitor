@@ -1,16 +1,12 @@
 name: Daily Portfolio Report
 
-# Runs at 03:30 UTC = 09:00 IST every weekday.
-# (NSE/BSE close at 15:30 IST the previous day, so news/filings have settled
-# by morning. We run before market open at 09:15 to surface anomalies.)
-
 on:
   schedule:
     - cron: "30 3 * * 1-5"
-  workflow_dispatch: # manual trigger from the Actions UI
+  workflow_dispatch:
 
 permissions:
-  contents: write   # needed so the workflow can commit reports back to the repo
+  contents: write
 
 concurrency:
   group: daily-report
