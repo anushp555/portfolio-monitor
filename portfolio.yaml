@@ -15,12 +15,12 @@ stocks:
   # ─── Tata Motors group (post Oct-2025 demerger) ────────────────────────
   # CV business inherited the original "Tata Motors Limited" name and the
   # NSE symbol TATAMOTORS. PV business (cars + EVs + JLR) trades as TMPV.
-  - symbol: TATAMOTORS
+  - symbol: TMCV
     bse_code: "500570"
     name: Tata Motors Limited
     isin: INE155A01022
     sector: Commercial Vehicles
-    notes: Post-demerger CV business (trucks, buses, Iveco). Was TMLCV.
+    notes: Post-demerger CV business (trucks, buses, Iveco). Yahoo uses TMCV; NSE uses TATAMOTORS.
 
   - symbol: TMPV
     bse_code: "544535"
