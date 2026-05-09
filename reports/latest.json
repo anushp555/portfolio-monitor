@@ -1,27 +1,85 @@
 {
   "report_date": "2026-05-09",
   "trading_day": "2026-05-08",
-  "generated_at": "2026-05-09T13:22:58.652421+05:30",
+  "generated_at": "2026-05-09T21:06:06.212991+05:30",
   "stocks": [
     {
-      "symbol": "TATAMOTORS",
+      "symbol": "TMCV",
       "name": "Tata Motors Limited",
       "sector": "Commercial Vehicles",
-      "notes": "Post-demerger CV business (trucks, buses, Iveco). Was TMLCV.",
+      "notes": "Post-demerger CV business (trucks, buses, Iveco). Yahoo uses TMCV; NSE uses TATAMOTORS.",
       "skip_catalysts": false,
       "bse_announcements": [],
       "nse_announcements": [],
-      "news": [],
-      "events": [],
+      "news": [
+        {
+          "title": "Tata Motors Ltd. Share Price Today - Tata Motors Ltd. Stock Price Live NSE/BSE",
+          "source": "CNBC TV18",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwVW9zZ0tsTklvaXhzVmY0R2xtUFEwT29kRHIzbnRFZVdCUW55cFp5UHh4NlFLczFGaHE5LUx2cGFsdXFDS1NwUGNlRmNjRkRxdjdRZHBOVlMzR2c1MHRfcmtTamVmMS1xNHNDVU4xY0VBX3hKOHZsV2dVWHhDOUE?oc=5",
+          "published_at": "2026-05-08T10:28:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFAwVW9zZ0tsTklvaXhzVmY0R2xtUFEwT29kRHIzbnRFZVdCUW55cFp5UHh4NlFLczFGaHE5LUx2cGFsdXFDS1NwUGNlRmNjRkRxdjdRZHBOVlMzR2c1MHRfcmtTamVmMS1xNHNDVU4xY0VBX3hKOHZsV2dVWHhDOUE?oc=5\" target=\"_blank\">Tata Motors Ltd. Share Price Today - Tata Motors Ltd. Stock Price Live NSE/BSE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC TV18</font>"
+        }
+      ],
+      "events": [
+        {
+          "subject": null,
+          "purpose": "Financial Results/Dividend",
+          "date": "13-May-2026",
+          "details": "To consider and approve the financial results for the period ended March 31, 2026 and dividend"
+        }
+      ],
       "sebi_mentions": [],
       "price_action": {
-        "error": "insufficient_data"
+        "date": "2026-05-08",
+        "open": 430.0,
+        "high": 437.5,
+        "low": 426.0,
+        "close": 431.0,
+        "prev_close": 434.05,
+        "change_pct": -0.7,
+        "gap_pct": -0.93,
+        "intraday_range_pct": 2.65,
+        "volume": 6852510,
+        "avg_volume_20d": 8247799,
+        "volume_ratio": 0.83,
+        "sparkline": [
+          415.7,
+          431.85,
+          427.6,
+          394.8,
+          396.05,
+          388.1,
+          391.3,
+          396.05,
+          434.05,
+          425.6,
+          444.55,
+          429.8,
+          435.2,
+          442.0,
+          439.1,
+          438.4,
+          442.55,
+          447.8,
+          431.85,
+          424.55,
+          420.75,
+          418.3,
+          416.95,
+          409.9,
+          409.9,
+          412.9,
+          406.55,
+          429.75,
+          434.05,
+          431.0
+        ]
       },
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Automated analysis unavailable; review raw catalysts below.",
-        "confidence": "low",
+        "analysis": "The stock experienced a minor intraday range but closed down slightly on below-average volume. No significant catalysts were announced or reported to explain the price action.",
+        "confidence": "high",
         "flags": []
       }
     },
@@ -92,8 +150,8 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Automated analysis unavailable; review raw catalysts below.",
-        "confidence": "low",
+        "analysis": "The stock experienced a modest decline of 1.06% on below-average volume. No significant catalysts were announced or reported. The upcoming earnings announcement on May 14th is the primary event to watch.",
+        "confidence": "high",
         "flags": []
       }
     },
@@ -114,7 +172,16 @@
           "source": "BSE"
         }
       ],
-      "nse_announcements": [],
+      "nse_announcements": [
+        {
+          "headline": "ESOP/ESOS/ESPS",
+          "category": "Banks",
+          "more_info": "ICICI Bank Limited has informed the Exchange regarding Allotment of 66061  Shares.",
+          "pdf_url": "https://nsearchives.nseindia.com/corporate/ICICIBANK1_08052026122938_Lettertoexchange.pdf",
+          "attached_at": "08-May-2026 12:30:00",
+          "source": "NSE"
+        }
+      ],
       "news": [],
       "events": [],
       "sebi_mentions": [
@@ -190,10 +257,10 @@
         ]
       },
       "analysis": {
-        "classification": "no_signal",
-        "primary_catalyst": null,
-        "analysis": "Automated analysis unavailable; review raw catalysts below.",
-        "confidence": "low",
+        "classification": "catalyst_without_move",
+        "primary_catalyst": "Allotment of 66,061 equity shares under ESOP scheme.",
+        "analysis": "The stock experienced a modest decline on below-average volume. The primary catalyst was the allotment of shares under an ESOP scheme, which is a routine event and did not appear to impact the stock price significantly. The market may be waiting for a more material development.",
+        "confidence": "medium",
         "flags": []
       }
     },
@@ -257,8 +324,8 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Automated analysis unavailable; review raw catalysts below.",
-        "confidence": "low",
+        "analysis": "The stock experienced a minor price decline on below-average volume. There were no significant catalysts reported during the trading session. The price action does not warrant further investigation at this time.",
+        "confidence": "high",
         "flags": []
       }
     },
@@ -270,7 +337,22 @@
       "skip_catalysts": false,
       "bse_announcements": [],
       "nse_announcements": [],
-      "news": [],
+      "news": [
+        {
+          "title": "Bandhan Bank Share Next Target| RBL Bank Share Next Target| Banking Shares Future Outlook (PhsPLqaa2Y)",
+          "source": "Fathom Journal",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HTnU5RFFsVEpmNi1QSWxNZkRtbGFMc3REWkNmc21fTXJoYkdTaDhreGRveDFuRzhLSG5WYlRhbEdmYVE5aFBIanpFdjRJWjVGT1lqM1c1Um0zM0N0R251ekV5dmV1cjB0MVRHMTRRNVA?oc=5",
+          "published_at": "2026-05-09T03:41:24+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9HTnU5RFFsVEpmNi1QSWxNZkRtbGFMc3REWkNmc21fTXJoYkdTaDhreGRveDFuRzhLSG5WYlRhbEdmYVE5aFBIanpFdjRJWjVGT1lqM1c1Um0zM0N0R251ekV5dmV1cjB0MVRHMTRRNVA?oc=5\" target=\"_blank\">Bandhan Bank Share Next Target| RBL Bank Share Next Target| Banking Shares Future Outlook (PhsPLqaa2Y)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fathom Journal</font>"
+        },
+        {
+          "title": "Bandhan Bank Share Crash |Bandhan Bank Share Latest News Today | BANDHANBNK Share Price Today 27jan📈 (OBFcIJnH3r)",
+          "source": "Fathom Journal",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBvNlRLQ0VXUHpRQXByd1dDcS1HZC1jNHVtTEx2ci1iOS1KUFRCbTExZEJBZkZ0WGxnWExZZXR6aUVzcVlIcmxjTzIwUDlPdVBxdVJqNVN0Q25WQms0clBVbkhnSjdnRmRaRlJQZjF5eG1EbWh2ZEE?oc=5",
+          "published_at": "2026-05-09T10:35:39+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBvNlRLQ0VXUHpRQXByd1dDcS1HZC1jNHVtTEx2ci1iOS1KUFRCbTExZEJBZkZ0WGxnWExZZXR6aUVzcVlIcmxjTzIwUDlPdVBxdVJqNVN0Q25WQms0clBVbkhnSjdnRmRaRlJQZjF5eG1EbWh2ZEE?oc=5\" target=\"_blank\">Bandhan Bank Share Crash |Bandhan Bank Share Latest News Today | BANDHANBNK Share Price Today 27jan📈 (OBFcIJnH3r)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fathom Journal</f"
+        }
+      ],
       "events": [],
       "sebi_mentions": [
         {
@@ -347,8 +429,8 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Automated analysis unavailable; review raw catalysts below.",
-        "confidence": "low",
+        "analysis": "The stock experienced a minor price decline on below-average volume. No significant catalysts were identified to explain the move. The market appears to be digesting recent news without a clear directional bias.",
+        "confidence": "high",
         "flags": []
       }
     },
@@ -412,8 +494,8 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Automated analysis unavailable; review raw catalysts below.",
-        "confidence": "low",
+        "analysis": "The stock experienced a modest gain of 1.25% on near-average volume. No significant catalysts were reported for the day. Price action was within normal trading ranges.",
+        "confidence": "high",
         "flags": []
       }
     },
@@ -502,10 +584,10 @@
         ]
       },
       "analysis": {
-        "classification": "no_signal",
-        "primary_catalyst": null,
-        "analysis": "Automated analysis unavailable; review raw catalysts below.",
-        "confidence": "low",
+        "classification": "catalyst_without_move",
+        "primary_catalyst": "Analyst upgrade to target Rs. 250",
+        "analysis": "Capri Global Capital received an analyst upgrade with a price target of Rs. 250. The stock saw a modest price decline on average volume, suggesting the market may be waiting for further confirmation or is digesting the news. This could present a lag opportunity.",
+        "confidence": "medium",
         "flags": []
       }
     },
@@ -601,10 +683,10 @@
         ]
       },
       "analysis": {
-        "classification": "no_signal",
-        "primary_catalyst": null,
-        "analysis": "Automated analysis unavailable; review raw catalysts below.",
-        "confidence": "low",
+        "classification": "catalyst_without_move",
+        "primary_catalyst": "Tata Power and Bhutan's Druk Green Power Corporation identify the 404 MW Nyera Amari I & II Integrated Hydropower Project for collaboration.",
+        "analysis": "The stock experienced a modest decline on below-average volume, despite positive news regarding a new hydropower project in Bhutan. The market appears to be awaiting further details or the upcoming financial results. This catalyst may drive future price appreciation.",
+        "confidence": "medium",
         "flags": []
       }
     },
@@ -623,13 +705,6 @@
           "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQTDZGVnp4b21DVEdYWGpUQmVFdTd6U05rN19TZWgza193b3ZSYXdIWjlLMXozYWROM3M5TExGUUVnYl9pRTBhYUFXU1d4X2JVSFRKT2ZNTUN0Q3lJSzFwZjFoMWhqdl9RQmNXR1Z5ZERPN2FTdWxXRktWaVlCM0gzYkV0VHptNUxKemw4NjFHekpueFZjbWtNR2VZMUoxQjN4b0RuYl96cXpiNDFxdThZbWUyeVVXRXd2X1J4akN0bFcyMW14Z1pCcXZWTVNPVnlOYlRFNUZqT0xHOTFIVWNIMi01S1I1STZHd0d6bjEtakNIQQ?oc=5",
           "published_at": "2026-05-08T12:03:53+00:00",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxQTDZGVnp4b21DVEdYWGpUQmVFdTd6U05rN19TZWgza193b3ZSYXdIWjlLMXozYWROM3M5TExGUUVnYl9pRTBhYUFXU1d4X2JVSFRKT2ZNTUN0Q3lJSzFwZjFoMWhqdl9RQmNXR1Z5ZERPN2FTdWxXRktWaVlCM0gzYkV0VHptNUxKemw4NjFHekpueFZjbWtNR2VZMUoxQjN4b0RuYl96cXpiNDFxdThZbWUyeVVXRXd2X1J4akN0bFcyMW14Z1pCcXZWTVNPVnlOYlRFNUZqT0xHOTFIVWNIMi01S1I1STZHd0d6bjEtakNIQQ?oc=5\" target=\"_blank\">B"
-        },
-        {
-          "title": "Suzlon Energy Ltd Sees Exceptional Volume Surge Amid Mid-Cap Sector Activity",
-          "source": "Markets Mojo",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaUIzUkxnSVBKQ3ljSXVkclByU200Q0lGMXlQNHE0TkczNE5WYzJqWjdKOWV4Y3prUGtscVlFamxEeTBIa0lRTENTWHpaUl93dnJxR3VZM3cwcFF2WElSeUFCRjRSZHpSVFZIblROZU1rdEJnN2E0QlhZOEtoRndqNmFxVW40Y3BpZ015Y2lKS0ZWemZ5RWN1ZVdnMnIyajhuVjVuWXcwNS1QWHBaN1V2Z0FnRkZ6OGU2WHJsM0l6WWF1clVZMDFKekotZEoyMXM?oc=5",
-          "published_at": "2026-05-08T05:02:15+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPaUIzUkxnSVBKQ3ljSXVkclByU200Q0lGMXlQNHE0TkczNE5WYzJqWjdKOWV4Y3prUGtscVlFamxEeTBIa0lRTENTWHpaUl93dnJxR3VZM3cwcFF2WElSeUFCRjRSZHpSVFZIblROZU1rdEJnN2E0QlhZOEtoRndqNmFxVW40Y3BpZ015Y2lKS0ZWemZ5RWN1ZVdnMnIyajhuVjVuWXcwNS1QWHBaN1V2Z0FnRkZ6OGU2WHJsM0l6WWF1clVZMDFKekotZEoyMXM?oc=5\" target=\"_blank\">Suzlon Energy Ltd Sees Exceptional Volume Surge "
         }
       ],
       "events": [],
@@ -681,11 +756,13 @@
         ]
       },
       "analysis": {
-        "classification": "no_signal",
+        "classification": "move_without_catalyst",
         "primary_catalyst": null,
-        "analysis": "Automated analysis unavailable; review raw catalysts below.",
-        "confidence": "low",
-        "flags": []
+        "analysis": "Suzlon Energy saw a modest decline on elevated volume. No specific catalyst was identified to explain the price movement. The stock is trading within its recent range.",
+        "confidence": "medium",
+        "flags": [
+          "POSSIBLE_LEAK_OR_FLOW"
+        ]
       }
     },
     {
@@ -756,8 +833,8 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Automated analysis unavailable; review raw catalysts below.",
-        "confidence": "low",
+        "analysis": "The stock experienced a modest price decline on below-average volume. No significant catalysts were reported that would explain the price movement. The market appears to be in a holding pattern for IREDA.",
+        "confidence": "high",
         "flags": []
       }
     },
@@ -821,8 +898,8 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Automated analysis unavailable; review raw catalysts below.",
-        "confidence": "low",
+        "analysis": "The stock experienced a modest decline of 0.95% on below-average volume. No significant catalysts were reported for the day. The price action does not warrant further investigation at this time.",
+        "confidence": "high",
         "flags": []
       }
     },
@@ -835,6 +912,13 @@
       "bse_announcements": [],
       "nse_announcements": [],
       "news": [
+        {
+          "title": "Number of shareholders of Transformers and Rectifiers (India) Limited – NSE:TARIL",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWDQxTkJ2bW1NdUc0WlRhc0g0YW15OU9WZmxjRGJkNFljM3NZbThVc3pRRk9xSmRqQnZhLWp2SHowSERFVFFWTC13S2hwcURuM3l1c1FVbTYtdmd6c3F5MEdIeDZncHp2VDBSVDNZUW5ta3BuTWxDQW4xTUg2R1kzNG5nTlBLWTRDSDhYTzU3XzVEckN3SkYtVVpDSTRHTGtyTUZTQQ?oc=5",
+          "published_at": "2026-05-09T11:10:07+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQWDQxTkJ2bW1NdUc0WlRhc0g0YW15OU9WZmxjRGJkNFljM3NZbThVc3pRRk9xSmRqQnZhLWp2SHowSERFVFFWTC13S2hwcURuM3l1c1FVbTYtdmd6c3F5MEdIeDZncHp2VDBSVDNZUW5ta3BuTWxDQW4xTUg2R1kzNG5nTlBLWTRDSDhYTzU3XzVEckN3SkYtVVpDSTRHTGtyTUZTQQ?oc=5\" target=\"_blank\">Number of shareholders of Transformers and Rectifiers (India) Limited – NSE:TARIL</a>&nbsp;&nbsp;<font co"
+        },
         {
           "title": "Video | TARIL Flags Short-Term Middle East Headwinds; Reiterates Margin Guidance",
           "source": "NDTV Profit",
@@ -892,10 +976,10 @@
         ]
       },
       "analysis": {
-        "classification": "no_signal",
+        "classification": "move_without_catalyst",
         "primary_catalyst": null,
-        "analysis": "Automated analysis unavailable; review raw catalysts below.",
-        "confidence": "low",
+        "analysis": "The stock experienced a meaningful price decline on below-average volume. No specific catalyst was identified to explain the move. Investors should monitor for future announcements.",
+        "confidence": "medium",
         "flags": []
       }
     },
@@ -916,6 +1000,20 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSWhFb0FQZnVQQmdiblZlTkk5WDU1WmdnWGhNYnJIbUN0NmZnTDhMeUxHZTJ4V0VRVFB2MFJhSlY4cjV5aVhjcXA3MnNHWHVLMlR6S190RFloUVRJYUdQOHVjZjhRSGNyQmpTQVlZcGxqRDh4emhiRUo0dUotZ1lHWmk0V1oxalp4NVVoSFdKczlLc1Uyc0ItT0pud2c4YlJjX0hhYk8xQ08teGVWUWtDSU4wcWpZYnZ2ejNQakc0ck9GSVY0YkRERXFNUGR0QzFWb0tGTy1Ebkp6ZWlad19BM1VnY2NoVDh4aEJr0gHwAUFVX3lxTE9YMkwyRDZCRWJ2SVpzY0"
         },
         {
+          "title": "Quicklime with Less Than 98% Purity Not Classifiable under Residuary Classification: SC Rules in Favour of ITC Ltd.",
+          "source": "Taxscan",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTUpZbk9ydlJXVDUzeDNlUk9mcG9jV2lwb1FiZTl6V2VNNVdwck8xeVlMYXBXU0tqU3RoUkZfZktqdzVoMnRTV0V6MUxnYklYXzF1UUJQQUpoS3d5WGNjb3FBVkxZTzNaV2tuc3RyeldUblRwbzctRmtUSl9pT0w5ZXVmb3MwSjdidWZGUlVvRHp3VkRiUHZ5Mmp0SFBRNmNxYzVFNU5zNUZMVUpwSW9JZFR1RnJ0X0JveVZmZGFYYzBiUkN6YnMxc0J2bW1tcWcyblZ1R2hjMGRyTWJla0J4YUVPQWVVcUtyTjNj?oc=5",
+          "published_at": "2026-05-09T09:50:01+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTUpZbk9ydlJXVDUzeDNlUk9mcG9jV2lwb1FiZTl6V2VNNVdwck8xeVlMYXBXU0tqU3RoUkZfZktqdzVoMnRTV0V6MUxnYklYXzF1UUJQQUpoS3d5WGNjb3FBVkxZTzNaV2tuc3RyeldUblRwbzctRmtUSl9pT0w5ZXVmb3MwSjdidWZGUlVvRHp3VkRiUHZ5Mmp0SFBRNmNxYzVFNU5zNUZMVUpwSW9JZFR1RnJ0X0JveVZmZGFYYzBiUkN6YnMxc0J2bW1tcWcyblZ1R2hjMGRyTWJla0J4YUVPQWVVcUtyTjNj?oc=5\" target=\"_blank\">Quicklime w"
+        },
+        {
+          "title": "ITC Right Shift Mother’s Day film on maternal health",
+          "source": "Mediabrief.com",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWVdGblhvYjJmaW10bEI4TlNyWjR0S2prbjgxTmRPWG1VTVpCazREVHRMRTZEZUlYbWxQYVNFaG54OWxOelphUVlQekFMbVhpWm5ZSU15eTZ6NmVRSy1QdldTb0JYb3F3bEVIY1FiTENvNHlXZ3AxWl84RGZyZ3FJWXBBMWF1amhOS0JaSk9RakJFdnZjTEpuQTJKYWplaGc4MlRwUWpmZWMyS3ktcUQ0?oc=5",
+          "published_at": "2026-05-09T13:00:07+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQWVdGblhvYjJmaW10bEI4TlNyWjR0S2prbjgxTmRPWG1VTVpCazREVHRMRTZEZUlYbWxQYVNFaG54OWxOelphUVlQekFMbVhpWm5ZSU15eTZ6NmVRSy1QdldTb0JYb3F3bEVIY1FiTENvNHlXZ3AxWl84RGZyZ3FJWXBBMWF1amhOS0JaSk9RakJFdnZjTEpuQTJKYWplaGc4MlRwUWpmZWMyS3ktcUQ0?oc=5\" target=\"_blank\">ITC Right Shift Mother’s Day film on maternal health</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">M"
+        },
+        {
           "title": "ITC Candyman expands portfolio with Soft Chews, targets evolving kids' preferences with 'Kuch Bhi Karega' campaign",
           "source": "MediaNews4U",
           "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVVBxdlJuSnR6X1NXYUhHbUd4Yk9FQWJUS2VfM3hkTl93MlBldXJMN2d5OHZfbUhMVk9sY0JpbjhrNFlwcFo1V0ZyZ3V6dzZuU3VqaVVieFlXazIyc002RFhIbkRYaHl4LUlrd0xLZl9kYXFYV3FYVWMtZnB1dVV3c29CRHJ2bkNfMUVTRG5CQnQtdWk3TnZ3dldsR1hjLUg2dE5OWVhYWDNxVXZSWWpXdTNWbXFSR0lwUEtTLWJCcEx6NFJfQUZ2aldndE5BWmRTLXBKLW9R?oc=5",
@@ -923,25 +1021,18 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVVBxdlJuSnR6X1NXYUhHbUd4Yk9FQWJUS2VfM3hkTl93MlBldXJMN2d5OHZfbUhMVk9sY0JpbjhrNFlwcFo1V0ZyZ3V6dzZuU3VqaVVieFlXazIyc002RFhIbkRYaHl4LUlrd0xLZl9kYXFYV3FYVWMtZnB1dVV3c29CRHJ2bkNfMUVTRG5CQnQtdWk3TnZ3dldsR1hjLUg2dE5OWVhYWDNxVXZSWWpXdTNWbXFSR0lwUEtTLWJCcEx6NFJfQUZ2aldndE5BWmRTLXBKLW9R?oc=5\" target=\"_blank\">ITC Candyman expands portfolio with Sof"
         },
         {
+          "title": "Q4 Results Next Week: Bharti Airtel, HAL, Tata Motors, Cochin Shipyard, Premier Energies, ITC Hotels And More",
+          "source": "NDTV Profit",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNMG5Ya0VpeFZaQzU1Vm5tU3JfNV9vbGNZOXdxM1RkTklXeEY4Rkh5dmVqU0ZtUFZHX3BhcU9hSjlPalhaVXQtY1N1bHBQVmY5S0pkZHJ0enJOWUI1UmNjWVJvSVZZNUsySS1mN2ozODhRaGFvZjM1SldoNE9jZU5ReDlMMDktSDZrT0ZIM1ZvSEYwdnVCcmtJcUNPR1k5TklMeTd6bnV4QXhVeE1FNldhUW9EWDZpVHl5YTJ4c2dEejVidFV4bG9HMFljYzBPOGI5WTVyUVhBei1DUVFuc1ZOVtIB6AFBVV95cUxQWkM3OFVYbnRKZmN3ZmhrWEU3Q3Z2N3Zna3NlTEdQc2l2bnBucUFrdlRGRkZkQ2JJVGFYUlU5akVUTW9tRmh6S0ozMTVQdzJHei1QenpwTl8xTTAtUUFwdVhNQk5KVFJ0aTktUE00WERkUTA2TGUyRndGcGZpYm84b2NGeW9YUlhETlk1ZWJTWFFFS2dFaWFhRGFvd05lUjVKS1NNbVo1TmFLNHQ3MHp1LW91Q0tnWkhwSkVROFk1OHRFNEZWTnNWaGhwTWlUU3hPM2NaUm5lN096T3luTmNmUnF2ZS1aRHZY?oc=5",
+          "published_at": "2026-05-09T08:30:36+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNMG5Ya0VpeFZaQzU1Vm5tU3JfNV9vbGNZOXdxM1RkTklXeEY4Rkh5dmVqU0ZtUFZHX3BhcU9hSjlPalhaVXQtY1N1bHBQVmY5S0pkZHJ0enJOWUI1UmNjWVJvSVZZNUsySS1mN2ozODhRaGFvZjM1SldoNE9jZU5ReDlMMDktSDZrT0ZIM1ZvSEYwdnVCcmtJcUNPR1k5TklMeTd6bnV4QXhVeE1FNldhUW9EWDZpVHl5YTJ4c2dEejVidFV4bG9HMFljYzBPOGI5WTVyUVhBei1DUVFuc1ZOVtIB6AFBVV95cUxQWkM3OFVYbnRKZmN3ZmhrWEU3Q3Z2N3Zna3"
+        },
+        {
           "title": "ITC Right Shift campaign spotlights mothers’ hidden health gaps",
           "source": "Indian Television Dot Com",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOS3VUTm9ZT3RZYnJzQ1ROOHBDVGZlZFo1Z25fazdRMi1udHFSVTAtcVpZVWpvaFQ4dmlwRWtlTTZCbTRrTUpNbFNhMWp3VnNwaURsY0pPVUZueFhqMkJxcE01ZjRLM1dGeFlpdDB3cEEtbEZnb2RwYzdGODh5VTNLd1lHdFo3eGU0emxmTURCWVRZMnNVU1d1dllUak4?oc=5",
-          "published_at": "2026-05-09T06:06:40+00:00",
+          "published_at": "2026-05-09T06:14:21+00:00",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOS3VUTm9ZT3RZYnJzQ1ROOHBDVGZlZFo1Z25fazdRMi1udHFSVTAtcVpZVWpvaFQ4dmlwRWtlTTZCbTRrTUpNbFNhMWp3VnNwaURsY0pPVUZueFhqMkJxcE01ZjRLM1dGeFlpdDB3cEEtbEZnb2RwYzdGODh5VTNLd1lHdFo3eGU0emxmTURCWVRZMnNVU1d1dllUak4?oc=5\" target=\"_blank\">ITC Right Shift campaign spotlights mothers’ hidden health gaps</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Indian Televisi"
-        },
-        {
-          "title": "Godfrey Phillips, ITC: Trading strategy for cigarette stocks | Daily calls on BTTV",
-          "source": "MSN",
-          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQMXVTQVRzVWtZRGx6aHVaNEhHR1NYYnYtOVdiRi1neTN1alNqUmZmT1hzZEdaeFlhcFJFdHFBMXR4b0t0SDhNSFFPR3ZWY3JPdDI0TzVBNjEzOWtXQ1FZRlZBUGczWjJNb2I1WC1SUzNCX2dKSE5SRi1yVnRvc3UxQ29HdzZHaldSNmgyVWhIZHF4S3cyWDFXa0NJMjJ4R1FUbkpXdDJOanBWRFc0Nm9RUlNUNjMtRy1xdm5qMmd1TUtHSFpCaEg4aXlXalpEejBqcUQ3LTdPaGlOY0dSejlqeDkycmpqc0RlWUtVV0huemI?oc=5",
-          "published_at": "2026-05-08T14:03:53+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxQMXVTQVRzVWtZRGx6aHVaNEhHR1NYYnYtOVdiRi1neTN1alNqUmZmT1hzZEdaeFlhcFJFdHFBMXR4b0t0SDhNSFFPR3ZWY3JPdDI0TzVBNjEzOWtXQ1FZRlZBUGczWjJNb2I1WC1SUzNCX2dKSE5SRi1yVnRvc3UxQ29HdzZHaldSNmgyVWhIZHF4S3cyWDFXa0NJMjJ4R1FUbkpXdDJOanBWRFc0Nm9RUlNUNjMtRy1xdm5qMmd1TUtHSFpCaEg4aXlXalpEejBqcUQ3LTdPaGlOY0dSejlqeDkycmpqc0RlWUtVV0huemI?oc=5\" target=\"_blank\">Godf"
-        },
-        {
-          "title": "ITC Green Centre by Morphogenesis Architecture in Kolkata Sets a New Benchmark for Mixed-Use Sustainable Development",
-          "source": "Global Design News",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRHFBUmRnLXNmQTJpVi1mZ2ljT1NRVmp2WnFfM1lEQjBrajBkWnVpTHJOc0YxSmM5R1dXZ25UMk8wQnVPY2c2aXNRWUZ3VEVoLW51cENkVmFCMUNjSnBHOU94VUdIdDEyU20tdDg4dGd3bGhabEpDYXhBLVlxQjAyckd0bWdTZzBYZF9KdEVLbFZVbFRaUHNpcEFHdG1vZTdUb2I2RVVMQ2VPdUlveFRUM1pyMW14aFd1LTNHVk1IQndGT2d4Y2gtYXBEVkVEdUxfNTR6Nm01OUU2NHNfaDdn?oc=5",
-          "published_at": "2026-05-08T12:01:12+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRHFBUmRnLXNmQTJpVi1mZ2ljT1NRVmp2WnFfM1lEQjBrajBkWnVpTHJOc0YxSmM5R1dXZ25UMk8wQnVPY2c2aXNRWUZ3VEVoLW51cENkVmFCMUNjSnBHOU94VUdIdDEyU20tdDg4dGd3bGhabEpDYXhBLVlxQjAyckd0bWdTZzBYZF9KdEVLbFZVbFRaUHNpcEFHdG1vZTdUb2I2RVVMQ2VPdUlveFRUM1pyMW14aFd1LTNHVk1IQndGT2d4Y2gtYXBEVkVEdUxfNTR6Nm01OUU2NHNfaDdn?oc=5\" target=\"_blank\">ITC Green Centre by Morphog"
         },
         {
           "title": "08.05.2026: Blocking of ITC must have an independent legal basis; if it is solely linked to cancellation of registration, it cannot survive once registration is restored: Bombay High Court",
@@ -951,18 +1042,11 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgJBVV95cUxQMmp2WWpPOHVENUdjMUdXcklFdlF0bHVQcWlwR1JONjcwYU44OXBIeWFPdWFFaU5OempHMVluaFhrRzJReU9fOXFJcHlhOE0yZEpkeVFSaExTbjBsaXR5dGxUa3J6U2VySHJSZ3FDMHA2anZub2dmMktIV1pDSW1Qd2xhZVVfZjA1YVZ2SU45QnVXT3V4aWczQTJOWEhrQ2wzUHlMUUdKYk1qbi1Pajk3Y1N5VVdfVDliWEJ6Q01scW8zUFZHa2RidlozNm01V3hxczJ4ZFc5UmlKSVRpSHpGUFFlY1pmZkxybjY2bEl0d2lPY2otZzFPUFpXZk00OUMwcW5iZ2"
         },
         {
-          "title": "ITC upholds Infineon patent ruling against Innoscience GaN imports",
-          "source": "Bisinfotech",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPanJ0Qkx2R1FyN1ZyTUE0YWFDWFJtV2RBOW84bVlIbXpPc2FFQWxPMkQ3TVp6Yl9uYmVUUVQzZTlvSUVTSGdZdjZWNXNXby1Gb1lUcUhsbGhqVEhoaG90MGpSNmVFNnVhckZOTnpVdW5Xbi1PMlhRVW5UQkZSR0NMZlhNTnZZTFZxbWg5aHhxRWdXbFNQTk9mZGVHTjFIeFpJSzVOSkdKam9CbjY0R2FwUEtVQ1g1NHRGVHotUTRMaUNHM2NfT1RzcHh4WG5ZWGJJTmN1cDJFVF9MTVY0V0RR?oc=5",
-          "published_at": "2026-05-08T05:54:20+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPanJ0Qkx2R1FyN1ZyTUE0YWFDWFJtV2RBOW84bVlIbXpPc2FFQWxPMkQ3TVp6Yl9uYmVUUVQzZTlvSUVTSGdZdjZWNXNXby1Gb1lUcUhsbGhqVEhoaG90MGpSNmVFNnVhckZOTnpVdW5Xbi1PMlhRVW5UQkZSR0NMZlhNTnZZTFZxbWg5aHhxRWdXbFNQTk9mZGVHTjFIeFpJSzVOSkdKam9CbjY0R2FwUEtVQ1g1NHRGVHotUTRMaUNHM2NfT1RzcHh4WG5ZWGJJTmN1cDJFVF9MTVY0V0RR?oc=5\" target=\"_blank\">ITC upholds Infineon patent"
-        },
-        {
-          "title": "ITC Hotels - 10 midcap stocks crash up to 50% from their peaks. Are you holding any?",
-          "source": "The Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPOFZsb1NzazNtY19ucDhLX1R1N2VvZW5hTHZSejVoVUZZelNmcFFDd2t6REtsZ3JIZGtzR3kwYS1DUWVhY0dxU0t3STJ3QV9IN0dzVnZqWjFUdENHZ2NkX1FrMXg0WlFaUFNNeXp1cEdrZ0IxWjBRMDVDbVRRT2RhWGJfdnRNd0k2V1JLTWp1eTZjOXpJUXFGVTFGX0x4UTduUkJmZ2g4dUJRMjNWTDkwMDE3eVIxeXBMSlpJdXYtUk9PbDBfOXMxTGs2QnBLSEFlYU5oRHRsMmYxS191S09maC1RbnpFZw?oc=5",
-          "published_at": "2026-05-08T13:43:31+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxPOFZsb1NzazNtY19ucDhLX1R1N2VvZW5hTHZSejVoVUZZelNmcFFDd2t6REtsZ3JIZGtzR3kwYS1DUWVhY0dxU0t3STJ3QV9IN0dzVnZqWjFUdENHZ2NkX1FrMXg0WlFaUFNNeXp1cEdrZ0IxWjBRMDVDbVRRT2RhWGJfdnRNd0k2V1JLTWp1eTZjOXpJUXFGVTFGX0x4UTduUkJmZ2g4dUJRMjNWTDkwMDE3eVIxeXBMSlpJdXYtUk9PbDBfOXMxTGs2QnBLSEFlYU5oRHRsMmYxS191S09maC1RbnpFZw?oc=5\" target=\"_blank\">ITC Hotels - 10 m"
+          "title": "ITC Green Centre by Morphogenesis Architecture in Kolkata Sets a New Benchmark for Mixed-Use Sustainable Development",
+          "source": "Global Design News",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRHFBUmRnLXNmQTJpVi1mZ2ljT1NRVmp2WnFfM1lEQjBrajBkWnVpTHJOc0YxSmM5R1dXZ25UMk8wQnVPY2c2aXNRWUZ3VEVoLW51cENkVmFCMUNjSnBHOU94VUdIdDEyU20tdDg4dGd3bGhabEpDYXhBLVlxQjAyckd0bWdTZzBYZF9KdEVLbFZVbFRaUHNpcEFHdG1vZTdUb2I2RVVMQ2VPdUlveFRUM1pyMW14aFd1LTNHVk1IQndGT2d4Y2gtYXBEVkVEdUxfNTR6Nm01OUU2NHNfaDdn?oc=5",
+          "published_at": "2026-05-08T12:01:12+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRHFBUmRnLXNmQTJpVi1mZ2ljT1NRVmp2WnFfM1lEQjBrajBkWnVpTHJOc0YxSmM5R1dXZ25UMk8wQnVPY2c2aXNRWUZ3VEVoLW51cENkVmFCMUNjSnBHOU94VUdIdDEyU20tdDg4dGd3bGhabEpDYXhBLVlxQjAyckd0bWdTZzBYZF9KdEVLbFZVbFRaUHNpcEFHdG1vZTdUb2I2RVVMQ2VPdUlveFRUM1pyMW14aFd1LTNHVk1IQndGT2d4Y2gtYXBEVkVEdUxfNTR6Nm01OUU2NHNfaDdn?oc=5\" target=\"_blank\">ITC Green Centre by Morphog"
         }
       ],
       "events": [],
@@ -1051,10 +1135,10 @@
         ]
       },
       "analysis": {
-        "classification": "no_signal",
-        "primary_catalyst": null,
-        "analysis": "Automated analysis unavailable; review raw catalysts below.",
-        "confidence": "low",
+        "classification": "catalyst_without_move",
+        "primary_catalyst": "Bombay High Court ruling on blocking of ITC's goods",
+        "analysis": "The Bombay High Court ruled that blocking ITC's goods must have an independent legal basis and cannot solely rely on the cancellation of registration. This is a positive development for the company, but the market did not react significantly to the news on the previous trading day.",
+        "confidence": "medium",
         "flags": []
       }
     },
@@ -1077,6 +1161,13 @@
       ],
       "nse_announcements": [],
       "news": [
+        {
+          "title": "ITC Hotels Limited Annual Secretarial Compliance Report Released for FY 2025-26",
+          "source": "InvestyWise",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQ0ZPcWdiZzlKdXlaempiSllWSWw2Y255TzFWcENUMzUwX21mLUV2U2RvcUtjbTk3bmt4T1BtbXd1djVNN01UVldfbzFUN1IzYVFoMVg4dnhFRFlpR0JLWTdMdkRnMloxd0NFLUVNdG9SRVdKUkdaU0t4Sl8zb2ZTeUwwQQ?oc=5",
+          "published_at": "2026-05-09T11:48:45+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPQ0ZPcWdiZzlKdXlaempiSllWSWw2Y255TzFWcENUMzUwX21mLUV2U2RvcUtjbTk3bmt4T1BtbXd1djVNN01UVldfbzFUN1IzYVFoMVg4dnhFRFlpR0JLWTdMdkRnMloxd0NFLUVNdG9SRVdKUkdaU0t4Sl8zb2ZTeUwwQQ?oc=5\" target=\"_blank\">ITC Hotels Limited Annual Secretarial Compliance Report Released for FY 2025-26</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">InvestyWise</font>"
+        },
         {
           "title": "ITC Hotels Limited Board Meeting Scheduled for Financial Review and Dividend Announcement",
           "source": "InvestyWise",
@@ -1178,10 +1269,10 @@
         ]
       },
       "analysis": {
-        "classification": "no_signal",
-        "primary_catalyst": null,
-        "analysis": "Automated analysis unavailable; review raw catalysts below.",
-        "confidence": "low",
+        "classification": "catalyst_without_move",
+        "primary_catalyst": "Board meeting scheduled for May 15, 2026, to approve financial results and recommend dividend.",
+        "analysis": "The stock experienced a modest price decline on lower-than-average volume. The primary catalyst was the announcement of a board meeting to discuss financial results and dividends, which typically does not cause significant intraday price action. The market may be waiting for the actual results before reacting.",
+        "confidence": "medium",
         "flags": []
       }
     },
@@ -1262,10 +1353,10 @@
         ]
       },
       "analysis": {
-        "classification": "no_signal",
-        "primary_catalyst": null,
-        "analysis": "Automated analysis unavailable; review raw catalysts below.",
-        "confidence": "low",
+        "classification": "catalyst_without_move",
+        "primary_catalyst": "Company announced opening of a new hotel in Amritsar",
+        "analysis": "The company announced the opening of a new hotel in Amritsar. This positive development did not translate into price appreciation, suggesting the market may have already priced in this news or is awaiting further details. The stock closed down 1.15% on below-average volume.",
+        "confidence": "medium",
         "flags": []
       }
     },
@@ -1329,8 +1420,8 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Automated analysis unavailable; review raw catalysts below.",
-        "confidence": "low",
+        "analysis": "The stock experienced a marginal price increase on below-average volume. No significant catalysts were reported for the day. Therefore, no clear signal can be derived from the trading activity.",
+        "confidence": "high",
         "flags": []
       }
     },
@@ -1436,11 +1527,13 @@
         ]
       },
       "analysis": {
-        "classification": "no_signal",
+        "classification": "move_without_catalyst",
         "primary_catalyst": null,
-        "analysis": "Automated analysis unavailable; review raw catalysts below.",
-        "confidence": "low",
-        "flags": []
+        "analysis": "GNG Electronics Limited experienced a significant price drop of 4.63% on below-average volume. No specific catalyst was identified to explain this move. The market may be reacting to news or events not captured in this data, or it could be a technical sell-off.",
+        "confidence": "medium",
+        "flags": [
+          "POSSIBLE_LEAK_OR_FLOW"
+        ]
       }
     },
     {
