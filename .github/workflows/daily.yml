@@ -39,7 +39,7 @@ jobs:
       - name: Run pipeline
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-         GEMINI_MODEL: gemini-2.5-flash-lite
+          GEMINI_MODEL: gemini-2.5-flash-lite
         run: python -m scripts.run_daily
 
       - name: Commit report
