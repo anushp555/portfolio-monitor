@@ -1,7 +1,7 @@
 {
   "report_date": "2026-05-09",
   "trading_day": "2026-05-08",
-  "generated_at": "2026-05-09T21:06:06.212991+05:30",
+  "generated_at": "2026-05-11T15:59:32.614444+05:30",
   "stocks": [
     {
       "symbol": "TMCV",
@@ -16,7 +16,7 @@
           "title": "Tata Motors Ltd. Share Price Today - Tata Motors Ltd. Stock Price Live NSE/BSE",
           "source": "CNBC TV18",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwVW9zZ0tsTklvaXhzVmY0R2xtUFEwT29kRHIzbnRFZVdCUW55cFp5UHh4NlFLczFGaHE5LUx2cGFsdXFDS1NwUGNlRmNjRkRxdjdRZHBOVlMzR2c1MHRfcmtTamVmMS1xNHNDVU4xY0VBX3hKOHZsV2dVWHhDOUE?oc=5",
-          "published_at": "2026-05-08T10:28:00+00:00",
+          "published_at": "2026-05-11T09:51:00+00:00",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFAwVW9zZ0tsTklvaXhzVmY0R2xtUFEwT29kRHIzbnRFZVdCUW55cFp5UHh4NlFLczFGaHE5LUx2cGFsdXFDS1NwUGNlRmNjRkRxdjdRZHBOVlMzR2c1MHRfcmtTamVmMS1xNHNDVU4xY0VBX3hKOHZsV2dVWHhDOUE?oc=5\" target=\"_blank\">Tata Motors Ltd. Share Price Today - Tata Motors Ltd. Stock Price Live NSE/BSE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC TV18</font>"
         }
       ],
@@ -30,20 +30,19 @@
       ],
       "sebi_mentions": [],
       "price_action": {
-        "date": "2026-05-08",
-        "open": 430.0,
-        "high": 437.5,
-        "low": 426.0,
-        "close": 431.0,
-        "prev_close": 434.05,
-        "change_pct": -0.7,
-        "gap_pct": -0.93,
-        "intraday_range_pct": 2.65,
-        "volume": 6852510,
-        "avg_volume_20d": 8247799,
-        "volume_ratio": 0.83,
+        "date": "2026-05-11",
+        "open": 425.5,
+        "high": 425.5,
+        "low": 410.0,
+        "close": 411.0,
+        "prev_close": 431.0,
+        "change_pct": -4.64,
+        "gap_pct": -1.28,
+        "intraday_range_pct": 3.6,
+        "volume": 6738919,
+        "avg_volume_20d": 7827132,
+        "volume_ratio": 0.86,
         "sparkline": [
-          415.7,
           431.85,
           427.6,
           394.8,
@@ -72,14 +71,15 @@
           406.55,
           429.75,
           434.05,
-          431.0
+          431.0,
+          411.0
         ]
       },
       "analysis": {
-        "classification": "no_signal",
+        "classification": "move_without_catalyst",
         "primary_catalyst": null,
-        "analysis": "The stock experienced a minor intraday range but closed down slightly on below-average volume. No significant catalysts were announced or reported to explain the price action.",
-        "confidence": "high",
+        "analysis": "Tata Motors experienced a significant price decline of 4.64% on elevated intraday range but below average volume. No specific catalyst was announced to explain the move. The upcoming earnings announcement on May 13th may provide further direction.",
+        "confidence": "medium",
         "flags": []
       }
     },
@@ -102,20 +102,19 @@
       ],
       "sebi_mentions": [],
       "price_action": {
-        "date": "2026-05-08",
-        "open": 356.0,
-        "high": 357.45,
-        "low": 353.7,
-        "close": 355.45,
-        "prev_close": 359.25,
-        "change_pct": -1.06,
-        "gap_pct": -0.9,
-        "intraday_range_pct": 1.04,
-        "volume": 4615800,
-        "avg_volume_20d": 9988698,
-        "volume_ratio": 0.46,
+        "date": "2026-05-11",
+        "open": 352.3,
+        "high": 352.3,
+        "low": 345.2,
+        "close": 346.0,
+        "prev_close": 355.45,
+        "change_pct": -2.66,
+        "gap_pct": -0.89,
+        "intraday_range_pct": 2.0,
+        "volume": 4282148,
+        "avg_volume_20d": 9172985,
+        "volume_ratio": 0.47,
         "sparkline": [
-          305.25,
           311.2,
           317.95,
           303.2,
@@ -144,14 +143,15 @@
           340.15,
           358.15,
           359.25,
-          355.45
+          355.45,
+          346.0
         ]
       },
       "analysis": {
-        "classification": "no_signal",
+        "classification": "move_without_catalyst",
         "primary_catalyst": null,
-        "analysis": "The stock experienced a modest decline of 1.06% on below-average volume. No significant catalysts were announced or reported. The upcoming earnings announcement on May 14th is the primary event to watch.",
-        "confidence": "high",
+        "analysis": "Tata Motors Passenger Vehicles Limited declined 2.66% on elevated volume. No specific catalyst was identified for the move. The upcoming earnings announcement on May 14th may provide direction.",
+        "confidence": "medium",
         "flags": []
       }
     },
@@ -182,7 +182,29 @@
           "source": "NSE"
         }
       ],
-      "news": [],
+      "news": [
+        {
+          "title": "ICICIBANK Outlook for the Week (May 11, 2026 – May 15, 2026)",
+          "source": "Equitypandit",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kYVhJNHdOWnMwcEkwMTVPZ0lMSm52Nzg0SlZEVHpBc2tNV2VkelBkcU95NnRLck13OGVLRlpHc0U2d1FQZ2tSTm1rM2U2SV9Na05SNS13RlNIOS1LZUstQk9vQlhDZlhVY0lhVw?oc=5",
+          "published_at": "2026-05-08T07:00:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9kYVhJNHdOWnMwcEkwMTVPZ0lMSm52Nzg0SlZEVHpBc2tNV2VkelBkcU95NnRLck13OGVLRlpHc0U2d1FQZ2tSTm1rM2U2SV9Na05SNS13RlNIOS1LZUstQk9vQlhDZlhVY0lhVw?oc=5\" target=\"_blank\">ICICIBANK Outlook for the Week (May 11, 2026 – May 15, 2026)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Equitypandit</font>"
+        },
+        {
+          "title": "Loan losses (actual) to total loans of ICICI Bank Limited Sponsored ADR – LSX:936793",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYTd5Vmw1dko1UVhGZkwzR2xVTU1GWllKSmJZT3pWMThLVUtoYW5zTXFhcDhTWVdHRXdUV2VxOWVIdUlwejdVSl9ZbzB0TXpSakF6VEhCVGhSQmxPR3A4OUlQU1cyaWhxSmdSWjR6S2c3eXdhd3F1elpPdDBQOExRWGVGak5lSlEzSThJS0o5TkpBaDRjT3dBMHBScURwZThhMmFZWDlfUjhSazZH?oc=5",
+          "published_at": "2026-05-10T05:39:47+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOYTd5Vmw1dko1UVhGZkwzR2xVTU1GWllKSmJZT3pWMThLVUtoYW5zTXFhcDhTWVdHRXdUV2VxOWVIdUlwejdVSl9ZbzB0TXpSakF6VEhCVGhSQmxPR3A4OUlQU1cyaWhxSmdSWjR6S2c3eXdhd3F1elpPdDBQOExRWGVGak5lSlEzSThJS0o5TkpBaDRjT3dBMHBScURwZThhMmFZWDlfUjhSazZH?oc=5\" target=\"_blank\">Loan losses (actual) to total loans of ICICI Bank Limited Sponsored ADR – LSX:936793</a>&nbsp;&"
+        },
+        {
+          "title": "Demand deposits to total deposits of ICICI Bank Limited – NSE:ICICIBANK",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT1ROaHBvejFJM1c5ZEFHRWp2ZWxYeEJfdjI0dFNkMUlXUmRxOGhJNWNZTWd3bFlxYWVRSkttUk9Lel9yc2FZM3E0Nm9rUXBlWnlFYTlqTXFseFVGbW81VzlHSC1vR3JPVHZrMjZEXzhHRkxHa0ZVa2hDRjBteW0wZjdvdXVNYjlLU0VwcmhtREl4aHpzb3lKeHVfM1VXWmZjNXAzV0JLbmtoYkRmYlFUNFc5WVY?oc=5",
+          "published_at": "2026-05-10T06:02:40+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQT1ROaHBvejFJM1c5ZEFHRWp2ZWxYeEJfdjI0dFNkMUlXUmRxOGhJNWNZTWd3bFlxYWVRSkttUk9Lel9yc2FZM3E0Nm9rUXBlWnlFYTlqTXFseFVGbW81VzlHSC1vR3JPVHZrMjZEXzhHRkxHa0ZVa2hDRjBteW0wZjdvdXVNYjlLU0VwcmhtREl4aHpzb3lKeHVfM1VXWmZjNXAzV0JLbmtoYkRmYlFUNFc5WVY?oc=5\" target=\"_blank\">Demand deposits to total deposits of ICICI Bank Limited – NSE:ICICIBANK</a>&nbsp;&nb"
+        }
+      ],
       "events": [],
       "sebi_mentions": [
         {
@@ -211,20 +233,19 @@
         }
       ],
       "price_action": {
-        "date": "2026-05-08",
-        "open": 1279.6,
-        "high": 1279.6,
-        "low": 1261.2,
-        "close": 1264.8,
-        "prev_close": 1279.0,
-        "change_pct": -1.11,
-        "gap_pct": 0.05,
-        "intraday_range_pct": 1.44,
-        "volume": 11137424,
-        "avg_volume_20d": 18945616,
-        "volume_ratio": 0.59,
+        "date": "2026-05-11",
+        "open": 1259.4,
+        "high": 1275.7,
+        "low": 1252.0,
+        "close": 1266.4,
+        "prev_close": 1264.8,
+        "change_pct": 0.13,
+        "gap_pct": -0.43,
+        "intraday_range_pct": 1.87,
+        "volume": 18980141,
+        "avg_volume_20d": 18356334,
+        "volume_ratio": 1.03,
         "sparkline": [
-          1251.2,
           1259.7,
           1233.8,
           1205.9,
@@ -253,14 +274,15 @@
           1251.3,
           1279.5,
           1279.0,
-          1264.8
+          1264.8,
+          1266.4
         ]
       },
       "analysis": {
-        "classification": "catalyst_without_move",
-        "primary_catalyst": "Allotment of 66,061 equity shares under ESOP scheme.",
-        "analysis": "The stock experienced a modest decline on below-average volume. The primary catalyst was the allotment of shares under an ESOP scheme, which is a routine event and did not appear to impact the stock price significantly. The market may be waiting for a more material development.",
-        "confidence": "medium",
+        "classification": "no_signal",
+        "primary_catalyst": null,
+        "analysis": "The stock experienced a minor price increase on slightly above-average volume. No significant catalysts were announced or reported that would explain this movement. The market appears to be digesting recent data without a clear directional driver.",
+        "confidence": "high",
         "flags": []
       }
     },
@@ -272,24 +294,31 @@
       "skip_catalysts": false,
       "bse_announcements": [],
       "nse_announcements": [],
-      "news": [],
+      "news": [
+        {
+          "title": "HDFCLIFE Outlook for the Week (May 11, 2026 – May 15, 2026)",
+          "source": "Equitypandit",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE04bEM3b3Q5S1BMY3NEVlBBNXg3bFc0U3JaU01IRkJ0eUZQQzNTOEIzU2JNZzQxT19Gampza2h5bldUbG9vNm9Vc215cHB1czR0REl6SkNJNmdPUUIwVVNJeDdBWGJCNmY5SGdR?oc=5",
+          "published_at": "2026-05-08T07:00:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE04bEM3b3Q5S1BMY3NEVlBBNXg3bFc0U3JaU01IRkJ0eUZQQzNTOEIzU2JNZzQxT19Gampza2h5bldUbG9vNm9Vc215cHB1czR0REl6SkNJNmdPUUIwVVNJeDdBWGJCNmY5SGdR?oc=5\" target=\"_blank\">HDFCLIFE Outlook for the Week (May 11, 2026 – May 15, 2026)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Equitypandit</font>"
+        }
+      ],
       "events": [],
       "sebi_mentions": [],
       "price_action": {
-        "date": "2026-05-08",
-        "open": 625.5,
-        "high": 628.0,
-        "low": 618.3,
-        "close": 621.7,
-        "prev_close": 625.4,
-        "change_pct": -0.59,
-        "gap_pct": 0.02,
-        "intraday_range_pct": 1.55,
-        "volume": 2352588,
-        "avg_volume_20d": 6976164,
-        "volume_ratio": 0.34,
+        "date": "2026-05-11",
+        "open": 619.0,
+        "high": 626.0,
+        "low": 611.2,
+        "close": 622.7,
+        "prev_close": 621.7,
+        "change_pct": 0.16,
+        "gap_pct": -0.43,
+        "intraday_range_pct": 2.38,
+        "volume": 3739701,
+        "avg_volume_20d": 6898181,
+        "volume_ratio": 0.54,
         "sparkline": [
-          603.0,
           612.9,
           610.2,
           590.6,
@@ -318,13 +347,14 @@
           594.1,
           606.35,
           625.4,
-          621.7
+          621.7,
+          622.7
         ]
       },
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "The stock experienced a minor price decline on below-average volume. There were no significant catalysts reported during the trading session. The price action does not warrant further investigation at this time.",
+        "analysis": "The stock experienced a minor price increase on below-average volume. No significant catalysts were reported to explain the price action. The outlook report is generic and does not provide specific actionable insights.",
         "confidence": "high",
         "flags": []
       }
@@ -344,6 +374,13 @@
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HTnU5RFFsVEpmNi1QSWxNZkRtbGFMc3REWkNmc21fTXJoYkdTaDhreGRveDFuRzhLSG5WYlRhbEdmYVE5aFBIanpFdjRJWjVGT1lqM1c1Um0zM0N0R251ekV5dmV1cjB0MVRHMTRRNVA?oc=5",
           "published_at": "2026-05-09T03:41:24+00:00",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9HTnU5RFFsVEpmNi1QSWxNZkRtbGFMc3REWkNmc21fTXJoYkdTaDhreGRveDFuRzhLSG5WYlRhbEdmYVE5aFBIanpFdjRJWjVGT1lqM1c1Um0zM0N0R251ekV5dmV1cjB0MVRHMTRRNVA?oc=5\" target=\"_blank\">Bandhan Bank Share Next Target| RBL Bank Share Next Target| Banking Shares Future Outlook (PhsPLqaa2Y)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fathom Journal</font>"
+        },
+        {
+          "title": "बंधन बैंक शेयर विश्लेषण",
+          "source": "Hindustan Hindi News",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdHFENjllbXllT1BfWk9GcjVVcVVDYVlyWng5WnlVTlJQc3ZLWHliLTFEUHUxYlNLTjFGN3IydW1TR0s4ckc5T3hwczRqYXQwNWtYSFd0SktPakFOVWFYc0FtUGtWV054Sm01YXhwX0FXd1JtanVkYldLOEdDRkw1OFg4SHhTQkJieWkyNDRxWVMyaFNkMi1wVktLWGYyVDktQXc?oc=5",
+          "published_at": "2026-05-08T08:54:37+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPdHFENjllbXllT1BfWk9GcjVVcVVDYVlyWng5WnlVTlJQc3ZLWHliLTFEUHUxYlNLTjFGN3IydW1TR0s4ckc5T3hwczRqYXQwNWtYSFd0SktPakFOVWFYc0FtUGtWV054Sm01YXhwX0FXd1JtanVkYldLOEdDRkw1OFg4SHhTQkJieWkyNDRxWVMyaFNkMi1wVktLWGYyVDktQXc?oc=5\" target=\"_blank\">बंधन बैंक शेयर विश्लेषण</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hindustan Hindi News</font>"
         },
         {
           "title": "Bandhan Bank Share Crash |Bandhan Bank Share Latest News Today | BANDHANBNK Share Price Today 27jan📈 (OBFcIJnH3r)",
@@ -381,20 +418,19 @@
         }
       ],
       "price_action": {
-        "date": "2026-05-08",
-        "open": 207.44,
-        "high": 207.95,
-        "low": 203.68,
-        "close": 206.11,
-        "prev_close": 207.63,
-        "change_pct": -0.73,
-        "gap_pct": -0.09,
-        "intraday_range_pct": 2.06,
-        "volume": 10392299,
-        "avg_volume_20d": 17123589,
-        "volume_ratio": 0.61,
+        "date": "2026-05-11",
+        "open": 203.52,
+        "high": 204.9,
+        "low": 199.91,
+        "close": 201.23,
+        "prev_close": 206.11,
+        "change_pct": -2.37,
+        "gap_pct": -1.26,
+        "intraday_range_pct": 2.42,
+        "volume": 11404356,
+        "avg_volume_20d": 17208640,
+        "volume_ratio": 0.66,
         "sparkline": [
-          149.99,
           153.42,
           148.91,
           141.35,
@@ -423,14 +459,15 @@
           206.44,
           208.88,
           207.63,
-          206.11
+          206.11,
+          201.23
         ]
       },
       "analysis": {
-        "classification": "no_signal",
+        "classification": "move_without_catalyst",
         "primary_catalyst": null,
-        "analysis": "The stock experienced a minor price decline on below-average volume. No significant catalysts were identified to explain the move. The market appears to be digesting recent news without a clear directional bias.",
-        "confidence": "high",
+        "analysis": "Bandhan Bank experienced a notable decline of 2.37% on below-average volume. No specific catalyst was identified to explain the price movement. The market may be reacting to broader sector sentiment or anticipating future news.",
+        "confidence": "medium",
         "flags": []
       }
     },
@@ -442,24 +479,38 @@
       "skip_catalysts": false,
       "bse_announcements": [],
       "nse_announcements": [],
-      "news": [],
+      "news": [
+        {
+          "title": "IDFC First Bank Q4 Results 2026 - Find IDFC First Bank Q4 Earnings Result | IDFCFIRSTB Q4 results",
+          "source": "Mint",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ1VpSm05QnhtSFRFZEU1Qk0wYlhaOW0tSnVRRUttcFBtV3p1MDEwcVVjRVhDem10OUo5Y3BLLTdsTm10Zmp1dk94Vy1MdVI0ZGNsazV3VmpSa2s0YklHUGtvRHkySE5Wa3ZUekhKM3JWVmVDamtSV0lUMlJ3WFp0ZnJIdjhVeEE?oc=5",
+          "published_at": "2026-05-08T07:00:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ1VpSm05QnhtSFRFZEU1Qk0wYlhaOW0tSnVRRUttcFBtV3p1MDEwcVVjRVhDem10OUo5Y3BLLTdsTm10Zmp1dk94Vy1MdVI0ZGNsazV3VmpSa2s0YklHUGtvRHkySE5Wa3ZUekhKM3JWVmVDamtSV0lUMlJ3WFp0ZnJIdjhVeEE?oc=5\" target=\"_blank\">IDFC First Bank Q4 Results 2026 - Find IDFC First Bank Q4 Earnings Result | IDFCFIRSTB Q4 results</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mint</fon"
+        },
+        {
+          "title": "IDFC First Bank Share Price Today Live NSE/BSE - Stock Price, News and Chart Updates 11 May 2026",
+          "source": "ET Now",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaEVCTWpfaF9taF90Z1ZxWnZoZHFNX2NrMHBSTmhGeG1sdTZNTnZMZFlDQ21EWWh2am9PQi11ZGN1dkhQNW5udXdDbF81U0dLX3IwdmFXTGNhRldMYm96UFdhVU8zTEM2dTk3NnI5VlVISzNjcGNFOWU4TkdHNkRGYlF0ejRnQ3MxckxmRVQxQXVURHR0?oc=5",
+          "published_at": "2026-05-08T07:00:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQaEVCTWpfaF9taF90Z1ZxWnZoZHFNX2NrMHBSTmhGeG1sdTZNTnZMZFlDQ21EWWh2am9PQi11ZGN1dkhQNW5udXdDbF81U0dLX3IwdmFXTGNhRldMYm96UFdhVU8zTEM2dTk3NnI5VlVISzNjcGNFOWU4TkdHNkRGYlF0ejRnQ3MxckxmRVQxQXVURHR0?oc=5\" target=\"_blank\">IDFC First Bank Share Price Today Live NSE/BSE - Stock Price, News and Chart Updates 11 May 2026</a>&nbsp;&nbsp;<font color=\"#6"
+        }
+      ],
       "events": [],
       "sebi_mentions": [],
       "price_action": {
-        "date": "2026-05-08",
-        "open": 70.39,
-        "high": 71.45,
-        "low": 69.91,
-        "close": 71.27,
-        "prev_close": 70.39,
-        "change_pct": 1.25,
-        "gap_pct": 0.0,
-        "intraday_range_pct": 2.19,
-        "volume": 21083557,
-        "avg_volume_20d": 21746113,
-        "volume_ratio": 0.97,
+        "date": "2026-05-11",
+        "open": 70.65,
+        "high": 70.78,
+        "low": 69.1,
+        "close": 69.22,
+        "prev_close": 71.27,
+        "change_pct": -2.88,
+        "gap_pct": -0.87,
+        "intraday_range_pct": 2.36,
+        "volume": 17815256,
+        "avg_volume_20d": 21816976,
+        "volume_ratio": 0.82,
         "sparkline": [
-          62.09,
           63.24,
           61.87,
           58.85,
@@ -488,14 +539,15 @@
           68.75,
           69.59,
           70.39,
-          71.27
+          71.27,
+          69.22
         ]
       },
       "analysis": {
-        "classification": "no_signal",
+        "classification": "move_without_catalyst",
         "primary_catalyst": null,
-        "analysis": "The stock experienced a modest gain of 1.25% on near-average volume. No significant catalysts were reported for the day. Price action was within normal trading ranges.",
-        "confidence": "high",
+        "analysis": "IDFC First Bank experienced a significant price decline of 2.88% on below-average volume. No specific catalyst was identified to explain the move. The market may be reacting to broader banking sector sentiment or anticipating upcoming earnings.",
+        "confidence": "medium",
         "flags": []
       }
     },
@@ -538,20 +590,19 @@
       "events": [],
       "sebi_mentions": [],
       "price_action": {
-        "date": "2026-05-08",
-        "open": 200.0,
-        "high": 202.0,
-        "low": 196.35,
-        "close": 197.97,
-        "prev_close": 200.14,
-        "change_pct": -1.08,
-        "gap_pct": -0.07,
-        "intraday_range_pct": 2.82,
-        "volume": 1782716,
-        "avg_volume_20d": 1930394,
-        "volume_ratio": 0.92,
+        "date": "2026-05-11",
+        "open": 197.4,
+        "high": 197.4,
+        "low": 190.5,
+        "close": 191.1,
+        "prev_close": 197.97,
+        "change_pct": -3.47,
+        "gap_pct": -0.29,
+        "intraday_range_pct": 3.49,
+        "volume": 1529123,
+        "avg_volume_20d": 1996793,
+        "volume_ratio": 0.77,
         "sparkline": [
-          169.46,
           170.01,
           165.54,
           166.49,
@@ -580,13 +631,14 @@
           194.85,
           200.52,
           200.14,
-          197.97
+          197.97,
+          191.1
         ]
       },
       "analysis": {
         "classification": "catalyst_without_move",
-        "primary_catalyst": "Analyst upgrade to target Rs. 250",
-        "analysis": "Capri Global Capital received an analyst upgrade with a price target of Rs. 250. The stock saw a modest price decline on average volume, suggesting the market may be waiting for further confirmation or is digesting the news. This could present a lag opportunity.",
+        "primary_catalyst": "Analyst upgrade to 'Add' with a target price of Rs. 250",
+        "analysis": "Capri Global Capital saw a positive analyst rating upgrade from Choice Institutional Equities. However, the stock price declined yesterday, indicating the market did not react positively to the news. This could present a lag opportunity for investors.",
         "confidence": "medium",
         "flags": []
       }
@@ -620,11 +672,25 @@
       ],
       "news": [
         {
+          "title": "TATAPOWER Outlook for the Week (May 11, 2026 – May 15, 2026)",
+          "source": "Equitypandit",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRU0ZqT1YyRlBJZVdaeXNtYmtuNnhnQ2IwbUNRN1E2MUNSay15X01XOWdIRldqWFFIRnBlREZuOEpNck5uNVg3bk9rQ0dlSUhhV3QtTHpHYUVNZGhZVjdkNWg0V3ZTVUdjYkFJYw?oc=5",
+          "published_at": "2026-05-08T07:00:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBRU0ZqT1YyRlBJZVdaeXNtYmtuNnhnQ2IwbUNRN1E2MUNSay15X01XOWdIRldqWFFIRnBlREZuOEpNck5uNVg3bk9rQ0dlSUhhV3QtTHpHYUVNZGhZVjdkNWg0V3ZTVUdjYkFJYw?oc=5\" target=\"_blank\">TATAPOWER Outlook for the Week (May 11, 2026 – May 15, 2026)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Equitypandit</font>"
+        },
+        {
           "title": "Tata Power Expands Bhutan Hydro Partnership With 404 MW Project",
           "source": "HDFC Sky",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaUpVQU1zYVdJakt3RkdYeUVYMHpKRzZRLTJuVUhoODF3Ukp0ZXlzdzhSZEhXTUk5SWF0cFZzU01fc3BnZktBd2wtZEJFQTFtWGVnV1d3VmxkMExmMmVPYWUtOEp2cUV3M0ZTNk90bUktWHkzbEtSLUVIWFRhbi1icG9fUUJtTmNWWUNTNA?oc=5",
           "published_at": "2026-05-08T09:29:09+00:00",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNaUpVQU1zYVdJakt3RkdYeUVYMHpKRzZRLTJuVUhoODF3Ukp0ZXlzdzhSZEhXTUk5SWF0cFZzU01fc3BnZktBd2wtZEJFQTFtWGVnV1d3VmxkMExmMmVPYWUtOEp2cUV3M0ZTNk90bUktWHkzbEtSLUVIWFRhbi1icG9fUUJtTmNWWUNTNA?oc=5\" target=\"_blank\">Tata Power Expands Bhutan Hydro Partnership With 404 MW Project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HDFC Sky</font>"
+        },
+        {
+          "title": "Tata Power Company Q4 Results 2026 - Find Tata Power Company Q4 Earnings Result | TATAPOWER Q4 results",
+          "source": "Mint",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQc1JKNDM3Qno1eWlZbmxPcUg1ckNaZnFsNFY5djNZcjZtanpHSy1sTGp0R3V2Vk50ZUIzSWFLM05PMndFdEI0SV83YThwR01xQWQtckNvWkZMQUprbzhQekZqa1V0WW03TmNoU01iUmNOVS05WElEcU1BSXh6YzNyemhhRlVRUEdCZE5r?oc=5",
+          "published_at": "2026-05-08T07:00:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQc1JKNDM3Qno1eWlZbmxPcUg1ckNaZnFsNFY5djNZcjZtanpHSy1sTGp0R3V2Vk50ZUIzSWFLM05PMndFdEI0SV83YThwR01xQWQtckNvWkZMQUprbzhQekZqa1V0WW03TmNoU01iUmNOVS05WElEcU1BSXh6YzNyemhhRlVRUEdCZE5r?oc=5\" target=\"_blank\">Tata Power Company Q4 Results 2026 - Find Tata Power Company Q4 Earnings Result | TATAPOWER Q4 results</a>&nbsp;&nbsp;<font color=\"#6f6f6f\""
         }
       ],
       "events": [
@@ -637,20 +703,19 @@
       ],
       "sebi_mentions": [],
       "price_action": {
-        "date": "2026-05-08",
-        "open": 438.1,
-        "high": 440.6,
-        "low": 434.7,
-        "close": 436.0,
-        "prev_close": 439.25,
-        "change_pct": -0.74,
-        "gap_pct": -0.26,
-        "intraday_range_pct": 1.34,
-        "volume": 4061354,
-        "avg_volume_20d": 9230832,
-        "volume_ratio": 0.44,
+        "date": "2026-05-11",
+        "open": 434.0,
+        "high": 437.95,
+        "low": 428.7,
+        "close": 433.2,
+        "prev_close": 436.0,
+        "change_pct": -0.64,
+        "gap_pct": -0.46,
+        "intraday_range_pct": 2.12,
+        "volume": 4156000,
+        "avg_volume_20d": 9006567,
+        "volume_ratio": 0.46,
         "sparkline": [
-          384.75,
           390.7,
           385.7,
           378.75,
@@ -679,13 +744,14 @@
           442.65,
           443.25,
           439.25,
-          436.0
+          436.0,
+          433.2
         ]
       },
       "analysis": {
         "classification": "catalyst_without_move",
         "primary_catalyst": "Tata Power and Bhutan's Druk Green Power Corporation identify the 404 MW Nyera Amari I & II Integrated Hydropower Project for collaboration.",
-        "analysis": "The stock experienced a modest decline on below-average volume, despite positive news regarding a new hydropower project in Bhutan. The market appears to be awaiting further details or the upcoming financial results. This catalyst may drive future price appreciation.",
+        "analysis": "The company announced a collaboration on a 404 MW hydropower project in Bhutan. The stock saw a modest decline on below-average volume, indicating the market did not react significantly to this news. Investors may be awaiting the Q4 results next week for a clearer direction.",
         "confidence": "medium",
         "flags": []
       }
@@ -700,30 +766,78 @@
       "nse_announcements": [],
       "news": [
         {
+          "title": "Suzlon considers first European wind turbine factory",
+          "source": "EnergyWatch",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96NEJPQzJHQnBCdVZuNEl2NENyaW1JZzdONzN4Y3I4T3J3dF9IWG5pYS1HVVZKNTRWVjYybDN2bWNEZlpReDJSNHI1Q0FBZ2lkMWlPQ2hBa2lWUlFEbVI3WS1mMTVRM21HVU80?oc=5",
+          "published_at": "2026-05-11T09:30:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE96NEJPQzJHQnBCdVZuNEl2NENyaW1JZzdONzN4Y3I4T3J3dF9IWG5pYS1HVVZKNTRWVjYybDN2bWNEZlpReDJSNHI1Q0FBZ2lkMWlPQ2hBa2lWUlFEbVI3WS1mMTVRM21HVU80?oc=5\" target=\"_blank\">Suzlon considers first European wind turbine factory</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EnergyWatch</font>"
+        },
+        {
+          "title": "Suzlon eyes building new wind turbine factory in Europe",
+          "source": "Recharge News",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeUpPZVltdWZTWmNPU3M4US1Ja2lIUm1ZWWZyVWdZSE15U0RoMm1zT2xWLW5YVDlaUXBYTGVWMzdoNGczekhUTXF4dW15eHlvaTRBRW05bTNZd2FhcTBDTnZMQV82RVVjRjUxejhsaWRfcThld0p0RkVVNG5iZGZJUFdDUVFPRk9wbVAxX0txNkdYSlkybFpqVmJNYUFERHI4VjY3UWF4bW5RX00?oc=5",
+          "published_at": "2026-05-11T07:30:59+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeUpPZVltdWZTWmNPU3M4US1Ja2lIUm1ZWWZyVWdZSE15U0RoMm1zT2xWLW5YVDlaUXBYTGVWMzdoNGczekhUTXF4dW15eHlvaTRBRW05bTNZd2FhcTBDTnZMQV82RVVjRjUxejhsaWRfcThld0p0RkVVNG5iZGZJUFdDUVFPRk9wbVAxX0txNkdYSlkybFpqVmJNYUFERHI4VjY3UWF4bW5RX00?oc=5\" target=\"_blank\">Suzlon eyes building new wind turbine factory in Europe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Rec"
+        },
+        {
+          "title": "Adani Green, Suzlon, BHEL, others among top gainers as 94% of BSE 200 stocks end higher in April; list here",
+          "source": "MSN",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPOE4zZzF3aXhibTBWN29BMFZlYWxOV2w4a0Y5a09TWWNWczZBQlNGNHE0YXJ3SFBETG5uQVYyVUFVZWNfSFVvSTA3bnQwTDdjNk1Ua0RaZHl2OHBjYzRjV1FrTDJtdjdDZExVeko5YUNPUUNmX1ltLUVUNWtHa1h4Q3pPYzZ5UTBsY3J5dUNWYjBwNlJhRzVTMDd0Q3lKcDJUUk01LTRRaFhkZ1R6QVAta25NV0ZYcnVyUWk2SXVIQ1A3NV8zLVhabEhvYjloT1hYZFdCQkxHR1FuY1RLRmg2TEFYMVZBZFQ1Z2tjXzNR?oc=5",
+          "published_at": "2026-05-10T23:04:16+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxPOE4zZzF3aXhibTBWN29BMFZlYWxOV2w4a0Y5a09TWWNWczZBQlNGNHE0YXJ3SFBETG5uQVYyVUFVZWNfSFVvSTA3bnQwTDdjNk1Ua0RaZHl2OHBjYzRjV1FrTDJtdjdDZExVeko5YUNPUUNmX1ltLUVUNWtHa1h4Q3pPYzZ5UTBsY3J5dUNWYjBwNlJhRzVTMDd0Q3lKcDJUUk01LTRRaFhkZ1R6QVAta25NV0ZYcnVyUWk2SXVIQ1A3NV8zLVhabEhvYjloT1hYZFdCQkxHR1FuY1RLRmg2TEFYMVZBZFQ1Z2tjXzNR?oc=5\" target=\"_blank\">Adani G"
+        },
+        {
+          "title": "Suzlon Energy Sees Exceptional Volume Surge Amid Mixed Technical Signals",
+          "source": "Markets Mojo",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVXRGVjZ5Mk5YUDEtdWFZNjJ0aXpOYVBVdURmU3pFRVRieXM1cy1ab0tWUVUyUlVmTTQzSWNkLUhkTTIxeE9QdDg2THRFUEpmUGk0RkE5MERNaWZCTHdlUTQ0V0thM1FZSmJIQVI5SXhORWdRQmVhdFY5cjVvUVNtejZrNkxoS2NHSi1tQ1loLVpYZVdrMm1sSExBOUtia0o1UF9wS1VZMHFYUWdneFhYTTl4c3lrUEVib0tuQ1dteHRFbVY2NkVUZHln?oc=5",
+          "published_at": "2026-05-09T19:43:56+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPVXRGVjZ5Mk5YUDEtdWFZNjJ0aXpOYVBVdURmU3pFRVRieXM1cy1ab0tWUVUyUlVmTTQzSWNkLUhkTTIxeE9QdDg2THRFUEpmUGk0RkE5MERNaWZCTHdlUTQ0V0thM1FZSmJIQVI5SXhORWdRQmVhdFY5cjVvUVNtejZrNkxoS2NHSi1tQ1loLVpYZVdrMm1sSExBOUtia0o1UF9wS1VZMHFYUWdneFhYTTl4c3lrUEVib0tuQ1dteHRFbVY2NkVUZHln?oc=5\" target=\"_blank\">Suzlon Energy Sees Exceptional Volume Surge Amid Mixed "
+        },
+        {
+          "title": "Adani Power, Suzlon Energy, Tata Steel: Up to 127% rise from 52-week lows - Buy?",
+          "source": "Business Today",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZ3pFR3NFZWNOOFVudnMzdXo3bmYxbnhwMzJUQk8zVGRtdkdUbmFVT2dNcHRzWURwTnl6cFdNYkI3UU8xUnBQNkx5SGpEQ2lNWkdPaGN4MmZORXIteXdmWFZQUWJUWWZKUHR4MDR3aTZTVjQzSTVRemF5enlLOXRsRFBwZ04xTjU5OWVNekFiV2tzNVNfQnpUcFdDOTJVNnd4ZnJ3M3pjaDR1VUZEZnU2Unc3OC1xZXB4c241Y0k1cndiRGZnSEs1dko0eE5IZmI3eVhPQ0F5bXjSAd4BQVVfeXFMTUhWdzI3VjhvRHBDc2JkYTFWemZ1cVVJUWcxZHFMVnBBZmNHa296SkVfT3NfZDJGaXJsQ1lSNVhncVdKUFJZaE1ZcWVGd1BxeHp3Yk1hTjhFTEpzWXZkZ2pEU1BsREJvWWItbHBONmZYVVlJSTdrNm54UFdhbGo4TndjbmFERXI5b2ZtUWdQMXhVZW15SnBObnE1d3cyeXdZNmlxUXhJTm1yUnpYTjBBaTFEWkxLYXkxbHB2VDBldjRKelQ2NUg2bnZkbU5GVS1kcGhEdks2SEZELWVIdEZ3?oc=5",
+          "published_at": "2026-05-10T05:30:03+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZ3pFR3NFZWNOOFVudnMzdXo3bmYxbnhwMzJUQk8zVGRtdkdUbmFVT2dNcHRzWURwTnl6cFdNYkI3UU8xUnBQNkx5SGpEQ2lNWkdPaGN4MmZORXIteXdmWFZQUWJUWWZKUHR4MDR3aTZTVjQzSTVRemF5enlLOXRsRFBwZ04xTjU5OWVNekFiV2tzNVNfQnpUcFdDOTJVNnd4ZnJ3M3pjaDR1VUZEZnU2Unc3OC1xZXB4c241Y0k1cndiRGZnSEs1dko0eE5IZmI3eVhPQ0F5bXjSAd4BQVVfeXFMTUhWdzI3VjhvRHBDc2JkYTFWemZ1cVVJUWcxZHFMVnBBZm"
+        },
+        {
+          "title": "'Buy' Suzlon Energy shares, say brokerages as more upside seen amid Europe feat - Price targets",
+          "source": "MSN",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZk9sZXlRZlNJNmRENE4xblZSOEZobXhJNTA0eEtnTHBzX2g5ZmJ4NjdZTnVpUWVmTzhCM2tiQklaTUJFUGNIUDcta2dOZ1FpSFE2d3ZvLUtBSlItbDdUWWFJeF8tYllsOGlMZE1WVzRFSmJhZjFNQ2tBblN4WFZHYzZPcngtcHpqT00yNWF5eVI2eTgwT3VxZURNRTF2LXV2UkFrbGEtUHRmNUF0TjVQOS1ueXJQMTNoUnBDTkFsM0ZXS3VTRDBCZGY4cHQ3Wm9Wb1JTNkpiN1hHbWZpNnc?oc=5",
+          "published_at": "2026-05-08T06:33:27+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZk9sZXlRZlNJNmRENE4xblZSOEZobXhJNTA0eEtnTHBzX2g5ZmJ4NjdZTnVpUWVmTzhCM2tiQklaTUJFUGNIUDcta2dOZ1FpSFE2d3ZvLUtBSlItbDdUWWFJeF8tYllsOGlMZE1WVzRFSmJhZjFNQ2tBblN4WFZHYzZPcngtcHpqT00yNWF5eVI2eTgwT3VxZURNRTF2LXV2UkFrbGEtUHRmNUF0TjVQOS1ueXJQMTNoUnBDTkFsM0ZXS3VTRDBCZGY4cHQ3Wm9Wb1JTNkpiN1hHbWZpNnc?oc=5\" target=\"_blank\">'Buy' Suzlon Energy shares, "
+        },
+        {
           "title": "BHEL, BSE, Suzlon Energy, Polycab, YES Bank, IndusInd Bank surge up to 53% in a month",
           "source": "MSN",
           "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQTDZGVnp4b21DVEdYWGpUQmVFdTd6U05rN19TZWgza193b3ZSYXdIWjlLMXozYWROM3M5TExGUUVnYl9pRTBhYUFXU1d4X2JVSFRKT2ZNTUN0Q3lJSzFwZjFoMWhqdl9RQmNXR1Z5ZERPN2FTdWxXRktWaVlCM0gzYkV0VHptNUxKemw4NjFHekpueFZjbWtNR2VZMUoxQjN4b0RuYl96cXpiNDFxdThZbWUyeVVXRXd2X1J4akN0bFcyMW14Z1pCcXZWTVNPVnlOYlRFNUZqT0xHOTFIVWNIMi01S1I1STZHd0d6bjEtakNIQQ?oc=5",
-          "published_at": "2026-05-08T12:03:53+00:00",
+          "published_at": "2026-05-08T11:54:11+00:00",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxQTDZGVnp4b21DVEdYWGpUQmVFdTd6U05rN19TZWgza193b3ZSYXdIWjlLMXozYWROM3M5TExGUUVnYl9pRTBhYUFXU1d4X2JVSFRKT2ZNTUN0Q3lJSzFwZjFoMWhqdl9RQmNXR1Z5ZERPN2FTdWxXRktWaVlCM0gzYkV0VHptNUxKemw4NjFHekpueFZjbWtNR2VZMUoxQjN4b0RuYl96cXpiNDFxdThZbWUyeVVXRXd2X1J4akN0bFcyMW14Z1pCcXZWTVNPVnlOYlRFNUZqT0xHOTFIVWNIMi01S1I1STZHd0d6bjEtakNIQQ?oc=5\" target=\"_blank\">B"
+        },
+        {
+          "title": "Adani Green, Suzlon, BHEL, others among top gainers as 94% of BSE 200 stocks end higher in April; list here",
+          "source": "Business Today",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOZlZkS3FlMFdMYnFXVnZqT1hVcXlldEVCMzBzUkp2UjNISXhyaWRVNHU5NUdiVU1YcVIxT3BnVGRqVlBVZi1wRlpPNmkxNjFJSHRKYXVpeEx6cWFYMng4OTI3aWo2X2xkUEpWV2ZFdlp5YXNISXZUREtZbG5ESjY0Sk1zTUZRWFR0MVh2THRYazFFQTZfZnFfeXVHTS1BOUU0c3hBYmFJVGxUSFlfTnFDZE9xQTkwVjVFZm1GLWlTVkhrT28zN3EyMmttSDl0OUdraklRSHcxeDNIMlBEb29oNmZNbXE0eGZhR2NhcUh6NGFSU2pKVEgzSUJXc3hhdHfSAYQCQVVfeXFMTnd2bWdOUTlsX3l6SzRWZTFycDFCRVdyRndJdmg0OEVlWW1EMFB4MFVCTzVtVTdseGVFZGhuQUlzd1hqZlhCYmc4aWotS2k4ejhhMFhqVThkNy1qM1lYOWVvblhmVnZVR0NsWlEyNGZyelVCMVo2bjY0WW93NVBzMXE1cW9YQkY2U3UwZ3R0YXV1YzBlaTVXNXV5SjRDemh2NmZkbl9VblpLdTdUX1hhYUtJNHdlaVRVcERXLWtNZm02cXJMMlJib1h4ZW9uTERmU1pGdnB2bFlzYVZvbHhwV2xPalVyNUpBanpfSEZ2aDFJcEI4MklvelNNX29aZGhxYTZKNmQ?oc=5",
+          "published_at": "2026-05-10T11:40:01+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxOZlZkS3FlMFdMYnFXVnZqT1hVcXlldEVCMzBzUkp2UjNISXhyaWRVNHU5NUdiVU1YcVIxT3BnVGRqVlBVZi1wRlpPNmkxNjFJSHRKYXVpeEx6cWFYMng4OTI3aWo2X2xkUEpWV2ZFdlp5YXNISXZUREtZbG5ESjY0Sk1zTUZRWFR0MVh2THRYazFFQTZfZnFfeXVHTS1BOUU0c3hBYmFJVGxUSFlfTnFDZE9xQTkwVjVFZm1GLWlTVkhrT28zN3EyMmttSDl0OUdraklRSHcxeDNIMlBEb29oNmZNbXE0eGZhR2NhcUh6NGFSU2pKVEgzSUJXc3hhdHfSAYQCQV"
         }
       ],
       "events": [],
       "sebi_mentions": [],
       "price_action": {
-        "date": "2026-05-08",
-        "open": 55.9,
-        "high": 55.92,
-        "low": 54.57,
-        "close": 54.97,
-        "prev_close": 55.65,
-        "change_pct": -1.22,
-        "gap_pct": 0.45,
-        "intraday_range_pct": 2.43,
-        "volume": 56797248,
-        "avg_volume_20d": 128765325,
-        "volume_ratio": 0.44,
+        "date": "2026-05-11",
+        "open": 54.35,
+        "high": 54.43,
+        "low": 53.02,
+        "close": 53.3,
+        "prev_close": 54.97,
+        "change_pct": -3.04,
+        "gap_pct": -1.13,
+        "intraday_range_pct": 2.57,
+        "volume": 69913588,
+        "avg_volume_20d": 127590062,
+        "volume_ratio": 0.55,
         "sparkline": [
-          41.04,
           42.27,
           40.82,
           39.56,
@@ -752,17 +866,16 @@
           54.85,
           54.32,
           55.65,
-          54.97
+          54.97,
+          53.3
         ]
       },
       "analysis": {
-        "classification": "move_without_catalyst",
-        "primary_catalyst": null,
-        "analysis": "Suzlon Energy saw a modest decline on elevated volume. No specific catalyst was identified to explain the price movement. The stock is trading within its recent range.",
+        "classification": "catalyst_without_move",
+        "primary_catalyst": "Suzlon considers first European wind turbine factory",
+        "analysis": "Suzlon Energy announced potential plans for a European factory, a significant strategic move. However, the market did not react positively to this news, as the stock closed down 3.04% on lower than average volume. This suggests the news was either already priced in or not deemed sufficiently impactful by investors.",
         "confidence": "medium",
-        "flags": [
-          "POSSIBLE_LEAK_OR_FLOW"
-        ]
+        "flags": []
       }
     },
     {
@@ -775,6 +888,20 @@
       "nse_announcements": [],
       "news": [
         {
+          "title": "CMD, IREDA Inspires CMAs at ICMAI's Eastern India Regional Students' Conference 'Gyanothhan 2026'",
+          "source": "PSU Connect",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTldEb2xKNnppcmlPU0lOUzZ5eUJtNnIyZFF3OEdkZEd4VUdLYTFNRWN5US14ZThDVlhOYUg0Tk41cm5TVG1uUUZmelpBYUphUWJIRS1BZXZiOTAtblFhY1Bld09QRzVmQk9naE9sQWVCOUY0dDYtd2Z0S29HczgzQS1Bc2h4QXlTcnBtdEtscFZsLVFVWmNiWUR4M0JjenBmX25KcjlUWVJQc3FialBFNW5sRWFacXRSRTE1SGZEaXZXRmp1b1E?oc=5",
+          "published_at": "2026-05-11T06:54:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQTldEb2xKNnppcmlPU0lOUzZ5eUJtNnIyZFF3OEdkZEd4VUdLYTFNRWN5US14ZThDVlhOYUg0Tk41cm5TVG1uUUZmelpBYUphUWJIRS1BZXZiOTAtblFhY1Bld09QRzVmQk9naE9sQWVCOUY0dDYtd2Z0S29HczgzQS1Bc2h4QXlTcnBtdEtscFZsLVFVWmNiWUR4M0JjenBmX25KcjlUWVJQc3FialBFNW5sRWFacXRSRTE1SGZEaXZXRmp1b1E?oc=5\" target=\"_blank\">CMD, IREDA Inspires CMAs at ICMAI's Eastern India Regional S"
+        },
+        {
+          "title": "CMD IREDA Unveils 3C Mantra",
+          "source": "Tathya",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNcXJZcV8xZG1KOTgwQ0pzRlRZbnczNGJnamNPbnUxemI1ZnJhaThvaTRYSVpXQXNuRWlMeDU4dGhyak5OaEZobjRXT05VdE5vNDJuVlVrNGNHdw?oc=5",
+          "published_at": "2026-05-10T15:14:53+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNcXJZcV8xZG1KOTgwQ0pzRlRZbnczNGJnamNPbnUxemI1ZnJhaThvaTRYSVpXQXNuRWlMeDU4dGhyak5OaEZobjRXT05VdE5vNDJuVlVrNGNHdw?oc=5\" target=\"_blank\">CMD IREDA Unveils 3C Mantra</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tathya</font>"
+        },
+        {
           "title": "Buy, Sell Or Hold: DLF, Ireda, Reliance Industries, Inox India, Castrol India— Ask Profit",
           "source": "NDTV Profit",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9tVi00WWExVWk1NVdCZ052azBNSUkxUXRNVV9uLUo1aDlnN29oaXY0ZzBMZjZSYWNFUXg0UG1jbmp3YWQtM0pTOURjQzEwdThONXlnNXlnMzBBV0xQLVA4RHVCekx0WTJqLUJoN0N3Qi1hdlktdFJfel95Y9IBgwFBVV95cUxNdE1TLXZ4OHFKY2RCcjF2NkZXWmk0Rmd3MlhYYUFMNzlSTjJEYjRsdXhEUnJtSWE0LV9OZXRxdHZfQTJLUUJNWExoSGtBU0FNX3FHNXhULWhjbG5fOWEzNHlOdVB4Ylk1UmRnbkZndHVCS1MzUlpJTjd3b2QyU0JvelJVYw?oc=5",
@@ -785,20 +912,19 @@
       "events": [],
       "sebi_mentions": [],
       "price_action": {
-        "date": "2026-05-08",
-        "open": 135.0,
-        "high": 135.99,
-        "low": 133.7,
-        "close": 134.6,
-        "prev_close": 135.56,
-        "change_pct": -0.71,
-        "gap_pct": -0.41,
-        "intraday_range_pct": 1.69,
-        "volume": 6088689,
-        "avg_volume_20d": 12614829,
-        "volume_ratio": 0.48,
+        "date": "2026-05-11",
+        "open": 133.85,
+        "high": 133.99,
+        "low": 130.21,
+        "close": 130.68,
+        "prev_close": 134.6,
+        "change_pct": -2.91,
+        "gap_pct": -0.56,
+        "intraday_range_pct": 2.81,
+        "volume": 6438174,
+        "avg_volume_20d": 12377418,
+        "volume_ratio": 0.52,
         "sparkline": [
-          114.37,
           119.2,
           114.31,
           108.98,
@@ -827,14 +953,15 @@
           135.27,
           136.41,
           135.56,
-          134.6
+          134.6,
+          130.68
         ]
       },
       "analysis": {
-        "classification": "no_signal",
+        "classification": "move_without_catalyst",
         "primary_catalyst": null,
-        "analysis": "The stock experienced a modest price decline on below-average volume. No significant catalysts were reported that would explain the price movement. The market appears to be in a holding pattern for IREDA.",
-        "confidence": "high",
+        "analysis": "IREDA experienced a notable price decline of 2.91% on below-average volume. No specific catalyst was identified to explain this move. The market may be reacting to broader sector sentiment or anticipating future news.",
+        "confidence": "medium",
         "flags": []
       }
     },
@@ -846,24 +973,38 @@
       "skip_catalysts": false,
       "bse_announcements": [],
       "nse_announcements": [],
-      "news": [],
+      "news": [
+        {
+          "title": "SWSOLAR share price target: Brokerage gives buy rating on Sterling and Wilson",
+          "source": "MSN",
+          "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNM3ZLcnJiWUN0dlVzSHphRWhzUWFhQVNtZXU2b2lRazkwNVZWa19FNVFIcHhQdnoxc3RwcWVEVUl2bG1BMFduaWxEWnVOWGdLYkF6azFsYk9yS0lNa3NiTTZnU1BObEtfa3N6ZEMtRXF1ZVpxWVdMQXBCR3daWHRfZnEzb3N2Q3NCNVFkVHVpVmFlazVRWmZiVVR6MXFMQV9Qd3NNY2NueVd2UWJyQmhxb0NVM1Bkd210X1NBcE9OdkEyYVNKVkhERWZBNUhlbXRkenhOT3RPaDgxTkdYeEdtd213blc4NDgxdE1PSkJQVjh4Y3ZnVEs2UXI4VElXMmt2VF9kRUZPSW5YMXpTYk5Vb3lIWDdNNlI3TjdYbmQ2QjI5eG5nUE1Bc3FUeXJSVE8zcTBrRUJ0cGhKTTkzbU9IMThLd0dQSVRxdVBLSEN6WnEtYUJ5dGN0YVVVa28zQQ?oc=5",
+          "published_at": "2026-05-10T16:31:04+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gJBVV95cUxNM3ZLcnJiWUN0dlVzSHphRWhzUWFhQVNtZXU2b2lRazkwNVZWa19FNVFIcHhQdnoxc3RwcWVEVUl2bG1BMFduaWxEWnVOWGdLYkF6azFsYk9yS0lNa3NiTTZnU1BObEtfa3N6ZEMtRXF1ZVpxWVdMQXBCR3daWHRfZnEzb3N2Q3NCNVFkVHVpVmFlazVRWmZiVVR6MXFMQV9Qd3NNY2NueVd2UWJyQmhxb0NVM1Bkd210X1NBcE9OdkEyYVNKVkhERWZBNUhlbXRkenhOT3RPaDgxTkdYeEdtd213blc4NDgxdE1PSkJQVjh4Y3ZnVEs2UXI4VElXMmt2VF9kRU"
+        },
+        {
+          "title": "ETFs Investing in Sterling And Wilson Renewable Energy Limited Stocks",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBTWWRwUWVqVFRLWlBfakUxNWJFRnAxOEVOSDVsUXE2ZEJkeWRPMHlNSHZuU242eEdMMGVQMjdaV2NjQ1dKWndONUNNNkhNWmNrRGJtNXFULVNXNkpvOWJQVGVKdw?oc=5",
+          "published_at": "2026-05-10T14:14:30+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBTWWRwUWVqVFRLWlBfakUxNWJFRnAxOEVOSDVsUXE2ZEJkeWRPMHlNSHZuU242eEdMMGVQMjdaV2NjQ1dKWndONUNNNkhNWmNrRGJtNXFULVNXNkpvOWJQVGVKdw?oc=5\" target=\"_blank\">ETFs Investing in Sterling And Wilson Renewable Energy Limited Stocks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+        }
+      ],
       "events": [],
       "sebi_mentions": [],
       "price_action": {
-        "date": "2026-05-08",
-        "open": 219.3,
-        "high": 224.7,
-        "low": 216.25,
-        "close": 217.26,
-        "prev_close": 219.34,
-        "change_pct": -0.95,
-        "gap_pct": -0.02,
-        "intraday_range_pct": 3.85,
-        "volume": 1949676,
-        "avg_volume_20d": 7429170,
-        "volume_ratio": 0.26,
+        "date": "2026-05-11",
+        "open": 216.7,
+        "high": 216.7,
+        "low": 210.69,
+        "close": 212.4,
+        "prev_close": 217.26,
+        "change_pct": -2.24,
+        "gap_pct": -0.26,
+        "intraday_range_pct": 2.77,
+        "volume": 1422478,
+        "avg_volume_20d": 7462887,
+        "volume_ratio": 0.19,
         "sparkline": [
-          162.72,
           167.03,
           158.15,
           148.88,
@@ -892,14 +1033,15 @@
           210.5,
           215.79,
           219.34,
-          217.26
+          217.26,
+          212.4
         ]
       },
       "analysis": {
-        "classification": "no_signal",
-        "primary_catalyst": null,
-        "analysis": "The stock experienced a modest decline of 0.95% on below-average volume. No significant catalysts were reported for the day. The price action does not warrant further investigation at this time.",
-        "confidence": "high",
+        "classification": "catalyst_without_move",
+        "primary_catalyst": "Brokerage initiates buy rating with price target",
+        "analysis": "The stock experienced a price decline despite a positive brokerage report. This suggests the market may have already priced in the positive sentiment or is looking for stronger catalysts. The low volume ratio indicates a lack of conviction from either buyers or sellers.",
+        "confidence": "medium",
         "flags": []
       }
     },
@@ -920,6 +1062,13 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQWDQxTkJ2bW1NdUc0WlRhc0g0YW15OU9WZmxjRGJkNFljM3NZbThVc3pRRk9xSmRqQnZhLWp2SHowSERFVFFWTC13S2hwcURuM3l1c1FVbTYtdmd6c3F5MEdIeDZncHp2VDBSVDNZUW5ta3BuTWxDQW4xTUg2R1kzNG5nTlBLWTRDSDhYTzU3XzVEckN3SkYtVVpDSTRHTGtyTUZTQQ?oc=5\" target=\"_blank\">Number of shareholders of Transformers and Rectifiers (India) Limited – NSE:TARIL</a>&nbsp;&nbsp;<font co"
         },
         {
+          "title": "TARIL flags short-term Middle East headwinds; reiterates margin guidance",
+          "source": "MSN",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRVJJblJVdXdycXg4V1lVdEJ0dkVrOFRmaGNhT3JWVUlXMWFoa0pyV2NLMW9WYjJDMFBBNlJpNTh4NGxZVXVEN1g5bGFiZW9aOTkzS3Z5T2VBN1NSRldCc0c1WmRiVnNhQ0wwSVBEM3JMYWxVb1dkc0xLNTEzNW1FMmlBbF9OUVNwaFhNMl9YR3JJVldSb0MyNkVUZFczQ1o0b2wyZ2Zka3hoVnF6ZzMwaVFNT1pzQ2RPOWxzZQ?oc=5",
+          "published_at": "2026-05-08T07:00:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNRVJJblJVdXdycXg4V1lVdEJ0dkVrOFRmaGNhT3JWVUlXMWFoa0pyV2NLMW9WYjJDMFBBNlJpNTh4NGxZVXVEN1g5bGFiZW9aOTkzS3Z5T2VBN1NSRldCc0c1WmRiVnNhQ0wwSVBEM3JMYWxVb1dkc0xLNTEzNW1FMmlBbF9OUVNwaFhNMl9YR3JJVldSb0MyNkVUZFczQ1o0b2wyZ2Zka3hoVnF6ZzMwaVFNT1pzQ2RPOWxzZQ?oc=5\" target=\"_blank\">TARIL flags short-term Middle East headwinds; reiterates margin guidance<"
+        },
+        {
           "title": "Video | TARIL Flags Short-Term Middle East Headwinds; Reiterates Margin Guidance",
           "source": "NDTV Profit",
           "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNclhqS29aVzhGSkVPSmVnWWM3ZVRFVHZ4eS1VT0J0Y3BMajdVUEhNVUVHNlVpNkxCSzRiVE91ZHNORGZTMm1Oem8wWFRPUnlZbGd3dUREQ05nci1KTWJWQzAtaktzcWsyU2h2VjFQX09YTEpHNzBCWEkzd1dNU0JGLWtxMFJjalhVU1dEbENZeHB1LWczZWZ3dEpVZTNhUXdxTExEN3k1anoxNTNObWxCUEtqNkh2bW9tci14Z2tJV2Z4ckhQS282V1g3dWM2YVJDdGpoNkktcFAxWVhkTDdZcDZR?oc=5",
@@ -930,20 +1079,19 @@
       "events": [],
       "sebi_mentions": [],
       "price_action": {
-        "date": "2026-05-08",
-        "open": 328.0,
-        "high": 331.2,
-        "low": 322.3,
-        "close": 324.6,
-        "prev_close": 328.25,
-        "change_pct": -1.11,
-        "gap_pct": -0.08,
-        "intraday_range_pct": 2.71,
-        "volume": 1983527,
-        "avg_volume_20d": 7594464,
-        "volume_ratio": 0.26,
+        "date": "2026-05-11",
+        "open": 322.4,
+        "high": 323.7,
+        "low": 310.5,
+        "close": 313.75,
+        "prev_close": 324.6,
+        "change_pct": -3.34,
+        "gap_pct": -0.68,
+        "intraday_range_pct": 4.07,
+        "volume": 3443008,
+        "avg_volume_20d": 7433165,
+        "volume_ratio": 0.46,
         "sparkline": [
-          269.4,
           279.85,
           282.9,
           272.15,
@@ -972,13 +1120,14 @@
           322.15,
           312.85,
           328.25,
-          324.6
+          324.6,
+          313.75
         ]
       },
       "analysis": {
-        "classification": "move_without_catalyst",
-        "primary_catalyst": null,
-        "analysis": "The stock experienced a meaningful price decline on below-average volume. No specific catalyst was identified to explain the move. Investors should monitor for future announcements.",
+        "classification": "catalyst_without_move",
+        "primary_catalyst": "Company flags short-term Middle East headwinds; reiterates margin guidance",
+        "analysis": "The stock declined 3.34% on below-average volume. This move occurred despite the company reiterating margin guidance, though it did flag short-term Middle East headwinds. The market may be digesting this news, suggesting a potential lag opportunity.",
         "confidence": "medium",
         "flags": []
       }
@@ -993,60 +1142,60 @@
       "nse_announcements": [],
       "news": [
         {
-          "title": "Parag Parikh Flexi Cap Fund increase stake ITC, TCS, HDFC Bank and 14 other stocks in April",
-          "source": "The Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSWhFb0FQZnVQQmdiblZlTkk5WDU1WmdnWGhNYnJIbUN0NmZnTDhMeUxHZTJ4V0VRVFB2MFJhSlY4cjV5aVhjcXA3MnNHWHVLMlR6S190RFloUVRJYUdQOHVjZjhRSGNyQmpTQVlZcGxqRDh4emhiRUo0dUotZ1lHWmk0V1oxalp4NVVoSFdKczlLc1Uyc0ItT0pud2c4YlJjX0hhYk8xQ08teGVWUWtDSU4wcWpZYnZ2ejNQakc0ck9GSVY0YkRERXFNUGR0QzFWb0tGTy1Ebkp6ZWlad19BM1VnY2NoVDh4aEJr0gHwAUFVX3lxTE9YMkwyRDZCRWJ2SVpzY0R2RnRaaHAzOFhWWDBPVUZRSFVSck01OGdpbXJYaWpsWWhudkRuMG9BT3FRcWxNaHdIRzRVUFFJYlpMcXc2S3lvNEJQZWdBNE9wS3VMNy1hYlkxc3ZNX2ozYUNCbkMwamdHdERnSVhOM2wyR0FxRkttQVpUX0xXUUhkWVVocS1JWGlObk1uU2VEaWJHT0FFS0s5RWJqSHJ2T2FRTUlxUjVZM3VRVHRwMm9qSlgweEo3V29ON05URjdUT1dWaGx0cU1VcnRnS3NEX1ptNmlxd0l1Z0tIQ0hEZ0FZOA?oc=5",
-          "published_at": "2026-05-09T04:19:32+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSWhFb0FQZnVQQmdiblZlTkk5WDU1WmdnWGhNYnJIbUN0NmZnTDhMeUxHZTJ4V0VRVFB2MFJhSlY4cjV5aVhjcXA3MnNHWHVLMlR6S190RFloUVRJYUdQOHVjZjhRSGNyQmpTQVlZcGxqRDh4emhiRUo0dUotZ1lHWmk0V1oxalp4NVVoSFdKczlLc1Uyc0ItT0pud2c4YlJjX0hhYk8xQ08teGVWUWtDSU4wcWpZYnZ2ejNQakc0ck9GSVY0YkRERXFNUGR0QzFWb0tGTy1Ebkp6ZWlad19BM1VnY2NoVDh4aEJr0gHwAUFVX3lxTE9YMkwyRDZCRWJ2SVpzY0"
-        },
-        {
-          "title": "Quicklime with Less Than 98% Purity Not Classifiable under Residuary Classification: SC Rules in Favour of ITC Ltd.",
-          "source": "Taxscan",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTUpZbk9ydlJXVDUzeDNlUk9mcG9jV2lwb1FiZTl6V2VNNVdwck8xeVlMYXBXU0tqU3RoUkZfZktqdzVoMnRTV0V6MUxnYklYXzF1UUJQQUpoS3d5WGNjb3FBVkxZTzNaV2tuc3RyeldUblRwbzctRmtUSl9pT0w5ZXVmb3MwSjdidWZGUlVvRHp3VkRiUHZ5Mmp0SFBRNmNxYzVFNU5zNUZMVUpwSW9JZFR1RnJ0X0JveVZmZGFYYzBiUkN6YnMxc0J2bW1tcWcyblZ1R2hjMGRyTWJla0J4YUVPQWVVcUtyTjNj?oc=5",
-          "published_at": "2026-05-09T09:50:01+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTUpZbk9ydlJXVDUzeDNlUk9mcG9jV2lwb1FiZTl6V2VNNVdwck8xeVlMYXBXU0tqU3RoUkZfZktqdzVoMnRTV0V6MUxnYklYXzF1UUJQQUpoS3d5WGNjb3FBVkxZTzNaV2tuc3RyeldUblRwbzctRmtUSl9pT0w5ZXVmb3MwSjdidWZGUlVvRHp3VkRiUHZ5Mmp0SFBRNmNxYzVFNU5zNUZMVUpwSW9JZFR1RnJ0X0JveVZmZGFYYzBiUkN6YnMxc0J2bW1tcWcyblZ1R2hjMGRyTWJla0J4YUVPQWVVcUtyTjNj?oc=5\" target=\"_blank\">Quicklime w"
-        },
-        {
-          "title": "ITC Right Shift Mother’s Day film on maternal health",
-          "source": "Mediabrief.com",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWVdGblhvYjJmaW10bEI4TlNyWjR0S2prbjgxTmRPWG1VTVpCazREVHRMRTZEZUlYbWxQYVNFaG54OWxOelphUVlQekFMbVhpWm5ZSU15eTZ6NmVRSy1QdldTb0JYb3F3bEVIY1FiTENvNHlXZ3AxWl84RGZyZ3FJWXBBMWF1amhOS0JaSk9RakJFdnZjTEpuQTJKYWplaGc4MlRwUWpmZWMyS3ktcUQ0?oc=5",
-          "published_at": "2026-05-09T13:00:07+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQWVdGblhvYjJmaW10bEI4TlNyWjR0S2prbjgxTmRPWG1VTVpCazREVHRMRTZEZUlYbWxQYVNFaG54OWxOelphUVlQekFMbVhpWm5ZSU15eTZ6NmVRSy1QdldTb0JYb3F3bEVIY1FiTENvNHlXZ3AxWl84RGZyZ3FJWXBBMWF1amhOS0JaSk9RakJFdnZjTEpuQTJKYWplaGc4MlRwUWpmZWMyS3ktcUQ0?oc=5\" target=\"_blank\">ITC Right Shift Mother’s Day film on maternal health</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">M"
-        },
-        {
-          "title": "ITC Candyman expands portfolio with Soft Chews, targets evolving kids' preferences with 'Kuch Bhi Karega' campaign",
-          "source": "MediaNews4U",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVVBxdlJuSnR6X1NXYUhHbUd4Yk9FQWJUS2VfM3hkTl93MlBldXJMN2d5OHZfbUhMVk9sY0JpbjhrNFlwcFo1V0ZyZ3V6dzZuU3VqaVVieFlXazIyc002RFhIbkRYaHl4LUlrd0xLZl9kYXFYV3FYVWMtZnB1dVV3c29CRHJ2bkNfMUVTRG5CQnQtdWk3TnZ3dldsR1hjLUg2dE5OWVhYWDNxVXZSWWpXdTNWbXFSR0lwUEtTLWJCcEx6NFJfQUZ2aldndE5BWmRTLXBKLW9R?oc=5",
-          "published_at": "2026-05-09T07:13:31+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVVBxdlJuSnR6X1NXYUhHbUd4Yk9FQWJUS2VfM3hkTl93MlBldXJMN2d5OHZfbUhMVk9sY0JpbjhrNFlwcFo1V0ZyZ3V6dzZuU3VqaVVieFlXazIyc002RFhIbkRYaHl4LUlrd0xLZl9kYXFYV3FYVWMtZnB1dVV3c29CRHJ2bkNfMUVTRG5CQnQtdWk3TnZ3dldsR1hjLUg2dE5OWVhYWDNxVXZSWWpXdTNWbXFSR0lwUEtTLWJCcEx6NFJfQUZ2aldndE5BWmRTLXBKLW9R?oc=5\" target=\"_blank\">ITC Candyman expands portfolio with Sof"
-        },
-        {
-          "title": "Q4 Results Next Week: Bharti Airtel, HAL, Tata Motors, Cochin Shipyard, Premier Energies, ITC Hotels And More",
+          "title": "IOCL, Titan To ITC: OMC, Consumption Stocks To Watch On PM Modi's Work From Home Appeal",
           "source": "NDTV Profit",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNMG5Ya0VpeFZaQzU1Vm5tU3JfNV9vbGNZOXdxM1RkTklXeEY4Rkh5dmVqU0ZtUFZHX3BhcU9hSjlPalhaVXQtY1N1bHBQVmY5S0pkZHJ0enJOWUI1UmNjWVJvSVZZNUsySS1mN2ozODhRaGFvZjM1SldoNE9jZU5ReDlMMDktSDZrT0ZIM1ZvSEYwdnVCcmtJcUNPR1k5TklMeTd6bnV4QXhVeE1FNldhUW9EWDZpVHl5YTJ4c2dEejVidFV4bG9HMFljYzBPOGI5WTVyUVhBei1DUVFuc1ZOVtIB6AFBVV95cUxQWkM3OFVYbnRKZmN3ZmhrWEU3Q3Z2N3Zna3NlTEdQc2l2bnBucUFrdlRGRkZkQ2JJVGFYUlU5akVUTW9tRmh6S0ozMTVQdzJHei1QenpwTl8xTTAtUUFwdVhNQk5KVFJ0aTktUE00WERkUTA2TGUyRndGcGZpYm84b2NGeW9YUlhETlk1ZWJTWFFFS2dFaWFhRGFvd05lUjVKS1NNbVo1TmFLNHQ3MHp1LW91Q0tnWkhwSkVROFk1OHRFNEZWTnNWaGhwTWlUU3hPM2NaUm5lN096T3luTmNmUnF2ZS1aRHZY?oc=5",
-          "published_at": "2026-05-09T08:30:36+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNMG5Ya0VpeFZaQzU1Vm5tU3JfNV9vbGNZOXdxM1RkTklXeEY4Rkh5dmVqU0ZtUFZHX3BhcU9hSjlPalhaVXQtY1N1bHBQVmY5S0pkZHJ0enJOWUI1UmNjWVJvSVZZNUsySS1mN2ozODhRaGFvZjM1SldoNE9jZU5ReDlMMDktSDZrT0ZIM1ZvSEYwdnVCcmtJcUNPR1k5TklMeTd6bnV4QXhVeE1FNldhUW9EWDZpVHl5YTJ4c2dEejVidFV4bG9HMFljYzBPOGI5WTVyUVhBei1DUVFuc1ZOVtIB6AFBVV95cUxQWkM3OFVYbnRKZmN3ZmhrWEU3Q3Z2N3Zna3"
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQjNPcDlMYnlDSlNLVUFDSVV1eXFzMWtGbU1aMFV0TXFvejZqOUM4QXEwNTA0RXpabm9Rd1ZTY2FtWEtMUVdWMXBRMC11cXFFODBwd194SnBrX21hMFJXOGF6Sm9HZVFySGlET3ZxWnJnbk1aSzNKUDhmNU0wclpsOHBrbmZpTEJCSEhkVkp0MGZaNUJHeHBFR3NDSlVTVmktTTc3WXNhMC1GWTVIdVFNdEt1UkRZRDc4cU9pUEk5NlJVVlZzNGfSAc4BQVVfeXFMT0FkWk5ManoydGd2OXBQTHM0ODZJMzZGSWRGMlRnMWhtVGMyeHJvT2dHaDhSRlctTlpzYTd5UXI1RGl4eEVkT1oxYkRTQ3hmclYyeTE2N1Rfcm1XTGhwZFFXZk4xaUx2Y2xVNElGM3Z1MkNoQzlneEFqUTQwV2lvTjIwZ1NjTWt2T2F0VThZQThOaUZoV3NkaFduSkZsSFFMVVZBdlhhbWxpdFNMVGpiNWVUTjFuY3RSbkY0TWZyLWVCU00tcGtxTWlBeExsWmc?oc=5",
+          "published_at": "2026-05-11T03:19:04+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOQjNPcDlMYnlDSlNLVUFDSVV1eXFzMWtGbU1aMFV0TXFvejZqOUM4QXEwNTA0RXpabm9Rd1ZTY2FtWEtMUVdWMXBRMC11cXFFODBwd194SnBrX21hMFJXOGF6Sm9HZVFySGlET3ZxWnJnbk1aSzNKUDhmNU0wclpsOHBrbmZpTEJCSEhkVkp0MGZaNUJHeHBFR3NDSlVTVmktTTc3WXNhMC1GWTVIdVFNdEt1UkRZRDc4cU9pUEk5NlJVVlZzNGfSAc4BQVVfeXFMT0FkWk5ManoydGd2OXBQTHM0ODZJMzZGSWRGMlRnMWhtVGMyeHJvT2dHaDhSRlctTlpzYT"
         },
         {
-          "title": "ITC Right Shift campaign spotlights mothers’ hidden health gaps",
-          "source": "Indian Television Dot Com",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOS3VUTm9ZT3RZYnJzQ1ROOHBDVGZlZFo1Z25fazdRMi1udHFSVTAtcVpZVWpvaFQ4dmlwRWtlTTZCbTRrTUpNbFNhMWp3VnNwaURsY0pPVUZueFhqMkJxcE01ZjRLM1dGeFlpdDB3cEEtbEZnb2RwYzdGODh5VTNLd1lHdFo3eGU0emxmTURCWVRZMnNVU1d1dllUak4?oc=5",
-          "published_at": "2026-05-09T06:14:21+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOS3VUTm9ZT3RZYnJzQ1ROOHBDVGZlZFo1Z25fazdRMi1udHFSVTAtcVpZVWpvaFQ4dmlwRWtlTTZCbTRrTUpNbFNhMWp3VnNwaURsY0pPVUZueFhqMkJxcE01ZjRLM1dGeFlpdDB3cEEtbEZnb2RwYzdGODh5VTNLd1lHdFo3eGU0emxmTURCWVRZMnNVU1d1dllUak4?oc=5\" target=\"_blank\">ITC Right Shift campaign spotlights mothers’ hidden health gaps</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Indian Televisi"
-        },
-        {
-          "title": "08.05.2026: Blocking of ITC must have an independent legal basis; if it is solely linked to cancellation of registration, it cannot survive once registration is restored: Bombay High Court",
+          "title": "11.05.2026: Absence of PMT-03 functionality on the GST portal cannot be used as a ground to deny legitimate re-credit of ITC, High Courts can direct manual intervention by GST authorities to ensure restoration: Rajasthan High Court",
           "source": "taxo.online",
-          "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQMmp2WWpPOHVENUdjMUdXcklFdlF0bHVQcWlwR1JONjcwYU44OXBIeWFPdWFFaU5OempHMVluaFhrRzJReU9fOXFJcHlhOE0yZEpkeVFSaExTbjBsaXR5dGxUa3J6U2VySHJSZ3FDMHA2anZub2dmMktIV1pDSW1Qd2xhZVVfZjA1YVZ2SU45QnVXT3V4aWczQTJOWEhrQ2wzUHlMUUdKYk1qbi1Pajk3Y1N5VVdfVDliWEJ6Q01scW8zUFZHa2RidlozNm01V3hxczJ4ZFc5UmlKSVRpSHpGUFFlY1pmZkxybjY2bEl0d2lPY2otZzFPUFpXZk00OUMwcW5iZ2xUdDVkZ1FvbXA3V3p6S1QzV0FaOUk2OUhGUklBLXlLRWx5UWhPMTJsamYtN19PdHVJNDhKbjJZY3c?oc=5",
-          "published_at": "2026-05-08T04:02:43+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgJBVV95cUxQMmp2WWpPOHVENUdjMUdXcklFdlF0bHVQcWlwR1JONjcwYU44OXBIeWFPdWFFaU5OempHMVluaFhrRzJReU9fOXFJcHlhOE0yZEpkeVFSaExTbjBsaXR5dGxUa3J6U2VySHJSZ3FDMHA2anZub2dmMktIV1pDSW1Qd2xhZVVfZjA1YVZ2SU45QnVXT3V4aWczQTJOWEhrQ2wzUHlMUUdKYk1qbi1Pajk3Y1N5VVdfVDliWEJ6Q01scW8zUFZHa2RidlozNm01V3hxczJ4ZFc5UmlKSVRpSHpGUFFlY1pmZkxybjY2bEl0d2lPY2otZzFPUFpXZk00OUMwcW5iZ2"
+          "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPLTBRVWFRQkpYYkNXcHQ2T0pPM25ial9ESHF6Sk9sVFlScnR3X0w0bjBnRWZOMlJvajVfY2xLbnNfR3dCN3FIbjQ1SkxBZ0pGaC11WnNHcklvVmhUZXlMVkNHR3JJTnpXbG1jWnBDcElMNTc1ZW9IUHItblZqaUJUV21Xc2Jybzg0VnhDdUdUaFpLbjdPdW5RTlgzbVBHaGlTTHpDQ3YzYWhYWlZ4YWVsalZ0OThud1dzaDBiMVBFYlpjcTB5eE5JdUNPeU16ZjU5WFFRY0ZqenlYdGlyZXNBQnRabzRJUU9kd3JTR041RDFwTnBaSGd4aVNsZjFiT0w4aWplYy1lbkZ2N3paWE1ZOWxPYy1RVWt3YTM1LWhfcWNqWHZmSXIyajB1UkdGeTNnMDNiS3MtZkNxZkgwUDhNMXFsSkVGTHZWVFZYbFdhazE?oc=5",
+          "published_at": "2026-05-11T03:45:39+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AJBVV95cUxPLTBRVWFRQkpYYkNXcHQ2T0pPM25ial9ESHF6Sk9sVFlScnR3X0w0bjBnRWZOMlJvajVfY2xLbnNfR3dCN3FIbjQ1SkxBZ0pGaC11WnNHcklvVmhUZXlMVkNHR3JJTnpXbG1jWnBDcElMNTc1ZW9IUHItblZqaUJUV21Xc2Jybzg0VnhDdUdUaFpLbjdPdW5RTlgzbVBHaGlTTHpDQ3YzYWhYWlZ4YWVsalZ0OThud1dzaDBiMVBFYlpjcTB5eE5JdUNPeU16ZjU5WFFRY0ZqenlYdGlyZXNBQnRabzRJUU9kd3JTR041RDFwTnBaSGd4aVNsZjFiT0w4aWplYy"
         },
         {
-          "title": "ITC Green Centre by Morphogenesis Architecture in Kolkata Sets a New Benchmark for Mixed-Use Sustainable Development",
-          "source": "Global Design News",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRHFBUmRnLXNmQTJpVi1mZ2ljT1NRVmp2WnFfM1lEQjBrajBkWnVpTHJOc0YxSmM5R1dXZ25UMk8wQnVPY2c2aXNRWUZ3VEVoLW51cENkVmFCMUNjSnBHOU94VUdIdDEyU20tdDg4dGd3bGhabEpDYXhBLVlxQjAyckd0bWdTZzBYZF9KdEVLbFZVbFRaUHNpcEFHdG1vZTdUb2I2RVVMQ2VPdUlveFRUM1pyMW14aFd1LTNHVk1IQndGT2d4Y2gtYXBEVkVEdUxfNTR6Nm01OUU2NHNfaDdn?oc=5",
-          "published_at": "2026-05-08T12:01:12+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRHFBUmRnLXNmQTJpVi1mZ2ljT1NRVmp2WnFfM1lEQjBrajBkWnVpTHJOc0YxSmM5R1dXZ25UMk8wQnVPY2c2aXNRWUZ3VEVoLW51cENkVmFCMUNjSnBHOU94VUdIdDEyU20tdDg4dGd3bGhabEpDYXhBLVlxQjAyckd0bWdTZzBYZF9KdEVLbFZVbFRaUHNpcEFHdG1vZTdUb2I2RVVMQ2VPdUlveFRUM1pyMW14aFd1LTNHVk1IQndGT2d4Y2gtYXBEVkVEdUxfNTR6Nm01OUU2NHNfaDdn?oc=5\" target=\"_blank\">ITC Green Centre by Morphog"
+          "title": "ITC ltd Makes An Inverse Flag & Pole Pattern Hinting At a Strong Bearish Breakout",
+          "source": "Trade Brains",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPLWJlemxUdmdGa0pqdXFQQVVPZC0tMmZNQ0JzcFVxc0dPY0VHMkhOaWhnSG9ZbVR5VFBwZDNHb3FDck1RREdsb1BQWVQ0MEJqYjNybjUxQk5RSmwzZVR1ZXN3LXRKaGVPTnh0czAzU2U3VHpFS2JrUWRmOHRkSUtzQlBIaHpiZHA2X1JXZmJzZGhlSDYxNXpjOEZNNDZCOU5BTUpvcHBB?oc=5",
+          "published_at": "2026-05-11T02:30:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPLWJlemxUdmdGa0pqdXFQQVVPZC0tMmZNQ0JzcFVxc0dPY0VHMkhOaWhnSG9ZbVR5VFBwZDNHb3FDck1RREdsb1BQWVQ0MEJqYjNybjUxQk5RSmwzZVR1ZXN3LXRKaGVPTnh0czAzU2U3VHpFS2JrUWRmOHRkSUtzQlBIaHpiZHA2X1JXZmJzZGhlSDYxNXpjOEZNNDZCOU5BTUpvcHBB?oc=5\" target=\"_blank\">ITC ltd Makes An Inverse Flag & Pole Pattern Hinting At a Strong Bearish Breakout</a>&nbsp;&nbsp;<font "
+        },
+        {
+          "title": "ITC Ltd. Valuation Shifts to Fair: A Detailed Analysis of Price Attractiveness",
+          "source": "Markets Mojo",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcjNrUGtYRVRNR0VZRXh1ZUhpbWpYRW9QbU91bC1PSDIzemRXenpEUUc2czhHSDNFeVN3bFhqUG04R2FoeExOX2pkQzhhejJXSDd1b2VIdkRad1NpVjFkNkdPNjhCUUZOeUE5YUpUUHVNX2tXVGdqX2JXR2tOZDJnaHBtODdYQnl2dmQ4OHdfZHRkaGpmY1FPamhzeVpiVFdGYUc0bGdlTXhiTHU3SlJaaGEyYXE3NGpHUkktRE4wSjZDekFITmpqUHVPa3pkems?oc=5",
+          "published_at": "2026-05-11T02:30:50+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNcjNrUGtYRVRNR0VZRXh1ZUhpbWpYRW9QbU91bC1PSDIzemRXenpEUUc2czhHSDNFeVN3bFhqUG04R2FoeExOX2pkQzhhejJXSDd1b2VIdkRad1NpVjFkNkdPNjhCUUZOeUE5YUpUUHVNX2tXVGdqX2JXR2tOZDJnaHBtODdYQnl2dmQ4OHdfZHRkaGpmY1FPamhzeVpiVFdGYUc0bGdlTXhiTHU3SlJaaGEyYXE3NGpHUkktRE4wSjZDekFITmpqUHVPa3pkems?oc=5\" target=\"_blank\">ITC Ltd. Valuation Shifts to Fair: A Detailed An"
+        },
+        {
+          "title": "Protein in India: ITC says market opportunities plenty despite more competition",
+          "source": "NutraIngredients.com",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVzUtQlVlVENLSnBHTWRXUkU4YTd5Q1pOOFJfZGs1LWx6ZVU3eGh2VHpkUWtVMWs4N1BrQi1aN3hHeVVVUElOM0poWGltWFdEdnI3S1k4czI0S3ZnWEUyS3pQZDEyeEJra3FXRS1hZUlkZVFyNEdfT1NQbDRCSWhqRGRidFpGVXFCeHpKLTJ0aGgyY0NzQkxJUjRMLVo3eFVQVzJRbzYwa2F6WUlCVElkNjd1ay1ZWHdKMkFSd1dmbnpIM3pHQlE?oc=5",
+          "published_at": "2026-05-11T02:35:21+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPVzUtQlVlVENLSnBHTWRXUkU4YTd5Q1pOOFJfZGs1LWx6ZVU3eGh2VHpkUWtVMWs4N1BrQi1aN3hHeVVVUElOM0poWGltWFdEdnI3S1k4czI0S3ZnWEUyS3pQZDEyeEJra3FXRS1hZUlkZVFyNEdfT1NQbDRCSWhqRGRidFpGVXFCeHpKLTJ0aGgyY0NzQkxJUjRMLVo3eFVQVzJRbzYwa2F6WUlCVElkNjd1ay1ZWHdKMkFSd1dmbnpIM3pHQlE?oc=5\" target=\"_blank\">Protein in India: ITC says market opportunities plenty despi"
+        },
+        {
+          "title": "Why JM Financial bets on CESC, ITC, and Texmaco after BJP’s 2026 West Bengal Assembly win",
+          "source": "financialexpress.com",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNM1RMRUF4dkpqZTUxODRndHVfSldSWTNHV1Jna25RSGsxM19kRl9XbmgtNE9HdHJUZkJYcTJEdk1hWFNzcFY3cVFIb0Zmck1MTUZpdGpvdkVYeWVrODJNN18wSVhRNXJBdlFneUczT3ZEYlAtb0k5WWx6dnZIZURUeHRhbl80Uzh1N2VlSGZwOThBMUZXRmRvZ2NGNHd5SnZtUGFNckM3aHVURnEzNVF5X2RfZ1B6UXdhc05sSVRCLXJibHlObmw2RUNkbGpwRDFKOExlN0lpcWoyY0ZrTF9hODlLV2xQN3BicmxSalJwbHpLVmplR2JzX1lSc3fSAYMCQVVfeXFMT0Jaci1kbzU1eWliNTRrTjkzMnhpWkhpOHlaUFJIeW5KUkU1SVQ4V0VsYjZZVDFNNGxFSzRUVzRIMElxZW01enJMT2FhT2p0SlFIOHB3UXUxN05yRTNmcXpFeWh5Wk9pcVM0U012TW9VUnlwNlFBZk1Hc0FMMDhtUlZ6NDcwVk1aWHo5VlZpVDRaQ29Ja1lGa19mX3hyenlmVXlIQlJpNW5xSHVYcUNMYUI2bjRuMnpZMkxHaW84ZFV6ZUNncFFfWHNsZW9ocnk5VVVVSUdIUjNxNTFNdW9qWUNVNmRuRkpmd1JxTktaM0R0akdpUE91YVk2a0dUSTQ1aDNRYw?oc=5",
+          "published_at": "2026-05-11T07:36:04+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxNM1RMRUF4dkpqZTUxODRndHVfSldSWTNHV1Jna25RSGsxM19kRl9XbmgtNE9HdHJUZkJYcTJEdk1hWFNzcFY3cVFIb0Zmck1MTUZpdGpvdkVYeWVrODJNN18wSVhRNXJBdlFneUczT3ZEYlAtb0k5WWx6dnZIZURUeHRhbl80Uzh1N2VlSGZwOThBMUZXRmRvZ2NGNHd5SnZtUGFNckM3aHVURnEzNVF5X2RfZ1B6UXdhc05sSVRCLXJibHlObmw2RUNkbGpwRDFKOExlN0lpcWoyY0ZrTF9hODlLV2xQN3BicmxSalJwbHpLVmplR2JzX1lSc3fSAYMCQVVfeX"
+        },
+        {
+          "title": "Nifty India Tourism down over 3% as PM Modi appeals to avoid foreign travel; IndiGo falls 5%, ITC Hotels slips 3%",
+          "source": "Upstox",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNS3NWMUxZOWtRYW5aY0pUV1dPRy00TFlDRVJJblRmc3pTeW9rN2dURGxnM3RMcEhwT194TkYwZ2NKanFlUVRpOEUxYnJOaXZYakQ4Y0w1OVlIbFFyNS1KMVpxRkxVaXBxTUJicmJvTFFEQVJEUXkxbkprbVBYNUxLYlRSamVEUTREMjUwZGVWcG92ZTVKRXhsWFYxY1ZGb056RTNlUWRXV3paRzRIU2NvN0ZjdGlpVl9YVG93aVVqWGhlQlY4V1FqV3NDVnFsTXR2R2dYSDdCT3dmdkozXzVnSkk4UlpNUFpIU2E1Q2I0TkVYN0Vjb2w5Y0hmVGI?oc=5",
+          "published_at": "2026-05-11T05:54:30+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxNS3NWMUxZOWtRYW5aY0pUV1dPRy00TFlDRVJJblRmc3pTeW9rN2dURGxnM3RMcEhwT194TkYwZ2NKanFlUVRpOEUxYnJOaXZYakQ4Y0w1OVlIbFFyNS1KMVpxRkxVaXBxTUJicmJvTFFEQVJEUXkxbkprbVBYNUxLYlRSamVEUTREMjUwZGVWcG92ZTVKRXhsWFYxY1ZGb056RTNlUWRXV3paRzRIU2NvN0ZjdGlpVl9YVG93aVVqWGhlQlY4V1FqV3NDVnFsTXR2R2dYSDdCT3dmdkozXzVnSkk4UlpNUFpIU2E1Q2I0TkVYN0Vjb2w5Y0hmVGI?oc=5\" targ"
+        },
+        {
+          "title": "BJP Bengal Victory Boosts Outlook for CESC, ITC, Texmaco Rail",
+          "source": "Whalesbook",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUDFvZDI2eEl5V09mdzNYbjlab1cwQXJkYmF5c053Q3pLQlJUM0ZUSkJQTFdfSDRXNHh5bTJQdl9uQnVfNGF3dFgycGpTUzFySGkyUUptcXU1a3lMVTFDX2ZRS0NVajRPR0p5REx5bFhKWlFXeE9LcnFGRXJaOWRadllGNDNwYURNTm1rWEh4RFl4T1EySUNGN3AyWEdlMzZlQTJhZUlFV2g0R01oMmdYeGhxZkptejF3c19SYWFvQzhNSEhiYlhSUklkQUcwa1NWMWNXTW5JN2RmMUprblYwM2h3WQ?oc=5",
+          "published_at": "2026-05-11T07:58:03+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUDFvZDI2eEl5V09mdzNYbjlab1cwQXJkYmF5c053Q3pLQlJUM0ZUSkJQTFdfSDRXNHh5bTJQdl9uQnVfNGF3dFgycGpTUzFySGkyUUptcXU1a3lMVTFDX2ZRS0NVajRPR0p5REx5bFhKWlFXeE9LcnFGRXJaOWRadllGNDNwYURNTm1rWEh4RFl4T1EySUNGN3AyWEdlMzZlQTJhZUlFV2g0R01oMmdYeGhxZkptejF3c19SYWFvQzhNSEhiYlhSUklkQUcwa1NWMWNXTW5JN2RmMUprblYwM2h3WQ?oc=5\" target=\"_blank\">BJP Bengal Victory Bo"
         }
       ],
       "events": [],
@@ -1089,20 +1238,19 @@
         }
       ],
       "price_action": {
-        "date": "2026-05-08",
-        "open": 308.9,
-        "high": 308.9,
-        "low": 305.7,
-        "close": 307.45,
-        "prev_close": 307.4,
-        "change_pct": 0.02,
-        "gap_pct": 0.49,
-        "intraday_range_pct": 1.04,
-        "volume": 17739844,
-        "avg_volume_20d": 18776331,
-        "volume_ratio": 0.94,
+        "date": "2026-05-11",
+        "open": 307.0,
+        "high": 308.0,
+        "low": 305.15,
+        "close": 305.85,
+        "prev_close": 307.45,
+        "change_pct": -0.52,
+        "gap_pct": -0.15,
+        "intraday_range_pct": 0.93,
+        "volume": 14962082,
+        "avg_volume_20d": 18778750,
+        "volume_ratio": 0.8,
         "sparkline": [
-          291.25,
           295.7,
           294.7,
           287.7,
@@ -1131,13 +1279,14 @@
           311.45,
           310.7,
           307.4,
-          307.45
+          307.45,
+          305.85
         ]
       },
       "analysis": {
-        "classification": "catalyst_without_move",
-        "primary_catalyst": "Bombay High Court ruling on blocking of ITC's goods",
-        "analysis": "The Bombay High Court ruled that blocking ITC's goods must have an independent legal basis and cannot solely rely on the cancellation of registration. This is a positive development for the company, but the market did not react significantly to the news on the previous trading day.",
+        "classification": "move_without_catalyst",
+        "primary_catalyst": null,
+        "analysis": "ITC experienced a modest price decline on below-average volume. No specific news or filings appear to directly correlate with this movement. The stock's price action was largely flat, suggesting a lack of strong conviction from either buyers or sellers.",
         "confidence": "medium",
         "flags": []
       }
@@ -1149,6 +1298,15 @@
       "notes": "Demerged from ITC, listed Jan 2025.",
       "skip_catalysts": false,
       "bse_announcements": [
+        {
+          "headline": "Secretarial Compliance Report",
+          "category": "Company Update",
+          "subcategory": null,
+          "more_info": "",
+          "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/f033014b-1acc-4bf7-9c48-b7258bc96f31.pdf",
+          "attached_at": "2026-05-09T17:13:47",
+          "source": "BSE"
+        },
         {
           "headline": "ITC Hotels Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 15/05/2026 ,inter alia, to consider and approve the Audited Standalone and Consolidated Financial Results for the quarter and twelve months ended 31st March, 2026 and to  recommend Final Dividend.",
           "category": "Board Meeting",
@@ -1162,11 +1320,11 @@
       "nse_announcements": [],
       "news": [
         {
-          "title": "ITC Hotels Limited Annual Secretarial Compliance Report Released for FY 2025-26",
-          "source": "InvestyWise",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQ0ZPcWdiZzlKdXlaempiSllWSWw2Y255TzFWcENUMzUwX21mLUV2U2RvcUtjbTk3bmt4T1BtbXd1djVNN01UVldfbzFUN1IzYVFoMVg4dnhFRFlpR0JLWTdMdkRnMloxd0NFLUVNdG9SRVdKUkdaU0t4Sl8zb2ZTeUwwQQ?oc=5",
-          "published_at": "2026-05-09T11:48:45+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPQ0ZPcWdiZzlKdXlaempiSllWSWw2Y255TzFWcENUMzUwX21mLUV2U2RvcUtjbTk3bmt4T1BtbXd1djVNN01UVldfbzFUN1IzYVFoMVg4dnhFRFlpR0JLWTdMdkRnMloxd0NFLUVNdG9SRVdKUkdaU0t4Sl8zb2ZTeUwwQQ?oc=5\" target=\"_blank\">ITC Hotels Limited Annual Secretarial Compliance Report Released for FY 2025-26</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">InvestyWise</font>"
+          "title": "ITC Hotels Q2 Results 2026 - Find ITC Hotels Q2 Earnings Result | ITCHOTELS Q2 results",
+          "source": "Mint",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMFdmaDVqaFdZQlVnR2Q0eG1hN3VBTW1fY2NiWTJUa0NndjYxdWd6MEhIMzhNRXRDWS1ENUs2bjU2TnVLRERoelhSSW9yQ3pEMlVnQ0M5RkhfbTVvVlF2eHVQNnhXMk9fbEgtMUs0QzdobjAzSjRkamNsRnNWSnhWeQ?oc=5",
+          "published_at": "2026-05-08T07:00:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPMFdmaDVqaFdZQlVnR2Q0eG1hN3VBTW1fY2NiWTJUa0NndjYxdWd6MEhIMzhNRXRDWS1ENUs2bjU2TnVLRERoelhSSW9yQ3pEMlVnQ0M5RkhfbTVvVlF2eHVQNnhXMk9fbEgtMUs0QzdobjAzSjRkamNsRnNWSnhWeQ?oc=5\" target=\"_blank\">ITC Hotels Q2 Results 2026 - Find ITC Hotels Q2 Earnings Result | ITCHOTELS Q2 results</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mint</font>"
         },
         {
           "title": "ITC Hotels Limited Board Meeting Scheduled for Financial Review and Dividend Announcement",
@@ -1174,6 +1332,13 @@
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9BZEhyRUZ0Y3E2Rk5lTVdqenZTLVcxZ251WVV2cTFkSE1lZVlnWGlBQlk0cTYzUjQ5ZzJWa2U1a2dmel9NT0wtUldHUnlQR3p1ZGJUZkRmaDFDbWFUZTFOc3V6TjJudWtnODNndHRHMVBfM0htOXZQLWg2QQ?oc=5",
           "published_at": "2026-05-08T16:02:52+00:00",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9BZEhyRUZ0Y3E2Rk5lTVdqenZTLVcxZ251WVV2cTFkSE1lZVlnWGlBQlk0cTYzUjQ5ZzJWa2U1a2dmel9NT0wtUldHUnlQR3p1ZGJUZkRmaDFDbWFUZTFOc3V6TjJudWtnODNndHRHMVBfM0htOXZQLWg2QQ?oc=5\" target=\"_blank\">ITC Hotels Limited Board Meeting Scheduled for Financial Review and Dividend Announcement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">InvestyWise</font>"
+        },
+        {
+          "title": "ITC Hotels Q4 Results 2026 - Find ITC Hotels Q4 Earnings Result | ITCHOTELS Q4 results",
+          "source": "Mint",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUUlKZVlRTXZQTWF4aXBIR25fSERWZ29sVWpDdDN1Qnc5LWM1cGIwaUlFQjYwQVUycTNWMFBXLTVRU0N4VGJKNWNrTS1DMnZSQTJBRHNZUGwzNnA1UHV0VzRUbkI2MlNCR2dHZko0MFpyWllhNmJ2X29JYVRnc0JKaA?oc=5",
+          "published_at": "2026-05-08T07:00:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOUUlKZVlRTXZQTWF4aXBIR25fSERWZ29sVWpDdDN1Qnc5LWM1cGIwaUlFQjYwQVUycTNWMFBXLTVRU0N4VGJKNWNrTS1DMnZSQTJBRHNZUGwzNnA1UHV0VzRUbkI2MlNCR2dHZko0MFpyWllhNmJ2X29JYVRnc0JKaA?oc=5\" target=\"_blank\">ITC Hotels Q4 Results 2026 - Find ITC Hotels Q4 Earnings Result | ITCHOTELS Q4 results</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mint</font>"
         }
       ],
       "events": [
@@ -1223,20 +1388,19 @@
         }
       ],
       "price_action": {
-        "date": "2026-05-08",
-        "open": 166.0,
-        "high": 166.5,
-        "low": 163.4,
-        "close": 164.5,
-        "prev_close": 166.18,
-        "change_pct": -1.01,
-        "gap_pct": -0.11,
-        "intraday_range_pct": 1.87,
-        "volume": 2346643,
-        "avg_volume_20d": 5558983,
-        "volume_ratio": 0.42,
+        "date": "2026-05-11",
+        "open": 163.4,
+        "high": 163.4,
+        "low": 158.31,
+        "close": 159.37,
+        "prev_close": 164.5,
+        "change_pct": -3.12,
+        "gap_pct": -0.67,
+        "intraday_range_pct": 3.09,
+        "volume": 3327659,
+        "avg_volume_20d": 3894755,
+        "volume_ratio": 0.85,
         "sparkline": [
-          140.11,
           145.27,
           148.72,
           141.77,
@@ -1265,13 +1429,14 @@
           162.26,
           169.08,
           166.18,
-          164.5
+          164.5,
+          159.37
         ]
       },
       "analysis": {
-        "classification": "catalyst_without_move",
-        "primary_catalyst": "Board meeting scheduled for May 15, 2026, to approve financial results and recommend dividend.",
-        "analysis": "The stock experienced a modest price decline on lower-than-average volume. The primary catalyst was the announcement of a board meeting to discuss financial results and dividends, which typically does not cause significant intraday price action. The market may be waiting for the actual results before reacting.",
+        "classification": "move_without_catalyst",
+        "primary_catalyst": null,
+        "analysis": "ITC Hotels experienced a notable price decline of 3.12% on below-average volume. No specific catalyst was announced to explain this move. The market may be reacting to broader sector sentiment or anticipating upcoming earnings.",
         "confidence": "medium",
         "flags": []
       }
@@ -1303,24 +1468,31 @@
           "source": "NSE"
         }
       ],
-      "news": [],
+      "news": [
+        {
+          "title": "Lemon Tree Hotels Q4 Results 2026 - Find Lemon Tree Hotels Q4 Earnings Result | LEMONTREE Q4 results",
+          "source": "Mint",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYW9kZm9obEhSQXR3ZlVmSDBkN2dvb0EzTXh1YWpQc3dkYlo5QnZrYTBRMEJFNzR6Q3BHSkplVGJvMldHUkN5cGt3Z2V0eU9hRF9mdzFWWVk0bDZQc3lTdHVvczhBQ1V2WC11dnFZMV9ZcGwzM1hMOWEzOXVNR0JLQkxPREo5cm9mb1E?oc=5",
+          "published_at": "2026-05-08T07:00:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNYW9kZm9obEhSQXR3ZlVmSDBkN2dvb0EzTXh1YWpQc3dkYlo5QnZrYTBRMEJFNzR6Q3BHSkplVGJvMldHUkN5cGt3Z2V0eU9hRF9mdzFWWVk0bDZQc3lTdHVvczhBQ1V2WC11dnFZMV9ZcGwzM1hMOWEzOXVNR0JLQkxPREo5cm9mb1E?oc=5\" target=\"_blank\">Lemon Tree Hotels Q4 Results 2026 - Find Lemon Tree Hotels Q4 Earnings Result | LEMONTREE Q4 results</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mi"
+        }
+      ],
       "events": [],
       "sebi_mentions": [],
       "price_action": {
-        "date": "2026-05-08",
-        "open": 120.8,
-        "high": 122.1,
-        "low": 120.0,
-        "close": 120.41,
-        "prev_close": 121.81,
-        "change_pct": -1.15,
-        "gap_pct": -0.83,
-        "intraday_range_pct": 1.72,
-        "volume": 1981025,
-        "avg_volume_20d": 9340158,
-        "volume_ratio": 0.21,
+        "date": "2026-05-11",
+        "open": 120.0,
+        "high": 120.0,
+        "low": 114.5,
+        "close": 115.84,
+        "prev_close": 120.41,
+        "change_pct": -3.8,
+        "gap_pct": -0.34,
+        "intraday_range_pct": 4.57,
+        "volume": 2993380,
+        "avg_volume_20d": 9276238,
+        "volume_ratio": 0.32,
         "sparkline": [
-          106.16,
           107.63,
           104.92,
           100.42,
@@ -1349,13 +1521,14 @@
           120.75,
           122.01,
           121.81,
-          120.41
+          120.41,
+          115.84
         ]
       },
       "analysis": {
         "classification": "catalyst_without_move",
-        "primary_catalyst": "Company announced opening of a new hotel in Amritsar",
-        "analysis": "The company announced the opening of a new hotel in Amritsar. This positive development did not translate into price appreciation, suggesting the market may have already priced in this news or is awaiting further details. The stock closed down 1.15% on below-average volume.",
+        "primary_catalyst": "Hotel opening announcement",
+        "analysis": "The company announced the opening of a new hotel in Amritsar. However, the stock price declined on higher than average volume, indicating the market may be looking past this positive development. Investors should monitor future earnings for a clearer trend.",
         "confidence": "medium",
         "flags": []
       }
@@ -1368,24 +1541,31 @@
       "skip_catalysts": false,
       "bse_announcements": [],
       "nse_announcements": [],
-      "news": [],
+      "news": [
+        {
+          "title": "Finolex Industries Q2 Results 2026 - Find Finolex Industries Q2 Earnings Result | FINPIPE Q2 results",
+          "source": "Mint",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbHBDT2dSSUNnVHp6NXJybG4yV0dua2hiZXBqOGd2UjE4OXRRVzM1WS1NSzhBR3NZY1J4THRyOXlYaDJEMEhvRVF3TWI4ZWQwYnAyYWVlX3ltRnNLSzQ1dExCSk5TdUNXSHdtNUhnY0dVWWRtd29lVDM0Qm53ZHVQLWo3Q3FLYkJKeklV?oc=5",
+          "published_at": "2026-05-08T07:00:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbHBDT2dSSUNnVHp6NXJybG4yV0dua2hiZXBqOGd2UjE4OXRRVzM1WS1NSzhBR3NZY1J4THRyOXlYaDJEMEhvRVF3TWI4ZWQwYnAyYWVlX3ltRnNLSzQ1dExCSk5TdUNXSHdtNUhnY0dVWWRtd29lVDM0Qm53ZHVQLWo3Q3FLYkJKeklV?oc=5\" target=\"_blank\">Finolex Industries Q2 Results 2026 - Find Finolex Industries Q2 Earnings Result | FINPIPE Q2 results</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">M"
+        }
+      ],
       "events": [],
       "sebi_mentions": [],
       "price_action": {
-        "date": "2026-05-08",
-        "open": 177.25,
-        "high": 180.48,
-        "low": 177.19,
-        "close": 177.85,
-        "prev_close": 177.42,
-        "change_pct": 0.24,
-        "gap_pct": -0.1,
-        "intraday_range_pct": 1.85,
-        "volume": 371269,
-        "avg_volume_20d": 469415,
-        "volume_ratio": 0.79,
+        "date": "2026-05-11",
+        "open": 178.0,
+        "high": 178.0,
+        "low": 173.41,
+        "close": 174.58,
+        "prev_close": 177.85,
+        "change_pct": -1.84,
+        "gap_pct": 0.08,
+        "intraday_range_pct": 2.58,
+        "volume": 304352,
+        "avg_volume_20d": 455544,
+        "volume_ratio": 0.67,
         "sparkline": [
-          168.17,
           160.44,
           162.47,
           157.64,
@@ -1414,14 +1594,15 @@
           174.77,
           176.76,
           177.42,
-          177.85
+          177.85,
+          174.58
         ]
       },
       "analysis": {
-        "classification": "no_signal",
+        "classification": "move_without_catalyst",
         "primary_catalyst": null,
-        "analysis": "The stock experienced a marginal price increase on below-average volume. No significant catalysts were reported for the day. Therefore, no clear signal can be derived from the trading activity.",
-        "confidence": "high",
+        "analysis": "Finolex Industries saw a notable price decline of 1.84% on below-average volume. No specific catalyst was identified to explain the move, suggesting a potential technical sell-off or general market sentiment impact.",
+        "confidence": "medium",
         "flags": []
       }
     },
@@ -1481,20 +1662,19 @@
         }
       ],
       "price_action": {
-        "date": "2026-05-08",
-        "open": 447.25,
-        "high": 453.0,
-        "low": 417.35,
-        "close": 421.25,
-        "prev_close": 441.7,
-        "change_pct": -4.63,
-        "gap_pct": 1.26,
-        "intraday_range_pct": 8.07,
-        "volume": 534995,
-        "avg_volume_20d": 668218,
-        "volume_ratio": 0.8,
+        "date": "2026-05-11",
+        "open": 420.0,
+        "high": 433.0,
+        "low": 411.0,
+        "close": 429.95,
+        "prev_close": 421.25,
+        "change_pct": 2.07,
+        "gap_pct": -0.3,
+        "intraday_range_pct": 5.22,
+        "volume": 388308,
+        "avg_volume_20d": 681685,
+        "volume_ratio": 0.57,
         "sparkline": [
-          390.2,
           384.2,
           370.55,
           352.05,
@@ -1523,17 +1703,16 @@
           450.3,
           433.9,
           441.7,
-          421.25
+          421.25,
+          429.95
         ]
       },
       "analysis": {
-        "classification": "move_without_catalyst",
+        "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "GNG Electronics Limited experienced a significant price drop of 4.63% on below-average volume. No specific catalyst was identified to explain this move. The market may be reacting to news or events not captured in this data, or it could be a technical sell-off.",
-        "confidence": "medium",
-        "flags": [
-          "POSSIBLE_LEAK_OR_FLOW"
-        ]
+        "analysis": "The stock experienced a modest price increase of 2.07% on below-average volume. No significant catalysts were announced or reported that would explain this move. The market appears to be trading without a clear directional driver.",
+        "confidence": "high",
+        "flags": []
       }
     },
     {
