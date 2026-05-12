@@ -1,7 +1,7 @@
 {
   "report_date": "2026-05-12",
   "trading_day": "2026-05-11",
-  "generated_at": "2026-05-12T16:58:55.511606+05:30",
+  "generated_at": "2026-05-12T17:04:43.099863+05:30",
   "stocks": [
     {
       "symbol": "TMCV",
@@ -92,7 +92,7 @@
       "analysis": {
         "classification": "catalyst_without_move",
         "primary_catalyst": "Upcoming Q4 FY26 earnings and dividend announcement scheduled for May 13, 2026",
-        "analysis": "Tata Motors experienced a significant price drop of 5.83% on elevated volume, yet no specific catalyst drove this move. The market may be anticipating the upcoming Q4 FY26 earnings and dividend announcement scheduled for May 13, 2026. Investors should monitor the earnings release for further direction.",
+        "analysis": "Tata Motors experienced a significant price drop of 5.83% on elevated volume, yet no specific catalyst drove this move. The market may be reacting to anticipated Q4 results or broader sector sentiment. Investors should monitor the upcoming earnings announcement for clarity.",
         "confidence": "medium",
         "flags": []
       }
@@ -105,15 +105,7 @@
       "skip_catalysts": false,
       "bse_announcements": [],
       "nse_announcements": [],
-      "news": [
-        {
-          "title": "Tata Motors TMPV TMCV Share Latest News Today | Finally Strait Of Hormuz Going To Open | (U4GL1cnKEI)",
-          "source": "fathomjournal.org",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyUVJwcHFoa1V2Vm5oNkpNakVaZXdsUWFNdFhzZTVjSHJ4bEV1TEc1Z1RqSmtEOTBjbWxLbHlLVjZHZHJNaU5ySmNpT3ZVcWhiNzJKdWlhU2NEVU03NHdrYTR6dkQwRV9MZzJiS0tLVlE?oc=5",
-          "published_at": "2026-05-11T15:31:52+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFAyUVJwcHFoa1V2Vm5oNkpNakVaZXdsUWFNdFhzZTVjSHJ4bEV1TEc1Z1RqSmtEOTBjbWxLbHlLVjZHZHJNaU5ySmNpT3ZVcWhiNzJKdWlhU2NEVU03NHdrYTR6dkQwRV9MZzJiS0tLVlE?oc=5\" target=\"_blank\">Tata Motors TMPV TMCV Share Latest News Today | Finally Strait Of Hormuz Going To Open | (U4GL1cnKEI)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fathomjournal.org</font>"
-        }
-      ],
+      "news": [],
       "events": [
         {
           "subject": null,
@@ -170,10 +162,10 @@
         ]
       },
       "analysis": {
-        "classification": "move_without_catalyst",
+        "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Tata Motors Passenger Vehicles Limited experienced a notable decline of 2.64% on below-average volume. No specific catalyst was identified to explain the price drop. The upcoming earnings announcement on May 14th could be a factor to watch.",
-        "confidence": "medium",
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
         "flags": []
       }
     },
@@ -278,10 +270,10 @@
         ]
       },
       "analysis": {
-        "classification": "catalyst_without_move",
-        "primary_catalyst": "Allotment of 887,886 equity shares under ESOP",
-        "analysis": "The stock experienced a meaningful price decline of 2.06% on elevated volume. However, the catalysts, including an ESOP allotment and an investor meet announcement, do not directly explain the negative price action. The market may be reacting to other factors not captured in the provided data.",
-        "confidence": "medium",
+        "classification": "no_signal",
+        "primary_catalyst": null,
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
         "flags": []
       }
     },
@@ -343,10 +335,10 @@
         ]
       },
       "analysis": {
-        "classification": "move_without_catalyst",
+        "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "HDFC Life experienced a significant price decline of 3.36% on elevated intraday range but below average volume. No specific catalyst was identified to explain the move. The market may be reacting to broader sector sentiment or anticipating future events.",
-        "confidence": "medium",
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
         "flags": []
       }
     },
@@ -423,10 +415,10 @@
         ]
       },
       "analysis": {
-        "classification": "move_without_catalyst",
+        "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Bandhan Bank experienced a notable price decline of 2.56% on below-average volume. No specific catalyst was identified in the provided news or filings to explain this move. The market may be reacting to broader sector sentiment or internal factors not yet disclosed.",
-        "confidence": "medium",
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
         "flags": []
       }
     },
@@ -442,12 +434,55 @@
       "events": [],
       "sebi_mentions": [],
       "price_action": {
-        "error": "insufficient_data"
+        "date": "2026-05-12",
+        "open": 69.01,
+        "high": 69.27,
+        "low": 67.53,
+        "close": 67.68,
+        "prev_close": 69.22,
+        "change_pct": -2.22,
+        "gap_pct": -0.3,
+        "intraday_range_pct": 2.51,
+        "volume": 16593375,
+        "avg_volume_20d": 21703238,
+        "volume_ratio": 0.76,
+        "sparkline": [
+          61.87,
+          58.85,
+          60.18,
+          60.22,
+          61.08,
+          61.19,
+          65.87,
+          65.28,
+          66.21,
+          64.86,
+          66.91,
+          67.82,
+          68.53,
+          67.5,
+          67.94,
+          68.38,
+          67.83,
+          67.23,
+          70.27,
+          68.71,
+          70.15,
+          69.64,
+          69.64,
+          69.59,
+          68.75,
+          69.59,
+          70.39,
+          71.27,
+          69.22,
+          67.68
+        ]
       },
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Insufficient price action data was provided to analyze the trading day. No catalysts were reported.",
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
         "confidence": "low",
         "flags": []
       }
@@ -510,10 +545,10 @@
         ]
       },
       "analysis": {
-        "classification": "move_without_catalyst",
+        "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Capri Global Capital Limited experienced a notable price decline of 2.28% on elevated volume. No specific catalyst was identified in the filings or news for this move. The market may be reacting to broader sector sentiment or technical factors.",
-        "confidence": "medium",
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
         "flags": []
       }
     },
@@ -524,6 +559,15 @@
       "notes": null,
       "skip_catalysts": false,
       "bse_announcements": [
+        {
+          "headline": "The Company has informed the exchange that record date for the purpose of Dividend is 23-June-2026.",
+          "category": "Corp. Action",
+          "subcategory": null,
+          "more_info": "",
+          "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/f2771a71-3a7b-494b-bb7a-c234068b01ef.pdf",
+          "attached_at": "2026-05-12T17:02:08",
+          "source": "BSE"
+        },
         {
           "headline": "Board of Directors at its meeting held on May 12, 2026, recommended Final Dividend of Rs. 2.50 per equity Share.",
           "category": "Corp. Action",
@@ -582,9 +626,9 @@
         {
           "title": "MSN Money",
           "source": "msn.com",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVlRLcHVNbVlYY3I3N1RwbkZzTE1ZZXFUbVBWeUs1ZWJsenJ0SERyX1lYWENKcVM3alNkUGZjMVdUT3ZObW42Z0lyQXVPb1BZVXVGNTVXTWdhWE5KN012R055THlGRFd2OFFOREo0cWQtakp5djN4cUlZUVZoOXhiTHZNTG83YVUtUFIxVHFxcmMta3h6cjc1Zmw4eUU1WWhBTG84djBnVUNqU0lBQ2xWaA?oc=5",
-          "published_at": "2026-05-11T20:36:29+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQVlRLcHVNbVlYY3I3N1RwbkZzTE1ZZXFUbVBWeUs1ZWJsenJ0SERyX1lYWENKcVM3alNkUGZjMVdUT3ZObW42Z0lyQXVPb1BZVXVGNTVXTWdhWE5KN012R055THlGRFd2OFFOREo0cWQtakp5djN4cUlZUVZoOXhiTHZNTG83YVUtUFIxVHFxcmMta3h6cjc1Zmw4eUU1WWhBTG84djBnVUNqU0lBQ2xWaA?oc=5\" target=\"_blank\">MSN Money</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">msn.com</font>"
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZDQ3aTZZQ3hhOUJsN2M1ZTBRM1ZIQS1DOUNHLTI4UzV1dDRkZEtlaXd3YkRNNE5sQjBKbjRfVEhQUGlBZFZ5Sy12WHBfclBZenFlMzM5UVl2cXB1VWtTRmpBbmtJUHMybjhZQjEzRjI5cHNFMUNjYTB4SjhBVjBrVk50MDI5SzZkbk4xUTlxbXRsRWNEZGF6TGotSTRyUQ?oc=5",
+          "published_at": "2026-05-11T21:17:42+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPZDQ3aTZZQ3hhOUJsN2M1ZTBRM1ZIQS1DOUNHLTI4UzV1dDRkZEtlaXd3YkRNNE5sQjBKbjRfVEhQUGlBZFZ5Sy12WHBfclBZenFlMzM5UVl2cXB1VWtTRmpBbmtJUHMybjhZQjEzRjI5cHNFMUNjYTB4SjhBVjBrVk50MDI5SzZkbk4xUTlxbXRsRWNEZGF6TGotSTRyUQ?oc=5\" target=\"_blank\">MSN Money</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">msn.com</font>"
         }
       ],
       "events": [
@@ -643,10 +687,10 @@
         ]
       },
       "analysis": {
-        "classification": "catalyst_without_move",
-        "primary_catalyst": "Board recommended a final dividend of Rs. 2.50 per share and announced Q4 FY26 results.",
-        "analysis": "The stock experienced a significant price drop of 3.42% on elevated intraday range, despite the company announcing its financial results and recommending a final dividend. The market appears to have shrugged off the positive dividend news, possibly due to the financial results not meeting expectations or other broader market concerns.",
-        "confidence": "medium",
+        "classification": "no_signal",
+        "primary_catalyst": null,
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
         "flags": []
       }
     },
@@ -731,56 +775,13 @@
       "events": [],
       "sebi_mentions": [],
       "price_action": {
-        "date": "2026-05-12",
-        "open": 53.0,
-        "high": 53.96,
-        "low": 51.31,
-        "close": 51.52,
-        "prev_close": 53.3,
-        "change_pct": -3.34,
-        "gap_pct": -0.56,
-        "intraday_range_pct": 4.97,
-        "volume": 99244413,
-        "avg_volume_20d": 127723682,
-        "volume_ratio": 0.78,
-        "sparkline": [
-          40.82,
-          39.56,
-          41.12,
-          40.78,
-          41.59,
-          41.55,
-          44.23,
-          44.23,
-          45.32,
-          45.86,
-          49.13,
-          50.25,
-          52.93,
-          52.5,
-          53.1,
-          54.57,
-          53.73,
-          53.91,
-          56.93,
-          57.32,
-          56.81,
-          55.58,
-          55.58,
-          54.96,
-          54.85,
-          54.32,
-          55.65,
-          54.97,
-          53.3,
-          51.52
-        ]
+        "error": "insufficient_data"
       },
       "analysis": {
-        "classification": "catalyst_without_move",
-        "primary_catalyst": "Shareholders approved appointment of independent director via postal ballot",
-        "analysis": "The stock experienced a notable price decline despite positive news regarding shareholder approval for an independent director appointment. The market appears to have shrugged off this catalyst, suggesting other factors may be influencing the stock's movement. Further investigation into broader market sentiment or company-specific concerns is warranted.",
-        "confidence": "medium",
+        "classification": "no_signal",
+        "primary_catalyst": null,
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
         "flags": []
       }
     },
@@ -871,13 +872,11 @@
         ]
       },
       "analysis": {
-        "classification": "move_without_catalyst",
+        "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "IREDA experienced a significant price drop on elevated volume, but no specific catalyst was identified in the provided news or filings. The market may be reacting to broader sector sentiment or anticipating future news.",
-        "confidence": "medium",
-        "flags": [
-          "POSSIBLE_LEAK_OR_FLOW"
-        ]
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
+        "flags": []
       }
     },
     {
@@ -938,13 +937,11 @@
         ]
       },
       "analysis": {
-        "classification": "move_without_catalyst",
+        "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Sterling and Wilson Renewable Energy Limited experienced a significant price decline of 4.67% on elevated volume. No specific catalyst was identified to explain this sharp move. The market may be reacting to news or flows not yet public.",
-        "confidence": "medium",
-        "flags": [
-          "POSSIBLE_LEAK_OR_FLOW"
-        ]
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
+        "flags": []
       }
     },
     {
@@ -1005,10 +1002,10 @@
         ]
       },
       "analysis": {
-        "classification": "move_without_catalyst",
+        "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "The stock experienced a significant price drop of nearly 5% on elevated intraday range, but with below-average volume. No specific catalyst was identified to explain this move. The market may be reacting to broader sector sentiment or technical factors.",
-        "confidence": "medium",
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
         "flags": []
       }
     },
@@ -1188,10 +1185,10 @@
         ]
       },
       "analysis": {
-        "classification": "move_without_catalyst",
+        "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "ITC experienced a notable price decline on below-average volume. No specific catalyst was identified to explain the move, suggesting it may be technical in nature or driven by broader market sentiment. Further monitoring is required to determine if this trend continues.",
-        "confidence": "medium",
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
         "flags": []
       }
     },
@@ -1321,10 +1318,10 @@
         ]
       },
       "analysis": {
-        "classification": "move_without_catalyst",
+        "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "ITC Hotels experienced a significant price drop of 3.55% on below-average volume. No specific catalyst was identified for this move. The upcoming financial results on May 15th are a key event to watch.",
-        "confidence": "medium",
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
         "flags": []
       }
     },
@@ -1386,10 +1383,10 @@
         ]
       },
       "analysis": {
-        "classification": "move_without_catalyst",
+        "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Lemon Tree Hotels declined 3.4% on below-average volume. No specific catalyst was identified for the move. The stock experienced a notable intraday range, suggesting some volatility.",
-        "confidence": "medium",
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
         "flags": []
       }
     },
@@ -1485,10 +1482,10 @@
         ]
       },
       "analysis": {
-        "classification": "catalyst_without_move",
-        "primary_catalyst": "CRISIL reaffirms strong 'AA+/A1+' credit ratings",
-        "analysis": "Finolex Industries' credit ratings were reaffirmed by CRISIL, a positive development. However, the stock price declined significantly on elevated volume, suggesting the market may be looking past the rating affirmation or reacting to other factors not immediately apparent.",
-        "confidence": "medium",
+        "classification": "no_signal",
+        "primary_catalyst": null,
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
         "flags": []
       }
     },
@@ -1645,10 +1642,10 @@
         ]
       },
       "analysis": {
-        "classification": "catalyst_without_move",
-        "primary_catalyst": "Transcript of Earnings Call with Analysts/Investors released",
-        "analysis": "The company released the transcript of its earnings call on May 11th. While this is a relevant disclosure, the stock price showed a minimal gain on the subsequent trading day. The market may be waiting for further analysis or may have already priced in the information from the call.",
-        "confidence": "medium",
+        "classification": "no_signal",
+        "primary_catalyst": null,
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
         "flags": []
       }
     },
