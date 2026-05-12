@@ -24,7 +24,7 @@ from .prompts import SYSTEM_PROMPT, build_user_prompt
 log = logging.getLogger(__name__)
 
 MODEL_NAME = os.environ.get("GEMINI_MODEL", "gemini-2.0-flash")
-RPM_LIMIT = 12  # stay safely under the 15 RPM free-tier ceiling
+RPM_LIMIT = 6  # gemini-2.5-flash-lite free tier is 10 RPM; stay well under
 _last_call_ts = 0.0
 _client: "genai.Client | None" = None
 
