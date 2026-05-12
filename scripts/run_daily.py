@@ -109,11 +109,42 @@ async def _gather_one_stock(
 
 
 async def collect_all(stocks: list[dict[str, Any]], prev_day: dt.date) -> dict[str, Any]:
-    today = prev_day + dt.timedelta(days=1)
-
     # Prices: synchronous library, run once for all symbols
     log.info("Fetching prices for %d symbols", len(stocks))
     prices = fetch_prices([s["symbol"] for s in stocks])
+
+    # Derive the actual trading day from yfinance data (more reliable than calendar)
+    from collectors.common import derive_trading_day
+    actual_trading_day = derive_trading_day(prices)
+    if actual_trading_day and actual_trading_day != prev_day:
+        log.info(
+            "Adjusting trading day: calendar said %s, yfinance data says %s",
+            prev_day, actual_trading_day,
+        )
+        prev_day = actual_trading_day
+    today = prev_day + dt.timedelta(days=1)
+    log.info("Using trading day: %s for catalyst lookback", prev_day)
+
+    async with httpx.AsyncClient(http2=False, follow_redirects=True) as client:
+        log.info("Fetching SEBI press mentions")
+        sebi_hits = await fetch_sebi_mentions(client, [s["name"] for s in stocks])
+
+        log.info("Fetching per-stock catalysts in parallel")
+        tasks = [
+            _gather_one_stock(client, s, prev_day, today, sebi_hits) for s in stocks
+        ]
+        per_stock = await asyncio.gather(*tasks)
+
+    # Combine prices + catalysts
+    for entry in per_stock:
+        entry["price_action"] = prices.get(entry["symbol"], {"error": "no_price_data"})
+
+    return {
+        "report_date": iso(today),
+        "trading_day": iso(prev_day),
+        "generated_at": iso(now_ist()),
+        "stocks": per_stock,
+    }
 
     async with httpx.AsyncClient(http2=False, follow_redirects=True) as client:
         log.info("Fetching SEBI press mentions")
