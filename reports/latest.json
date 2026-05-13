@@ -1,7 +1,7 @@
 {
   "report_date": "2026-05-14",
   "trading_day": "2026-05-13",
-  "generated_at": "2026-05-13T17:11:03.169490+05:30",
+  "generated_at": "2026-05-13T17:56:56.618866+05:30",
   "stocks": [
     {
       "symbol": "TMCV",
@@ -11,6 +11,14 @@
       "skip_catalysts": false,
       "bse_announcements": [],
       "nse_announcements": [
+        {
+          "headline": "Outcome of Board Meeting",
+          "category": null,
+          "more_info": "Tata Motors Limited has informed the Exchange regarding Change in Key Managerial Personnel and Senior Management Personnel of the Company",
+          "pdf_url": "https://nsearchives.nseindia.com/corporate/TMLCOMMERCIAL_13052026171102_FINALSMP.pdf",
+          "attached_at": "13-May-2026 17:11:55",
+          "source": "NSE"
+        },
         {
           "headline": "Investor Presentation",
           "category": null,
@@ -116,9 +124,9 @@
       },
       "analysis": {
         "classification": "catalyst_drove_move",
-        "primary_catalyst": "Board meeting approved Q4FY26 results, recommended final dividend of Rs. 4/share, and investor presentation released.",
-        "analysis": "Tata Motors announced strong Q4FY26 results with record revenue, margin gains, and cash flow. The company also recommended a final dividend of Rs. 4 per share. The stock saw elevated volume but closed down slightly, suggesting the positive news was largely priced in or offset by broader market sentiment.",
-        "confidence": "high",
+        "primary_catalyst": "Board meeting outcome: Recommended final dividend of Rs. 4 per share, investor presentation, and financial results for period ended March 31, 2026.",
+        "analysis": "The stock experienced a meaningful price decline on elevated volume, coinciding with the release of Q4 FY26 financial results, an investor presentation, and a dividend recommendation. The negative price action despite positive news like dividend and strong results suggests the market may have been looking for more or that the results were not as strong as anticipated.",
+        "confidence": "medium",
         "flags": []
       }
     },
@@ -189,7 +197,7 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "The stock traded flat with below-average volume. No significant catalysts were announced or reported. Expect continued price action to be driven by broader market sentiment or upcoming earnings.",
+        "analysis": "The stock traded flat with below-average volume. No significant catalysts were announced or reported. Expect continued price action to be driven by broader market sentiment.",
         "confidence": "high",
         "flags": []
       }
@@ -254,8 +262,8 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "The stock experienced a minor price decline on below-average volume. No significant catalysts were reported for the trading day. The price action does not warrant further investigation at this time.",
-        "confidence": "high",
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
         "flags": []
       }
     },
@@ -319,8 +327,8 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "The stock experienced a marginal price increase on low volume. There were no significant catalysts or price action to warrant further analysis.",
-        "confidence": "high",
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
         "flags": []
       }
     },
@@ -330,7 +338,17 @@
       "sector": "Banking",
       "notes": null,
       "skip_catalysts": false,
-      "bse_announcements": [],
+      "bse_announcements": [
+        {
+          "headline": "The Exchange has received the disclosure under Regulation 29(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for Bandhan Financial Holdings Ltd",
+          "category": "Insider Trading / SAST",
+          "subcategory": null,
+          "more_info": "",
+          "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/13CF3365_CE33_423E_A8A5_02BC20C4DCBD_173741.pdf",
+          "attached_at": "2026-05-13T17:37:48.997",
+          "source": "BSE"
+        }
+      ],
       "nse_announcements": [],
       "news": [],
       "events": [],
@@ -382,10 +400,10 @@
         ]
       },
       "analysis": {
-        "classification": "no_signal",
-        "primary_catalyst": null,
-        "analysis": "The stock experienced a modest decline of 0.61% on below-average volume. No significant catalysts were reported for the day. The price action does not warrant further investigation at this time.",
-        "confidence": "high",
+        "classification": "catalyst_without_move",
+        "primary_catalyst": "Disclosure under SAST regulations by promoter Bandhan Financial Holdings Ltd",
+        "analysis": "The stock saw a minor price decline on below-average volume. A disclosure under SAST regulations by the promoter was filed, but it did not appear to impact intraday trading significantly. This could represent a potential lag opportunity.",
+        "confidence": "medium",
         "flags": []
       }
     },
@@ -449,8 +467,8 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "The stock experienced a modest gain of 0.92% on below-average volume. No significant catalysts were reported for the day. The price action does not warrant further investigation at this time.",
-        "confidence": "high",
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
         "flags": []
       }
     },
@@ -529,7 +547,7 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "The stock experienced a modest price decline on lower than average volume. No significant catalysts were announced that would explain the price action.",
+        "analysis": "The stock experienced a modest decline on lower than average volume. No significant catalysts were announced or reported that would explain the price movement. The market appears to be trading without a clear directional signal.",
         "confidence": "high",
         "flags": []
       }
@@ -541,6 +559,15 @@
       "notes": null,
       "skip_catalysts": false,
       "bse_announcements": [
+        {
+          "headline": "Intimation of Schedule of Analyst/Institutional Investor Meet",
+          "category": "Company Update",
+          "subcategory": null,
+          "more_info": "",
+          "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/c9a03150-7da1-4727-8445-2383adf9855c.pdf",
+          "attached_at": "2026-05-13T17:20:05",
+          "source": "BSE"
+        },
         {
           "headline": "Newspaper Advertisement-Financial Results for the quarter and financial year ended March 31,  2026.",
           "category": "Company Update",
@@ -641,10 +668,10 @@
         ]
       },
       "analysis": {
-        "classification": "catalyst_drove_move",
-        "primary_catalyst": "Company announced Q4 FY26 financial results and recommended a final dividend.",
-        "analysis": "Tata Power's stock declined 3.33% on elevated volume, coinciding with the announcement of its Q4 FY26 financial results and a recommended final dividend. The results likely disappointed the market, leading to the sell-off.",
-        "confidence": "high",
+        "classification": "no_signal",
+        "primary_catalyst": null,
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
         "flags": []
       }
     },
@@ -691,11 +718,25 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQRlVCTFdCRnRodE9xUXZLSm5lQ2hXU3lVV1hqdG9aZlEtQTUwaUEzdU5EUmlxb2doMS1ERkRENVNyYldMYmhiazl6ZEphZXVYRWFQQXllZUVhSk1Ta01OeG5udUdZOUVtamZFNDFJTFdSTnE4ZHFiX1RJaWliSWNxbXkzQy03cHRWNTRTUFpIVUxMT1Fid0dZUGhxUnJQY1ZTdGlDVExINnY2a0VSMjk0bTd0UWNWMndQWklsVmtQYkx1M0dxek51dy1B?oc=5\" target=\"_blank\">Suzlon Energy Sees Exceptional Volume Surge Amid Mixed "
         },
         {
+          "title": "Suzlon Energy Allots 1,95,000 Equity Shares Under ESOP 2022 on 13 May 2026",
+          "source": "PSU Connect",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaTluWUlPN1FUQVhlNjRuTHhrRXRQa0hqQmlIem51c1dfWXRPdy1VM1NOUk5UMDlDcFVqT0tUWndvWEh3cENhUkVoOGo2TGVTRlU3V1l5MnRiSkhjTk9jZ0VvckNqdmhaMmRiTW9NZzRwQ2loV19PenhDZVFxdy1zMXF3bHFuX1ZHWW4za1ZtT3FLRHVoQUJNWXBVNHdlOTdJUUNzcWJMX0dGQl84dTV6ckxlUzlWVXRMQmc?oc=5",
+          "published_at": "2026-05-13T12:15:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQaTluWUlPN1FUQVhlNjRuTHhrRXRQa0hqQmlIem51c1dfWXRPdy1VM1NOUk5UMDlDcFVqT0tUWndvWEh3cENhUkVoOGo2TGVTRlU3V1l5MnRiSkhjTk9jZ0VvckNqdmhaMmRiTW9NZzRwQ2loV19PenhDZVFxdy1zMXF3bHFuX1ZHWW4za1ZtT3FLRHVoQUJNWXBVNHdlOTdJUUNzcWJMX0dGQl84dTV6ckxlUzlWVXRMQmc?oc=5\" target=\"_blank\">Suzlon Energy Allots 1,95,000 Equity Shares Under ESOP 2022 on 13 May 2026</"
+        },
+        {
           "title": "Suzlon Energy - Negative Breakout: These 14 stocks cross below their 200 DMAs",
           "source": "The Economic Times",
           "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbl95SHRzeVE0U2Vudmt4NGpCeFd6ZUtOM3ppRVNtdG5rZ2FaYjBrNDBpMWdSZEZVdm5VdkdlMEFlYlc4VUIySXRWdmFJdG1HblFORWx4M1Jxek1CSklmMXZGbGtLNGJHMDRKUVhDUHc2bjJSLVlhR3JlY2g1akZ2UFA2VDcwQ3liS0FGYlJCeGJjS19jSjBNRTBHLURVTzYyR2xEM0NFT2RwYnpwNHY4a0JQMFlsdjN2d3VqLTdvS21TUXVUQU5TT3hsUEhaWFhOdlpBakt6VDZLU2hDdkNZ?oc=5",
           "published_at": "2026-05-13T02:50:42+00:00",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbl95SHRzeVE0U2Vudmt4NGpCeFd6ZUtOM3ppRVNtdG5rZ2FaYjBrNDBpMWdSZEZVdm5VdkdlMEFlYlc4VUIySXRWdmFJdG1HblFORWx4M1Jxek1CSklmMXZGbGtLNGJHMDRKUVhDUHc2bjJSLVlhR3JlY2g1akZ2UFA2VDcwQ3liS0FGYlJCeGJjS19jSjBNRTBHLURVTzYyR2xEM0NFT2RwYnpwNHY4a0JQMFlsdjN2d3VqLTdvS21TUXVUQU5TT3hsUEhaWFhOdlpBakt6VDZLU2hDdkNZ?oc=5\" target=\"_blank\">Suzlon Energy - Negative Br"
+        },
+        {
+          "title": "Suzlon Allots 1.95 Lakh Shares Under ESOP 2022, Marginally Lifts Equity Base",
+          "source": "TipRanks",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORm5RZEZOelNwMXptYzhnaWZpSDdfYlExeGJFcWp3aFpNUHNibGt6R01qY2QxRXpDbEpCdVE3M2ZBX2YzWGdJb0pZenpWM2xOdDdXc2taZmRLc2E5TXJQUVhoMnVJY0tRTFRINW5uWk9mRnN0Y29uWkVMT0I1MXh0YmFJbDZBbmtIS2JxTEItTXZjWG9rWlpYZlV0bjU1MC1qeGVCOWVjTm9lM0EwdHBvbEd6MFFqMGhMTnVGbV92Ym0xRV9oWHc?oc=5",
+          "published_at": "2026-05-13T11:47:11+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxORm5RZEZOelNwMXptYzhnaWZpSDdfYlExeGJFcWp3aFpNUHNibGt6R01qY2QxRXpDbEpCdVE3M2ZBX2YzWGdJb0pZenpWM2xOdDdXc2taZmRLc2E5TXJQUVhoMnVJY0tRTFRINW5uWk9mRnN0Y29uWkVMT0I1MXh0YmFJbDZBbmtIS2JxTEItTXZjWG9rWlpYZlV0bjU1MC1qeGVCOWVjTm9lM0EwdHBvbEd6MFFqMGhMTnVGbV92Ym0xRV9oWHc?oc=5\" target=\"_blank\">Suzlon Allots 1.95 Lakh Shares Under ESOP 2022, Marginally L"
         }
       ],
       "events": [],
@@ -747,10 +788,10 @@
         ]
       },
       "analysis": {
-        "classification": "catalyst_without_move",
-        "primary_catalyst": "Allotment of 1,95,000 equity shares pursuant to exercise of stock options under ESOP Plan 2022",
-        "analysis": "The company announced the allotment of shares under its ESOP plan. This is a routine event and did not impact the stock price, which closed up 3.07% on elevated volume. The market may be reacting to broader news regarding mutual fund activity or technicals.",
-        "confidence": "medium",
+        "classification": "no_signal",
+        "primary_catalyst": null,
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
         "flags": []
       }
     },
@@ -812,13 +853,11 @@
         ]
       },
       "analysis": {
-        "classification": "move_without_catalyst",
+        "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "IREDA experienced a notable price increase of 2.86% on elevated intraday range, but without any specific catalyst. This suggests potential underlying buying interest or flow not yet publicly disclosed.",
-        "confidence": "medium",
-        "flags": [
-          "POSSIBLE_LEAK_OR_FLOW"
-        ]
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
+        "flags": []
       }
     },
     {
@@ -881,8 +920,8 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "The stock saw a modest gain of 0.53% on below-average volume. There were no significant catalysts reported for the day. Price action was within normal trading ranges.",
-        "confidence": "high",
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
         "flags": []
       }
     },
@@ -952,10 +991,10 @@
         ]
       },
       "analysis": {
-        "classification": "catalyst_without_move",
-        "primary_catalyst": "Company flags short-term Middle East headwinds but reiterates margin guidance",
-        "analysis": "Transformers and Rectifiers (India) Limited announced short-term headwinds in the Middle East but reiterated its margin guidance. The stock saw a significant price increase of 4.6% on elevated volume. The news appears to have been largely ignored by the market.",
-        "confidence": "medium",
+        "classification": "no_signal",
+        "primary_catalyst": null,
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
         "flags": []
       }
     },
@@ -1123,10 +1162,10 @@
         ]
       },
       "analysis": {
-        "classification": "move_without_catalyst",
+        "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "ITC saw a modest price increase on below-average volume. Several news items were published, including updates on its AI-powered crop doctor and Candyman product expansion, but none appear to have significantly influenced the trading day. The market may be awaiting clearer catalysts or digesting recent information.",
-        "confidence": "medium",
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
         "flags": []
       }
     },
@@ -1246,8 +1285,8 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "The stock experienced a modest price increase on below-average volume. No significant catalysts were announced or reported that would explain the price action. The upcoming earnings announcement on May 15th is a key event to watch.",
-        "confidence": "high",
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
         "flags": []
       }
     },
@@ -1311,7 +1350,7 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "The stock saw a modest gain on below-average volume. No significant catalysts were reported for the day. Price action was largely range-bound.",
+        "analysis": "The stock experienced a modest price increase on below-average volume. No significant catalysts were reported for the day. The price action does not warrant further investigation at this time.",
         "confidence": "high",
         "flags": []
       }
@@ -1376,8 +1415,8 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "The stock experienced a modest gain of 0.74% on below-average volume. No significant catalysts were reported for the day. Price action was within normal trading ranges.",
-        "confidence": "high",
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
         "flags": []
       }
     },
@@ -1490,8 +1529,8 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "The stock experienced a notable intraday range and a price decline, but this was not accompanied by elevated trading volume. No specific catalysts were identified that would explain the price movement.",
-        "confidence": "high",
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
         "flags": []
       }
     },
