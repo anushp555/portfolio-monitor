@@ -1,7 +1,7 @@
 {
   "report_date": "2026-05-15",
   "trading_day": "2026-05-14",
-  "generated_at": "2026-05-14T16:52:47.508149+05:30",
+  "generated_at": "2026-05-14T16:57:54.045124+05:30",
   "stocks": [
     {
       "symbol": "TMCV",
@@ -161,7 +161,7 @@
       "analysis": {
         "classification": "catalyst_drove_move",
         "primary_catalyst": "Company announced Q4 FY26 results, recommended final dividend, and investor presentation.",
-        "analysis": "Tata Motors fell 1.25% on significant volume, reversing earlier gains. The company announced its Q4 FY26 results, recommended a final dividend, and released an investor presentation. News reports also highlighted management concerns about margin pressure and war headwinds, which likely contributed to the intraday reversal.",
+        "analysis": "Tata Motors fell 1.25% on significant volume, reversing earlier gains. This move followed the release of Q4 FY26 results, a dividend recommendation, and an investor presentation, suggesting the market reacted negatively to the results or forward guidance.",
         "confidence": "high",
         "flags": []
       }
@@ -214,6 +214,13 @@
           "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdk1WVHNMQjlaYmxXdVdWSXlGN3pqWWdSbGxvQmFmbzktTVE2eGVrcXRjSTlReVo4c0tyLThvbDJhT3hwT3cwQlV2MHRzTGRRV1U3OTl4Vk5yOGdqYXNnVzZXYmV0M2RmUXV4WnNxYmNTOWtZcVBjcEkzaHFqVF9Wb3dSOWtoMnM3TVA4TTVVOGVrdk5iRFpUUUxqWWRvN3c1cmdrMGxUMzh6YTJuTXZQSFZfdzRyVmx3OGZXaGlTeWQtMXFjNGZ5NlNiTXJ1TnMyTlhLVzBnamYtWHJy0gHiAUFVX3lxTFBOck5QT2V5ajdIdlFxX2kzLVoyeWJUNHI3NThVdHNHVGdmUm5ucW5jMUpFZHRrLTdtWVRKMkVVSWFobXRzNGI3OVhxNUpfZE9YOVlUM3k3NXJTV1B1UGxZWW5rSjFWNC13V1FFMXZkYXpsT2RnQzFGMzR4d3dxYlZFcGxyaElaNy15M2IwZk1pWGdzV29lVnpQNG1Nc0ROSjdRRnRFdUZ0MUt5RzJudmR2OGNwTGpoZ1lMTmlfWUxQY1hRR3RsLTAwZXZZRjlDektFRllBU2ZFT2U4NXZDQ2FwRUE?oc=5",
           "published_at": "2026-05-14T01:15:44+00:00",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdk1WVHNMQjlaYmxXdVdWSXlGN3pqWWdSbGxvQmFmbzktTVE2eGVrcXRjSTlReVo4c0tyLThvbDJhT3hwT3cwQlV2MHRzTGRRV1U3OTl4Vk5yOGdqYXNnVzZXYmV0M2RmUXV4WnNxYmNTOWtZcVBjcEkzaHFqVF9Wb3dSOWtoMnM3TVA4TTVVOGVrdk5iRFpUUUxqWWRvN3c1cmdrMGxUMzh6YTJuTXZQSFZfdzRyVmx3OGZXaGlTeWQtMXFjNGZ5NlNiTXJ1TnMyTlhLVzBnamYtWHJy0gHiAUFVX3lxTFBOck5QT2V5ajdIdlFxX2kzLVoyeWJUNHI3NThVdH"
+        },
+        {
+          "title": "Tata Motors Passenger Vehicles Limited FY26 Earnings and Strategic Performance Update",
+          "source": "InvestyWise",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTXNXUkVRQjJlYmZJRTl5QUlPT1hlM0hTZ1pxTzVaZ2NqS3NfUjVXbXFfbU9OanI3Qm9acDlMa2NyU1JkVXBqVl9tU0lNemJiNldJQnY2eDdBYXhzaXc3aGw5d3ZPTGE5dm1mdlE5NVFTX0hzUUxYWkhabVJIdGQ2OVk3YUpDMlZCTDNZYjdBTkZJbDRmUUkxWlZNdS1GSnR2V0t4Uw?oc=5",
+          "published_at": "2026-05-14T11:24:30+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOTXNXUkVRQjJlYmZJRTl5QUlPT1hlM0hTZ1pxTzVaZ2NqS3NfUjVXbXFfbU9OanI3Qm9acDlMa2NyU1JkVXBqVl9tU0lNemJiNldJQnY2eDdBYXhzaXc3aGw5d3ZPTGE5dm1mdlE5NVFTX0hzUUxYWkhabVJIdGQ2OVk3YUpDMlZCTDNZYjdBTkZJbDRmUUkxWlZNdS1GSnR2V0t4Uw?oc=5\" target=\"_blank\">Tata Motors Passenger Vehicles Limited FY26 Earnings and Strategic Performance Update</a>&nbsp;&nbsp;<fon"
         },
         {
           "title": "Tata Motors Passenger Vehicles Limited Reports Strong Q4 Performance and Declares Dividend",
@@ -301,8 +308,8 @@
       },
       "analysis": {
         "classification": "catalyst_drove_move",
-        "primary_catalyst": "Q4 FY26 financial results and dividend announcement",
-        "analysis": "The stock saw a modest price increase on average volume, coinciding with the release of Q4 FY26 financial results and a dividend recommendation. The investor presentation and director re-appointment are secondary catalysts.",
+        "primary_catalyst": "Board meeting announced Q4 FY26 financial results and recommended a final dividend.",
+        "analysis": "The stock saw a modest price increase on average volume, coinciding with the announcement of Q4 FY26 financial results and a dividend recommendation. The market appears to have reacted positively to the earnings and dividend payout.",
         "confidence": "medium",
         "flags": []
       }
@@ -367,8 +374,8 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "The stock saw a modest gain of 0.84% on slightly below average volume. No significant catalysts were reported for the day. The price action does not warrant further investigation at this time.",
-        "confidence": "high",
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
         "flags": []
       }
     },
@@ -432,8 +439,8 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "The stock saw a modest gain of 1.62% on below-average volume. There were no significant catalysts reported for the day. The price action does not warrant further investigation at this time.",
-        "confidence": "high",
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
         "flags": []
       }
     },
@@ -503,10 +510,10 @@
         ]
       },
       "analysis": {
-        "classification": "move_without_catalyst",
+        "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Bandhan Bank saw a modest price increase of 2.13% on below-average volume. No significant catalysts were announced or reported to explain the move. The market may be reacting to news from the previous day or anticipating future events.",
-        "confidence": "medium",
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
         "flags": []
       }
     },
@@ -570,8 +577,8 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "The stock experienced a modest gain of 0.35% on elevated volume (1.61x). However, there were no significant catalysts reported for the day. The price action does not warrant a specific classification beyond a routine trading day.",
-        "confidence": "high",
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
         "flags": []
       }
     },
@@ -691,10 +698,10 @@
         ]
       },
       "analysis": {
-        "classification": "catalyst_drove_move",
-        "primary_catalyst": "Company announced crossing 1,000 gold loan branches and released an investor presentation.",
-        "analysis": "Capri Global Capital Limited's stock saw a modest gain on elevated volume, coinciding with the announcement of crossing 1,000 gold loan branches and the release of an investor presentation. This suggests positive market reception to the company's expansion and disclosure.",
-        "confidence": "medium",
+        "classification": "no_signal",
+        "primary_catalyst": null,
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
         "flags": []
       }
     },
@@ -706,15 +713,7 @@
       "skip_catalysts": false,
       "bse_announcements": [],
       "nse_announcements": [],
-      "news": [
-        {
-          "title": "TATAPOWER.NS Misses Earnings Targets in Q1 2026",
-          "source": "Meyka",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWXRtODZ3bm5taElWVWhSenI0eENUMi1yX19yOTNUTnBCa0EtM0FJc3UtSm1xMGRUN1ZUQWNPbkxCNGJCTmxlSzRFZGJfZzltWURid3p2QkdJLXE3b05hZ0JFMVFyRVlJVThSWWx0RXZheTBiMU9ScHFiMi1yUDBjSw?oc=5",
-          "published_at": "2026-05-14T09:47:16+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOWXRtODZ3bm5taElWVWhSenI0eENUMi1yX19yOTNUTnBCa0EtM0FJc3UtSm1xMGRUN1ZUQWNPbkxCNGJCTmxlSzRFZGJfZzltWURid3p2QkdJLXE3b05hZ0JFMVFyRVlJVThSWWx0RXZheTBiMU9ScHFiMi1yUDBjSw?oc=5\" target=\"_blank\">TATAPOWER.NS Misses Earnings Targets in Q1 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Meyka</font>"
-        }
-      ],
+      "news": [],
       "events": [
         {
           "subject": null,
@@ -771,10 +770,10 @@
         ]
       },
       "analysis": {
-        "classification": "catalyst_without_move",
-        "primary_catalyst": "Q1 2026 earnings miss reported",
-        "analysis": "The stock saw a minor uptick despite news of missing Q1 earnings targets. The market may be anticipating a recovery or the miss was already priced in. Investors should monitor future guidance.",
-        "confidence": "medium",
+        "classification": "no_signal",
+        "primary_catalyst": null,
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
         "flags": []
       }
     },
@@ -865,10 +864,10 @@
         ]
       },
       "analysis": {
-        "classification": "move_without_catalyst",
+        "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Suzlon Energy saw a modest price increase on below-average volume. No specific news or filings appear to have driven this movement. The stock is trading within its typical daily range.",
-        "confidence": "medium",
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
         "flags": []
       }
     },
@@ -940,8 +939,8 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "IREDA experienced a modest price increase with below-average trading volume. No significant catalysts were reported that would explain the price action. The stock's movement was within typical daily fluctuations.",
-        "confidence": "high",
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
         "flags": []
       }
     },
@@ -1068,10 +1067,10 @@
         ]
       },
       "analysis": {
-        "classification": "move_without_catalyst",
+        "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "TARIL experienced a notable price decline of 2.25% on below-average volume. No specific catalyst was identified to explain the move. The market may be reacting to broader sector sentiment or anticipating future events.",
-        "confidence": "medium",
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
         "flags": []
       }
     },
@@ -1260,8 +1259,8 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "ITC's price action was flat with below-average volume. Several news articles discussed Input Tax Credit (ITC) fraud cases and legal challenges, but these do not appear to have impacted ITC Limited's stock price. The company is scheduled to announce its Q4FY26 results next week.",
-        "confidence": "high",
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
         "flags": []
       }
     },
@@ -1393,8 +1392,8 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "The stock experienced a modest price increase on below-average volume. There were no significant catalysts reported for the trading day. The upcoming earnings announcement is a potential future catalyst.",
-        "confidence": "high",
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
         "flags": []
       }
     },
@@ -1458,8 +1457,8 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "The stock saw a marginal price increase on low volume. No significant catalysts were reported. The price action was within normal trading ranges.",
-        "confidence": "high",
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
         "flags": []
       }
     },
@@ -1523,8 +1522,8 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "The stock experienced a marginal price decline on below-average volume. No significant catalysts were reported for the trading day. The price action does not warrant further immediate investigation.",
-        "confidence": "high",
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
         "flags": []
       }
     },
@@ -1655,10 +1654,10 @@
         ]
       },
       "analysis": {
-        "classification": "move_without_catalyst",
+        "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "The stock experienced a moderate price increase of 1.77% on below-average volume. No specific catalyst was identified to explain the move. The market may be reacting to news from the previous day or anticipating future events.",
-        "confidence": "medium",
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
         "flags": []
       }
     },
