@@ -1,7 +1,7 @@
 {
   "report_date": "2026-05-15",
   "trading_day": "2026-05-14",
-  "generated_at": "2026-05-14T16:57:54.045124+05:30",
+  "generated_at": "2026-05-14T19:08:37.603865+05:30",
   "stocks": [
     {
       "symbol": "TMCV",
@@ -10,6 +10,24 @@
       "notes": "Post-demerger CV business (trucks, buses, Iveco). Yahoo uses TMCV; NSE uses TATAMOTORS.",
       "skip_catalysts": false,
       "bse_announcements": [
+        {
+          "headline": "Pursuant to Regulation 30 of SEBI LODR Regulations 2015, please find enclosed herewith an intimation regarding adoption of Tata Motors Passenger Vehicles Limited Share-based Long Term Incentive Scheme 2026.",
+          "category": "Company Update",
+          "subcategory": null,
+          "more_info": "",
+          "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/9fb90c5d-b056-44f8-baef-e8fe81abeaf6.pdf",
+          "attached_at": "2026-05-14T17:24:59",
+          "source": "BSE"
+        },
+        {
+          "headline": "Pursuant to Regulation 30 of SEBI LODR Regulations, 2015, please find enclosed herewith an intimation regarding change in Senior Management Personnel.",
+          "category": "Company Update",
+          "subcategory": null,
+          "more_info": "",
+          "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/9b32871d-18ce-42ce-8cc2-f4cfdd1806db.pdf",
+          "attached_at": "2026-05-14T17:01:53",
+          "source": "BSE"
+        },
         {
           "headline": "Pursuant to Regulation 30 of SEBI Listing Regulations 2015, please find enclosed herewith Investor Presentation on the Financial Results for the fourth quarter and financial year ended March 31, 2026.",
           "category": "Company Update",
@@ -75,6 +93,13 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQZUNUR1g1cUE2eVYwSzczdnBGczVyT0RHMFhNcDZJNmhkQkpkRXdDWXpOR0ZnZV9nRjhqOGFuaXgwMEFEeDh4X2t0aWlCZnZmNEhnWS01ZlNCQ016Um1UNnFOOV9OUnNIdjJwalo1NDkwT0VNVjJEck44alVIcmhFejkwUXdINzQ4WVBuREw3VUpIbnFZVjQyb2xqZ1VOSnQxd2pEdUp3TjM1b2d4ZmxvcHV1YmtzOW5PNUx3dTBORWkzMzEzZ191WnNR0gHPAUFVX3lxTE5yenNnV1dvVW02TU1hMFlDT2hHcGtpbEItbkp4MHBnMjlZeTduYkZaQk5ySmFJZk"
         },
         {
+          "title": "Tata Motors (TMCV) shares: Target price trimmed but still a 'Buy' - Iveco, Tata Capital factors at play",
+          "source": "Business Today",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQVVpZaWZuNlQ4VHhuSjZxbWx0c0FBYXpfZml2RUZ4ZXVNN3JYV2xLM21QbU5fUzlaX0xLR2JUQXZqNlFEZ1FTWXpKcldXckh5T2tDY1dvNEM3MjlMbDIwWk5LRllMcThVeGlYLVZwNjJmQk5fRU9DdTN6LVNlX2hxeXlfcUlxUVhfc2licGxlNWNJd3k5YzE1ZWdvOGpTUml5TWpnaDdfMktKbHRnQzliOTIxUmhtczFxSEJZZWp3UFc4eWN6c0hxZE02bVlIUFcxTVNrNVhvbTJkR01vRlV2U05YRk9ZX3ZXYUowNWZxRHUwZVM2M2fSAfsBQVVfeXFMT2M1bEJHQ0JhNllBbS1oWTJqMERWSF8xOHFnY3AzRE0zdlUwZUVaVXpoa1lJVF91TVI5ZFQtTHB2VXUxUXpGMEZTMXlDNG1IY1hIalZfTmMxdFdyVGpSTXpqT3pJMUZzOGVEenNfUElaczRvVUduc0pfb0FhSnFIZC1BS1F6amxVSndJMk1VNnRReFdvSFVxMXNPMWw4d05QbVUyMmVlMmJOY1FXY3FhakZlMl9aMHA4YUlWUlZPVjQ4UW5wNnh3UnFZTmdNZ0I1QmlOSGFKRVJsTnRjUlJSVWphRHhxQTVQZmVlQnJCOTRKNTFCb0xQN21tdEE?oc=5",
+          "published_at": "2026-05-14T12:28:35+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxQVVpZaWZuNlQ4VHhuSjZxbWx0c0FBYXpfZml2RUZ4ZXVNN3JYV2xLM21QbU5fUzlaX0xLR2JUQXZqNlFEZ1FTWXpKcldXckh5T2tDY1dvNEM3MjlMbDIwWk5LRllMcThVeGlYLVZwNjJmQk5fRU9DdTN6LVNlX2hxeXlfcUlxUVhfc2licGxlNWNJd3k5YzE1ZWdvOGpTUml5TWpnaDdfMktKbHRnQzliOTIxUmhtczFxSEJZZWp3UFc4eWN6c0hxZE02bVlIUFcxTVNrNVhvbTJkR01vRlV2U05YRk9ZX3ZXYUowNWZxRHUwZVM2M2fSAfsBQVVfeXFMT2M1bE"
+        },
+        {
           "title": "TMCV Shares Slip 4% as CEO Flags War Headwinds Despite Q4 Beat",
           "source": "Equitypandit",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPX3BMQU9pZmRSbWIyMWxvc0NRUkJwMjVMdWhVeEEwN3JpR2lMQ3EzZm1lbmEyQWJ5dF9RQmN5SDVmd0ZBZnBhY0lXbUVaZ1RZaUVONG5XbWxJdlNQNHdDUXNhby0zYkd3cGREQk15RlcxVVJCTU9rY1I3am9UQm1RTlVIakpWWHFFcWpoR0NOUTRUX2dYY3c?oc=5",
@@ -89,18 +114,18 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPTzRjcVVuazI4WjlwU0NSSjJzY2diNXpOeGRSYTE5U2tuOW1ySzZQTkN6SWNPdW1xZ1dGQ2xXR1BseExXUFluY19SUDRoNGxJVENXb3l3cUpYY2NIUDFzWjVWUHhQVldkUWNsM3JfSFFIekZLMVo1YkRlR2JHcXIwME95eU9iN0N5dGtPeU8tdFliYnVZVmZsRV9WdmVqNzMyRHotSTYzbWcxVl9tWjFFc3h1RXpWcm5GTWc?oc=5\" target=\"_blank\">Buy Tata Motors; target of Rs 600: Emkay Global Financial</a>&nbsp;&nbsp;<fo"
         },
         {
-          "title": "Top stocks in news: Airtel, TMCV, Zydus Life, DLF, LIC Housing, NBCC, Anant Raj, Sugar Cos",
-          "source": "Business Today",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNaTkyWUFnS2NhWHh0UWY4VGQ4cDltVUhId0V3ZUN5X0U5WnVfVjhJcG8zc3I3YUUzVS15RGlKbEFYZjVaNDBqV05Ka0tQSlNIZHoyZU5VRFdpR3NfTTRtei1RQXA3bGFUS2c0VHFYbFJGMlotc1hnWHRMT3djdWFfcl84ckdxZ0Vrc0hoSkI0YmtkWjh6c0FHRmlwNV9rSDB2UFFqVjVPQm05Z21FWE8xOTZGbC0yTmhDOC01aGk4aWJHSHFyZEtqT3RQWGJJVl95akpHNE5uYXFrWXBRc2w5WERQaUHSAeoBQVVfeXFMTU5rcno3S1lGaVRmRmg1QUE4T09pQ2pSRXJraHlJV2hoOURSWEp0LTljTldPRTlSTGV2SVlDOHI5RF9wTDdhQ09icTdpRUg3aGE0MjFBVGVBWjE3WEdrVHlSbkxZR1JrWXFMbjYtSmhaenFmTGlVVVZCTUxJZ25lZjFwdmZCTzI5aldoa3hIMmp1RDRwc2lYQjE3TnFEam9zczVidVc3UEhka002YjdzV3RrQlp6VWlVVzFKTEpJcDZNaXY0MXZQdVpqZlZEQjlTNmkybEdyNHVyV3czTFYtWHZwVV8yVDI5dXNB?oc=5",
-          "published_at": "2026-05-14T01:40:50+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNaTkyWUFnS2NhWHh0UWY4VGQ4cDltVUhId0V3ZUN5X0U5WnVfVjhJcG8zc3I3YUUzVS15RGlKbEFYZjVaNDBqV05Ka0tQSlNIZHoyZU5VRFdpR3NfTTRtei1RQXA3bGFUS2c0VHFYbFJGMlotc1hnWHRMT3djdWFfcl84ckdxZ0Vrc0hoSkI0YmtkWjh6c0FHRmlwNV9rSDB2UFFqVjVPQm05Z21FWE8xOTZGbC0yTmhDOC01aGk4aWJHSHFyZEtqT3RQWGJJVl95akpHNE5uYXFrWXBRc2w5WERQaUHSAeoBQVVfeXFMTU5rcno3S1lGaVRmRmg1QUE4T09pQ2"
-        },
-        {
           "title": "Tata Motors Shares Plummet Over 4% After Posting Solid Q4 FY26 Results",
           "source": "Republic World",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbGVDdFJBU2p5OWhCOUpfUG1CZGNZTy1FbUZfMUV3dFdXMWhzSGFHclpKT3llMFRTSmdmNUM2akllREp2T04xemQxbmxDUjZzTFAzZXNhUXhSUlhta2I5RF8wUzlHQXNMMWt0ck82eEVWeHFIWjY1eWU2b2tjX3NsSlVaWUJHQjNvWkQ3ZVkyQWx6Z1Ixc2QtU0pxVXNQclM1UE5WRUFMVHpDR0d3SzF0emlHN0Z6MWFNSnhOUTB2bXM1Z2tu0gHKAUFVX3lxTFBoZThuc0thVENETGtlNjg0VkxkNW1wVV9QUFJ6bm1VbjJrWWh2dnFJV2ZObjd5Vjc0OExtYmgtWnVhWW5VM3JvamZsaGdTZ0FvWFRPMEtzWEE0ckFSbHZSV0tRSkc3SnpIZlFHSlVRNVhaamdnU2xUNTJuWlo4OHZ6dkNQREVlZk1BenB1dm81QzBhRUh4VEJNM05QcUNHNnJad0o4UE5lWTdkMDUwNFJpSUgweURJM0tmeVZaYzRvVnIxZ19Ya3lsRUE?oc=5",
           "published_at": "2026-05-14T04:33:41+00:00",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNbGVDdFJBU2p5OWhCOUpfUG1CZGNZTy1FbUZfMUV3dFdXMWhzSGFHclpKT3llMFRTSmdmNUM2akllREp2T04xemQxbmxDUjZzTFAzZXNhUXhSUlhta2I5RF8wUzlHQXNMMWt0ck82eEVWeHFIWjY1eWU2b2tjX3NsSlVaWUJHQjNvWkQ3ZVkyQWx6Z1Ixc2QtU0pxVXNQclM1UE5WRUFMVHpDR0d3SzF0emlHN0Z6MWFNSnhOUTB2bXM1Z2tu0gHKAUFVX3lxTFBoZThuc0thVENETGtlNjg0VkxkNW1wVV9QUFJ6bm1VbjJrWWh2dnFJV2ZObjd5Vjc0OExtYm"
+        },
+        {
+          "title": "Top stocks in news: Airtel, TMCV, Zydus Life, DLF, LIC Housing, NBCC, Anant Raj, Sugar Cos",
+          "source": "Business Today",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNaTkyWUFnS2NhWHh0UWY4VGQ4cDltVUhId0V3ZUN5X0U5WnVfVjhJcG8zc3I3YUUzVS15RGlKbEFYZjVaNDBqV05Ka0tQSlNIZHoyZU5VRFdpR3NfTTRtei1RQXA3bGFUS2c0VHFYbFJGMlotc1hnWHRMT3djdWFfcl84ckdxZ0Vrc0hoSkI0YmtkWjh6c0FHRmlwNV9rSDB2UFFqVjVPQm05Z21FWE8xOTZGbC0yTmhDOC01aGk4aWJHSHFyZEtqT3RQWGJJVl95akpHNE5uYXFrWXBRc2w5WERQaUHSAeoBQVVfeXFMTU5rcno3S1lGaVRmRmg1QUE4T09pQ2pSRXJraHlJV2hoOURSWEp0LTljTldPRTlSTGV2SVlDOHI5RF9wTDdhQ09icTdpRUg3aGE0MjFBVGVBWjE3WEdrVHlSbkxZR1JrWXFMbjYtSmhaenFmTGlVVVZCTUxJZ25lZjFwdmZCTzI5aldoa3hIMmp1RDRwc2lYQjE3TnFEam9zczVidVc3UEhka002YjdzV3RrQlp6VWlVVzFKTEpJcDZNaXY0MXZQdVpqZlZEQjlTNmkybEdyNHVyV3czTFYtWHZwVV8yVDI5dXNB?oc=5",
+          "published_at": "2026-05-14T01:40:50+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNaTkyWUFnS2NhWHh0UWY4VGQ4cDltVUhId0V3ZUN5X0U5WnVfVjhJcG8zc3I3YUUzVS15RGlKbEFYZjVaNDBqV05Ka0tQSlNIZHoyZU5VRFdpR3NfTTRtei1RQXA3bGFUS2c0VHFYbFJGMlotc1hnWHRMT3djdWFfcl84ckdxZ0Vrc0hoSkI0YmtkWjh6c0FHRmlwNV9rSDB2UFFqVjVPQm05Z21FWE8xOTZGbC0yTmhDOC01aGk4aWJHSHFyZEtqT3RQWGJJVl95akpHNE5uYXFrWXBRc2w5WERQaUHSAeoBQVVfeXFMTU5rcno3S1lGaVRmRmg1QUE4T09pQ2"
         }
       ],
       "events": [
@@ -159,11 +184,13 @@
         ]
       },
       "analysis": {
-        "classification": "catalyst_drove_move",
-        "primary_catalyst": "Company announced Q4 FY26 results, recommended final dividend, and investor presentation.",
-        "analysis": "Tata Motors fell 1.25% on significant volume, reversing earlier gains. This move followed the release of Q4 FY26 results, a dividend recommendation, and an investor presentation, suggesting the market reacted negatively to the results or forward guidance.",
-        "confidence": "high",
-        "flags": []
+        "classification": "move_without_catalyst",
+        "primary_catalyst": null,
+        "analysis": "Tata Motors shares fell 1.25% despite a strong Q4 performance, with the CEO flagging war headwinds as a concern. The stock's intraday range was 7.42%, with a volume ratio of 3.98, indicating elevated trading activity. This move without a clear catalyst, combined with high volume, may indicate a possible leak or flow.",
+        "confidence": "medium",
+        "flags": [
+          "POSSIBLE_LEAK_OR_FLOW"
+        ]
       }
     },
     {
@@ -174,6 +201,30 @@
       "skip_catalysts": false,
       "bse_announcements": [],
       "nse_announcements": [
+        {
+          "headline": "Resignation of Director/KMP/SMP",
+          "category": null,
+          "more_info": "Tata Motors Passenger Vehicles Limited has informed the Exchange about Resignation of Director/KMP/SMP",
+          "pdf_url": "https://nsearchives.nseindia.com/corporate/TMPV_ROID_85921_KMP_Doc.zip",
+          "attached_at": "14-May-2026 18:02:51",
+          "source": "NSE"
+        },
+        {
+          "headline": "Outcome of Board Meeting",
+          "category": null,
+          "more_info": "Tata Motors Passenger Vehicles Limited has informed the Exchange regarding adoption of  Tata Motors Passenger Vehicles Limited Share-based Long Term Incentive Scheme 2026 .",
+          "pdf_url": "https://nsearchives.nseindia.com/corporate/TATAMOTORSSJS_14052026172723_NSEBSELETTERESOPSCHEME.pdf",
+          "attached_at": "14-May-2026 17:28:49",
+          "source": "NSE"
+        },
+        {
+          "headline": "Outcome of Board Meeting",
+          "category": null,
+          "more_info": "Tata Motors Passenger Vehicles Limited has informed the Exchange regarding Change in Senior Management Personnel.",
+          "pdf_url": "https://nsearchives.nseindia.com/corporate/TATAMOTORSSJS_14052026170253_NSEBSESMPPV.pdf",
+          "attached_at": "14-May-2026 17:03:11",
+          "source": "NSE"
+        },
         {
           "headline": "Investor Presentation",
           "category": null,
@@ -209,6 +260,13 @@
       ],
       "news": [
         {
+          "title": "TMPV: Record volumes and strong Q4 recovery drive growth despite JLR and market challenges",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOcFVPOTkzRGRHTXpndDhRVFZFMGwxYzdzdGdfU050c3JZeVVhU2tpaHVhWmFjcGtsR3RXRnVFSHFxbzhYejFyNnhsOVRwYVFobjdqTXVNMFgxX09RYUNFb1VpX1JRLXJBUndid1IzTjJzc1dySzA1cklYNHl0TjFvMUdHeWQwaTJLakhWTTRsVTJhdUFHdDBHSE9mTU8xaHQ0V3hPUWVIMG5KektxV1p0c0ZocktuQjhmVjFpelRxcUlMcUI2ZFlld19UMjh0aFQwV29ReHFESHAwd0lTdnE1WWhKMlVoZFBHZWhzbDl5M3c3XzBFUENQdXJxY1RXekhSdnc?oc=5",
+          "published_at": "2026-05-14T11:36:36+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxOcFVPOTkzRGRHTXpndDhRVFZFMGwxYzdzdGdfU050c3JZeVVhU2tpaHVhWmFjcGtsR3RXRnVFSHFxbzhYejFyNnhsOVRwYVFobjdqTXVNMFgxX09RYUNFb1VpX1JRLXJBUndid1IzTjJzc1dySzA1cklYNHl0TjFvMUdHeWQwaTJLakhWTTRsVTJhdUFHdDBHSE9mTU8xaHQ0V3hPUWVIMG5KektxV1p0c0ZocktuQjhmVjFpelRxcUlMcUI2ZFlld19UMjh0aFQwV29ReHFESHAwd0lTdnE1WWhKMlVoZFBHZWhzbDl5M3c3XzBFUENQdXJxY1RXekhSdnc?oc"
+        },
+        {
           "title": "Stocks in news: HAL, TMPV, Bharti Airtel, Anant Raj, Zydus Life, Tata Motors",
           "source": "The Economic Times",
           "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdk1WVHNMQjlaYmxXdVdWSXlGN3pqWWdSbGxvQmFmbzktTVE2eGVrcXRjSTlReVo4c0tyLThvbDJhT3hwT3cwQlV2MHRzTGRRV1U3OTl4Vk5yOGdqYXNnVzZXYmV0M2RmUXV4WnNxYmNTOWtZcVBjcEkzaHFqVF9Wb3dSOWtoMnM3TVA4TTVVOGVrdk5iRFpUUUxqWWRvN3c1cmdrMGxUMzh6YTJuTXZQSFZfdzRyVmx3OGZXaGlTeWQtMXFjNGZ5NlNiTXJ1TnMyTlhLVzBnamYtWHJy0gHiAUFVX3lxTFBOck5QT2V5ajdIdlFxX2kzLVoyeWJUNHI3NThVdHNHVGdmUm5ucW5jMUpFZHRrLTdtWVRKMkVVSWFobXRzNGI3OVhxNUpfZE9YOVlUM3k3NXJTV1B1UGxZWW5rSjFWNC13V1FFMXZkYXpsT2RnQzFGMzR4d3dxYlZFcGxyaElaNy15M2IwZk1pWGdzV29lVnpQNG1Nc0ROSjdRRnRFdUZ0MUt5RzJudmR2OGNwTGpoZ1lMTmlfWUxQY1hRR3RsLTAwZXZZRjlDektFRllBU2ZFT2U4NXZDQ2FwRUE?oc=5",
@@ -223,6 +281,13 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOTXNXUkVRQjJlYmZJRTl5QUlPT1hlM0hTZ1pxTzVaZ2NqS3NfUjVXbXFfbU9OanI3Qm9acDlMa2NyU1JkVXBqVl9tU0lNemJiNldJQnY2eDdBYXhzaXc3aGw5d3ZPTGE5dm1mdlE5NVFTX0hzUUxYWkhabVJIdGQ2OVk3YUpDMlZCTDNZYjdBTkZJbDRmUUkxWlZNdS1GSnR2V0t4Uw?oc=5\" target=\"_blank\">Tata Motors Passenger Vehicles Limited FY26 Earnings and Strategic Performance Update</a>&nbsp;&nbsp;<fon"
         },
         {
+          "title": "TMPV: Q4 FY26 delivered strong domestic growth and EV momentum, offsetting global headwinds",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOQzNYZTRZV1hrSjRKS1haTldnbGtKaEpEYWtHVXJFeXJXMmdiMXJoeF8yOEhuOFYyWG1Pc3RQU2FPcDFxWE9kYzlwZUhEYVp5cWQ0M0Z2NE5NRlNPcUlLQ2JLY0hZaVpZSjZKdXh2ZTM3X19rUVdZRy11bjZ3eTlqbG9hY2Z6eXhZSlBsaFNsVUQyVEJLUnE0V2JUY0FxQ2o3RFh5RGlsX29UY3N5aV9hYzlyQkY2YW12eWZiWGNUbTlKbGFVeWdVUC1VLTY4VU1TZ1JfNmg5aEtlQkxaOEpLTnZQWVBrSWFoWG42TTA2RnFrSk1aOUItX1Q0bDZrMElNcGc?oc=5",
+          "published_at": "2026-05-14T11:04:55+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxOQzNYZTRZV1hrSjRKS1haTldnbGtKaEpEYWtHVXJFeXJXMmdiMXJoeF8yOEhuOFYyWG1Pc3RQU2FPcDFxWE9kYzlwZUhEYVp5cWQ0M0Z2NE5NRlNPcUlLQ2JLY0hZaVpZSjZKdXh2ZTM3X19rUVdZRy11bjZ3eTlqbG9hY2Z6eXhZSlBsaFNsVUQyVEJLUnE0V2JUY0FxQ2o3RFh5RGlsX29UY3N5aV9hYzlyQkY2YW12eWZiWGNUbTlKbGFVeWdVUC1VLTY4VU1TZ1JfNmg5aEtlQkxaOEpLTnZQWVBrSWFoWG42TTA2RnFrSk1aOUItX1Q0bDZrMElNcGc?oc"
+        },
+        {
           "title": "Tata Motors Passenger Vehicles Limited Reports Strong Q4 Performance and Declares Dividend",
           "source": "InvestyWise",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcDFNX2p1dVBPUFdzYWZabHFzYjktV19WSkxfV3RSRFFwYXhqRmJSN0lXbGtIYm43dWtFY2MzbU9WcGgycnVtZnRPdEJaQkN1RTVVWF9YSkZHREw5WGlYVkt2LTFCTmNSRFJoaGtiRUdDM0lCU0pjMG91emFmdnN2bk5Cd3NISEg2U09NX0s3a0E0VUJsblZ1VQ?oc=5",
@@ -230,25 +295,25 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOcDFNX2p1dVBPUFdzYWZabHFzYjktV19WSkxfV3RSRFFwYXhqRmJSN0lXbGtIYm43dWtFY2MzbU9WcGgycnVtZnRPdEJaQkN1RTVVWF9YSkZHREw5WGlYVkt2LTFCTmNSRFJoaGtiRUdDM0lCU0pjMG91emFmdnN2bk5Cd3NISEg2U09NX0s3a0E0VUJsblZ1VQ?oc=5\" target=\"_blank\">Tata Motors Passenger Vehicles Limited Reports Strong Q4 Performance and Declares Dividend</a>&nbsp;&nbsp;<font color=\"#6"
         },
         {
+          "title": "Tata Motors Passenger Vehicles Limited Board Approves Long-Term Incentive Scheme 2026",
+          "source": "InvestyWise",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWG5KR21nWEZITmlaaE9mT1B6VEh4UThzWTl3TXJQSkJjWGliSmxWMFctSXNEVURiNXRuYXM3ZS0xOG81R0MxZG9LaF80MVlQcnZBdXVYbTBvRUJVSWtZdzFMZElxTTYyMlBkY2lhZjZtZ1JuVDlXeklUaWk2UlhSenhZZUxCVTVmSGt3SUVJUXZQQW9FSGtkQw?oc=5",
+          "published_at": "2026-05-14T11:59:54+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNWG5KR21nWEZITmlaaE9mT1B6VEh4UThzWTl3TXJQSkJjWGliSmxWMFctSXNEVURiNXRuYXM3ZS0xOG81R0MxZG9LaF80MVlQcnZBdXVYbTBvRUJVSWtZdzFMZElxTTYyMlBkY2lhZjZtZ1JuVDlXeklUaWk2UlhSenhZZUxCVTVmSGt3SUVJUXZQQW9FSGtkQw?oc=5\" target=\"_blank\">Tata Motors Passenger Vehicles Limited Board Approves Long-Term Incentive Scheme 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f"
+        },
+        {
+          "title": "Tata Motors Passenger Vehicles Limited Senior Management Leadership Transition Announced",
+          "source": "InvestyWise",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOd1VhQjRoR09WbFRSX1I0bjQ3NDdBTm9IUGVMQ2FPR1l0aXl1Y2U2V3hkYUZTQlFMLTZudUZFWTZ5eldUZWlwNmJtcWJwMFF4NGg3NEpEcEpncDdDWWpMTWJMTHlVbW4zbWpCUVE0Vnh2emJPeXJ5Z3V4WXFyZ1poMzR6QWllLTE0bjJUQg?oc=5",
+          "published_at": "2026-05-14T11:34:32+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOd1VhQjRoR09WbFRSX1I0bjQ3NDdBTm9IUGVMQ2FPR1l0aXl1Y2U2V3hkYUZTQlFMLTZudUZFWTZ5eldUZWlwNmJtcWJwMFF4NGg3NEpEcEpncDdDWWpMTWJMTHlVbW4zbWpCUVE0Vnh2emJPeXJ5Z3V4WXFyZ1poMzR6QWllLTE0bjJUQg?oc=5\" target=\"_blank\">Tata Motors Passenger Vehicles Limited Senior Management Leadership Transition Announced</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">InvestyWise"
+        },
+        {
           "title": "Tata Motors Passenger Vehicles Limited Re-appointment of Al-Noor Ramji as Independent Director",
           "source": "InvestyWise",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQb25FYjVJNWR4amU4cVliUEVDWkJ3Z29vekItcmtYcEtpd1A0QkNsZ0Rjb2phb3VUM3NXX19jWFpQSlQwNi1PSXRkc0pXY1U0V291WGVTRHVsc2lZczBQNENySjdxR2poNndEcVl4SkVRWGVscVJJdVB3TVktQVV1MkJtLTNKbWt0SVZvRTZHTjNmMHJ3eHE3Z18tWWJtZWtp?oc=5",
           "published_at": "2026-05-14T11:14:30+00:00",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQb25FYjVJNWR4amU4cVliUEVDWkJ3Z29vekItcmtYcEtpd1A0QkNsZ0Rjb2phb3VUM3NXX19jWFpQSlQwNi1PSXRkc0pXY1U0V291WGVTRHVsc2lZczBQNENySjdxR2poNndEcVl4SkVRWGVscVJJdVB3TVktQVV1MkJtLTNKbWt0SVZvRTZHTjNmMHJ3eHE3Z18tWWJtZWtp?oc=5\" target=\"_blank\">Tata Motors Passenger Vehicles Limited Re-appointment of Al-Noor Ramji as Independent Director</a>&nbsp;&nbsp;<"
-        },
-        {
-          "title": "Tata Motors Passenger Vehicles Limited Reports Q4 FY26 Financial Performance",
-          "source": "InvestyWise",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQY21TcTViN3VYNFNyVGpUTEVjY0o1Z05FYmZ1dThFWUppN2ZoUWI1WUNjdldCZG1nenpiVGdUbWNZbUNBdGNGaDVrT0RlcjdCaTRKeklvc1FrU1RRQmFIaGxqMXlCQlZvbl9sLVVhdXk2NUxybEwtSWJvOGRIOHpxNWhHekc2WWxObjFLbERYUVhNb1RKOU1TU0s3aFlBYUk?oc=5",
-          "published_at": "2026-05-14T11:09:47+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQY21TcTViN3VYNFNyVGpUTEVjY0o1Z05FYmZ1dThFWUppN2ZoUWI1WUNjdldCZG1nenpiVGdUbWNZbUNBdGNGaDVrT0RlcjdCaTRKeklvc1FrU1RRQmFIaGxqMXlCQlZvbl9sLVVhdXk2NUxybEwtSWJvOGRIOHpxNWhHekc2WWxObjFLbERYUVhNb1RKOU1TU0s3aFlBYUk?oc=5\" target=\"_blank\">Tata Motors Passenger Vehicles Limited Reports Q4 FY26 Financial Performance</a>&nbsp;&nbsp;<font color=\"#6f6f6f"
-        },
-        {
-          "title": "Tata Motors Passenger Vehicles Limited Reports Q4 and Full-Year FY26 Financial Results",
-          "source": "InvestyWise",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZmN6VHY0QWhXTzVhZHVNLVdrOXdXSlFzU01obW8tREluaVJMbFctbzJjVng5SkRMVmNyYXpyVllUZ1lleVpSQTlSQWZYTHlvOVZLM1RZeWdZV0tmcVBhZFE2bHpUS2VtdV9DWFN6bUF3YmlRdDZTdGxtdVE2V0U5aGpzRjhXcl9BYlBiZXFuczlubVllNFU4T1lDWjMwcUZZTWVFNnV5LXNzRWFCbldMSGVuQW92d0U3Ukxr?oc=5",
-          "published_at": "2026-05-14T11:04:30+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZmN6VHY0QWhXTzVhZHVNLVdrOXdXSlFzU01obW8tREluaVJMbFctbzJjVng5SkRMVmNyYXpyVllUZ1lleVpSQTlSQWZYTHlvOVZLM1RZeWdZV0tmcVBhZFE2bHpUS2VtdV9DWFN6bUF3YmlRdDZTdGxtdVE2V0U5aGpzRjhXcl9BYlBiZXFuczlubVllNFU4T1lDWjMwcUZZTWVFNnV5LXNzRWFCbldMSGVuQW92d0U3Ukxr?oc=5\" target=\"_blank\">Tata Motors Passenger Vehicles Limited Reports Q4 and Full-Year FY26 Financ"
         }
       ],
       "events": [
@@ -308,8 +373,8 @@
       },
       "analysis": {
         "classification": "catalyst_drove_move",
-        "primary_catalyst": "Board meeting announced Q4 FY26 financial results and recommended a final dividend.",
-        "analysis": "The stock saw a modest price increase on average volume, coinciding with the announcement of Q4 FY26 financial results and a dividend recommendation. The market appears to have reacted positively to the earnings and dividend payout.",
+        "primary_catalyst": "Tata Motors Passenger Vehicles Limited recommended Final Dividend of Rs. 3 per equity share",
+        "analysis": "The stock price rose 0.56% following the announcement of a final dividend of Rs. 3 per equity share, indicating a positive market reaction to the news. The company also reported strong Q4 performance, which may have contributed to the price increase. The dividend announcement is likely the primary catalyst for the price move.",
         "confidence": "medium",
         "flags": []
       }
@@ -374,8 +439,8 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Automated analysis unavailable; review raw catalysts below.",
-        "confidence": "low",
+        "analysis": "ICICI Bank's stock price rose 0.84% with below-average volume, lacking a clear catalyst. The move was relatively muted and did not exhibit meaningful elevated volume. The bank's stock may be due for a reevaluation in the absence of significant news or events.",
+        "confidence": "medium",
         "flags": []
       }
     },
@@ -437,9 +502,9 @@
         ]
       },
       "analysis": {
-        "classification": "no_signal",
+        "classification": "move_without_catalyst",
         "primary_catalyst": null,
-        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "analysis": "HDFC Life Insurance Company Limited saw a 1.62% increase in price with below-average volume, lacking a clear catalyst. The move may be a sign of underlying strength, but the lack of volume and catalyst makes it less convincing. Further monitoring is required to confirm the trend.",
         "confidence": "low",
         "flags": []
       }
@@ -510,10 +575,10 @@
         ]
       },
       "analysis": {
-        "classification": "no_signal",
+        "classification": "move_without_catalyst",
         "primary_catalyst": null,
-        "analysis": "Automated analysis unavailable; review raw catalysts below.",
-        "confidence": "low",
+        "analysis": "Bandhan Bank's stock price rose 2.13% with below-average volume, lacking a clear catalyst. The move may be driven by market sentiment or other unreported factors. Investors should monitor the stock for further developments.",
+        "confidence": "medium",
         "flags": []
       }
     },
@@ -577,8 +642,8 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Automated analysis unavailable; review raw catalysts below.",
-        "confidence": "low",
+        "analysis": "IDFC First Bank's stock price rose 0.35% with elevated volume, but the move was not significant enough to be driven by a catalyst. The stock's intraday range was 2.49%, but no news or announcements were made. The bank's stock is likely to be range-bound in the near term.",
+        "confidence": "medium",
         "flags": []
       }
     },
@@ -627,6 +692,13 @@
         }
       ],
       "news": [
+        {
+          "title": "CGCL: FY26 AUM up 60% YoY, PAT nearly doubled, with robust asset quality and tech-driven growth",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQWWdncFFDM3pNbGhXVmRXT2drZWpKU2tMeXl0T2FCbHJlaFJFREtqVzdaWllESktFQ2FKaVN2VVVEQjFCakZ5b184WTdCazlXS2hLZVlwTjdUS3NsNWkxLXFwMHpsc1FubXNONDlCMEc3MHNaYTBCdjVsbnJkMkluZS1oZGVvbTZfSHdwWTl2aWQxWmVRSjRyc2RhTW5WaWwySTZWLWRmY1hnQ2FRcDRzVW90V254c0tpNlplcFlRVXNQel9Ub0EwT3ktbFM3RjNIWVZTOVhkaUw5YUxLNHFtaUJvYy00dng3RkNWQlQ3anFLVmVweWpMbUROWVd4cm9SWFd2LQ?oc=5",
+          "published_at": "2026-05-14T11:21:42+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxQWWdncFFDM3pNbGhXVmRXT2drZWpKU2tMeXl0T2FCbHJlaFJFREtqVzdaWllESktFQ2FKaVN2VVVEQjFCakZ5b184WTdCazlXS2hLZVlwTjdUS3NsNWkxLXFwMHpsc1FubXNONDlCMEc3MHNaYTBCdjVsbnJkMkluZS1oZGVvbTZfSHdwWTl2aWQxWmVRSjRyc2RhTW5WaWwySTZWLWRmY1hnQ2FRcDRzVW90V254c0tpNlplcFlRVXNQel9Ub0EwT3ktbFM3RjNIWVZTOVhkaUw5YUxLNHFtaUJvYy00dng3RkNWQlQ3anFLVmVweWpMbUROWVd4cm9SWFd2LQ"
+        },
         {
           "title": "Color-coated steel prices: Beijing (May 13, 2026 19:21)",
           "source": "Mysteel",
@@ -698,9 +770,9 @@
         ]
       },
       "analysis": {
-        "classification": "no_signal",
+        "classification": "move_without_catalyst",
         "primary_catalyst": null,
-        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "analysis": "CGCL's stock price rose 1.04% with a volume ratio of 1.03, but no clear catalyst was found to drive this move. The company did release a press release about crossing 1,000 Gold Loan Branches across India, but it does not seem to have had a significant impact on the stock price. The news about the company's FY26 AUM and PAT also does not seem to have driven the price action.",
         "confidence": "low",
         "flags": []
       }
@@ -772,8 +844,8 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Automated analysis unavailable; review raw catalysts below.",
-        "confidence": "low",
+        "analysis": "Tata Power Company Limited saw a modest 0.84% gain with below-average volume, lacking a clear catalyst to explain the move. The recent financial results announcement may have had a muted impact. The stock's price action does not suggest any significant reaction to recent events.",
+        "confidence": "medium",
         "flags": []
       }
     },
@@ -866,8 +938,8 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Automated analysis unavailable; review raw catalysts below.",
-        "confidence": "low",
+        "analysis": "Suzlon Energy's stock price rose 0.7% with below-average volume, lacking a clear catalyst to drive the move. The news articles published on the day were neutral and did not seem to have a significant impact on the stock price. The company's return to Europe and comparison with other energy infra stocks were among the topics discussed.",
+        "confidence": "medium",
         "flags": []
       }
     },
@@ -939,8 +1011,8 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Automated analysis unavailable; review raw catalysts below.",
-        "confidence": "low",
+        "analysis": "IREDA's stock price closed 0.29% higher, with a volume ratio of 0.72, indicating a relatively quiet trading day. The news article from NDTV Profit did not appear to have a significant impact on the stock price. The stock's intraday range was 4.99%, but the overall move was not meaningful.",
+        "confidence": "medium",
         "flags": []
       }
     },
@@ -1004,7 +1076,7 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "The stock experienced a minor intraday range and a slight decline on below-average volume. No significant catalysts were reported to explain the price action.",
+        "analysis": "SWSOLAR traded in a narrow range with no significant price movement or volume surge, indicating a lack of market-moving catalysts. The stock closed 0.24% lower, but the move was not meaningful. No notable announcements or news were reported.",
         "confidence": "high",
         "flags": []
       }
@@ -1067,10 +1139,10 @@
         ]
       },
       "analysis": {
-        "classification": "no_signal",
+        "classification": "move_without_catalyst",
         "primary_catalyst": null,
-        "analysis": "Automated analysis unavailable; review raw catalysts below.",
-        "confidence": "low",
+        "analysis": "TARIL's stock price fell 2.25% despite no notable announcements or news, with lower-than-average trading volume. This move may be driven by market sentiment or other unreported factors. Investors should monitor the stock for further developments.",
+        "confidence": "medium",
         "flags": []
       }
     },
@@ -1091,11 +1163,11 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxOVThsZ045UzIzblpoOUhHV2lpSER6VHpEbDJXd2lsZ0VIc3ZGQ0FRRU95Vmo5dGJ3RFdoMy1aOHI4VmduYzVHVnRwVEVpeDk4OERNSV9EcEVzb1ZRckh2SThfSTBhb25WTXpKVm0wNVFIdVhEeGx6amYtdVhsOFFiU2lqb2NySTQzYlQ2YjhNWVpKdDFuaVBPeVlTeGdHVHY4cDFQMFZBcFBiZ1E3UWZNQVpqTk9IRl9wWVlPOU13LUZBcWJtYkw4TW5yRnBVVnNUQVpNOW5qS0xCNURUOE1Uc1ZncTc0S0Jza21MSWVBbnB0eFpyU2x4Z9IBgAJBVV95cUxQUC"
         },
         {
-          "title": "Rachana Infrastructure Receives Order-in-Appeal Confirming ITC Demand of Rs. 1,19,79,990/-",
-          "source": "scanx.trade",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUWRidVZwekxnb2g1QVlDTm1EYnB1TlU4NUVMaEZXdmhXbFBvdng4VEp2QVc4WTcxNkNoZkdKc3FjYmI1eVhQMFB4RVpMQlZrc19rUGttV3ZkdjNPVTNBX0c5SW5iZ3RuZ1g3UktxeFRHNGxGQldxT0hTa2xzMDBQWHNXdFhJSXk1eHNMdUV3d0NVVDczQjFmOHBobzhCLUk2NER2UF9yczFoTGxVRVg3RkNPb1dfal9OZlo2VE1UWHpnTmhpMnl0WVh4X0tkakFTbFFHTDU2c3Brd1JD?oc=5",
-          "published_at": "2026-05-14T05:47:21+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUWRidVZwekxnb2g1QVlDTm1EYnB1TlU4NUVMaEZXdmhXbFBvdng4VEp2QVc4WTcxNkNoZkdKc3FjYmI1eVhQMFB4RVpMQlZrc19rUGttV3ZkdjNPVTNBX0c5SW5iZ3RuZ1g3UktxeFRHNGxGQldxT0hTa2xzMDBQWHNXdFhJSXk1eHNMdUV3d0NVVDczQjFmOHBobzhCLUk2NER2UF9yczFoTGxVRVg3RkNPb1dfal9OZlo2VE1UWHpnTmhpMnl0WVh4X0tkakFTbFFHTDU2c3Brd1JD?oc=5\" target=\"_blank\">Rachana Infrastructure Receives"
+          "title": "GST: AAR allows ITC on VCV Tower Construction used for manufacturing activities",
+          "source": "Studycafe",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmJkLWdqT3p6ZHBLV1QxaGpYTVV0N0dJQWR5ck5JMUluSWl4aXoybWt0dHluRFdSYi1xYnJtaWFfcUl6XzhWMjZnX1N1cnY1LU1pNWVHN3pfUEpNakFGcXlZS2drNm1DXzluSnZrVXBVekRORjRGS0laN3dod0VMaXZuUUhKRHBsek04TEJIZXA0UXlyTDlBZXd5NVU1RDNXVzQxTUdxb3pmaHNSRS05OA?oc=5",
+          "published_at": "2026-05-14T12:17:53+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmJkLWdqT3p6ZHBLV1QxaGpYTVV0N0dJQWR5ck5JMUluSWl4aXoybWt0dHluRFdSYi1xYnJtaWFfcUl6XzhWMjZnX1N1cnY1LU1pNWVHN3pfUEpNakFGcXlZS2drNm1DXzluSnZrVXBVekRORjRGS0laN3dod0VMaXZuUUhKRHBsek04TEJIZXA0UXlyTDlBZXd5NVU1RDNXVzQxTUdxb3pmaHNSRS05OA?oc=5\" target=\"_blank\">GST: AAR allows ITC on VCV Tower Construction used for manufacturing activities</a>&nbsp;"
         },
         {
           "title": "Bengaluru GST fraud: Two arrested for fake ITC scam involving Rs 2,384 crore turnover, Rs 420 crore tax credit",
@@ -1103,6 +1175,13 @@
           "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNUm5laTh0U1hyQ1RTV3JFc25PMy00VXdWX1NVTl9LQmxjVm4yWVgwX1RZWkU0dDRpT0RHdW9PeDJFOUgtSklwMUIxOGFHNUhReDNjS2c2NEdxcGcxYVh0TWZKeEVDdnJNcWJLaWdHak9EUkJCVVFIRGNQNUNsa1dJay1aVW1mbDVhM2stX2kxeDRJYXNQTmU4TFhITnhLbFQzSGJUZ3dsR29vZk4xZmFfb1RjNmN0emRqa1I0dl9La1dIYm5ndGNWQWpDZFRuMnJva0NmZDJzRU83cjZTT2FTbExBemZKTkY5VUVreEdVNGFzbk1FV3dLRk9DeVo1d9IBiwJBVV95cUxQc2R5OWRzV1Y0TllNQWg4cnhQd3RtaXhLeDNvUGJIb2h1R3d3bHAzVDFmX1F5bFRNNmtPSWNmeWVhMjhqRllEOUVVcjdMZVFKUjVQRnVPdi02MXRNZ2xxUTZ3ODlGem05QUo1STdEWk5TVFpPdURwV1M1WFBUbFY3emJiOVBCeU1IVk9GVnhwZTk1VkFQLTFuMkthd3p0WGNvNV9MYVZMQzA0cTRlQ1lHcy1CZFFRbnpfM0FvNmJuT3RhSnFuN19adGJ3bGlRWnlhaE1kajJEMEVDdkRubHlvRzFPLVpyQnVUWi1MTWg2ZURRY2lLS1h3NUVicW9MaTJPX1oxR3JFSzFzZlE?oc=5",
           "published_at": "2026-05-14T03:14:14+00:00",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxNUm5laTh0U1hyQ1RTV3JFc25PMy00VXdWX1NVTl9LQmxjVm4yWVgwX1RZWkU0dDRpT0RHdW9PeDJFOUgtSklwMUIxOGFHNUhReDNjS2c2NEdxcGcxYVh0TWZKeEVDdnJNcWJLaWdHak9EUkJCVVFIRGNQNUNsa1dJay1aVW1mbDVhM2stX2kxeDRJYXNQTmU4TFhITnhLbFQzSGJUZ3dsR29vZk4xZmFfb1RjNmN0emRqa1I0dl9La1dIYm5ndGNWQWpDZFRuMnJva0NmZDJzRU83cjZTT2FTbExBemZKTkY5VUVreEdVNGFzbk1FV3dLRk9DeVo1d9IBiwJBVV"
+        },
+        {
+          "title": "Rachana Infrastructure Receives Order-in-Appeal Confirming ITC Demand of Rs. 1,19,79,990/-",
+          "source": "scanx.trade",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUWRidVZwekxnb2g1QVlDTm1EYnB1TlU4NUVMaEZXdmhXbFBvdng4VEp2QVc4WTcxNkNoZkdKc3FjYmI1eVhQMFB4RVpMQlZrc19rUGttV3ZkdjNPVTNBX0c5SW5iZ3RuZ1g3UktxeFRHNGxGQldxT0hTa2xzMDBQWHNXdFhJSXk1eHNMdUV3d0NVVDczQjFmOHBobzhCLUk2NER2UF9yczFoTGxVRVg3RkNPb1dfal9OZlo2VE1UWHpnTmhpMnl0WVh4X0tkakFTbFFHTDU2c3Brd1JD?oc=5",
+          "published_at": "2026-05-14T05:47:21+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUWRidVZwekxnb2g1QVlDTm1EYnB1TlU4NUVMaEZXdmhXbFBvdng4VEp2QVc4WTcxNkNoZkdKc3FjYmI1eVhQMFB4RVpMQlZrc19rUGttV3ZkdjNPVTNBX0c5SW5iZ3RuZ1g3UktxeFRHNGxGQldxT0hTa2xzMDBQWHNXdFhJSXk1eHNMdUV3d0NVVDczQjFmOHBobzhCLUk2NER2UF9yczFoTGxVRVg3RkNPb1dfal9OZlo2VE1UWHpnTmhpMnl0WVh4X0tkakFTbFFHTDU2c3Brd1JD?oc=5\" target=\"_blank\">Rachana Infrastructure Receives"
         },
         {
           "title": "Challenge To CGST Provisions Restricting ITC To Bona Fide Purchasers: Allahabad High Court Issues Notice",
@@ -1119,25 +1198,18 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNVG15ald1V3ZFUFJSeXBvX0FaRG5VQk1NVG1kZG5YbndIOXlxbXZhanpQZy1pYXlucW4tZ296YkhfRDVBaEc4VFpoZnAzQVRsTjBNbmlnZFA2UF9xUFJMVk9tZU54RkJqbG50UzNuV1V3MWdIZzhzTTB5Z1ZlWm9UbVhadw?oc=5\" target=\"_blank\">Karnataka Busts Rs 2,384 Crore Fake ITC Network, Two Arrested in Bengaluru</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The420.in</font>"
         },
         {
-          "title": "Patna High Court Refuses To Quash Central Excise Show Cause Notices Against ITC Despite Delay In...",
-          "source": "LiveLawBiz",
-          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNdkJISml1ak54NS1NaEo4WjhEV3RUX0FtWjJoU21XTGEyXzBEdm1pZ2o4aldBZHQ4VnJVN1NfSjNQV3BfRWVvaFZfM3ZzNFRiUUtmbFV4MFJnZFowZHBQYWppS09fb0FuNzBicFVmdXJKa05sc3gzT0ozX0wwYnNjeTBnQndUNTdYUVBBX0N6RjRiV09SSGpOcWNGNUJqNE91ZWM1YTkxbjFfS25zbzBjVnRDeW5HUTRhZ0RoUmpyYU5TQ1g2ekZmcmp0Y1ZPTU9xWXRNQm5zRnJvSWo1UmpTUkQwQkpGazlWWjQ0dUJyNTAtRFA2VVY5Nzh3UjY0QdIBgwJBVV95cUxQNVYwLXo5UGQzdERGQ08tNnZSLXVsYUhRcWExajlzRW5meC1hOU1pWk5EUDJLeGpzZTh1cUxObDVVaEhjeGEzYjd1UHZ3VGlVT1VQYkxkS1NkTUVxTnhNRXExVWYtOEpBb2VRcExDWkdZYlFBVTliRzFxaTdpTWQxcUdyQklUSU1PczgwYUx0ZmdUUFRldkRxTnEweWcxM0dZTDNZbmE0MHZ5d2JFUDJVMjBsdlhsWjdXOUJsLXdpMzhHM1hzaXFEeDBQNEctWUhxSGlTNHVJVFhnRkI4eURBZ1hzTUp1aUlFc3FMZU12cXJlT2RHX2JqOVN1a2NJbWJsSXFv?oc=5",
-          "published_at": "2026-05-14T04:25:35+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxNdkJISml1ak54NS1NaEo4WjhEV3RUX0FtWjJoU21XTGEyXzBEdm1pZ2o4aldBZHQ4VnJVN1NfSjNQV3BfRWVvaFZfM3ZzNFRiUUtmbFV4MFJnZFowZHBQYWppS09fb0FuNzBicFVmdXJKa05sc3gzT0ozX0wwYnNjeTBnQndUNTdYUVBBX0N6RjRiV09SSGpOcWNGNUJqNE91ZWM1YTkxbjFfS25zbzBjVnRDeW5HUTRhZ0RoUmpyYU5TQ1g2ekZmcmp0Y1ZPTU9xWXRNQm5zRnJvSWo1UmpTUkQwQkpGazlWWjQ0dUJyNTAtRFA2VVY5Nzh3UjY0QdIBgwJBVV"
+          "title": "ICAI Releases Practical FAQs on Filing of Form GSTR-3B to Assist Taxpayers in Resolving Practical GST Return Filing Challenges",
+          "source": "A2Z Taxcorp LLP",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNndPeGxzbkJqb1hKRUVQUzV5bjBTOWVmeTZRNkhQY1pQendnbU9yN3JxbXNtR3FzZXVMVUlrb0puRXlCdElFLU9nTWZXZ3JDQ3BxTUx1bHR6bkJyeGVXS3JpTVIzamtlMEJqbkN5WWluMWRNMWlobEw1TUtqQ3VlcVk3LVVKMkMwUE5RZ1RUMXI3eXNtcU1iX2JPNWEtSXVzd2s2NGl6cFpEOXE4ZFk0M0xMeFhzcjJXbHhSRmZ1Q0V4ZGdya2ltdWt2T2tNTFBfZXJITWY0RnN3N3JTU01jeHY0VGQ?oc=5",
+          "published_at": "2026-05-14T11:26:06+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNndPeGxzbkJqb1hKRUVQUzV5bjBTOWVmeTZRNkhQY1pQendnbU9yN3JxbXNtR3FzZXVMVUlrb0puRXlCdElFLU9nTWZXZ3JDQ3BxTUx1bHR6bkJyeGVXS3JpTVIzamtlMEJqbkN5WWluMWRNMWlobEw1TUtqQ3VlcVk3LVVKMkMwUE5RZ1RUMXI3eXNtcU1iX2JPNWEtSXVzd2s2NGl6cFpEOXE4ZFk0M0xMeFhzcjJXbHhSRmZ1Q0V4ZGdya2ltdWt2T2tNTFBfZXJITWY0RnN3N3JTU01jeHY0VGQ?oc=5\" target=\"_blank\">ICAI Releases Practi"
         },
         {
-          "title": "Bengaluru commercial tax department busts massive fake ITC racket; two arrested",
-          "source": "The Hans India",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOM2VHbTBiQjJ0Q0ZRN1duZXNDR3hXdFhMRzAzVGI1NVQ1Zk9VRExJS2xJcGJWVnRhZi03WGt6NHZlcFZ4Y25MM3N3SlV3WlRhTC1Cb3VUYWZ0aU9SNklxQ2xoSFRFSkh0VVNTb05aa18zYzFTRjdEM2tuWkU3Tno0X044YkIwMzFqUjd1ekEtNVRhc1hwYmVZM01JRHJwLW9tN3lscU1RLW5mS1JfSUlSQVA3enVmOGlTdmJjeXl2bk1IQXPSAcgBQVVfeXFMTThsY3lTZVZiVS02cGVpUG1WeGVTVjc5bHlJOVh5Uy00QWMxQjJOUDB2Q2ZpaWpWQU9hWjdUaDdLY2tlWDVoN3EtdnhNLVU5ZkFFbXJYVXB3UlFJY0psSHN4QUVYanJmVGUyV2RUZmVDVGJfYWFiOWJYSTBWdk9tNzY1b1lCYURPQmtfcngtbFMyTjZ1ZnhWU0RhNXhUQzhtcXp0WVRwMDlBZm9DWFpIY0lMSHZWN2VEb3FhMWgydG5xQlpNVS1Zb0E?oc=5",
-          "published_at": "2026-05-14T03:20:18+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOM2VHbTBiQjJ0Q0ZRN1duZXNDR3hXdFhMRzAzVGI1NVQ1Zk9VRExJS2xJcGJWVnRhZi03WGt6NHZlcFZ4Y25MM3N3SlV3WlRhTC1Cb3VUYWZ0aU9SNklxQ2xoSFRFSkh0VVNTb05aa18zYzFTRjdEM2tuWkU3Tno0X044YkIwMzFqUjd1ekEtNVRhc1hwYmVZM01JRHJwLW9tN3lscU1RLW5mS1JfSUlSQVA3enVmOGlTdmJjeXl2bk1IQXPSAcgBQVVfeXFMTThsY3lTZVZiVS02cGVpUG1WeGVTVjc5bHlJOVh5Uy00QWMxQjJOUDB2Q2ZpaWpWQU9hWjdUaD"
-        },
-        {
-          "title": "Why GST Dept. Must Recover Tax From Suppliers Instead of Punishing Purchasers?",
-          "source": "Juris Hour",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQS0VJdVpBYjRFTy0tR3pJTWdOd2liODBLZ2lIbUh1ZXoyVkoyX183UEJnOS01TVpKS2hOWHY0Y1hzMTl1RHQyVmUwLTN0R0phem01MnFEcnZ0RWpyR2piR0lqSV9BY3ZfdlM2Z2g2dVA2UEZGcWp6TW5aeG1GVFB6Q3JBT3BZb3BvUEJnbg?oc=5",
-          "published_at": "2026-05-14T06:21:08+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQS0VJdVpBYjRFTy0tR3pJTWdOd2liODBLZ2lIbUh1ZXoyVkoyX183UEJnOS01TVpKS2hOWHY0Y1hzMTl1RHQyVmUwLTN0R0phem01MnFEcnZ0RWpyR2piR0lqSV9BY3ZfdlM2Z2g2dVA2UEZGcWp6TW5aeG1GVFB6Q3JBT3BZb3BvUEJnbg?oc=5\" target=\"_blank\">Why GST Dept. Must Recover Tax From Suppliers Instead of Punishing Purchasers?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Juris Hour</font>"
+          "title": "Commercial Taxes Dept Cracks Down Massive Rs 1,420 Crore Fake ITC Racket in Bengaluru; Two Arrested",
+          "source": "Studycafe",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZW1aZUFTNWxMRGpPLTJLR25NYUpjTXJMb09WZnl1OUhpMktweW5ORFRPU2tmTXBRVGh1ZXZwakYwdzdtYkEyY0U0T0hXbXpkTVhkM0JhQmx3eERvU1huOHM2bTN5c2liVTRzMm5iU0wwbmI2a3FUYTlTbmNhRjZydHQ3bGNvWHZnTEZtc0R6UnBVWi1XNFdXWVZnLTVxTVZEYmtJS29UYUVnR2haNFJITEFRM1psU1hLWG9rT2NFZkFLMC13VUpxcmp3?oc=5",
+          "published_at": "2026-05-14T12:46:24+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNZW1aZUFTNWxMRGpPLTJLR25NYUpjTXJMb09WZnl1OUhpMktweW5ORFRPU2tmTXBRVGh1ZXZwakYwdzdtYkEyY0U0T0hXbXpkTVhkM0JhQmx3eERvU1huOHM2bTN5c2liVTRzMm5iU0wwbmI2a3FUYTlTbmNhRjZydHQ3bGNvWHZnTEZtc0R6UnBVWi1XNFdXWVZnLTVxTVZEYmtJS29UYUVnR2haNFJITEFRM1psU1hLWG9rT2NFZkFLMC13VUpxcmp3?oc=5\" target=\"_blank\">Commercial Taxes Dept Cracks Down Massive Rs 1,420 Cror"
         }
       ],
       "events": [
@@ -1149,6 +1221,12 @@
         }
       ],
       "sebi_mentions": [
+        {
+          "title": "Notice of Demand under Recovery Certificate No. 9111 of 2026 dated May 14, 2026 issued to Cheryl Shah (PAN- AWJPS0540A) in the matter of Seacoast Shipping Services Limited",
+          "url": "https://www.sebi.gov.in/enforcement/orders/may-2026/notice-of-demand-under-recovery-certificate-no-9111-of-2026-dated-may-14-2026-issued-to-cheryl-shah-pan-awjps0540a-in-the-matter-of-seacoast-shipping-services-limited_101427.html",
+          "published_at": "13 May, 2026 +0530",
+          "summary": "Notice of Demand under Recovery Certificate No. 9111 of 2026 dated May 14, 2026 issued to Cheryl Shah (PAN- AWJPS0540A) in the matter of Seacoast Shipping Services Limited"
+        },
         {
           "title": "Order in the matter of Bajaj Hindusthan Sugar Limited",
           "url": "https://www.sebi.gov.in/enforcement/orders/may-2026/order-in-the-matter-of-bajaj-hindusthan-sugar-limited_101410.html",
@@ -1259,8 +1337,8 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Automated analysis unavailable; review raw catalysts below.",
-        "confidence": "low",
+        "analysis": "ITC Limited's stock price increased by 0.9% with below-average volume, indicating no significant catalyst-driven move. The company is set to announce its Q4FY26 results, but no other material news was reported. The stock's price action was muted, and no clear catalyst drove the move.",
+        "confidence": "medium",
         "flags": []
       }
     },
@@ -1282,6 +1360,12 @@
         }
       ],
       "sebi_mentions": [
+        {
+          "title": "Notice of Demand under Recovery Certificate No. 9111 of 2026 dated May 14, 2026 issued to Cheryl Shah (PAN- AWJPS0540A) in the matter of Seacoast Shipping Services Limited",
+          "url": "https://www.sebi.gov.in/enforcement/orders/may-2026/notice-of-demand-under-recovery-certificate-no-9111-of-2026-dated-may-14-2026-issued-to-cheryl-shah-pan-awjps0540a-in-the-matter-of-seacoast-shipping-services-limited_101427.html",
+          "published_at": "13 May, 2026 +0530",
+          "summary": "Notice of Demand under Recovery Certificate No. 9111 of 2026 dated May 14, 2026 issued to Cheryl Shah (PAN- AWJPS0540A) in the matter of Seacoast Shipping Services Limited"
+        },
         {
           "title": "Order in the matter of Bajaj Hindusthan Sugar Limited",
           "url": "https://www.sebi.gov.in/enforcement/orders/may-2026/order-in-the-matter-of-bajaj-hindusthan-sugar-limited_101410.html",
@@ -1392,8 +1476,8 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Automated analysis unavailable; review raw catalysts below.",
-        "confidence": "low",
+        "analysis": "The stock price of ITC Hotels Limited rose 0.39% with below-average volume, indicating a lack of significant catalysts or market interest. The upcoming financial results announcement on May 15, 2026, may influence the stock's future movement. No notable news or events drove the price action on this day.",
+        "confidence": "medium",
         "flags": []
       }
     },
@@ -1457,8 +1541,8 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Automated analysis unavailable; review raw catalysts below.",
-        "confidence": "low",
+        "analysis": "Lemon Tree Hotels Limited traded in a narrow range with minimal price movement and below-average volume, indicating a lack of significant catalysts or market interest. The stock closed 0.12% higher, but the move was not substantial. No notable announcements or news were reported.",
+        "confidence": "high",
         "flags": []
       }
     },
@@ -1522,8 +1606,8 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Automated analysis unavailable; review raw catalysts below.",
-        "confidence": "low",
+        "analysis": "Finolex Industries Limited traded in a narrow range with a minor decline, lacking any significant catalysts or volume surge. The stock's price action was muted, with a volume ratio of 0.52, indicating below-average trading activity. The lack of news or announcements suggests a quiet day for the stock.",
+        "confidence": "high",
         "flags": []
       }
     },
@@ -1546,6 +1630,12 @@
       ],
       "events": [],
       "sebi_mentions": [
+        {
+          "title": "Notice of Demand under Recovery Certificate No. 9111 of 2026 dated May 14, 2026 issued to Cheryl Shah (PAN- AWJPS0540A) in the matter of Seacoast Shipping Services Limited",
+          "url": "https://www.sebi.gov.in/enforcement/orders/may-2026/notice-of-demand-under-recovery-certificate-no-9111-of-2026-dated-may-14-2026-issued-to-cheryl-shah-pan-awjps0540a-in-the-matter-of-seacoast-shipping-services-limited_101427.html",
+          "published_at": "13 May, 2026 +0530",
+          "summary": "Notice of Demand under Recovery Certificate No. 9111 of 2026 dated May 14, 2026 issued to Cheryl Shah (PAN- AWJPS0540A) in the matter of Seacoast Shipping Services Limited"
+        },
         {
           "title": "Order in the matter of Bajaj Hindusthan Sugar Limited",
           "url": "https://www.sebi.gov.in/enforcement/orders/may-2026/order-in-the-matter-of-bajaj-hindusthan-sugar-limited_101410.html",
@@ -1654,10 +1744,10 @@
         ]
       },
       "analysis": {
-        "classification": "no_signal",
+        "classification": "move_without_catalyst",
         "primary_catalyst": null,
-        "analysis": "Automated analysis unavailable; review raw catalysts below.",
-        "confidence": "low",
+        "analysis": "GNG Electronics Limited saw a 1.77% increase in price with below-average volume, lacking a clear catalyst. The news article discussing the company's earnings did not seem to directly impact the price action. The stock's movement may be due to other market factors not immediately apparent.",
+        "confidence": "medium",
         "flags": []
       }
     },
