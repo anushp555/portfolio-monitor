@@ -1,10 +1,10 @@
-"""LLM correlation: feeds catalysts + price action to Gemini, returns analysis JSON.
+"""LLM correlation: feeds catalysts + price action to Groq, returns analysis JSON.
 
-Uses the modern `google-genai` SDK. Free tier on `gemini-2.0-flash` is
-generous (15 RPM, 1500 RPD at the time this was written) — comfortably more
-than a 5-50 stock portfolio needs.
+Uses Groq's free-tier API with the Llama 3.3 70B Versatile model. Free tier
+limits (as of 2026): 30 RPM, 14,400 RPD, 30,000 TPM. More than enough headroom
+for a 20-stock portfolio.
 
-Env var: GEMINI_API_KEY  (get a free key at https://aistudio.google.com/apikey)
+Env var: GROQ_API_KEY  (get a free key at https://console.groq.com/keys)
 """
 
 from __future__ import annotations
@@ -16,27 +16,26 @@ import re
 import time
 from typing import Any
 
-from google import genai
-from google.genai import types
+from groq import Groq
 
 from .prompts import SYSTEM_PROMPT, build_user_prompt
 
 log = logging.getLogger(__name__)
 
-MODEL_NAME = os.environ.get("GEMINI_MODEL", "gemini-2.0-flash")
-RPM_LIMIT = 6  # gemini-2.5-flash-lite free tier is 10 RPM; stay well under
+MODEL_NAME = os.environ.get("GROQ_MODEL", "llama-3.3-70b-versatile")
+RPM_LIMIT = 25  # safely under Groq's 30 RPM free-tier ceiling
 _last_call_ts = 0.0
-_client: "genai.Client | None" = None
+_client: "Groq | None" = None
 
 
-def _get_client() -> "genai.Client":
+def _get_client() -> "Groq":
     global _client
     if _client is not None:
         return _client
-    api_key = os.environ.get("GEMINI_API_KEY")
+    api_key = os.environ.get("GROQ_API_KEY")
     if not api_key:
-        raise RuntimeError("GEMINI_API_KEY env var is required")
-    _client = genai.Client(api_key=api_key)
+        raise RuntimeError("GROQ_API_KEY env var is required")
+    _client = Groq(api_key=api_key)
     return _client
 
 
@@ -57,7 +56,7 @@ def _strip_fences(text: str) -> str:
 
 
 def analyze_stock(stock_payload: dict[str, Any]) -> dict[str, Any]:
-    """Run the LLM correlation step. Returns a parsed dict; on failure, a
+    """Run the LLM correlation step. Returns parsed dict; on failure, a
     deterministic fallback so the dashboard always has something to show.
     """
     fallback: dict[str, Any] = {
@@ -71,32 +70,34 @@ def analyze_stock(stock_payload: dict[str, Any]) -> dict[str, Any]:
     try:
         client = _get_client()
     except Exception as e:  # noqa: BLE001
-        log.error("Gemini client init failed: %s", e)
+        log.error("Groq client init failed: %s", e)
         return fallback
 
-    config = types.GenerateContentConfig(
-        system_instruction=SYSTEM_PROMPT,
-        temperature=0.2,
-        response_mime_type="application/json",
-    )
     prompt = build_user_prompt(stock_payload)
 
     last_err: Exception | None = None
-    for attempt in range(3):
+    for attempt in range(4):
         try:
             _throttle()
-            resp = client.models.generate_content(
-                model=MODEL_NAME, contents=prompt, config=config
+            resp = client.chat.completions.create(
+                model=MODEL_NAME,
+                messages=[
+                    {"role": "system", "content": SYSTEM_PROMPT},
+                    {"role": "user", "content": prompt},
+                ],
+                temperature=0.2,
+                max_tokens=600,
+                response_format={"type": "json_object"},
             )
-            text = _strip_fences(resp.text or "")
+            text = _strip_fences(resp.choices[0].message.content or "")
             parsed = json.loads(text)
             for k, v in fallback.items():
                 parsed.setdefault(k, v)
             return parsed
         except Exception as e:  # noqa: BLE001
             last_err = e
-            log.warning("Gemini call failed (attempt %d): %s", attempt + 1, e)
+            log.warning("Groq call failed (attempt %d): %s", attempt + 1, e)
             time.sleep(2 ** attempt)
 
-    log.error("All Gemini retries failed: %s", last_err)
+    log.error("All Groq retries failed: %s", last_err)
     return fallback
