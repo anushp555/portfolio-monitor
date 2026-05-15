@@ -1,7 +1,7 @@
 {
   "report_date": "2026-05-16",
   "trading_day": "2026-05-15",
-  "generated_at": "2026-05-15T12:41:57.248960+05:30",
+  "generated_at": "2026-05-15T17:02:27.053765+05:30",
   "stocks": [
     {
       "symbol": "TMCV",
@@ -25,15 +25,15 @@
         "date": "2026-05-15",
         "open": 378.0,
         "high": 390.65,
-        "low": 378.0,
-        "close": 380.65,
+        "low": 376.0,
+        "close": 377.95,
         "prev_close": 379.45,
-        "change_pct": 0.32,
+        "change_pct": -0.4,
         "gap_pct": -0.38,
-        "intraday_range_pct": 3.33,
-        "volume": 5943574,
+        "intraday_range_pct": 3.86,
+        "volume": 10100850,
         "avg_volume_20d": 8273422,
-        "volume_ratio": 0.72,
+        "volume_ratio": 1.22,
         "sparkline": [
           388.1,
           391.3,
@@ -64,13 +64,13 @@
           387.05,
           384.25,
           379.45,
-          380.65
+          377.95
         ]
       },
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Tata Motors stock saw a minor 0.32% increase in price with below-average volume, indicating no significant catalyst-driven move. The recent financial results announcement did not have a substantial impact on the stock price. The stock's price action suggests a lack of market reaction to recent events.",
+        "analysis": "Tata Motors stock price declined 0.4% with moderate volume, but no significant catalysts were reported. The recent financial results announcement may have been priced in already. The stock's price action was muted despite a moderate intraday range.",
         "confidence": "medium",
         "flags": []
       }
@@ -82,7 +82,16 @@
       "notes": "Post-demerger PV business (cars, EVs, JLR).",
       "skip_catalysts": false,
       "bse_announcements": [],
-      "nse_announcements": [],
+      "nse_announcements": [
+        {
+          "headline": "Copy of Newspaper Publication",
+          "category": null,
+          "more_info": "Tata Motors Passenger Vehicles Limited has informed the Exchange about Copy of Newspaper Publication",
+          "pdf_url": "https://nsearchives.nseindia.com/corporate/TATAMOTORSSJS_15052026132813_NSEBSENEWSPAPER.pdf",
+          "attached_at": "15-May-2026 13:28:29",
+          "source": "NSE"
+        }
+      ],
       "news": [
         {
           "title": "TMPV shares rally over 8% as India PV strength offsets JLR concerns in Q4, brokerages divided",
@@ -90,6 +99,13 @@
           "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNblFOTDY4NzlWVjBQZGFIblpEX2RjWHlkeFl3T3lEZWNkeWtHZklWaWZFa3VHSlFyQzJJLXR1WXoxYTEwandhdW5nNEkyZEdna1d0eGU3OGpiUmZ6NHhQTXU1bjZBdERyUjMyZ2VJSEsyS09QODBBZWxFWGxrZ1ZSc0gyMDYyYlV0a3EtZTJYSUdmSXhyR1QyVVB5WkdLTWRkU09Bb3h1anVWTjNVbjNQTHRieVhLUWgtZGk5Q0xQMFNFZVQ2bk56WURfTkt2ZEdUVU9Nb0Y1WTByZFJ4dG13SXRpTDNPSF9zV05rbtIB8wFBVV95cUxPNmdUaHVqSDBCeUVmZHoyY0RxM2tqOExraWU0a3hwX1FyMXVic2RWSjJ3V1JPb29rQmVLWWFNRjM3LTlxdTkydGRnYkFSOG9hNTdaWklZaGVrdzl6al92SDVrY0ZVZ3ZCYWlfcVVWS0FMU3ZudFB6c0NZY0JFZ2J4NEdDX1NpQWZzQzdBVjQ0MVBOb0FPdzlrTHdLQTV2ZTJEY3ZrOTM3MjgwZVJXd2w4NWFhajRhQmQzVm9tUkFDcXRIdzRFRmJmTmJGY1lSSVdiVXVpdll4SXR5cVJtX3lodU1iaS05ZFVkemd1OXoxSzIwUXc?oc=5",
           "published_at": "2026-05-15T04:32:36+00:00",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxNblFOTDY4NzlWVjBQZGFIblpEX2RjWHlkeFl3T3lEZWNkeWtHZklWaWZFa3VHSlFyQzJJLXR1WXoxYTEwandhdW5nNEkyZEdna1d0eGU3OGpiUmZ6NHhQTXU1bjZBdERyUjMyZ2VJSEsyS09QODBBZWxFWGxrZ1ZSc0gyMDYyYlV0a3EtZTJYSUdmSXhyR1QyVVB5WkdLTWRkU09Bb3h1anVWTjNVbjNQTHRieVhLUWgtZGk5Q0xQMFNFZVQ2bk56WURfTkt2ZEdUVU9Nb0Y1WTByZFJ4dG13SXRpTDNPSF9zV05rbtIB8wFBVV95cUxPNmdUaHVqSDBCeUVmZH"
+        },
+        {
+          "title": "Sitaram Kandi to Take Charge as Chief Human Resources Officer at Tata Motors Passenger Vehicles Limited",
+          "source": "hrtoday.in",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbzN6SDdncHJoOC1vM2lzZFJCN3dWQnUxQXVhMjh5RlZxeVlBS1pZUDIwLUgwVTJld1NFejJLQnUyT21ZemNxcmpKWDRXRzBEVV9xNVZzQzJ5LTdiVXAwaVNRWi1fZmRCbUgtUGp6Vko0X1VadUlDQ1VQS1RNUi15NndYUy1PWU5tTUk0TG5aLWUySVFLMUZmSHYweXR1VVo2WXRXRHJrVU9GQ1ktNFZiUzNTZmJkWTBDMTYyZG02dEs?oc=5",
+          "published_at": "2026-05-15T09:45:46+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbzN6SDdncHJoOC1vM2lzZFJCN3dWQnUxQXVhMjh5RlZxeVlBS1pZUDIwLUgwVTJld1NFejJLQnUyT21ZemNxcmpKWDRXRzBEVV9xNVZzQzJ5LTdiVXAwaVNRWi1fZmRCbUgtUGp6Vko0X1VadUlDQ1VQS1RNUi15NndYUy1PWU5tTUk0TG5aLWUySVFLMUZmSHYweXR1VVo2WXRXRHJrVU9GQ1ktNFZiUzNTZmJkWTBDMTYyZG02dEs?oc=5\" target=\"_blank\">Sitaram Kandi to Take Charge as Chief Human Resources Officer at Tat"
         },
         {
           "title": "Top stocks in news: TMPV, HCL Tech, JSW Steel, Apollo Tyres, Muthoot, OMCs, Adani shares",
@@ -101,9 +117,9 @@
         {
           "title": "Stocks to Watch today: OMCs, Adani stocks, Tata Steel, JSW Steel, TMPV, HCC",
           "source": "Business Standard",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPV2dUZ3ZpRVQ2aUNvMjFwYkNodlR3RlRNOXR2eC1WcVZ1QUUyLXVxNy0wZUhwUXFBNzlhY19kTHBQWmFYMWdVeW9VeGk1OUVJYW1OSXZ4SlhlVW1WcEpicDRXQmdiM25OWUJIYlVucXNTRF8yOGpfQmstOEZ6WTF2bWdBS1lPU3RQSk1WSmZXRW5RMFdhSElsWV9wNDZDZmItWW9TNGgtX2lxM3BreXdCa09rUjR4OE9Rb2F6TXBYZm9pYlpad1ZaRXgyYUFFTFF6TUV5ajBfONIB1wFBVV95cUxPV2dUZ3ZpRVQ2aUNvMjFwYkNodlR3RlRNOXR2eC1WcVZ1QUUyLXVxNy0wZUhwUXFBNzlhY19kTHBQWmFYMWdVeW9VeGk1OUVJYW1OSXZ4SlhlVW1WcEpicDRXQmdiM25OWUJIYlVucXNTRF8yOGpfQmstOEZ6WTF2bWdBS1lPU3RQSk1WSmZXRW5RMFdhSElsWV9wNDZDZmItWW9TNGgtX2lxM3BreXdCa09rUjR4OE9Rb2F6TXBYZm9pYlpad1ZaRXgyYUFFTFF6TUV5ajBfOA?oc=5",
-          "published_at": "2026-05-15T02:30:10+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPV2dUZ3ZpRVQ2aUNvMjFwYkNodlR3RlRNOXR2eC1WcVZ1QUUyLXVxNy0wZUhwUXFBNzlhY19kTHBQWmFYMWdVeW9VeGk1OUVJYW1OSXZ4SlhlVW1WcEpicDRXQmdiM25OWUJIYlVucXNTRF8yOGpfQmstOEZ6WTF2bWdBS1lPU3RQSk1WSmZXRW5RMFdhSElsWV9wNDZDZmItWW9TNGgtX2lxM3BreXdCa09rUjR4OE9Rb2F6TXBYZm9pYlpad1ZaRXgyYUFFTFF6TUV5ajBfONIB1wFBVV95cUxPV2dUZ3ZpRVQ2aUNvMjFwYkNodlR3RlRNOXR2eC1WcVZ1QU"
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTGUxNFlkZE9DRy15Wk9SQ01pUkRsemRyZ1hmWENvTGl3MEdjbnNMZHJIbTk3QjBzbHA3eURYNlJzRjJqMUIyTnNmY2EyVF9Ha1VVeHIzYnNLeFdjYS1fQmFtakIwYU9nZHF5ZGltdGo3bDN3OWVOTkMya2lyNk43bk5OeHl4ODVoWHpvVG9sUGNkYTZieUJqemRMUXIxa0xtWFdzVnpfWmNmaWU1UG1KWGlPRGt5NER4dzh0Wk1NRklBaHR3UVp5OGR1dWF0Z2NpZmfSAdcBQVVfeXFMT1dnVGd2aUVUNmlDbzIxcGJDaHZUd0ZUTTl0dngtVnFWdUFFMi11cTctMGVIcFFxQTc5YWNfZExwUFphWDFnVXlvVXhpNTlFSWFtTkl2eEpYZVVtVnBKYnA0V0JnYjNuTllCSGJVbnFzU0RfMjhqX0JrLThGelkxdm1nQUtZT1N0UEpNVkpmV0VuUTBXYUhJbFlfcDQ2Q2ZiLVlvUzRoLV9pcTNwa3l3QmtPa1I0eDhPUW9hek1wWGZvaWJaWndWWkV4MmFBRUxRek1FeWowXzg?oc=5",
+          "published_at": "2026-05-15T02:30:18+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTGUxNFlkZE9DRy15Wk9SQ01pUkRsemRyZ1hmWENvTGl3MEdjbnNMZHJIbTk3QjBzbHA3eURYNlJzRjJqMUIyTnNmY2EyVF9Ha1VVeHIzYnNLeFdjYS1fQmFtakIwYU9nZHF5ZGltdGo3bDN3OWVOTkMya2lyNk43bk5OeHl4ODVoWHpvVG9sUGNkYTZieUJqemRMUXIxa0xtWFdzVnpfWmNmaWU1UG1KWGlPRGt5NER4dzh0Wk1NRklBaHR3UVp5OGR1dWF0Z2NpZmfSAdcBQVVfeXFMT1dnVGd2aUVUNmlDbzIxcGJDaHZUd0ZUTTl0dngtVnFWdUFFMi11cT"
         }
       ],
       "events": [
@@ -120,14 +136,14 @@
         "open": 352.0,
         "high": 366.95,
         "low": 352.0,
-        "close": 359.85,
+        "close": 356.55,
         "prev_close": 338.75,
-        "change_pct": 6.23,
+        "change_pct": 5.25,
         "gap_pct": 3.91,
         "intraday_range_pct": 4.41,
-        "volume": 35851077,
+        "volume": 51686764,
         "avg_volume_20d": 7989250,
-        "volume_ratio": 4.49,
+        "volume_ratio": 6.47,
         "sparkline": [
           302.95,
           303.3,
@@ -158,13 +174,13 @@
           336.85,
           336.85,
           338.75,
-          359.85
+          356.55
         ]
       },
       "analysis": {
         "classification": "catalyst_drove_move",
-        "primary_catalyst": "Q4 earnings report: India PV strength offsets JLR concerns",
-        "analysis": "TMPV shares rallied over 6% as the company's Q4 earnings report showed India PV strength offsetting JLR concerns. The strong price action was accompanied by a significant increase in volume, with a volume ratio of 4.49. Brokerages are divided on the stock's outlook.",
+        "primary_catalyst": "India PV strength offsets JLR concerns in Q4",
+        "analysis": "TMPV shares rallied over 5% as India PV strength offsets JLR concerns in Q4. The stock's strong price action was accompanied by a significant increase in volume, with a volume ratio of 6.47. Brokerages are divided on the stock's outlook.",
         "confidence": "high",
         "flags": []
       }
@@ -203,15 +219,15 @@
         "date": "2026-05-15",
         "open": 1246.6,
         "high": 1258.0,
-        "low": 1242.5,
-        "close": 1249.5,
+        "low": 1242.0,
+        "close": 1244.5,
         "prev_close": 1246.0,
-        "change_pct": 0.28,
+        "change_pct": -0.12,
         "gap_pct": 0.05,
-        "intraday_range_pct": 1.24,
-        "volume": 5600527,
+        "intraday_range_pct": 1.28,
+        "volume": 11745574,
         "avg_volume_20d": 17332608,
-        "volume_ratio": 0.32,
+        "volume_ratio": 0.68,
         "sparkline": [
           1215.8,
           1231.4,
@@ -242,13 +258,13 @@
           1240.3,
           1235.6,
           1246.0,
-          1249.5
+          1244.5
         ]
       },
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "ICICI Bank's stock price rose 0.28% with below-average volume, lacking a significant catalyst to drive the move. The allotment of equity shares under the employee stock option scheme had a minimal impact. The stock's price action was muted, with no notable events or news.",
+        "analysis": "ICICI Bank's stock price declined marginally by 0.12% with below-average volume, and the ESOP allotment announcement does not seem to have had a significant impact. The stock's intraday range was 1.28%, but the overall move was not meaningful. The ESOP allotment may be a minor positive, but its effect is not visible in the price action.",
         "confidence": "medium",
         "flags": []
       }
@@ -268,15 +284,15 @@
         "date": "2026-05-15",
         "open": 616.5,
         "high": 618.95,
-        "low": 608.2,
-        "close": 610.05,
+        "low": 605.45,
+        "close": 608.7,
         "prev_close": 612.55,
-        "change_pct": -0.41,
+        "change_pct": -0.63,
         "gap_pct": 0.64,
-        "intraday_range_pct": 1.75,
-        "volume": 1276523,
+        "intraday_range_pct": 2.2,
+        "volume": 2900518,
         "avg_volume_20d": 6560349,
-        "volume_ratio": 0.19,
+        "volume_ratio": 0.44,
         "sparkline": [
           566.1,
           580.4,
@@ -307,14 +323,14 @@
           601.8,
           602.8,
           612.55,
-          610.05
+          608.7
         ]
       },
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "HDFC Life Insurance Company Limited traded in a narrow range with a minor decline of 0.41%. The lack of any significant catalysts or elevated volume suggests a neutral day. The stock's price action was largely uninspired.",
-        "confidence": "high",
+        "analysis": "HDFC Life Insurance Company Limited's stock price declined 0.63% with below-average volume, indicating a lack of significant catalysts or market interest. The stock's intraday range was 2.2%, but the move was not substantial enough to be considered meaningful. The company did not have any notable announcements or news on the day.",
+        "confidence": "medium",
         "flags": []
       }
     },
@@ -333,15 +349,15 @@
         "date": "2026-05-15",
         "open": 199.04,
         "high": 200.19,
-        "low": 196.7,
-        "close": 198.37,
+        "low": 194.01,
+        "close": 194.46,
         "prev_close": 199.04,
-        "change_pct": -0.34,
+        "change_pct": -2.3,
         "gap_pct": 0.0,
-        "intraday_range_pct": 1.75,
-        "volume": 2643892,
+        "intraday_range_pct": 3.1,
+        "volume": 4903213,
         "avg_volume_20d": 17702552,
-        "volume_ratio": 0.15,
+        "volume_ratio": 0.28,
         "sparkline": [
           146.34,
           152.58,
@@ -372,14 +388,14 @@
           196.07,
           194.88,
           199.04,
-          198.37
+          194.46
         ]
       },
       "analysis": {
-        "classification": "no_signal",
+        "classification": "move_without_catalyst",
         "primary_catalyst": null,
-        "analysis": "Bandhan Bank's stock price declined 0.34% with below-average volume, indicating a lack of significant catalysts or market interest. The stock's intraday range was 1.75%, but the overall move was not meaningful. No notable announcements or news were reported.",
-        "confidence": "high",
+        "analysis": "Bandhan Bank's stock price declined 2.3% despite no notable announcements or news, suggesting a potential market-driven move. The low volume ratio of 0.28 indicates a lack of conviction. This move without a clear catalyst warrants further investigation.",
+        "confidence": "medium",
         "flags": []
       }
     },
@@ -389,9 +405,36 @@
       "sector": "Banking",
       "notes": null,
       "skip_catalysts": false,
-      "bse_announcements": [],
-      "nse_announcements": [],
-      "news": [],
+      "bse_announcements": [
+        {
+          "headline": "Newspaper Publication regarding special window for transfer and dematerialization of physcial securities of IDFC FIRST Bank Limited",
+          "category": "Company Update",
+          "subcategory": null,
+          "more_info": "",
+          "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/bb592d7d-3d6a-487a-ad3e-a4781bc228fe.pdf",
+          "attached_at": "2026-05-15T13:17:27",
+          "source": "BSE"
+        }
+      ],
+      "nse_announcements": [
+        {
+          "headline": "Copy of Newspaper Publication",
+          "category": null,
+          "more_info": "IDFC First Bank Limited has informed the Exchange about Copy of Newspaper Publication",
+          "pdf_url": "https://nsearchives.nseindia.com/corporate/IDFCFIRSTB_15052026131616_Newspaper_Publication.pdf",
+          "attached_at": "15-May-2026 13:16:38",
+          "source": "NSE"
+        }
+      ],
+      "news": [
+        {
+          "title": "Bombay HC Quashes GST Order: Capital First Ltd. Ceased to Exist After IDFC Merger, Proceedings Against Non‑Existent Company Held Void",
+          "source": "Taxscan",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPckxQNWV3MDNRVlRiVGp3LW1od09TTldPcF9Sa2lJckE5aEZ2LXZVUm5fTF9YcDcxaW9pZUszVEUyMGVWblUxZlJNd1hnbEloa3NxYTdJZ013ZVRFNVh4TU93Y1N3d2g2RDYxcUZuUnE2TllKU1RGcktSS01NRW85ZFlMOFFfSlJ2MkVla1lkYlNMdE9kWUh4b0tWOGV1aDNJT2I1QUJIeXBDb0gwVVFqbXJYbElqQU5rR3BQYzNoVmFzVUtxTmxrcloxdUpmR1FlX3hsd283T0dxLXpzbmVJeGx5VV9LTlVmWk9CbGVKN3NvM3pTZm94QXdISXV4SHFDZ1E?oc=5",
+          "published_at": "2026-05-15T09:54:13+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxPckxQNWV3MDNRVlRiVGp3LW1od09TTldPcF9Sa2lJckE5aEZ2LXZVUm5fTF9YcDcxaW9pZUszVEUyMGVWblUxZlJNd1hnbEloa3NxYTdJZ013ZVRFNVh4TU93Y1N3d2g2RDYxcUZuUnE2TllKU1RGcktSS01NRW85ZFlMOFFfSlJ2MkVla1lkYlNMdE9kWUh4b0tWOGV1aDNJT2I1QUJIeXBDb0gwVVFqbXJYbElqQU5rR3BQYzNoVmFzVUtxTmxrcloxdUpmR1FlX3hsd283T0dxLXpzbmVJeGx5VV9LTlVmWk9CbGVKN3NvM3pTZm94QXdISXV4SHFDZ1E?oc"
+        }
+      ],
       "events": [],
       "sebi_mentions": [],
       "price_action": {
@@ -399,14 +442,14 @@
         "open": 68.25,
         "high": 68.54,
         "low": 66.61,
-        "close": 67.95,
+        "close": 67.65,
         "prev_close": 68.54,
-        "change_pct": -0.86,
+        "change_pct": -1.3,
         "gap_pct": -0.42,
         "intraday_range_pct": 2.82,
-        "volume": 20142730,
+        "volume": 30329974,
         "avg_volume_20d": 21436055,
-        "volume_ratio": 0.94,
+        "volume_ratio": 1.41,
         "sparkline": [
           60.22,
           61.08,
@@ -437,13 +480,13 @@
           67.68,
           68.3,
           68.54,
-          67.95
+          67.65
         ]
       },
       "analysis": {
-        "classification": "no_signal",
+        "classification": "move_without_catalyst",
         "primary_catalyst": null,
-        "analysis": "IDFC First Bank's stock price declined 0.86% with a volume ratio of 0.94, indicating a lack of significant catalysts or price movement. The stock's intraday range was 2.82%, but the overall move was not substantial. The market seems to be awaiting a catalyst to drive the stock's price.",
+        "analysis": "IDFC First Bank's stock price declined 1.3% despite no significant catalysts. The move was accompanied by elevated volume, but not enough to be considered meaningful. This could be a sign of underlying selling pressure.",
         "confidence": "medium",
         "flags": []
       }
@@ -478,15 +521,15 @@
         "date": "2026-05-15",
         "open": 188.7,
         "high": 189.67,
-        "low": 185.24,
-        "close": 186.14,
+        "low": 184.15,
+        "close": 185.01,
         "prev_close": 186.34,
-        "change_pct": -0.11,
+        "change_pct": -0.71,
         "gap_pct": 1.27,
-        "intraday_range_pct": 2.38,
-        "volume": 1165149,
+        "intraday_range_pct": 2.96,
+        "volume": 2123254,
         "avg_volume_20d": 2157776,
-        "volume_ratio": 0.54,
+        "volume_ratio": 0.98,
         "sparkline": [
           166.33,
           165.44,
@@ -517,13 +560,13 @@
           186.75,
           184.43,
           186.34,
-          186.14
+          185.01
         ]
       },
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "CGCL's stock price remained largely unchanged with a minor decline of 0.11%, and volume was below average. No significant catalysts were observed that could have driven the price action.",
+        "analysis": "CGCL's stock price declined 0.71% with average volume, lacking a clear catalyst. The move was not significant enough to be driven by any specific news or event. The company's sector and industry trends will be monitored for future developments.",
         "confidence": "medium",
         "flags": []
       }
@@ -566,14 +609,14 @@
         "open": 409.4,
         "high": 412.25,
         "low": 405.0,
-        "close": 409.6,
+        "close": 407.0,
         "prev_close": 407.85,
-        "change_pct": 0.43,
+        "change_pct": -0.21,
         "gap_pct": 0.38,
         "intraday_range_pct": 1.78,
-        "volume": 2371277,
+        "volume": 4343497,
         "avg_volume_20d": 7972064,
-        "volume_ratio": 0.3,
+        "volume_ratio": 0.54,
         "sparkline": [
           385.0,
           383.85,
@@ -604,13 +647,13 @@
           418.4,
           404.45,
           407.85,
-          409.6
+          407.0
         ]
       },
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Tata Power Company Limited's stock price increased by 0.43% with below-average volume, indicating a lack of significant catalysts or price movement. The recent earnings miss and revised price target may have been factored into the stock's current price. The company's financial results announcement on May 12 may have already been priced in.",
+        "analysis": "Tata Power Company Limited's stock price decreased by 0.21% with a volume ratio of 0.54, indicating a lack of significant price movement or catalysts. The recent news about the 12-month price target raise and earnings miss did not have a substantial impact on the stock price. The company's financial results announcement on May 12 may have been priced in already.",
         "confidence": "medium",
         "flags": []
       }
@@ -632,6 +675,13 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxQc1ZhX0E2cjJpWUxfbjdmWnNYN2JYVk90LTc4eTNwazFLWHFRcHF6eldFb2lDaGpuSEo3QjV5UkF1bUtsNTJwaENrM1RiMzRWU1YyRXdtamVPZkZYbjMtYkhZM1VYeXI3NDBwVDJ6U21uNWppUTlDbnRWbG13WHFnWVRoQ25KcE4wOXlTaDRJTXhtaDhwZU9UMFlNbnB2dGt0SmFoZkx6WmFfd0gwSjByX0FvVS1UUnhNQjFCanB2WUJCLV9nS3BNeDdjOGx6U1ZraGFkZ3pGS19MSjRZNmIzY1JpNUZTOTBrMG9DMTlnb0pMLXEtejlTa3lCTHJZbkxnSkxN0g"
         },
         {
+          "title": "Suzlon Energy Ltd gains for third straight session",
+          "source": "Business Standard",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdTNKZ0dmQi1vN0tkMDhfRklPSllQdlNybTU2QXBSM01sY19saGxRS2RIcEpqaUExakJaT3B0bHdJZGJfUGxzS2psNFlhdWlzQjNsYTBYUC1seGpQVndWWkNJVTVITW4xaE5hY3RmMXhaaDFPdXI3Sm1ITnlkbHZjR2lRbDVSYUczbS1VdFdjUXJsd2s2NVlTUFlGLTZLS1liZzQ5ek5rYVdRWHVYck4tWHFCcHg0cW94RWJma3NzU0p0OThlNDdxbG96RmvSAdIBQVVfeXFMUEh0dUlzWGJwanFGclg2cGEyekdsWTIwU3ZvSThJTHd2eVRoYllTZXNYdE9jVmQ3SG8tY1k0LWZZQkxycGJnQkJ6ZHd1eTAxQUFxT1NOOHZvb1dSVFpQSWtSSzF4cExRSVNmWVhVUXNSZDhsMDR2dmFINGFLZlQzcDE0dzNrenM0cWlUbGthV1YyN1hSNGxQZlpFRjYwalM3ckhVNE1KLVprWXQ4QUthakNISzRKMnpzbVlSc3NfOXljaHpyRjdFQWpCRDFraDJkUVJR?oc=5",
+          "published_at": "2026-05-15T07:46:25+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNdTNKZ0dmQi1vN0tkMDhfRklPSllQdlNybTU2QXBSM01sY19saGxRS2RIcEpqaUExakJaT3B0bHdJZGJfUGxzS2psNFlhdWlzQjNsYTBYUC1seGpQVndWWkNJVTVITW4xaE5hY3RmMXhaaDFPdXI3Sm1ITnlkbHZjR2lRbDVSYUczbS1VdFdjUXJsd2s2NVlTUFlGLTZLS1liZzQ5ek5rYVdRWHVYck4tWHFCcHg0cW94RWJma3NzU0p0OThlNDdxbG96RmvSAdIBQVVfeXFMUEh0dUlzWGJwanFGclg2cGEyekdsWTIwU3ZvSThJTHd2eVRoYllTZXNYdE9jVm"
+        },
+        {
           "title": "Suzlon Energy Ltd Sees Exceptional Volume Amid Mixed Price Signals",
           "source": "Markets Mojo",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUDduczJHVEZua1c4OVcwN0pFSkVuLUQ2d1pOd0lvZTZVUVZyQVh1Vkx2NExRd3BVa1B3QmR0UkhfMjM3N054SVZCTmxYNGNDeXlOcFlyVWt6ZXh5WGNBY1MwSzhZTkZ1M1BxQ2N1LW1EaFJhOHpkem5PWWpCN0ZHbWpoNEhoeEhWYmtNNE9yNk5mWWZFcTJqaWlXSWNkOXdMRTY4ZE1QeWZhVzRkdjdxYlJOS1o5Z3FCSlMyU3lWemZQUQ?oc=5",
@@ -644,16 +694,16 @@
       "price_action": {
         "date": "2026-05-15",
         "open": 53.47,
-        "high": 54.3,
+        "high": 54.51,
         "low": 52.98,
-        "close": 54.24,
+        "close": 53.84,
         "prev_close": 53.47,
-        "change_pct": 1.44,
+        "change_pct": 0.69,
         "gap_pct": 0.0,
-        "intraday_range_pct": 2.47,
-        "volume": 40121962,
+        "intraday_range_pct": 2.86,
+        "volume": 82830993,
         "avg_volume_20d": 115451208,
-        "volume_ratio": 0.35,
+        "volume_ratio": 0.72,
         "sparkline": [
           40.78,
           41.59,
@@ -684,13 +734,13 @@
           51.52,
           53.1,
           53.47,
-          54.24
+          53.84
         ]
       },
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Suzlon Energy's stock price rose 1.44% with below-average volume, lacking a clear catalyst to explain the move. The news articles published did not seem to have a significant impact on the stock price. The company's stock is awaiting a meaningful catalyst to drive a substantial move.",
+        "analysis": "Suzlon Energy's stock price rose 0.69% with below-average volume, lacking a clear catalyst. The move was not significant enough to be driven by any particular news or event. The company's stock has been gaining for the third straight session, but the current move does not indicate any strong trend.",
         "confidence": "medium",
         "flags": []
       }
@@ -710,15 +760,15 @@
         "date": "2026-05-15",
         "open": 129.34,
         "high": 129.83,
-        "low": 126.89,
-        "close": 128.58,
+        "low": 126.6,
+        "close": 127.1,
         "prev_close": 128.62,
-        "change_pct": -0.03,
+        "change_pct": -1.18,
         "gap_pct": 0.56,
-        "intraday_range_pct": 2.29,
-        "volume": 4593710,
+        "intraday_range_pct": 2.51,
+        "volume": 6410979,
         "avg_volume_20d": 11704305,
-        "volume_ratio": 0.39,
+        "volume_ratio": 0.55,
         "sparkline": [
           114.94,
           115.58,
@@ -749,14 +799,14 @@
           124.69,
           128.25,
           128.62,
-          128.58
+          127.1
         ]
       },
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "IREDA's stock price remained largely unchanged with a minor decline of 0.03%. The trading volume was below average, indicating a lack of significant market interest. No notable catalysts were observed.",
-        "confidence": "high",
+        "analysis": "IREDA's stock price declined 1.18% with below-average volume, indicating a lack of significant catalysts or market interest. The move is not substantial enough to warrant attention. The company's stock is likely to be driven by broader market trends in the near term.",
+        "confidence": "medium",
         "flags": []
       }
     },
@@ -776,14 +826,14 @@
         "open": 204.0,
         "high": 204.29,
         "low": 198.6,
-        "close": 200.85,
+        "close": 199.78,
         "prev_close": 203.08,
-        "change_pct": -1.1,
+        "change_pct": -1.62,
         "gap_pct": 0.45,
         "intraday_range_pct": 2.8,
-        "volume": 481166,
+        "volume": 797233,
         "avg_volume_20d": 7351653,
-        "volume_ratio": 0.07,
+        "volume_ratio": 0.11,
         "sparkline": [
           165.46,
           166.43,
@@ -814,13 +864,13 @@
           202.49,
           203.57,
           203.08,
-          200.85
+          199.78
         ]
       },
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "SWSOLAR closed 1.1% lower with below-average volume, indicating a lack of conviction in the move. No significant catalysts were reported. The stock's price action was muted, with no clear direction.",
+        "analysis": "SWSOLAR closed 1.62% lower with below-average volume, indicating a lack of conviction in the move. No significant catalysts were reported. The stock's price action was muted, with no clear direction.",
         "confidence": "medium",
         "flags": []
       }
@@ -840,15 +890,15 @@
         "date": "2026-05-15",
         "open": 304.8,
         "high": 308.4,
-        "low": 300.4,
-        "close": 303.4,
+        "low": 300.0,
+        "close": 300.8,
         "prev_close": 304.8,
-        "change_pct": -0.46,
+        "change_pct": -1.31,
         "gap_pct": 0.0,
-        "intraday_range_pct": 2.62,
-        "volume": 870632,
+        "intraday_range_pct": 2.76,
+        "volume": 1399219,
         "avg_volume_20d": 6844678,
-        "volume_ratio": 0.13,
+        "volume_ratio": 0.2,
         "sparkline": [
           274.3,
           273.1,
@@ -879,13 +929,13 @@
           298.1,
           311.8,
           304.8,
-          303.4
+          300.8
         ]
       },
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "TARIL's stock price declined 0.46% with below-average volume, indicating a lack of significant catalysts or market interest. The intraday range was 2.62%, but the overall move was not meaningful. The stock's price action suggests a neutral trading day.",
+        "analysis": "Transformers and Rectifiers (India) Limited's stock price declined 1.31% with below-average volume, indicating a lack of significant catalysts or market interest. The stock's price action was muted, with no notable news or announcements. The low volume ratio suggests a lack of conviction among traders.",
         "confidence": "medium",
         "flags": []
       }
@@ -900,6 +950,13 @@
       "nse_announcements": [],
       "news": [
         {
+          "title": "ITC Hotels Q4 profit rises 23% to Rs 317 crore, revenue climbs 18%",
+          "source": "Storyboard18",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNEdJLXVUMDkyUjBtM0xzLTZjM29VUzE3cFN5NmZZQWZNZ0pWTS1faVIwNDhIcEhMeGtEaldFbzVZajdwdDBBNGtYZ2dGUThubm5PYmJvSHlnY1dvMGFCaVNVYnF6SndSVm9jYVl0ZTU2ZHlGZzdodjRQaXBFZHQtTXAyTjZPTW9LUkdTcEFENVN1cWhVYVVJdGlONGpNLUQ4QjBFSm5RZWpuZm1XNEcwVjVMWnpDWk9MZXc?oc=5",
+          "published_at": "2026-05-15T10:21:28+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPNEdJLXVUMDkyUjBtM0xzLTZjM29VUzE3cFN5NmZZQWZNZ0pWTS1faVIwNDhIcEhMeGtEaldFbzVZajdwdDBBNGtYZ2dGUThubm5PYmJvSHlnY1dvMGFCaVNVYnF6SndSVm9jYVl0ZTU2ZHlGZzdodjRQaXBFZHQtTXAyTjZPTW9LUkdTcEFENVN1cWhVYVVJdGlONGpNLUQ4QjBFSm5RZWpuZm1XNEcwVjVMWnpDWk9MZXc?oc=5\" target=\"_blank\">ITC Hotels Q4 profit rises 23% to Rs 317 crore, revenue climbs 18%</a>&nbsp;"
+        },
+        {
           "title": "Q4 Results Today: Cochin Shipyard, Godfrey Phillips, ITC Hotels, Premier Energies, NCC, SJVN, Tata Steel And More",
           "source": "NDTV Profit",
           "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMjVVVHVBeW5XMFNFcG9TdUVCT2Jxd2xEaVNGc2lGaXFlM0x4c3VFUWIzRklaTW96M2JLaGpKV29CR3dGUWFTMGZYUDRJYURKRGhtQnZaSzBkSFo1MDZFWTViblU3S2htcWpfTWk3MkxGY19SU3RJaVh6Rl9mLVFKT3BXQnJ1VTJ0bmFDSG8yVVBoV3ZDMl9zLXh3cy01NmdsWTBjR3RmZGtKUVYzNVdlV0xKcU84M2lxRnlQd1NCYkxhcF9pUlk0V08xcXltcjh6czZHMWhCMFpKN1JDMEdneTFGX2HSAewBQVVfeXFMUGVjTngzTlh2eXhQdkk1MW9icDZ6MkZNekZILXRzWnM0WHNuWk10c3FjejJfNEpsSnBweGY2dkYwbXktUXZhS2UyVTRfUGRSbnlSRzNMWGZTNl9aYS10bzdEckEzcGl5Z1p4UTVfOFFKWDVJNk5FblEzV0N5MlZLZnBKbnVBWnJQS0lESkVLS2ZmdzJIZmdSRVdoU0FoWWpBbGp2Wm1tMS05VGJ2UDRDNWNIbWUyWXRMYW5RY1g5QzJ0RFd1X251Z1M2VWl5eC15NjQxeTBSOTlIaWotaWVGcWhLeFNTbWN2TGx2YzY?oc=5",
@@ -907,39 +964,46 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMjVVVHVBeW5XMFNFcG9TdUVCT2Jxd2xEaVNGc2lGaXFlM0x4c3VFUWIzRklaTW96M2JLaGpKV29CR3dGUWFTMGZYUDRJYURKRGhtQnZaSzBkSFo1MDZFWTViblU3S2htcWpfTWk3MkxGY19SU3RJaVh6Rl9mLVFKT3BXQnJ1VTJ0bmFDSG8yVVBoV3ZDMl9zLXh3cy01NmdsWTBjR3RmZGtKUVYzNVdlV0xKcU84M2lxRnlQd1NCYkxhcF9pUlk0V08xcXltcjh6czZHMWhCMFpKN1JDMEdneTFGX2HSAewBQVVfeXFMUGVjTngzTlh2eXhQdkk1MW9icDZ6Mk"
         },
         {
-          "title": "No Proper Consideration of GST ITC Documents & Taxpayer’s Detailed Reply Ignored: HP HC Sets Aside Demand Order [Read Order]",
-          "source": "Taxscan",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPSFJTZzlrOUlmcERJTlVZakZVcXR1SWZ5VEFTMnpvbmQtWGhzUWhROGVZLWFVTkZVcWl3bXF6ek9TYi1kR0NqYWZCN2dMdEZDVThHQkJ5dGd6YXdVMWE3cTJ5VW42cnFDQkY3UDdMQmNZN2ZoNTdiRzJucEltZmdOWnVfdFZYelpoc1oxOVhOMlRGU3dxU2xkQVFvNkRyam5rWVZfYmtpMVZraWF6cWlSV1N0dEx0Wi1sa09MVW9pS1pEY2IxOTd6b055cDVPWFBqVXIxR3QtUzJFbmxiMVl2RUc2TkM?oc=5",
-          "published_at": "2026-05-15T05:23:19+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPSFJTZzlrOUlmcERJTlVZakZVcXR1SWZ5VEFTMnpvbmQtWGhzUWhROGVZLWFVTkZVcWl3bXF6ek9TYi1kR0NqYWZCN2dMdEZDVThHQkJ5dGd6YXdVMWE3cTJ5VW42cnFDQkY3UDdMQmNZN2ZoNTdiRzJucEltZmdOWnVfdFZYelpoc1oxOVhOMlRGU3dxU2xkQVFvNkRyam5rWVZfYmtpMVZraWF6cWlSV1N0dEx0Wi1sa09MVW9pS1pEY2IxOTd6b055cDVPWFBqVXIxR3QtUzJFbmxiMVl2RUc2TkM?oc=5\" target=\"_blank\">No Proper Considerat"
+          "title": "Itc Hotels Ltd Says Acquisition Of 100% Of The Share Capital Of Zuri Hotels And Resorts",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQaE9lNng1Z3NmLVFpSDBVd01PbC0zQk9KS3JFM084QzQ4Z2JYeVJKaGdrQk1WZElLbnFFSmZkZk81UlFxRDhHcTVQTUNtZHUwSXloTkQ3TGdEbEhHc2Y0THpXS25UODJrS1VHaExqejJvWDk5Rjd0b3NDdG10bmdkZ0p5RmotRHB4dTdnWGZSY0R3SERrbDgzT3lSYjZLUV9WNlFmU1lRdDhPcjlJT0dRc184QVZKMTd5YUFEY2hINWdnVzA3WEJxdXFzSEpoYlRPbDB1X1JTbFZ2aldvcDlBUU0xWHlESFB1MW50Nw?oc=5",
+          "published_at": "2026-05-15T10:37:26+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQaE9lNng1Z3NmLVFpSDBVd01PbC0zQk9KS3JFM084QzQ4Z2JYeVJKaGdrQk1WZElLbnFFSmZkZk81UlFxRDhHcTVQTUNtZHUwSXloTkQ3TGdEbEhHc2Y0THpXS25UODJrS1VHaExqejJvWDk5Rjd0b3NDdG10bmdkZ0p5RmotRHB4dTdnWGZSY0R3SERrbDgzT3lSYjZLUV9WNlFmU1lRdDhPcjlJT0dRc184QVZKMTd5YUFEY2hINWdnVzA3WEJxdXFzSEpoYlRPbDB1X1JTbFZ2aldvcDlBUU0xWHlESFB1MW50Nw?oc=5\" target=\"_blank\">Itc Hotel"
         },
         {
-          "title": "GMDC Q4 profit falls 14%; FY26 earnings lifted by ₹522 cr GST-linked ITC gains",
-          "source": "BusinessLine",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQLUdpZ3FpeFNnOG1fSDdUYjVfQ09fOFpxWWdld2tCVmxnUjRBeFc4N0JESnRmbGZvSmFMN080aHA5OFNwbjVYMFo2UktGWmlQa3IwZ1FZUE5jXzB0dC0wZ2t1dnpYMW9iRGw1TW9GdjRhRHNqajgxa3A2UU9mUlFoRlp5ZkpFTFRWQXBtUkNNTU1SOEF2S2dlM3RDeEVYLUZfWTh5V2VueG9RY20tT2hVeTNOYlFUMTdPYU5EUkIwSXhYTWxGUi1BZXJ4RzNkZ1ZEV3ZVYW9qbXFpZ9IB4AFBVV95cUxPMEhfS205cnNfRENlRUVsT3lSRjkxc3dJZTNMRmdBbjAyR2JOR0hLY21IemF3MUFUbmxhVFlydTRBUUd1QVdSQURhaTlWODV0S3gwbzlpTzhqNzRFQ25Kc0dfWFBQd3lkZzE2NDhheERnMGZGZ3JGaXJiYUg1OGRta1VXOUM1M2FFVUtZM1k0RGxqYWt5ZTFJbktaVWl6SXhvcWFCQ1l4bjNudEdxUDVqYjFMYlUzeVNyVk5qY2tJUDBidnVqTUJFM2ltUWdXc2dkU19VU2c3all2TnBaQmpKUQ?oc=5",
-          "published_at": "2026-05-15T05:01:58+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQLUdpZ3FpeFNnOG1fSDdUYjVfQ09fOFpxWWdld2tCVmxnUjRBeFc4N0JESnRmbGZvSmFMN080aHA5OFNwbjVYMFo2UktGWmlQa3IwZ1FZUE5jXzB0dC0wZ2t1dnpYMW9iRGw1TW9GdjRhRHNqajgxa3A2UU9mUlFoRlp5ZkpFTFRWQXBtUkNNTU1SOEF2S2dlM3RDeEVYLUZfWTh5V2VueG9RY20tT2hVeTNOYlFUMTdPYU5EUkIwSXhYTWxGUi1BZXJ4RzNkZ1ZEV3ZVYW9qbXFpZ9IB4AFBVV95cUxPMEhfS205cnNfRENlRUVsT3lSRjkxc3dJZTNMRmdBbj"
+          "title": "ITC Hotels Q4 Results: Profit rises 34% to Rs 317 crore; declares final dividend",
+          "source": "Zee Business",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcVBxSXhRMnUzaEVnb2ExaEhMYllaNmxQZFZLSW4wQnd4dTlMZUptVVFsNDJfSENhdlpBMlY4OHNaSlh2TUdYZlBaSC1ZZDNTdHpNSjFwek1jSUptbC13bDZVMFFlTzdJUjIxQ0s2R0d6VmRweHpEV0dZaWlULUR3TFFGeGJoeW1jQmZ3YXRlNVhRUl9UUXpwNWt4SVNxemdYUnM5Smt0MlRsUDN1c1pOQ2QzcHlOZWxfY0s5VmZ4aw?oc=5",
+          "published_at": "2026-05-15T10:39:43+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNcVBxSXhRMnUzaEVnb2ExaEhMYllaNmxQZFZLSW4wQnd4dTlMZUptVVFsNDJfSENhdlpBMlY4OHNaSlh2TUdYZlBaSC1ZZDNTdHpNSjFwek1jSUptbC13bDZVMFFlTzdJUjIxQ0s2R0d6VmRweHpEV0dZaWlULUR3TFFGeGJoeW1jQmZ3YXRlNVhRUl9UUXpwNWt4SVNxemdYUnM5Smt0MlRsUDN1c1pOQ2QzcHlOZWxfY0s5VmZ4aw?oc=5\" target=\"_blank\">ITC Hotels Q4 Results: Profit rises 34% to Rs 317 crore; declares fin"
         },
         {
-          "title": "Q4 results: Power Grid, Tata Steel, NHPC, Premier Energies, Cochin Shipyard, ITC Hotels, Godfrey Phillips, others to post earnings on May 15",
-          "source": "Upstox",
-          "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOb0pQLVdmMHRwQ09CU1pPM2F4MVhzQmJZVXFuYnI2aWxwYVd5WG9uVi1vYk85bjlsVzV3RDB2bUNwTF9WTVZEMlhWNVJ2SVJJR0VaaU5UUk5lR3RiUmtUVEpjcUZKVmVCQUlIMnZ1RUFKeTlJekRPWk5UWlpPVlBiNjI4bFRiWFRhVGhrOEJCc19NYXJ0ZUc0TzJtUlVOQy1kLTQ0enRLcUhWRXhNTkF6Sk5NNEk3YzZSYjhUZ3B3N2dzMUliT2dMX0Q2Q25zQmRhTnZxdnpRZTdsQVNXN3ZqbUdEY1M0TDNlNXJwdGtDMlNFdUZrX0ZwR0NiSXl5Q0x3T1pDYmE1NjJfR0lDQUVhOHpjQVNmQng3ZUVPazRn?oc=5",
-          "published_at": "2026-05-15T02:34:10+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMingJBVV95cUxOb0pQLVdmMHRwQ09CU1pPM2F4MVhzQmJZVXFuYnI2aWxwYVd5WG9uVi1vYk85bjlsVzV3RDB2bUNwTF9WTVZEMlhWNVJ2SVJJR0VaaU5UUk5lR3RiUmtUVEpjcUZKVmVCQUlIMnZ1RUFKeTlJekRPWk5UWlpPVlBiNjI4bFRiWFRhVGhrOEJCc19NYXJ0ZUc0TzJtUlVOQy1kLTQ0enRLcUhWRXhNTkF6Sk5NNEk3YzZSYjhUZ3B3N2dzMUliT2dMX0Q2Q25zQmRhTnZxdnpRZTdsQVNXN3ZqbUdEY1M0TDNlNXJwdGtDMlNFdUZrX0ZwR0NiSXl5Q0x3T1pDYm"
-        },
-        {
-          "title": "Negative Blocking of Electronic Credit Ledger Held Impermissible by HC",
-          "source": "Studycafe",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaWFzWGdEUE9waElXUGhlRDZ0a29nTkZBRk05S1pEZHZ3Sk9PamR5eW5hNUtxSlhGSzhxXzRFaW9yZmd1eURscnFqaHJqOHRQTE1mX0lfNkNVbDlHcjFsZTBhVG42TXlaVERmTE9RNnhDZzVjbXdsQjdyWmFxdGVWb3BQQ0JXZkZLWmxSal9DQWU2WUdpZWF4WkVJdVdLSTFBSUFJd2pB?oc=5",
-          "published_at": "2026-05-15T06:18:09+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOaWFzWGdEUE9waElXUGhlRDZ0a29nTkZBRk05S1pEZHZ3Sk9PamR5eW5hNUtxSlhGSzhxXzRFaW9yZmd1eURscnFqaHJqOHRQTE1mX0lfNkNVbDlHcjFsZTBhVG42TXlaVERmTE9RNnhDZzVjbXdsQjdyWmFxdGVWb3BQQ0JXZkZLWmxSal9DQWU2WUdpZWF4WkVJdVdLSTFBSUFJd2pB?oc=5\" target=\"_blank\">Negative Blocking of Electronic Credit Ledger Held Impermissible by HC</a>&nbsp;&nbsp;<font color=\"#6f6"
-        },
-        {
-          "title": "Stocks in news: Adani Enterprises, Tata Motors PV, Tata Steel, Jio Financial, ITC Hotels",
+          "title": "ITC Hotels Q4 results: Profit rises 23% YoY to Rs 317 crore; co declares Re 1/share dividend",
           "source": "The Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNUt0d0VSNm12N2FDTVl4ZHVwa1JZRFlMUWpZZTNkeWJidnF5aHltTlZUeEpqSXhBOEZnczlSdDZfWm1RLS1Qc3l2dE00OERCbUpIMzBBbDBFWUNuNUZmaEpONW5JUE0xRTJIdjU5N181aTFPVlY3bVFTNEV3MGxVUzhCcU1qcmN1UnRVSjhHMXBzOHMyOHI2MkIwX25TMm54SDZNNzVIeGVzTGp4ak9sVnczNlh0a3hQei1IRXczYldJNzdpbVJBWlpLbUdXVTdQQ0djbXJza1U5N0ctXzNMeTZfWjlET0dRYkwzSDRn0gHzAUFVX3lxTE9wRUN6V0dKeThfcmZRMGhMeE9KTUJ5RUJHNFhWMWVaOFZDQkc0WnFEZzlKVTBWNGxFNWFRZmZrajNaS0F1aW96OXpKdFRYa2t0OEF4dUNFOTl0OF8tdHRHd1NUcjBTbHNSS0F0bnZfb1QybzZ4ZnQ4N2QxWndkQWV5U2FqcXRzTzkyYUQ5bHQ2Q0w1VksxVHdmZ2RaOUppUWJPNjRoQmVmUzBtLVVTSE1xamxxOUxmdEk4aW5MOUwtY0o2NkhGX2VHX3lvSTlhRmpmT2pmUjZBMTNVSS1JNFNGU0RYWkNidWpxRE81RnNOWUhXOA?oc=5",
-          "published_at": "2026-05-15T01:05:34+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNUt0d0VSNm12N2FDTVl4ZHVwa1JZRFlMUWpZZTNkeWJidnF5aHltTlZUeEpqSXhBOEZnczlSdDZfWm1RLS1Qc3l2dE00OERCbUpIMzBBbDBFWUNuNUZmaEpONW5JUE0xRTJIdjU5N181aTFPVlY3bVFTNEV3MGxVUzhCcU1qcmN1UnRVSjhHMXBzOHMyOHI2MkIwX25TMm54SDZNNzVIeGVzTGp4ak9sVnczNlh0a3hQei1IRXczYldJNzdpbVJBWlpLbUdXVTdQQ0djbXJza1U5N0ctXzNMeTZfWjlET0dRYkwzSDRn0gHzAUFVX3lxTE9wRUN6V0dKeThfcm"
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNd2xxME44RnRMTUZ2eG50cUNBdXhIRG5qQTJLZ0toTWhmWmNFZ2IzdXFRNHpubzlpUEFISGVaTGtGYmNvUUxwaC1ieV9Wd0kxd3RWSEZqS2JRX0xpU1lXNDlzYkdycmxxYndGYzgxQld4alhwTG1uOWotZnFXVWpkd1ZaWDJVdUlHQ0ZacENDaUFCNUR3UkV2T1BXdC16Sk44QzYyZkQwVng3S182RVhRVXIzX3EwVU85dlIwRXN3TW9fbXVrd2hnb2ZCbkl5SExHcEhDZVp4OEM1ZkpwRHljZGhFYW1vSTFsZ1ZNWHBvRDAtRVBYalZydUs1VdIBgAJBVV95cUxPYUxkRDNwVGFISHE5cHBWd2F2QnBhT0VRRWl4MXFpQ0k3b2QyOTY1XzhKRFdZcURKLW04RU9XM2UzOGN6UEpwTjBwUGFfSFdXcTY0TTlERkNiUTNLU0hselFDT1hmazNkY2NSRlZta2d3MjlFTzhsWDRaVi05VTI3UDdITUttUWx4TzhuWXVIcVd5TUV5ZmNlbGtJc2RqNVNLdWtCbEg5bE9UQzFIV3NPVndBMFNiQUZONnpIaU0wdlZwX3M5ODRNeEtiWFE5UFZJQVlQVm1hUjFyWUxpMHJsSlF5MlRfeVpVQlVqcVFtX2d2blFKM3habmppSzNHVU9I?oc=5",
+          "published_at": "2026-05-15T11:14:29+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxNd2xxME44RnRMTUZ2eG50cUNBdXhIRG5qQTJLZ0toTWhmWmNFZ2IzdXFRNHpubzlpUEFISGVaTGtGYmNvUUxwaC1ieV9Wd0kxd3RWSEZqS2JRX0xpU1lXNDlzYkdycmxxYndGYzgxQld4alhwTG1uOWotZnFXVWpkd1ZaWDJVdUlHQ0ZacENDaUFCNUR3UkV2T1BXdC16Sk44QzYyZkQwVng3S182RVhRVXIzX3EwVU85dlIwRXN3TW9fbXVrd2hnb2ZCbkl5SExHcEhDZVp4OEM1ZkpwRHljZGhFYW1vSTFsZ1ZNWHBvRDAtRVBYalZydUs1VdIBgAJBVV95cU"
+        },
+        {
+          "title": "ITC Hotels Q4 Results: Cons PAT jumps 23% YoY to ₹316 crore; Re 1 dividend announced",
+          "source": "Mint",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdWU0ajFnZkF3VFRkMkpZdmVFZXRFSEktQmJUbG15eHYzZURKYThFQmpGMW9EejYtQ0hJTDhRc0p3Mk80YUZCeGNoTHQ2bFNPZEtSeDB3dGFSNktFbUlmZ1FJN2FJRXdBMDBiVWhQeXlhQUJOTlhwekN4NE5pM0wwMEh0ZzRsTXlSclZKSTNvMGgyb3lqS0Rkam0zMU4zZTFEUkpLWXNOQjAwUzVUV1RwcUZIS3dTWS1xM0VZTDJhNnVQdjBmSFZfUnFqdmo1YWttNENlLWJxTUdnd2p4QWdia2dLcW9VRzgx?oc=5",
+          "published_at": "2026-05-15T10:41:49+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdWU0ajFnZkF3VFRkMkpZdmVFZXRFSEktQmJUbG15eHYzZURKYThFQmpGMW9EejYtQ0hJTDhRc0p3Mk80YUZCeGNoTHQ2bFNPZEtSeDB3dGFSNktFbUlmZ1FJN2FJRXdBMDBiVWhQeXlhQUJOTlhwekN4NE5pM0wwMEh0ZzRsTXlSclZKSTNvMGgyb3lqS0Rkam0zMU4zZTFEUkpLWXNOQjAwUzVUV1RwcUZIS3dTWS1xM0VZTDJhNnVQdjBmSFZfUnFqdmo1YWttNENlLWJxTUdnd2p4QWdia2dLcW9VRzgx?oc=5\" target=\"_blank\">ITC Hotels Q4 R"
+        },
+        {
+          "title": "ITC Hotels Declares First-Ever Dividend as FY26 PAT Jumps 29%",
+          "source": "Trade Brains",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRXI5Zl9mSm0taDJVNVlCb2F2WTA0eEFGNk1EUFNQajN2TWhBalJkSTZhLS1nRE5DdGIzQkVqdUtIbGNiV3lhMkNQYjA2WjM0YmR1N2VLZzBrY25Cb1A5TmdEREhsQjFDT2NVWmZaTl91MXNteWM0WGVCMXhCbjRadDhzLXhncWFIX3Npbg?oc=5",
+          "published_at": "2026-05-15T11:13:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQRXI5Zl9mSm0taDJVNVlCb2F2WTA0eEFGNk1EUFNQajN2TWhBalJkSTZhLS1nRE5DdGIzQkVqdUtIbGNiV3lhMkNQYjA2WjM0YmR1N2VLZzBrY25Cb1A5TmdEREhsQjFDT2NVWmZaTl91MXNteWM0WGVCMXhCbjRadDhzLXhncWFIX3Npbg?oc=5\" target=\"_blank\">ITC Hotels Declares First-Ever Dividend as FY26 PAT Jumps 29%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Trade Brains</font>"
+        },
+        {
+          "title": "ITC Hotels acquires luxury resort property in Kumarakom",
+          "source": "BW Hotelier",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPX284VklWSmZKRms3S3hBMUZCeGtGOEsyZDhjblhiYlZwSHhtTlRIS0d1R2Q5UmVDR1dKN0VjYlJIZlVxUjRqNVE5RFhhT1NhZEcwdlgxd3ZUWDBRMWJzd1Z3QWpKcF9kOVNlSHA2aFIzeUYwdnVxRW5xOXJOWjYzMFZBRE9OUlBYclRjcUZaQkFFellpbGRnTmNzaGxWUQ?oc=5",
+          "published_at": "2026-05-15T11:20:13+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPX284VklWSmZKRms3S3hBMUZCeGtGOEsyZDhjblhiYlZwSHhtTlRIS0d1R2Q5UmVDR1dKN0VjYlJIZlVxUjRqNVE5RFhhT1NhZEcwdlgxd3ZUWDBRMWJzd1Z3QWpKcF9kOVNlSHA2aFIzeUYwdnVxRW5xOXJOWjYzMFZBRE9OUlBYclRjcUZaQkFFellpbGRnTmNzaGxWUQ?oc=5\" target=\"_blank\">ITC Hotels acquires luxury resort property in Kumarakom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BW Hotelier</font>"
         }
       ],
       "events": [
@@ -1021,16 +1085,16 @@
       "price_action": {
         "date": "2026-05-15",
         "open": 307.2,
-        "high": 309.45,
+        "high": 312.05,
         "low": 306.3,
-        "close": 308.9,
+        "close": 309.45,
         "prev_close": 307.2,
-        "change_pct": 0.55,
+        "change_pct": 0.73,
         "gap_pct": 0.0,
-        "intraday_range_pct": 1.03,
-        "volume": 5217019,
+        "intraday_range_pct": 1.87,
+        "volume": 11950844,
         "avg_volume_20d": 18058515,
-        "volume_ratio": 0.29,
+        "volume_ratio": 0.66,
         "sparkline": [
           292.85,
           294.85,
@@ -1061,13 +1125,13 @@
           300.7,
           304.45,
           307.2,
-          308.9
+          309.45
         ]
       },
       "analysis": {
-        "classification": "no_signal",
-        "primary_catalyst": null,
-        "analysis": "ITC's stock price moved up 0.55% with below-average volume, and no significant catalysts were reported. The company is set to announce its Q4 results on May 21, but there was no notable news or announcements on May 15.",
+        "classification": "catalyst_drove_move",
+        "primary_catalyst": "ITC Hotels Q4 profit rises 23% to Rs 317 crore, revenue climbs 18%",
+        "analysis": "ITC's stock price rose 0.73% following the announcement of ITC Hotels' Q4 results, which showed a 23% increase in profit. The company also declared a dividend of Re 1 per share. The positive earnings report and dividend declaration likely drove the stock's upward movement.",
         "confidence": "medium",
         "flags": []
       }
@@ -1078,9 +1142,222 @@
       "sector": "Hospitality",
       "notes": "Demerged from ITC, listed Jan 2025.",
       "skip_catalysts": false,
-      "bse_announcements": [],
-      "nse_announcements": [],
-      "news": [],
+      "bse_announcements": [
+        {
+          "headline": "Media Statement and Presentation-Acquisition of shares of Zuri Hotels and Resorts Private Limited.",
+          "category": "Company Update",
+          "subcategory": null,
+          "more_info": "",
+          "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/cd7f5ca3-709b-4c7d-aed6-f1f05d9ebc23.pdf",
+          "attached_at": "2026-05-15T16:14:36",
+          "source": "BSE"
+        },
+        {
+          "headline": "Media Statement and Investor Presentation FY 2025-26",
+          "category": "Company Update",
+          "subcategory": null,
+          "more_info": "",
+          "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/e0e570e5-bd34-4359-bce0-5361071653e5.pdf",
+          "attached_at": "2026-05-15T16:03:45",
+          "source": "BSE"
+        },
+        {
+          "headline": "AGM Date",
+          "category": "Company Update",
+          "subcategory": null,
+          "more_info": "",
+          "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/dc6f3a41-1261-4721-83b2-9b3b92002dc5.pdf",
+          "attached_at": "2026-05-15T15:44:57",
+          "source": "BSE"
+        },
+        {
+          "headline": "Dividend",
+          "category": " Corp Action",
+          "subcategory": null,
+          "more_info": "",
+          "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/aa3258b2-7fae-48e7-98a0-4ae781e98236.pdf",
+          "attached_at": "2026-05-15T15:43:34",
+          "source": "BSE"
+        },
+        {
+          "headline": "Recommendation for Appointment of Director.",
+          "category": "Company Update",
+          "subcategory": null,
+          "more_info": "",
+          "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/a3464529-be90-4f2e-b09f-84101f9cd568.pdf",
+          "attached_at": "2026-05-15T15:42:24",
+          "source": "BSE"
+        },
+        {
+          "headline": "Record Date",
+          "category": "Corp. Action",
+          "subcategory": null,
+          "more_info": "",
+          "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/92f21952-494b-4e64-b8c6-9c3971e3f6b3.pdf",
+          "attached_at": "2026-05-15T15:40:32",
+          "source": "BSE"
+        },
+        {
+          "headline": "Dividend",
+          "category": "Corp. Action",
+          "subcategory": null,
+          "more_info": "",
+          "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/5c179467-4ce4-4099-884a-27c9169f63b7.pdf",
+          "attached_at": "2026-05-15T15:39:13",
+          "source": "BSE"
+        },
+        {
+          "headline": "Financial Results",
+          "category": "Result",
+          "subcategory": null,
+          "more_info": "",
+          "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/3fc0eab9-822f-47d8-a529-80d802e99cc1.pdf",
+          "attached_at": "2026-05-15T15:37:37",
+          "source": "BSE"
+        },
+        {
+          "headline": "Announcement under Regulation 30 (LODR)-Acquisition",
+          "category": "Company Update",
+          "subcategory": null,
+          "more_info": "",
+          "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/30995fb9-902a-4996-9b76-cdd53e8bc8c6.pdf",
+          "attached_at": "2026-05-15T15:32:19",
+          "source": "BSE"
+        },
+        {
+          "headline": "Outcome",
+          "category": "Board Meeting",
+          "subcategory": null,
+          "more_info": "",
+          "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/ece7874f-13e1-4fd7-b2d1-2aa7f8aa9a40.pdf",
+          "attached_at": "2026-05-15T15:27:14",
+          "source": "BSE"
+        }
+      ],
+      "nse_announcements": [
+        {
+          "headline": "Updates",
+          "category": null,
+          "more_info": "ITC Hotels Limited has informed the Exchange regarding 'Acquisition - Media Statement and Presentation'.",
+          "pdf_url": "https://nsearchives.nseindia.com/corporate/ITCHOTELS12_15052026161200_MediastatementAcquisitionsigned.pdf",
+          "attached_at": "15-May-2026 16:12:39",
+          "source": "NSE"
+        },
+        {
+          "headline": "Updates",
+          "category": null,
+          "more_info": "ITC Hotels Limited has informed the Exchange regarding 'Audited Financial Results - Media Statement and Presentation'.",
+          "pdf_url": "https://nsearchives.nseindia.com/corporate/ITCHOTELS12_15052026160423_MediaStatementDisclosureFinancials_Signed.pdf",
+          "attached_at": "15-May-2026 16:05:33",
+          "source": "NSE"
+        },
+        {
+          "headline": "Updates",
+          "category": null,
+          "more_info": "ITC Hotels Limited has informed the Exchange regarding 'Intimation of date of the Annual General Meeting of the Company'.",
+          "pdf_url": "https://nsearchives.nseindia.com/corporate/ITCHOTELS12_15052026153736_Outcome_financialssigned.pdf",
+          "attached_at": "15-May-2026 15:37:43",
+          "source": "NSE"
+        },
+        {
+          "headline": "Updates",
+          "category": null,
+          "more_info": "ITC Hotels Limited has informed the Exchange regarding 'Recommendation for Appointment of Director'.",
+          "pdf_url": "https://nsearchives.nseindia.com/corporate/ITCHOTELS12_15052026153622_Outcome_financialssigned.pdf",
+          "attached_at": "15-May-2026 15:36:31",
+          "source": "NSE"
+        },
+        {
+          "headline": "Record Date",
+          "category": null,
+          "more_info": "ITC Hotels Limited has informed the Exchange that Record date for the purpose of Dividend  is 21-May-2026.",
+          "pdf_url": "https://nsearchives.nseindia.com/corporate/ITCHOTELS12_15052026153356_Outcome_financialssigned.pdf",
+          "attached_at": "15-May-2026 15:35:03",
+          "source": "NSE"
+        },
+        {
+          "headline": "Acquisition",
+          "category": null,
+          "more_info": "ITC Hotels Limited has informed the Exchange about Acquisition of Zuri Hotels and Resorts Private Limited.",
+          "pdf_url": "https://nsearchives.nseindia.com/corporate/ITCHOTELS12_15052026153256_Outcome_Acquisitionsigned.pdf",
+          "attached_at": "15-May-2026 15:33:11",
+          "source": "NSE"
+        },
+        {
+          "headline": "Dividend",
+          "category": null,
+          "more_info": "ITC Hotels Limited has informed the Exchange that Board of Directors at its meeting held on May 15, 2026, recommended Final Dividend of Re. 1 per equity share.",
+          "pdf_url": "https://nsearchives.nseindia.com/corporate/ITCHOTELS12_15052026153112_Outcome_financialssigned.pdf",
+          "attached_at": "15-May-2026 15:31:31",
+          "source": "NSE"
+        },
+        {
+          "headline": "Outcome of Board Meeting",
+          "category": null,
+          "more_info": "ITC Hotels Limited has submitted to the Exchange, the financial results for the period ended March 31, 2026.",
+          "pdf_url": "https://nsearchives.nseindia.com/corporate/ITCHOTELS12_15052026152824_Outcome_financialssigned.pdf",
+          "attached_at": "15-May-2026 15:29:15",
+          "source": "NSE"
+        }
+      ],
+      "news": [
+        {
+          "title": "ITCHOTELS: Record revenue and profit growth in FY26, driven by strong demand and portfolio expansion",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOT3FLWWUyWm9fMVZTY3ZYcGNvbG5Ua2x6TlFreDYtQ3h3dUptcGxFWmRHMXk1Qk9HRDZyNHVmWFBvRXBvcUpTN2pRNjFFUFZVOU4zcjlGWVp3VVRzTE9sOXc5S0tlRmNILVlHc0FWLXoyQk50SHRsQ1dlQk4yUzNmRlRtajNfaVI4bm0zbmNncHFNR2tFd0loMlNZVVJWMWk2bHJjcE9zbXhFX055RmV1dE1QNUE3engzbU5FajZUajZRQnFrQVN6M242TjFQZWJyOU02VF80Y21YaVh2X0pjU2x5WE9HTFYyckNLZUtTZHZWRFF2WmxaekRuOUlsMFp2cUVlbXc4QVNoTlg0R3c?oc=5",
+          "published_at": "2026-05-15T10:42:21+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxOT3FLWWUyWm9fMVZTY3ZYcGNvbG5Ua2x6TlFreDYtQ3h3dUptcGxFWmRHMXk1Qk9HRDZyNHVmWFBvRXBvcUpTN2pRNjFFUFZVOU4zcjlGWVp3VVRzTE9sOXc5S0tlRmNILVlHc0FWLXoyQk50SHRsQ1dlQk4yUzNmRlRtajNfaVI4bm0zbmNncHFNR2tFd0loMlNZVVJWMWk2bHJjcE9zbXhFX055RmV1dE1QNUE3engzbU5FajZUajZRQnFrQVN6M242TjFQZWJyOU02VF80Y21YaVh2X0pjU2x5WE9HTFYyckNLZUtTZHZWRFF2WmxaekRuOUlsMFp2cUVlbX"
+        },
+        {
+          "title": "ITC Hotels Limited Reports Strong Growth for Fiscal Year 2026",
+          "source": "InvestyWise",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONXBta0E0TzhWQlpEU3JqZnUwX3hoQ1V5VFowelNJNU1lV0NyZlFraUZWc3JTMHJzZzI0NFc2MnRheEdaVzZUNG9LWVVKUjlvaFYtM3NSQkxKVDJxWXhYTWZKWnhxeDJNdWwybTZnSUZGMm1EN3Q2WWlrejNpN0FGRWZHVW54bV9YQVNoQTdMaVBxUExyN1VWNWh0MDhiVzlZNnQyV092ZWNIUQ?oc=5",
+          "published_at": "2026-05-15T10:16:01+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxONXBta0E0TzhWQlpEU3JqZnUwX3hoQ1V5VFowelNJNU1lV0NyZlFraUZWc3JTMHJzZzI0NFc2MnRheEdaVzZUNG9LWVVKUjlvaFYtM3NSQkxKVDJxWXhYTWZKWnhxeDJNdWwybTZnSUZGMm1EN3Q2WWlrejNpN0FGRWZHVW54bV9YQVNoQTdMaVBxUExyN1VWNWh0MDhiVzlZNnQyV092ZWNIUQ?oc=5\" target=\"_blank\">ITC Hotels Limited Reports Strong Growth for Fiscal Year 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f"
+        },
+        {
+          "title": "ITCHOTELS: Revenue and profit rose year-over-year, with a ₹1/share dividend and strong operational cash flow",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNNGE4TndIMWIxSE81OEJwdjhDOWc2OGVVWlVqaE1HbElqbGFONjJhT0twYTAyRjN2dWlKNG5YUkUwV1VvbDNsU2JvTndrVW01UzZNS0RzRmJUR245bmZucjhpNTFPNjJVVzVFdU5vZE1CQ0xXWlhrUGZHY2hJYTg2Z0t3XzB2eXlIWnZ3dHVQd2gtbVpUaEtRV1V6bktHVlNMb1UyVkVKdVpHQ21xZnpteU9FNHVPMnlzakhQR3J5Ukp4b1RrSTBhYVo5VjVxS0pKQ3JLbjBTUzdLUjk3RW83elh0YTY1VkxxWE5iOTEwM1VPV29KZUFMR0xINGJYRUpMak40dHBydEMxT2VTdnlUTy1PZTdmZkk?oc=5",
+          "published_at": "2026-05-15T10:16:25+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwJBVV95cUxNNGE4TndIMWIxSE81OEJwdjhDOWc2OGVVWlVqaE1HbElqbGFONjJhT0twYTAyRjN2dWlKNG5YUkUwV1VvbDNsU2JvTndrVW01UzZNS0RzRmJUR245bmZucjhpNTFPNjJVVzVFdU5vZE1CQ0xXWlhrUGZHY2hJYTg2Z0t3XzB2eXlIWnZ3dHVQd2gtbVpUaEtRV1V6bktHVlNMb1UyVkVKdVpHQ21xZnpteU9FNHVPMnlzakhQR3J5Ukp4b1RrSTBhYVo5VjVxS0pKQ3JLbjBTUzdLUjk3RW83elh0YTY1VkxxWE5iOTEwM1VPV29KZUFMR0xINGJYRUpMak40dH"
+        },
+        {
+          "title": "ITC Hotels Limited Acquisition of The Zuri Kumarakom Resort & Spa",
+          "source": "InvestyWise",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPd0NiQjh4clRlUHlkLXE3QU12TjRPMFh6NUROczZHazZyWnRtaWNVcFU4QS0yZ1FsX2E0bU11SjlFOXdXbERUcHlJWlVQU3VMd29kVVVxWmNINWVIZ1hSdkVCb25icnNySXQtOG1NRHdRMWR6QXpiNHNpVEt3SFJLZjV3emlTTE5rcENBakhRSQ?oc=5",
+          "published_at": "2026-05-15T10:50:47+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPd0NiQjh4clRlUHlkLXE3QU12TjRPMFh6NUROczZHazZyWnRtaWNVcFU4QS0yZ1FsX2E0bU11SjlFOXdXbERUcHlJWlVQU3VMd29kVVVxWmNINWVIZ1hSdkVCb25icnNySXQtOG1NRHdRMWR6QXpiNHNpVEt3SFJLZjV3emlTTE5rcENBakhRSQ?oc=5\" target=\"_blank\">ITC Hotels Limited Acquisition of The Zuri Kumarakom Resort & Spa</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">InvestyWise</font>"
+        },
+        {
+          "title": "ITC Hotels Limited Record Revenues and Profitability for FY26",
+          "source": "InvestyWise",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeE1Danl2czBORmliSGhlWkpFY3kydXc4eXRCNzNscjZiVHFMLUV4U2llRDdkdnFZMjZHVHZKM3c0cm5YSmFXMEwybWFQVmI4RVIyWnQ2LWhaNVJHVnFGbDBKMXVjT1hjcXJ6RnRpdG9tSHhldmVnNW90emdVay1Bamg3a3RpRmt3QlhTMTRkck11Zw?oc=5",
+          "published_at": "2026-05-15T10:35:47+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNeE1Danl2czBORmliSGhlWkpFY3kydXc4eXRCNzNscjZiVHFMLUV4U2llRDdkdnFZMjZHVHZKM3c0cm5YSmFXMEwybWFQVmI4RVIyWnQ2LWhaNVJHVnFGbDBKMXVjT1hjcXJ6RnRpdG9tSHhldmVnNW90emdVay1Bamg3a3RpRmt3QlhTMTRkck11Zw?oc=5\" target=\"_blank\">ITC Hotels Limited Record Revenues and Profitability for FY26</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">InvestyWise</font>"
+        },
+        {
+          "title": "ITC Hotels Limited Robust Financial Performance for Fiscal Year Ended March 2026",
+          "source": "InvestyWise",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOLTRhc1I0N0dNaVRsYTRmbjhRYXczQVVkOVNvMG1hbUVHcFBIVVZOVjl1ZGZ4bjNiSnh2MWs4V3h4eVptUTlWTFJ3VVh5dnEyV3hyVWJQZXFTam1oQmFsR2tjb2Z6ZE9jSlVmUFNka2J1LTVHYmhUdmJ4dzZYd0NZY0d3d1QzcHh0UkEyY1BWNFVYeWxLZkJ1TzZZR29SNG8?oc=5",
+          "published_at": "2026-05-15T10:10:47+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOLTRhc1I0N0dNaVRsYTRmbjhRYXczQVVkOVNvMG1hbUVHcFBIVVZOVjl1ZGZ4bjNiSnh2MWs4V3h4eVptUTlWTFJ3VVh5dnEyV3hyVWJQZXFTam1oQmFsR2tjb2Z6ZE9jSlVmUFNka2J1LTVHYmhUdmJ4dzZYd0NZY0d3d1QzcHh0UkEyY1BWNFVYeWxLZkJ1TzZZR29SNG8?oc=5\" target=\"_blank\">ITC Hotels Limited Robust Financial Performance for Fiscal Year Ended March 2026</a>&nbsp;&nbsp;<font color=\"#6f"
+        },
+        {
+          "title": "ITC Hotels Limited Acquisition of Zuri Hotels and Resorts Private Limited",
+          "source": "InvestyWise",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZEgySXkyMGdqZ0lzWEtnNF9GR3JaWnBmSDROLVhTYTZVOGNMOFdBSjdIZFE0R0U0Rmh1bEg2YzAtYUxHLTZPUEdta3o4RzItN0NXRlRlNUR1Q1FoWnJXVUdNRjNUTVdZZ05FbnE4Mi1kWDB2N0U2dWlLZHF0Qkk3UWx3aHdSZUJYckpyX0k4WQ?oc=5",
+          "published_at": "2026-05-15T10:05:47+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOZEgySXkyMGdqZ0lzWEtnNF9GR3JaWnBmSDROLVhTYTZVOGNMOFdBSjdIZFE0R0U0Rmh1bEg2YzAtYUxHLTZPUEdta3o4RzItN0NXRlRlNUR1Q1FoWnJXVUdNRjNUTVdZZ05FbnE4Mi1kWDB2N0U2dWlLZHF0Qkk3UWx3aHdSZUJYckpyX0k4WQ?oc=5\" target=\"_blank\">ITC Hotels Limited Acquisition of Zuri Hotels and Resorts Private Limited</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">InvestyWise</font>"
+        },
+        {
+          "title": "ITC Hotels Limited Robust Financial Growth and Dividend Recommendation for FY 2026",
+          "source": "InvestyWise",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNkd2MXYxcEM3R2xIbWlidG5GT0NpcXE3V1BmdTQ1UXowVWNobU9SZ2J0YjJndUxKeHNIa2p0ZHlKckhkZWFieTBnSVgyV2d5X215UTFjaHZFVWYwTFhOaUFHUWZYbWNZeFkwbWtuWE1iT1pyUV81Z3V6ekw4YWdYbkpka3IxZDJnTnBmaGdxaWFVQXhPNEM4?oc=5",
+          "published_at": "2026-05-15T10:00:47+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPNkd2MXYxcEM3R2xIbWlidG5GT0NpcXE3V1BmdTQ1UXowVWNobU9SZ2J0YjJndUxKeHNIa2p0ZHlKckhkZWFieTBnSVgyV2d5X215UTFjaHZFVWYwTFhOaUFHUWZYbWNZeFkwbWtuWE1iT1pyUV81Z3V6ekw4YWdYbkpka3IxZDJnTnBmaGdxaWFVQXhPNEM4?oc=5\" target=\"_blank\">ITC Hotels Limited Robust Financial Growth and Dividend Recommendation for FY 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Inv"
+        }
+      ],
       "events": [
         {
           "subject": null,
@@ -1161,15 +1438,15 @@
         "date": "2026-05-15",
         "open": 156.0,
         "high": 158.67,
-        "low": 155.2,
-        "close": 158.09,
+        "low": 154.6,
+        "close": 155.48,
         "prev_close": 155.35,
-        "change_pct": 1.76,
+        "change_pct": 0.08,
         "gap_pct": 0.42,
-        "intraday_range_pct": 2.23,
-        "volume": 2223240,
+        "intraday_range_pct": 2.62,
+        "volume": 3887850,
         "avg_volume_20d": 3399330,
-        "volume_ratio": 0.65,
+        "volume_ratio": 1.14,
         "sparkline": [
           147.39,
           148.09,
@@ -1200,13 +1477,13 @@
           153.72,
           154.75,
           155.35,
-          158.09
+          155.48
         ]
       },
       "analysis": {
-        "classification": "move_without_catalyst",
+        "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "ITCHOTELS stock rose 1.76% despite no significant catalysts, with volume ratio at 0.65, below the average. The move may be due to market sentiment or other unreported factors. The board meeting to consider financial results and dividend may have been priced in already.",
+        "analysis": "The stock price of ITC Hotels Limited showed a minimal increase of 0.08% on the day, with no significant catalysts driving the move. The company announced its financial results and dividend recommendation for FY26, but the market reaction was muted. The acquisition of Zuri Hotels and Resorts Private Limited was also announced, but it did not have a significant impact on the stock price.",
         "confidence": "medium",
         "flags": []
       }
@@ -1219,22 +1496,30 @@
       "skip_catalysts": false,
       "bse_announcements": [],
       "nse_announcements": [],
-      "news": [],
+      "news": [
+        {
+          "title": "Number of shareholders of Lemon Tree Hotels Ltd. – NSE:LEMONTREE",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWlcwbk1WY0pCbnlILUdJaE55TVBLM1RReHYtR1hCTWpKZ0ZMc1QxT0JZN2VDQURqRUk3OWZUOG1TSnpBVDVLM0F1X2kzVFp0OEs0a0VQSVRnT21mQlZtWU13Vnd1QTlsV2c4cHdBbDBVaTctVnFrSVJ1c0pHNlUtS2hrY3dzREJjNXBDdjk1dGl1eUV5NkRqQlpoLUd0ZG1xRnh5RGVOV0Zfdw?oc=5",
+          "published_at": "2026-05-15T07:02:58+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWlcwbk1WY0pCbnlILUdJaE55TVBLM1RReHYtR1hCTWpKZ0ZMc1QxT0JZN2VDQURqRUk3OWZUOG1TSnpBVDVLM0F1X2kzVFp0OEs0a0VQSVRnT21mQlZtWU13Vnd1QTlsV2c4cHdBbDBVaTctVnFrSVJ1c0pHNlUtS2hrY3dzREJjNXBDdjk1dGl1eUV5NkRqQlpoLUd0ZG1xRnh5RGVOV0Zfdw?oc=5\" target=\"_blank\">Number of shareholders of Lemon Tree Hotels Ltd. – NSE:LEMONTREE</a>&nbsp;&nbsp;<font color=\"#6f6"
+        }
+      ],
       "events": [],
       "sebi_mentions": [],
       "price_action": {
         "date": "2026-05-15",
         "open": 112.5,
         "high": 114.39,
-        "low": 111.55,
-        "close": 112.13,
+        "low": 110.9,
+        "close": 111.23,
         "prev_close": 112.51,
-        "change_pct": -0.34,
+        "change_pct": -1.14,
         "gap_pct": -0.01,
-        "intraday_range_pct": 2.52,
-        "volume": 1170610,
+        "intraday_range_pct": 3.1,
+        "volume": 2054705,
         "avg_volume_20d": 8899237,
-        "volume_ratio": 0.13,
+        "volume_ratio": 0.23,
         "sparkline": [
           108.24,
           109.71,
@@ -1265,14 +1550,14 @@
           111.88,
           112.38,
           112.51,
-          112.13
+          111.23
         ]
       },
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Lemon Tree Hotels Limited traded in a narrow range with minimal volume, resulting in a negligible price change. The lack of catalysts and low volume ratio suggest a quiet trading day. No significant developments were observed.",
-        "confidence": "high",
+        "analysis": "Lemon Tree Hotels' stock price declined 1.14% with below-average volume, indicating a lack of significant catalysts or market interest. The news about the number of shareholders does not appear to have had a material impact. The stock's price action suggests a neutral market sentiment.",
+        "confidence": "medium",
         "flags": []
       }
     },
@@ -1291,15 +1576,15 @@
         "date": "2026-05-15",
         "open": 169.09,
         "high": 169.5,
-        "low": 166.9,
-        "close": 167.8,
+        "low": 165.62,
+        "close": 165.97,
         "prev_close": 169.09,
-        "change_pct": -0.76,
+        "change_pct": -1.85,
         "gap_pct": 0.0,
-        "intraday_range_pct": 1.54,
-        "volume": 99091,
+        "intraday_range_pct": 2.29,
+        "volume": 176387,
         "avg_volume_20d": 363991,
-        "volume_ratio": 0.27,
+        "volume_ratio": 0.48,
         "sparkline": [
           159.05,
           159.08,
@@ -1330,14 +1615,14 @@
           168.13,
           169.38,
           169.09,
-          167.8
+          165.97
         ]
       },
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Finolex Industries Limited stock price declined 0.76% with below-average volume, indicating a lack of significant catalysts or market interest. The stock's price action was muted, with no notable announcements or news. The low volume ratio suggests a lack of conviction among traders.",
-        "confidence": "medium",
+        "analysis": "Finolex Industries Limited stock price declined 1.85% with below-average volume, indicating a lack of significant catalysts or market interest. The stock's price action was muted, with no notable news or announcements. The decline may be a minor correction, but without a clear catalyst, it's difficult to determine the cause.",
+        "confidence": "low",
         "flags": []
       }
     },
@@ -1423,15 +1708,15 @@
         "date": "2026-05-15",
         "open": 429.7,
         "high": 429.7,
-        "low": 417.1,
-        "close": 419.5,
+        "low": 416.0,
+        "close": 419.15,
         "prev_close": 428.05,
-        "change_pct": -2.0,
+        "change_pct": -2.08,
         "gap_pct": 0.39,
-        "intraday_range_pct": 2.94,
-        "volume": 88299,
+        "intraday_range_pct": 3.2,
+        "volume": 164762,
         "avg_volume_20d": 651052,
-        "volume_ratio": 0.14,
+        "volume_ratio": 0.25,
         "sparkline": [
           368.0,
           367.0,
@@ -1462,14 +1747,14 @@
           431.3,
           420.6,
           428.05,
-          419.5
+          419.15
         ]
       },
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "GNG Electronics Limited's stock price declined 2.0% with below-average volume, but no significant catalysts were found to explain the move. The low volume ratio of 0.14 suggests a lack of market interest. The stock's price action appears unrelated to any recent SEBI mentions, which were primarily focused on other companies.",
-        "confidence": "medium",
+        "analysis": "GNG Electronics Limited's stock price declined 2.08% with below-average volume, but no relevant catalysts were found to explain the move. The stock's price action was not accompanied by any significant news or announcements. The decline may be due to market sentiment or other factors not captured in the available data.",
+        "confidence": "low",
         "flags": []
       }
     },
