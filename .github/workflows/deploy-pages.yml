@@ -1,0 +1,57 @@
+name: Deploy Dashboard to GitHub Pages
+
+on:
+  # Triggers after the Daily Portfolio Report workflow finishes
+  workflow_run:
+    workflows: ["Daily Portfolio Report"]
+    types: [completed]
+  # Also triggers on manual button click
+  workflow_dispatch:
+  # Also triggers if dashboard files themselves change
+  push:
+    branches: [main]
+    paths:
+      - 'dashboard/**'
+      - 'reports/**'
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: deploy-pages
+  cancel-in-progress: true
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: cd dashboard && npm install
+
+      - name: Build dashboard
+        run: cd dashboard && npm run build
+        env:
+          NEXT_PUBLIC_BASE_PATH: /portfolio-monitor
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dashboard/out
+
+      - name: Deploy to Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
