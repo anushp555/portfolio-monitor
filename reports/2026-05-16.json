@@ -1,7 +1,7 @@
 {
   "report_date": "2026-05-16",
   "trading_day": "2026-05-15",
-  "generated_at": "2026-05-15T17:02:27.053765+05:30",
+  "generated_at": "2026-05-15T17:06:04.222531+05:30",
   "stocks": [
     {
       "symbol": "TMCV",
@@ -70,7 +70,7 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Tata Motors stock price declined 0.4% with moderate volume, but no significant catalysts were reported. The recent financial results announcement may have been priced in already. The stock's price action was muted despite a moderate intraday range.",
+        "analysis": "Tata Motors Limited stock price declined 0.4% with moderate volume, but no significant catalysts were reported on the day. The recent financial results announcement may have been priced in already. The stock's price action was muted despite a moderate intraday range.",
         "confidence": "medium",
         "flags": []
       }
@@ -179,8 +179,8 @@
       },
       "analysis": {
         "classification": "catalyst_drove_move",
-        "primary_catalyst": "India PV strength offsets JLR concerns in Q4",
-        "analysis": "TMPV shares rallied over 5% as India PV strength offsets JLR concerns in Q4. The stock's strong price action was accompanied by a significant increase in volume, with a volume ratio of 6.47. Brokerages are divided on the stock's outlook.",
+        "primary_catalyst": "Q4 results: India PV strength offsets JLR concerns",
+        "analysis": "TMPV shares rallied over 5% as the company's Q4 results showed strength in the Indian passenger vehicle segment, offsetting concerns over JLR performance. The stock's strong price action was accompanied by a significant increase in volume, indicating broad-based buying interest. This move suggests that investors are bullish on the company's prospects, despite some concerns over JLR.",
         "confidence": "high",
         "flags": []
       }
@@ -264,7 +264,7 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "ICICI Bank's stock price declined marginally by 0.12% with below-average volume, and the ESOP allotment announcement does not seem to have had a significant impact. The stock's intraday range was 1.28%, but the overall move was not meaningful. The ESOP allotment may be a minor positive, but its effect is not visible in the price action.",
+        "analysis": "ICICI Bank's stock price declined marginally by 0.12% with below-average volume, and the ESOP allotment announcement does not seem to have had a significant impact. The stock's price action was muted, and no clear catalyst drove the move. The day's trading activity was uneventful.",
         "confidence": "medium",
         "flags": []
       }
@@ -394,7 +394,7 @@
       "analysis": {
         "classification": "move_without_catalyst",
         "primary_catalyst": null,
-        "analysis": "Bandhan Bank's stock price declined 2.3% despite no notable announcements or news, suggesting a potential market-driven move. The low volume ratio of 0.28 indicates a lack of conviction. This move without a clear catalyst warrants further investigation.",
+        "analysis": "Bandhan Bank's stock price fell 2.3% despite no notable announcements or news, indicating a move without a clear catalyst. The low volume ratio of 0.28 suggests a lack of conviction among traders. This move may be worth monitoring for potential follow-through.",
         "confidence": "medium",
         "flags": []
       }
@@ -484,9 +484,9 @@
         ]
       },
       "analysis": {
-        "classification": "move_without_catalyst",
+        "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "IDFC First Bank's stock price declined 1.3% despite no significant catalysts. The move was accompanied by elevated volume, but not enough to be considered meaningful. This could be a sign of underlying selling pressure.",
+        "analysis": "IDFC First Bank's stock price declined 1.3% with a volume ratio of 1.41, but no significant catalysts were found to explain the move. The announcements and news were not directly related to the bank's current operations. The Bombay HC quashing a GST order is a positive development, but its impact on the stock price is unclear.",
         "confidence": "medium",
         "flags": []
       }
@@ -566,7 +566,7 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "CGCL's stock price declined 0.71% with average volume, lacking a clear catalyst. The move was not significant enough to be driven by any specific news or event. The company's sector and industry trends will be monitored for future developments.",
+        "analysis": "Capri Global Capital Limited's stock price decreased by 0.71% with a volume ratio of 0.98, indicating no significant catalyst or price movement. The news about color-coated steel prices is unrelated to the company. The SEBI mention is also unrelated to the company. Overall, it was a quiet trading day for the stock.",
         "confidence": "medium",
         "flags": []
       }
@@ -653,7 +653,7 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Tata Power Company Limited's stock price decreased by 0.21% with a volume ratio of 0.54, indicating a lack of significant price movement or catalysts. The recent news about the 12-month price target raise and earnings miss did not have a substantial impact on the stock price. The company's financial results announcement on May 12 may have been priced in already.",
+        "analysis": "Tata Power Company Limited's stock price declined by 0.21% with below-average volume, indicating a lack of significant catalysts or price movement. The recent earnings miss and revised price target may have been factored into the stock's current price. The company's financial results and dividend announcement are already in the public domain, and no new information seems to have driven the price action.",
         "confidence": "medium",
         "flags": []
       }
@@ -740,8 +740,8 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Suzlon Energy's stock price rose 0.69% with below-average volume, lacking a clear catalyst. The move was not significant enough to be driven by any particular news or event. The company's stock has been gaining for the third straight session, but the current move does not indicate any strong trend.",
-        "confidence": "medium",
+        "analysis": "Suzlon Energy's stock price closed 0.69% higher, but the move was not accompanied by any significant catalysts or elevated volume. The news articles were largely neutral, discussing the stock's price movement and volume. The lack of a clear catalyst or significant price movement makes it difficult to draw any conclusions.",
+        "confidence": "low",
         "flags": []
       }
     },
@@ -805,7 +805,7 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "IREDA's stock price declined 1.18% with below-average volume, indicating a lack of significant catalysts or market interest. The move is not substantial enough to warrant attention. The company's stock is likely to be driven by broader market trends in the near term.",
+        "analysis": "IREDA's stock price declined 1.18% on moderate volume, with no apparent catalyst. The move was within the intraday range and did not exhibit unusual trading activity. The lack of news or announcements suggests no significant event drove the price action.",
         "confidence": "medium",
         "flags": []
       }
@@ -870,7 +870,7 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "SWSOLAR closed 1.62% lower with below-average volume, indicating a lack of conviction in the move. No significant catalysts were reported. The stock's price action was muted, with no clear direction.",
+        "analysis": "SWSOLAR closed 1.62% lower with below-average volume, indicating a lack of significant catalysts or market interest. The stock's price action was muted, with no notable news or announcements. The low volume ratio suggests a lack of conviction among traders.",
         "confidence": "medium",
         "flags": []
       }
@@ -935,7 +935,7 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Transformers and Rectifiers (India) Limited's stock price declined 1.31% with below-average volume, indicating a lack of significant catalysts or market interest. The stock's price action was muted, with no notable news or announcements. The low volume ratio suggests a lack of conviction among traders.",
+        "analysis": "TARIL stock price declined 1.31% with below-average volume, indicating a lack of significant catalysts or market interest. The stock's price action was muted, with no notable news or announcements. The low volume ratio suggests a lack of conviction among traders.",
         "confidence": "medium",
         "flags": []
       }
@@ -957,6 +957,13 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPNEdJLXVUMDkyUjBtM0xzLTZjM29VUzE3cFN5NmZZQWZNZ0pWTS1faVIwNDhIcEhMeGtEaldFbzVZajdwdDBBNGtYZ2dGUThubm5PYmJvSHlnY1dvMGFCaVNVYnF6SndSVm9jYVl0ZTU2ZHlGZzdodjRQaXBFZHQtTXAyTjZPTW9LUkdTcEFENVN1cWhVYVVJdGlONGpNLUQ4QjBFSm5RZWpuZm1XNEcwVjVMWnpDWk9MZXc?oc=5\" target=\"_blank\">ITC Hotels Q4 profit rises 23% to Rs 317 crore, revenue climbs 18%</a>&nbsp;"
         },
         {
+          "title": "ITC Hotels Q4 results: Profit rises 23% YoY to Rs 317 crore; co declares Re 1/share dividend",
+          "source": "The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNd2xxME44RnRMTUZ2eG50cUNBdXhIRG5qQTJLZ0toTWhmWmNFZ2IzdXFRNHpubzlpUEFISGVaTGtGYmNvUUxwaC1ieV9Wd0kxd3RWSEZqS2JRX0xpU1lXNDlzYkdycmxxYndGYzgxQld4alhwTG1uOWotZnFXVWpkd1ZaWDJVdUlHQ0ZacENDaUFCNUR3UkV2T1BXdC16Sk44QzYyZkQwVng3S182RVhRVXIzX3EwVU85dlIwRXN3TW9fbXVrd2hnb2ZCbkl5SExHcEhDZVp4OEM1ZkpwRHljZGhFYW1vSTFsZ1ZNWHBvRDAtRVBYalZydUs1VdIBgAJBVV95cUxPYUxkRDNwVGFISHE5cHBWd2F2QnBhT0VRRWl4MXFpQ0k3b2QyOTY1XzhKRFdZcURKLW04RU9XM2UzOGN6UEpwTjBwUGFfSFdXcTY0TTlERkNiUTNLU0hselFDT1hmazNkY2NSRlZta2d3MjlFTzhsWDRaVi05VTI3UDdITUttUWx4TzhuWXVIcVd5TUV5ZmNlbGtJc2RqNVNLdWtCbEg5bE9UQzFIV3NPVndBMFNiQUZONnpIaU0wdlZwX3M5ODRNeEtiWFE5UFZJQVlQVm1hUjFyWUxpMHJsSlF5MlRfeVpVQlVqcVFtX2d2blFKM3habmppSzNHVU9I?oc=5",
+          "published_at": "2026-05-15T11:14:29+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxNd2xxME44RnRMTUZ2eG50cUNBdXhIRG5qQTJLZ0toTWhmWmNFZ2IzdXFRNHpubzlpUEFISGVaTGtGYmNvUUxwaC1ieV9Wd0kxd3RWSEZqS2JRX0xpU1lXNDlzYkdycmxxYndGYzgxQld4alhwTG1uOWotZnFXVWpkd1ZaWDJVdUlHQ0ZacENDaUFCNUR3UkV2T1BXdC16Sk44QzYyZkQwVng3S182RVhRVXIzX3EwVU85dlIwRXN3TW9fbXVrd2hnb2ZCbkl5SExHcEhDZVp4OEM1ZkpwRHljZGhFYW1vSTFsZ1ZNWHBvRDAtRVBYalZydUs1VdIBgAJBVV95cU"
+        },
+        {
           "title": "Q4 Results Today: Cochin Shipyard, Godfrey Phillips, ITC Hotels, Premier Energies, NCC, SJVN, Tata Steel And More",
           "source": "NDTV Profit",
           "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMjVVVHVBeW5XMFNFcG9TdUVCT2Jxd2xEaVNGc2lGaXFlM0x4c3VFUWIzRklaTW96M2JLaGpKV29CR3dGUWFTMGZYUDRJYURKRGhtQnZaSzBkSFo1MDZFWTViblU3S2htcWpfTWk3MkxGY19SU3RJaVh6Rl9mLVFKT3BXQnJ1VTJ0bmFDSG8yVVBoV3ZDMl9zLXh3cy01NmdsWTBjR3RmZGtKUVYzNVdlV0xKcU84M2lxRnlQd1NCYkxhcF9pUlk0V08xcXltcjh6czZHMWhCMFpKN1JDMEdneTFGX2HSAewBQVVfeXFMUGVjTngzTlh2eXhQdkk1MW9icDZ6MkZNekZILXRzWnM0WHNuWk10c3FjejJfNEpsSnBweGY2dkYwbXktUXZhS2UyVTRfUGRSbnlSRzNMWGZTNl9aYS10bzdEckEzcGl5Z1p4UTVfOFFKWDVJNk5FblEzV0N5MlZLZnBKbnVBWnJQS0lESkVLS2ZmdzJIZmdSRVdoU0FoWWpBbGp2Wm1tMS05VGJ2UDRDNWNIbWUyWXRMYW5RY1g5QzJ0RFd1X251Z1M2VWl5eC15NjQxeTBSOTlIaWotaWVGcWhLeFNTbWN2TGx2YzY?oc=5",
@@ -971,18 +978,18 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQaE9lNng1Z3NmLVFpSDBVd01PbC0zQk9KS3JFM084QzQ4Z2JYeVJKaGdrQk1WZElLbnFFSmZkZk81UlFxRDhHcTVQTUNtZHUwSXloTkQ3TGdEbEhHc2Y0THpXS25UODJrS1VHaExqejJvWDk5Rjd0b3NDdG10bmdkZ0p5RmotRHB4dTdnWGZSY0R3SERrbDgzT3lSYjZLUV9WNlFmU1lRdDhPcjlJT0dRc184QVZKMTd5YUFEY2hINWdnVzA3WEJxdXFzSEpoYlRPbDB1X1JTbFZ2aldvcDlBUU0xWHlESFB1MW50Nw?oc=5\" target=\"_blank\">Itc Hotel"
         },
         {
+          "title": "ITC Hotels Q4 profit rises 23%; board approves Zuri Hotels buyout, eyes 250 hotels by 2031",
+          "source": "Fortune India",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWURfOGZYYXpMcGpzN1BRTmw5ZVA2Tjd0eW51b29BY2kxY0NSOURXZGwxOHlVQ3kxV1pYTFNlaEhlMHNKRUNrY2tFanhsazBfME9yRFpMRXl2UEV1QlYzbk1BbFlvMnZ2VktDRzhyaVR3ZmF2WGpGR3drcGpiQVJqUXJfRWFRdGdBUmhVUENoSUh3aDcwRGpsUVNWdTd4bVljWFRIVzdWU2xpa0VHUi1TQXo2UWQ3M0hqdWZPamIxS3JaM0p0Qm1DSGNVWTFtNmpxdlEw0gHgAUFVX3lxTFBNazRaS2xGN3MydUxBU3VCMnFOaHVOUW45dlUydDB4SnFuYmQxaVJxdUxxbG85WDJjMG9KSHJaRWJzWnI1OWNwUkV5LWMtUEVKX180c29YOVM2dkt4MnJZeFpMVmJ5cGVkMzBpQ0hmXzBod0xUeklwenhaVV9BNk1ERTFYX3A5S1FzeHI4RThhSkprVF9uTlYwUFQ2ZnZZcWx0MlFWQzd1Yjg0eU1qVGNVeFFvQUNHTV9XVXo5UEZDMDR5Tk1yTUhOcHo2NnJHMXNGT0c1MVhZZFZ2UURadmVS?oc=5",
+          "published_at": "2026-05-15T11:31:27+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWURfOGZYYXpMcGpzN1BRTmw5ZVA2Tjd0eW51b29BY2kxY0NSOURXZGwxOHlVQ3kxV1pYTFNlaEhlMHNKRUNrY2tFanhsazBfME9yRFpMRXl2UEV1QlYzbk1BbFlvMnZ2VktDRzhyaVR3ZmF2WGpGR3drcGpiQVJqUXJfRWFRdGdBUmhVUENoSUh3aDcwRGpsUVNWdTd4bVljWFRIVzdWU2xpa0VHUi1TQXo2UWQ3M0hqdWZPamIxS3JaM0p0Qm1DSGNVWTFtNmpxdlEw0gHgAUFVX3lxTFBNazRaS2xGN3MydUxBU3VCMnFOaHVOUW45dlUydDB4SnFuYmQxaV"
+        },
+        {
           "title": "ITC Hotels Q4 Results: Profit rises 34% to Rs 317 crore; declares final dividend",
           "source": "Zee Business",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcVBxSXhRMnUzaEVnb2ExaEhMYllaNmxQZFZLSW4wQnd4dTlMZUptVVFsNDJfSENhdlpBMlY4OHNaSlh2TUdYZlBaSC1ZZDNTdHpNSjFwek1jSUptbC13bDZVMFFlTzdJUjIxQ0s2R0d6VmRweHpEV0dZaWlULUR3TFFGeGJoeW1jQmZ3YXRlNVhRUl9UUXpwNWt4SVNxemdYUnM5Smt0MlRsUDN1c1pOQ2QzcHlOZWxfY0s5VmZ4aw?oc=5",
           "published_at": "2026-05-15T10:39:43+00:00",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNcVBxSXhRMnUzaEVnb2ExaEhMYllaNmxQZFZLSW4wQnd4dTlMZUptVVFsNDJfSENhdlpBMlY4OHNaSlh2TUdYZlBaSC1ZZDNTdHpNSjFwek1jSUptbC13bDZVMFFlTzdJUjIxQ0s2R0d6VmRweHpEV0dZaWlULUR3TFFGeGJoeW1jQmZ3YXRlNVhRUl9UUXpwNWt4SVNxemdYUnM5Smt0MlRsUDN1c1pOQ2QzcHlOZWxfY0s5VmZ4aw?oc=5\" target=\"_blank\">ITC Hotels Q4 Results: Profit rises 34% to Rs 317 crore; declares fin"
-        },
-        {
-          "title": "ITC Hotels Q4 results: Profit rises 23% YoY to Rs 317 crore; co declares Re 1/share dividend",
-          "source": "The Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNd2xxME44RnRMTUZ2eG50cUNBdXhIRG5qQTJLZ0toTWhmWmNFZ2IzdXFRNHpubzlpUEFISGVaTGtGYmNvUUxwaC1ieV9Wd0kxd3RWSEZqS2JRX0xpU1lXNDlzYkdycmxxYndGYzgxQld4alhwTG1uOWotZnFXVWpkd1ZaWDJVdUlHQ0ZacENDaUFCNUR3UkV2T1BXdC16Sk44QzYyZkQwVng3S182RVhRVXIzX3EwVU85dlIwRXN3TW9fbXVrd2hnb2ZCbkl5SExHcEhDZVp4OEM1ZkpwRHljZGhFYW1vSTFsZ1ZNWHBvRDAtRVBYalZydUs1VdIBgAJBVV95cUxPYUxkRDNwVGFISHE5cHBWd2F2QnBhT0VRRWl4MXFpQ0k3b2QyOTY1XzhKRFdZcURKLW04RU9XM2UzOGN6UEpwTjBwUGFfSFdXcTY0TTlERkNiUTNLU0hselFDT1hmazNkY2NSRlZta2d3MjlFTzhsWDRaVi05VTI3UDdITUttUWx4TzhuWXVIcVd5TUV5ZmNlbGtJc2RqNVNLdWtCbEg5bE9UQzFIV3NPVndBMFNiQUZONnpIaU0wdlZwX3M5ODRNeEtiWFE5UFZJQVlQVm1hUjFyWUxpMHJsSlF5MlRfeVpVQlVqcVFtX2d2blFKM3habmppSzNHVU9I?oc=5",
-          "published_at": "2026-05-15T11:14:29+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxNd2xxME44RnRMTUZ2eG50cUNBdXhIRG5qQTJLZ0toTWhmWmNFZ2IzdXFRNHpubzlpUEFISGVaTGtGYmNvUUxwaC1ieV9Wd0kxd3RWSEZqS2JRX0xpU1lXNDlzYkdycmxxYndGYzgxQld4alhwTG1uOWotZnFXVWpkd1ZaWDJVdUlHQ0ZacENDaUFCNUR3UkV2T1BXdC16Sk44QzYyZkQwVng3S182RVhRVXIzX3EwVU85dlIwRXN3TW9fbXVrd2hnb2ZCbkl5SExHcEhDZVp4OEM1ZkpwRHljZGhFYW1vSTFsZ1ZNWHBvRDAtRVBYalZydUs1VdIBgAJBVV95cU"
         },
         {
           "title": "ITC Hotels Q4 Results: Cons PAT jumps 23% YoY to ₹316 crore; Re 1 dividend announced",
@@ -997,13 +1004,6 @@
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRXI5Zl9mSm0taDJVNVlCb2F2WTA0eEFGNk1EUFNQajN2TWhBalJkSTZhLS1nRE5DdGIzQkVqdUtIbGNiV3lhMkNQYjA2WjM0YmR1N2VLZzBrY25Cb1A5TmdEREhsQjFDT2NVWmZaTl91MXNteWM0WGVCMXhCbjRadDhzLXhncWFIX3Npbg?oc=5",
           "published_at": "2026-05-15T11:13:00+00:00",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQRXI5Zl9mSm0taDJVNVlCb2F2WTA0eEFGNk1EUFNQajN2TWhBalJkSTZhLS1nRE5DdGIzQkVqdUtIbGNiV3lhMkNQYjA2WjM0YmR1N2VLZzBrY25Cb1A5TmdEREhsQjFDT2NVWmZaTl91MXNteWM0WGVCMXhCbjRadDhzLXhncWFIX3Npbg?oc=5\" target=\"_blank\">ITC Hotels Declares First-Ever Dividend as FY26 PAT Jumps 29%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Trade Brains</font>"
-        },
-        {
-          "title": "ITC Hotels acquires luxury resort property in Kumarakom",
-          "source": "BW Hotelier",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPX284VklWSmZKRms3S3hBMUZCeGtGOEsyZDhjblhiYlZwSHhtTlRIS0d1R2Q5UmVDR1dKN0VjYlJIZlVxUjRqNVE5RFhhT1NhZEcwdlgxd3ZUWDBRMWJzd1Z3QWpKcF9kOVNlSHA2aFIzeUYwdnVxRW5xOXJOWjYzMFZBRE9OUlBYclRjcUZaQkFFellpbGRnTmNzaGxWUQ?oc=5",
-          "published_at": "2026-05-15T11:20:13+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPX284VklWSmZKRms3S3hBMUZCeGtGOEsyZDhjblhiYlZwSHhtTlRIS0d1R2Q5UmVDR1dKN0VjYlJIZlVxUjRqNVE5RFhhT1NhZEcwdlgxd3ZUWDBRMWJzd1Z3QWpKcF9kOVNlSHA2aFIzeUYwdnVxRW5xOXJOWjYzMFZBRE9OUlBYclRjcUZaQkFFellpbGRnTmNzaGxWUQ?oc=5\" target=\"_blank\">ITC Hotels acquires luxury resort property in Kumarakom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BW Hotelier</font>"
         }
       ],
       "events": [
@@ -1131,7 +1131,7 @@
       "analysis": {
         "classification": "catalyst_drove_move",
         "primary_catalyst": "ITC Hotels Q4 profit rises 23% to Rs 317 crore, revenue climbs 18%",
-        "analysis": "ITC's stock price rose 0.73% following the announcement of ITC Hotels' Q4 results, which showed a 23% increase in profit. The company also declared a dividend of Re 1 per share. The positive earnings report and dividend declaration likely drove the stock's upward movement.",
+        "analysis": "ITC's stock price rose 0.73% on the back of strong Q4 results from its hotel business, with a 23% YoY increase in profit. The company also declared a dividend, which is a positive catalyst. However, the volume ratio was lower than average, which may indicate a muted market response.",
         "confidence": "medium",
         "flags": []
       }
@@ -1483,7 +1483,7 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "The stock price of ITC Hotels Limited showed a minimal increase of 0.08% on the day, with no significant catalysts driving the move. The company announced its financial results and dividend recommendation for FY26, but the market reaction was muted. The acquisition of Zuri Hotels and Resorts Private Limited was also announced, but it did not have a significant impact on the stock price.",
+        "analysis": "The stock price of ITC Hotels Limited showed a minimal increase of 0.08% with a volume ratio of 1.14, indicating no significant price or volume movement. The company announced its financial results and dividend recommendation for FY 2026, but the market reaction was muted.",
         "confidence": "medium",
         "flags": []
       }
@@ -1556,7 +1556,7 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Lemon Tree Hotels' stock price declined 1.14% with below-average volume, indicating a lack of significant catalysts or market interest. The news about the number of shareholders does not appear to have had a material impact. The stock's price action suggests a neutral market sentiment.",
+        "analysis": "Lemon Tree Hotels' stock price declined 1.14% with below-average volume, indicating a lack of significant catalysts or market interest. The decrease in price may be due to general market conditions rather than any company-specific news. No notable announcements or events were reported.",
         "confidence": "medium",
         "flags": []
       }
@@ -1621,8 +1621,8 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Finolex Industries Limited stock price declined 1.85% with below-average volume, indicating a lack of significant catalysts or market interest. The stock's price action was muted, with no notable news or announcements. The decline may be a minor correction, but without a clear catalyst, it's difficult to determine the cause.",
-        "confidence": "low",
+        "analysis": "Finolex Industries Limited's stock price declined 1.85% with below-average volume, indicating a lack of significant catalysts or market interest. The move is not substantial enough to be considered meaningful for a large-cap stock. The stock's price action suggests a neutral market sentiment.",
+        "confidence": "medium",
         "flags": []
       }
     },
@@ -1753,8 +1753,8 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "GNG Electronics Limited's stock price declined 2.08% with below-average volume, but no relevant catalysts were found to explain the move. The stock's price action was not accompanied by any significant news or announcements. The decline may be due to market sentiment or other factors not captured in the available data.",
-        "confidence": "low",
+        "analysis": "The stock price of GNG Electronics Limited declined by 2.08% with below-average volume, but no significant catalysts were found to explain the move. The low volume ratio of 0.25 suggests a lack of market interest. The company's price action does not seem to be driven by any recent news or regulatory announcements.",
+        "confidence": "medium",
         "flags": []
       }
     },
