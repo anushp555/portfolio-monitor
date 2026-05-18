@@ -1,7 +1,7 @@
 {
   "report_date": "2026-05-19",
   "trading_day": "2026-05-18",
-  "generated_at": "2026-05-18T20:17:16.560339+05:30",
+  "generated_at": "2026-05-18T22:09:55.076602+05:30",
   "stocks": [
     {
       "symbol": "TMCV",
@@ -85,7 +85,7 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Tata Motors' stock price increased by 0.49% with a volume ratio of 1.37, but no clear catalyst drove the move. The news about target price trimming did not seem to have a significant impact. The company's financial results and dividend consideration are already priced in as the event occurred on May 13, 2026.",
+        "analysis": "Tata Motors' stock price rose 0.49% with a volume ratio of 1.37, but no significant catalysts were found to drive this move. The news articles did not seem to have a major impact on the stock price. The company's financial results and dividend consideration event occurred on May 13, which is outside the current window.",
         "confidence": "medium",
         "flags": []
       }
@@ -157,7 +157,7 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Tata Motors Passenger Vehicles Limited stock price declined 0.95% with a volume ratio of 1.02, indicating a lack of significant catalysts or price movement. The recent financial results announcement on May 14, 2026, does not appear to have had a lasting impact. The stock's price action suggests a neutral trading day.",
+        "analysis": "Tata Motors Passenger Vehicles Limited stock price declined 0.95% with a volume ratio of 1.02, indicating a lack of significant catalysts or price movement. The recent financial results announcement on May 14, 2026, does not appear to have had a substantial impact on the stock price. The stock's price action suggests a neutral trading day.",
         "confidence": "medium",
         "flags": []
       }
@@ -254,7 +254,7 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "ICICI Bank's stock price rose 0.53% with below-average volume, lacking a clear catalyst to explain the move. The company's announcements and news did not reveal any significant information that could have driven the price action. The stock's movement appears to be neutral.",
+        "analysis": "ICICI Bank's stock price rose 0.53% with below-average volume, lacking a clear catalyst to explain the move. The company's announcements and news did not reveal any significant information that could have driven the price action. The stock's movement appears to be a minor fluctuation without any material catalyst.",
         "confidence": "medium",
         "flags": []
       }
@@ -424,7 +424,7 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Bandhan Bank's stock price declined 2.12% with below-average volume, but no significant catalysts were found to explain the move. The SEBI mentions are unrelated to the company. The decline may be a minor correction in an otherwise stable market.",
+        "analysis": "Bandhan Bank's stock price declined 2.12% with below-average volume, but no significant catalysts were found to explain the move. The SEBI mentions are unrelated to the company. The decline may be a minor correction in the absence of any material news.",
         "confidence": "medium",
         "flags": []
       }
@@ -489,8 +489,8 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "IDFC First Bank's stock price remained relatively stable with a minor decline of 0.09%. The lack of significant news or announcements suggests that the market is awaiting new catalysts. The stock's trading volume was in line with its 20-day average.",
-        "confidence": "medium",
+        "analysis": "IDFC First Bank's stock price remained largely unchanged with a minor decline of 0.09%. The trading volume was below average, indicating a lack of significant market interest. No notable catalysts were observed.",
+        "confidence": "high",
         "flags": []
       }
     },
@@ -593,6 +593,13 @@
           "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPdXRuWmdXX2V3SjhVczl6akF4aXRnQ1YtQThGSHlaX193eVlDSTNnZXJEbDVPRVh6aThkdTZYNV80czVqTmkydndJaVBfN2J3Tm9RT1Z1M1FFQ29KZjdSTHQ4c1Jtal8tYktZX1BzSk5aMkpSNDE4bHA0Qi1IelpxYkdYSks4MW9lbDR4RVpiNENHOXJtakM1dWFYOGgyeUVhMW11VkxpYXJnX245VC1NNTR0SU5JOHZTNjROOURoNjlTNEswa1RsTzc0aFp0Mk5VcWx0VjBtMFlhUEVxakZUXzczMWlVOVY1Sm43UFBMYm9wYVBRNEQ2UDVUa0U5UQ?oc=5",
           "published_at": "2026-05-18T06:46:48+00:00",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxPdXRuWmdXX2V3SjhVczl6akF4aXRnQ1YtQThGSHlaX193eVlDSTNnZXJEbDVPRVh6aThkdTZYNV80czVqTmkydndJaVBfN2J3Tm9RT1Z1M1FFQ29KZjdSTHQ4c1Jtal8tYktZX1BzSk5aMkpSNDE4bHA0Qi1IelpxYkdYSks4MW9lbDR4RVpiNENHOXJtakM1dWFYOGgyeUVhMW11VkxpYXJnX245VC1NNTR0SU5JOHZTNjROOURoNjlTNEswa1RsTzc0aFp0Mk5VcWx0VjBtMFlhUEVxakZUXzczMWlVOVY1Sm43UFBMYm9wYVBRNEQ2UDVUa0U5UQ?oc=5\" t"
+        },
+        {
+          "title": "TPCL080526 Bond Coupon Analysis — Rate & Payments",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBiSTE5ZnZheHhQR3lQR3VWN0NtVFF0bVpTbnBxTlVSZ2dBYnhmQ082SFlGaGhhVlp5ODhaMkZqdC14Y2cxTUQ5Q0wyZWdiWWRnU3hYM0EzLUkyZmpHS1hHS3ZhMm03TThmZGswQUJrRTlYWXoyOEE?oc=5",
+          "published_at": "2026-05-18T12:15:15+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBiSTE5ZnZheHhQR3lQR3VWN0NtVFF0bVpTbnBxTlVSZ2dBYnhmQ082SFlGaGhhVlp5ODhaMkZqdC14Y2cxTUQ5Q0wyZWdiWWRnU3hYM0EzLUkyZmpHS1hHS3ZhMm03TThmZGswQUJrRTlYWXoyOEE?oc=5\" target=\"_blank\">TPCL080526 Bond Coupon Analysis — Rate & Payments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
         }
       ],
       "events": [
@@ -653,7 +660,7 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Tata Power Company Limited's stock price declined 0.65% despite the announcement of a MoU with Druk Green Power Corporation to build a skill development ecosystem for 5,000 MW clean energy capacity. The stock's volume ratio was below average, indicating a lack of significant market interest. The news did not have a substantial impact on the stock price.",
+        "analysis": "Tata Power Company Limited's stock price declined 0.65% with below-average volume, and no significant catalysts drove the move. The company signed an MoU with Druk Green Power Corporation to build a skill development ecosystem for 5,000 MW clean energy capacity, but the market reaction was muted. The stock's price action suggests a lack of significant news or events driving the move.",
         "confidence": "medium",
         "flags": []
       }
@@ -702,7 +709,7 @@
           "title": "Suzlon Energy Board Meeting to Approve FY26 Financial Results",
           "source": "InvestyWise",
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8xU0JiSi1TbXdoTFluUE1mbUtVRzZpMUoyQV9tS1p4alNQUFJjYlU0Z3pETkNVSkpFQzFKMjdKRXFiOElYSUl5RmlyM3FRVlNtZXNRN1d6RXZuTDRXdjJqZTNPRzFhLW5aMXF1R3VXdWlGLVN4cUx5aGFR?oc=5",
-          "published_at": "2026-05-18T11:34:09+00:00",
+          "published_at": "2026-05-18T11:48:54+00:00",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE8xU0JiSi1TbXdoTFluUE1mbUtVRzZpMUoyQV9tS1p4alNQUFJjYlU0Z3pETkNVSkpFQzFKMjdKRXFiOElYSUl5RmlyM3FRVlNtZXNRN1d6RXZuTDRXdjJqZTNPRzFhLW5aMXF1R3VXdWlGLVN4cUx5aGFR?oc=5\" target=\"_blank\">Suzlon Energy Board Meeting to Approve FY26 Financial Results</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">InvestyWise</font>"
         },
         {
@@ -771,7 +778,7 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Suzlon Energy's stock price declined 1.1% with below-average volume, and no significant catalysts drove the move. The company's board meeting to approve Q4FY26 financial results is scheduled for May 25, 2026. The stock's technical signals are mixed amid a price momentum shift.",
+        "analysis": "Suzlon Energy's stock price declined 1.1% with below-average volume, and no clear catalyst drove the move. The company's board meeting to approve Q4FY26 financial results is scheduled for May 25, 2026. The stock's technical signals are mixed amid a price momentum shift.",
         "confidence": "medium",
         "flags": []
       }
@@ -836,7 +843,7 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "IREDA's stock price declined marginally by 0.14% with below-average volume, indicating a lack of significant catalysts or market interest. The stock's intraday range was 3.89%, but the close was near the open, suggesting a neutral trading session. No notable announcements or news were reported.",
+        "analysis": "IREDA's stock price declined marginally by 0.14% with below-average volume, indicating a lack of significant catalysts or market interest. The stock's intraday range was 3.89%, but the close was near the open, suggesting a neutral session. No notable announcements or news were reported.",
         "confidence": "medium",
         "flags": []
       }
@@ -901,8 +908,8 @@
       "analysis": {
         "classification": "move_without_catalyst",
         "primary_catalyst": null,
-        "analysis": "SWSOLAR declined 2.31% despite lack of news or announcements, with below-average volume. This move may be a precursor to further decline. No clear catalyst is visible for the decline.",
-        "confidence": "low",
+        "analysis": "SWSOLAR declined 2.31% despite lack of news or announcements, volume was lower than average. This move may be due to market sentiment or other unreported factors. No clear catalyst is evident for the decline.",
+        "confidence": "medium",
         "flags": []
       }
     },
@@ -966,8 +973,8 @@
       "analysis": {
         "classification": "move_without_catalyst",
         "primary_catalyst": null,
-        "analysis": "Transformers and Rectifiers (India) Limited's stock price declined 2.78% despite no notable announcements or news. The move was accompanied by below-average volume. The lack of a clear catalyst may indicate a potential opportunity for a reversal. ",
-        "confidence": "low",
+        "analysis": "TARIL's stock price declined 2.78% despite no notable announcements or news, indicating a move without a clear catalyst. The low volume ratio of 0.32 suggests a lack of conviction among traders. This move may be a sign of underlying weakness in the stock.",
+        "confidence": "medium",
         "flags": []
       }
     },
@@ -995,18 +1002,18 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNWVdSNGYxZGFYQTJsdnMyUkZtS3ltMkF6VGlKSnFPNE1fbDhuSG9KdG1NazVNZUttT1hfczYwNE5icWJOZlMxMGJJZ3UtZ3cwU0h0RmJUVzFTUjU5S0UtUWtLTGJJelpPQmZIcGxXLThQLVczbW5Qa2E1TmoxSDlqRkdMTVJxbFYxMk1fUHl2SG5Oektj?oc=5\" target=\"_blank\">ITC Hotels to acquire Zuri Kumarakom Resort & Spa for $21.3m</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hotel Management Network</fon"
         },
         {
-          "title": "ITC empowers 31,800 spice farmers through tech-driven programme across 2.2 lakh acres",
-          "source": "The Statesman",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPS2hKYzY2TDFFQzNUejlBWVJZQzZCNXpBdVBFOVhGX1Y0cktSU2JIa0FEVU05c1VNeG16MHBvQVUyc0ZsVm1jZ3FSLTlGRmFENTRmSFpWWDltcmR4SEpNRTZ3ZzhTcTEySWpPdDJlbFVJQTBFQW9nbVlwZUM0M3UxU0RORWpwZGFCQmJJTUZCUS1ZcGtaQndtYjBtcloyaTRrOW5MQVk5OFhhRUJfNnJDaEV1TUV2YmtidlN1Qlg3VWtpTmhVTEF1amVkcjZNY0FFYmNidNIB2gFBVV95cUxNaGxiLV9mX1VVN3F1Z1VHYTUwTEhod2JFbnVoOEJwVUFqRzdxZmFMVnUtclJoZ2sxZ2RfYkt1UU9hY2ozaGh4WDB3T2VRZk05cEhha1pfU2szWTE4bjRPT2dJcEI2Z0VLbDZCWG5wZUY0OWVnNFRJSVpzUTRQVFdmMTZVZWhINm5Lc0N4cUcyQlBnYnZZQ3ZLcHM0QlE3T1JBOXh0STNjeV9uMkJRaXBHXy01WXA5RUZKam02TGNURkNqZUsteE9NV2lnUXFqUS1wakh2YkxMN0tVdw?oc=5",
-          "published_at": "2026-05-18T13:09:00+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPS2hKYzY2TDFFQzNUejlBWVJZQzZCNXpBdVBFOVhGX1Y0cktSU2JIa0FEVU05c1VNeG16MHBvQVUyc0ZsVm1jZ3FSLTlGRmFENTRmSFpWWDltcmR4SEpNRTZ3ZzhTcTEySWpPdDJlbFVJQTBFQW9nbVlwZUM0M3UxU0RORWpwZGFCQmJJTUZCUS1ZcGtaQndtYjBtcloyaTRrOW5MQVk5OFhhRUJfNnJDaEV1TUV2YmtidlN1Qlg3VWtpTmhVTEF1amVkcjZNY0FFYmNidNIB2gFBVV95cUxNaGxiLV9mX1VVN3F1Z1VHYTUwTEhod2JFbnVoOEJwVUFqRzdxZm"
-        },
-        {
           "title": "18.05.2026: ITC Available on Construction of Specialized Industrial Support Structure for VCV Manufacturing Line: Gujarat AAR",
           "source": "taxo.online",
           "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPc1ZzeEl2QWZzM3NfaFB4bjFZaW4tNTFSZ3FpdlE0cFExSG81MVlIREd4aGJYOWRxamlneUt5NGxRUDVWckR0NkFuZGpuYmxZN0w5b09OWXJQMlhhV3FFWmVHUEUxZHlYRFlYNDZLRURkZmVJdlE0VnM0NXBoLVl6R0hpbUhYR1NKR0VQZnNoLUR5SG11ZUtlaXJ2b1BodjBkSEJQQ2pNaXIwSzQxSHdZM3gzOGpRWU83dk93aVdhVlNab19ZZ2hFVXhKbHZBLUNLQVR4TVczX2JFUU9mOUhnTk9sOTEyY21UVUY5Zw?oc=5",
           "published_at": "2026-05-18T05:10:36+00:00",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxPc1ZzeEl2QWZzM3NfaFB4bjFZaW4tNTFSZ3FpdlE0cFExSG81MVlIREd4aGJYOWRxamlneUt5NGxRUDVWckR0NkFuZGpuYmxZN0w5b09OWXJQMlhhV3FFWmVHUEUxZHlYRFlYNDZLRURkZmVJdlE0VnM0NXBoLVl6R0hpbUhYR1NKR0VQZnNoLUR5SG11ZUtlaXJ2b1BodjBkSEJQQ2pNaXIwSzQxSHdZM3gzOGpRWU83dk93aVdhVlNab19ZZ2hFVXhKbHZBLUNLQVR4TVczX2JFUU9mOUhnTk9sOTEyY21UVUY5Zw?oc=5\" target=\"_blank\">18.05.202"
+        },
+        {
+          "title": "ITC empowers 31,800 spice farmers through tech-driven programme across 2.2 lakh acres",
+          "source": "The Statesman",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPS2hKYzY2TDFFQzNUejlBWVJZQzZCNXpBdVBFOVhGX1Y0cktSU2JIa0FEVU05c1VNeG16MHBvQVUyc0ZsVm1jZ3FSLTlGRmFENTRmSFpWWDltcmR4SEpNRTZ3ZzhTcTEySWpPdDJlbFVJQTBFQW9nbVlwZUM0M3UxU0RORWpwZGFCQmJJTUZCUS1ZcGtaQndtYjBtcloyaTRrOW5MQVk5OFhhRUJfNnJDaEV1TUV2YmtidlN1Qlg3VWtpTmhVTEF1amVkcjZNY0FFYmNidNIB2gFBVV95cUxNaGxiLV9mX1VVN3F1Z1VHYTUwTEhod2JFbnVoOEJwVUFqRzdxZmFMVnUtclJoZ2sxZ2RfYkt1UU9hY2ozaGh4WDB3T2VRZk05cEhha1pfU2szWTE4bjRPT2dJcEI2Z0VLbDZCWG5wZUY0OWVnNFRJSVpzUTRQVFdmMTZVZWhINm5Lc0N4cUcyQlBnYnZZQ3ZLcHM0QlE3T1JBOXh0STNjeV9uMkJRaXBHXy01WXA5RUZKam02TGNURkNqZUsteE9NV2lnUXFqUS1wakh2YkxMN0tVdw?oc=5",
+          "published_at": "2026-05-18T13:09:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPS2hKYzY2TDFFQzNUejlBWVJZQzZCNXpBdVBFOVhGX1Y0cktSU2JIa0FEVU05c1VNeG16MHBvQVUyc0ZsVm1jZ3FSLTlGRmFENTRmSFpWWDltcmR4SEpNRTZ3ZzhTcTEySWpPdDJlbFVJQTBFQW9nbVlwZUM0M3UxU0RORWpwZGFCQmJJTUZCUS1ZcGtaQndtYjBtcloyaTRrOW5MQVk5OFhhRUJfNnJDaEV1TUV2YmtidlN1Qlg3VWtpTmhVTEF1amVkcjZNY0FFYmNidNIB2gFBVV95cUxNaGxiLV9mX1VVN3F1Z1VHYTUwTEhod2JFbnVoOEJwVUFqRzdxZm"
         },
         {
           "title": "ITC’s high-value spice cultivation benefits over 31,800 spices farmers",
@@ -1138,7 +1145,7 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "ITC's stock price moved up 0.23% with lower-than-average volume, and no significant catalysts were found to drive this move. The company is set to announce its Q4 results and dividend on May 21, which may be a key event to watch.",
+        "analysis": "ITC's stock price moved up 0.23% with below-average volume, indicating a lack of significant catalysts or market interest. The company's upcoming financial results and dividend announcement on May 21 may be a future catalyst.",
         "confidence": "medium",
         "flags": []
       }
@@ -1253,7 +1260,7 @@
       "analysis": {
         "classification": "move_without_catalyst",
         "primary_catalyst": null,
-        "analysis": "ITCHOTELS stock price declined 1.31% with a volume ratio of 1.89, indicating a meaningful move without an obvious catalyst. The recent financial results announcement on May 15, 2026, may have had some impact, but it does not directly explain the price action. The stock's intraday range of 4.7% also suggests some volatility.",
+        "analysis": "ITCHOTELS stock price declined 1.31% with elevated volume, but no clear catalyst was found to explain the move. The recent financial results announcement on May 15 may have had some impact, but it does not directly correlate with the price action. The stock's intraday range of 4.7% also suggests some volatility.",
         "confidence": "medium",
         "flags": [
           "POSSIBLE_LEAK_OR_FLOW"
@@ -1339,7 +1346,7 @@
       "analysis": {
         "classification": "move_without_catalyst",
         "primary_catalyst": null,
-        "analysis": "Lemon Tree Hotels' stock price declined 2.14% despite a positive announcement of a new franchise agreement, indicating a potential disconnect between the news and market reaction. The low volume ratio of 0.26 suggests a lack of conviction in the move. This discrepancy may present a buying opportunity, but the lack of catalyst alignment with the price move warrants caution.",
+        "analysis": "Lemon Tree Hotels' stock price declined 2.14% despite a positive announcement of a new franchise agreement, indicating a potential disconnect between the news and market reaction. The low volume ratio of 0.26 suggests a lack of conviction among investors. This move may warrant further investigation to understand the underlying drivers.",
         "confidence": "medium",
         "flags": []
       }
@@ -1404,7 +1411,7 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Finolex Industries Limited's stock price declined 1.42% with below-average volume, indicating a lack of significant catalysts or market interest. The move was not substantial enough to be considered meaningful. The stock's price action was muted, with no notable news or announcements.",
+        "analysis": "Finolex Industries Limited's stock price declined 1.42% with below-average volume, indicating a lack of significant catalysts or market interest. The stock's intraday range was 3.18%, but the move was not accompanied by elevated volume. The market appears to be awaiting a catalyst to drive the stock's direction.",
         "confidence": "medium",
         "flags": []
       }
@@ -1512,7 +1519,7 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "GNG Electronics Limited's stock price increased by 1.36% with below-average volume, but there were no significant catalysts that could explain the move. The SEBI mentions were unrelated to the company. The stock's price action was muted and lacked any meaningful drivers.",
+        "analysis": "GNG Electronics Limited stock saw a modest 1.36% gain with below-average volume, lacking a clear catalyst to explain the move. The SEBI mentions are unrelated to the company. The stock's price action does not suggest any significant reaction to external factors.",
         "confidence": "medium",
         "flags": []
       }
