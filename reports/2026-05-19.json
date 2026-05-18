@@ -1,7 +1,7 @@
 {
   "report_date": "2026-05-19",
   "trading_day": "2026-05-18",
-  "generated_at": "2026-05-18T14:55:25.092873+05:30",
+  "generated_at": "2026-05-18T20:17:16.560339+05:30",
   "stocks": [
     {
       "symbol": "TMCV",
@@ -18,6 +18,13 @@
           "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxNaTFnR20zVG9wVDczZDFWMlRUZG1DZVJpU2RiSFNfdURxRnZKZ1RiM2pNdU5wQ1VSVHJzT211Rkx2SWtfLWxnbHREX2JEX3RmOG1VdTk2VmdGRk1SYzV4V2RSaVFLaFdrM01ndktzeEVGRW11ejVsZGlvUEk3THh1QkljTlViMUdkaF9rSk5TaE1wS3hReUoyZ196YUI1SGktaXJVT0pFUk5vWURyYkV6b241UXk2LTJNTUxDRmw3dkxDcjMzS25kNEJ4bkwtRzcyelk0czBvZFhqclZsNXU5cWdtaXNKb1oySkNKSUd6MWE2SnZIX3Nycm80Mm5iZllJdVlaTzJ1Y1BrSDRmOVc4dDdfc2dwdVlxV2d2SzlnZGdHbEUwanhaUG9MWWVyTGtSV2t1bzh6QnVfemYtNXNteERldXluckxqbFRZaGlUOUZfeWRvU1UweldJTXdoRkxxU3M0VWN6SlFySlNIWXVldGZEaWhqcGRjZzVR?oc=5",
           "published_at": "2026-05-18T00:38:07+00:00",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wJBVV95cUxNaTFnR20zVG9wVDczZDFWMlRUZG1DZVJpU2RiSFNfdURxRnZKZ1RiM2pNdU5wQ1VSVHJzT211Rkx2SWtfLWxnbHREX2JEX3RmOG1VdTk2VmdGRk1SYzV4V2RSaVFLaFdrM01ndktzeEVGRW11ejVsZGlvUEk3THh1QkljTlViMUdkaF9rSk5TaE1wS3hReUoyZ196YUI1SGktaXJVT0pFUk5vWURyYkV6b241UXk2LTJNTUxDRmw3dkxDcjMzS25kNEJ4bkwtRzcyelk0czBvZFhqclZsNXU5cWdtaXNKb1oySkNKSUd6MWE2SnZIX3Nycm80Mm5iZllJdVlaTz"
+        },
+        {
+          "title": "Net loan losses of TEMECULA VALLEY BANCORP INC – OTC:TMCV",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYnJ0ODY4Ynp2VHNqbG0tRnFwYTRQaUR0SnJNSHlwbFlkRVplRlFGclhWaVpJOXRBd0pmYnBqRUFIZlRiWHdENzRHNlJzcFJLMkpBM2tuTjFRcHR2RUVzdXg4eVZHbncwd09ESzN6N1c0WU5KSU5vemhWMkVzN3pPQVB1bzRGMFZBN2h4MFgxcw?oc=5",
+          "published_at": "2026-05-18T12:53:21+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNYnJ0ODY4Ynp2VHNqbG0tRnFwYTRQaUR0SnJNSHlwbFlkRVplRlFGclhWaVpJOXRBd0pmYnBqRUFIZlRiWHdENzRHNlJzcFJLMkpBM2tuTjFRcHR2RUVzdXg4eVZHbncwd09ESzN6N1c0WU5KSU5vemhWMkVzN3pPQVB1bzRGMFZBN2h4MFgxcw?oc=5\" target=\"_blank\">Net loan losses of TEMECULA VALLEY BANCORP INC – OTC:TMCV</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
         }
       ],
       "events": [
@@ -34,14 +41,14 @@
         "open": 373.0,
         "high": 383.65,
         "low": 365.9,
-        "close": 378.4,
+        "close": 379.8,
         "prev_close": 377.95,
-        "change_pct": 0.12,
+        "change_pct": 0.49,
         "gap_pct": -1.31,
         "intraday_range_pct": 4.7,
-        "volume": 9760422,
+        "volume": 11420441,
         "avg_volume_20d": 8336224,
-        "volume_ratio": 1.17,
+        "volume_ratio": 1.37,
         "sparkline": [
           391.3,
           396.05,
@@ -72,13 +79,13 @@
           384.25,
           379.45,
           377.95,
-          378.4
+          379.8
         ]
       },
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Tata Motors' stock price saw a minimal increase of 0.12% despite a moderate intraday range of 4.7%. The news of a trimmed target price but still a 'buy' call had little impact on the stock. The lack of significant price movement or catalysts makes it a quiet trading day.",
+        "analysis": "Tata Motors' stock price increased by 0.49% with a volume ratio of 1.37, but no clear catalyst drove the move. The news about target price trimming did not seem to have a significant impact. The company's financial results and dividend consideration are already priced in as the event occurred on May 13, 2026.",
         "confidence": "medium",
         "flags": []
       }
@@ -106,14 +113,14 @@
         "open": 354.8,
         "high": 358.25,
         "low": 351.1,
-        "close": 352.1,
+        "close": 353.15,
         "prev_close": 356.55,
-        "change_pct": -1.25,
+        "change_pct": -0.95,
         "gap_pct": -0.49,
         "intraday_range_pct": 2.01,
-        "volume": 8797263,
+        "volume": 10408145,
         "avg_volume_20d": 10230189,
-        "volume_ratio": 0.86,
+        "volume_ratio": 1.02,
         "sparkline": [
           303.3,
           307.4,
@@ -144,13 +151,13 @@
           336.85,
           338.75,
           356.55,
-          352.1
+          353.15
         ]
       },
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Tata Motors Passenger Vehicles Limited stock price declined 1.25% with below-average volume, lacking a clear catalyst. The recent financial results announcement on May 14th may have already been factored into the price. The stock's intraday range was 2.01%, but the move was not accompanied by meaningful volume.",
+        "analysis": "Tata Motors Passenger Vehicles Limited stock price declined 0.95% with a volume ratio of 1.02, indicating a lack of significant catalysts or price movement. The recent financial results announcement on May 14, 2026, does not appear to have had a lasting impact. The stock's price action suggests a neutral trading day.",
         "confidence": "medium",
         "flags": []
       }
@@ -184,20 +191,33 @@
       ],
       "news": [],
       "events": [],
-      "sebi_mentions": [],
+      "sebi_mentions": [
+        {
+          "title": "Order releasing of Bank/Post office Accounts, Demat Accounts and Mutual Fund Folios for RC 6745 of 2023",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/may-2026/order-releasing-of-bank-post-office-accounts-demat-accounts-and-mutual-fund-folios-for-rc-6745-of-2023_101490.html",
+          "published_at": "18 May, 2026 +0530",
+          "summary": "Order releasing of Bank/Post office Accounts, Demat Accounts and Mutual Fund Folios for RC 6745 of 2023"
+        },
+        {
+          "title": "Notice of Attachment of Bank Accounts and Demat Accounts with AP No. 15366 & 15367 of 2026 dated May 18, 2026 against Makwana Bharat S. HUF [Defaulter] in the matter of dealing in Illiquid Stock Options on BSE, under Recovery Certificate No. 9093 of 2026.",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/may-2026/notice-of-attachment-of-bank-accounts-and-demat-accounts-with-ap-no-15366-and-15367-of-2026-dated-may-18-2026-against-makwana-bharat-s-huf-defaulter-in-the-matter-of-dealing-in-illiquid-stock-optio-_101486.html",
+          "published_at": "18 May, 2026 +0530",
+          "summary": "Notice of Attachment of Bank Accounts and Demat Accounts with AP No. 15366 & 15367 of 2026 dated May 18, 2026 against Makwana Bharat S. HUF [Defaulter] in the matter of dealing in Illiquid Stock Options on BSE, under Recovery Certificate No. 9093 of 2026."
+        }
+      ],
       "price_action": {
         "date": "2026-05-18",
         "open": 1235.5,
-        "high": 1251.5,
+        "high": 1253.7,
         "low": 1232.0,
-        "close": 1248.2,
+        "close": 1251.1,
         "prev_close": 1244.5,
-        "change_pct": 0.3,
+        "change_pct": 0.53,
         "gap_pct": -0.72,
-        "intraday_range_pct": 1.57,
-        "volume": 10726633,
+        "intraday_range_pct": 1.74,
+        "volume": 13918549,
         "avg_volume_20d": 17012289,
-        "volume_ratio": 0.63,
+        "volume_ratio": 0.82,
         "sparkline": [
           1231.4,
           1245.5,
@@ -228,13 +248,13 @@
           1235.6,
           1246.0,
           1244.5,
-          1248.2
+          1251.1
         ]
       },
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "ICICI Bank's stock price rose 0.3% with below-average volume, lacking a clear catalyst. The company's announcements regarding its subsidiary ICICI Prudential Life Insurance and general updates did not seem to have a significant impact. The stock's muted reaction suggests a lack of market enthusiasm.",
+        "analysis": "ICICI Bank's stock price rose 0.53% with below-average volume, lacking a clear catalyst to explain the move. The company's announcements and news did not reveal any significant information that could have driven the price action. The stock's movement appears to be neutral.",
         "confidence": "medium",
         "flags": []
       }
@@ -245,24 +265,51 @@
       "sector": "Insurance",
       "notes": "Assumed \"HDFC Live\" was HDFC Life. Tell me if you meant HDFC Bank.",
       "skip_catalysts": false,
-      "bse_announcements": [],
-      "nse_announcements": [],
+      "bse_announcements": [
+        {
+          "headline": "Please find attached Scrutinizers Report and Voting Results",
+          "category": "AGM/EGM",
+          "subcategory": null,
+          "more_info": "",
+          "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/575e14d2-6bdb-43a5-ab74-efa7f970357d.pdf",
+          "attached_at": "2026-05-18T17:43:23",
+          "source": "BSE"
+        }
+      ],
+      "nse_announcements": [
+        {
+          "headline": "Shareholders meeting",
+          "category": null,
+          "more_info": "HDFC Life Insurance Company Limited has submitted the Exchange a copy Srutinizers report of  Postal Ballot. Further, the company has informed the Exchange regarding voting results.",
+          "pdf_url": "https://nsearchives.nseindia.com/corporate/HDFCLIFE2_18052026180309_Scrutinizers_Report.pdf",
+          "attached_at": "18-May-2026 18:03:52",
+          "source": "NSE"
+        },
+        {
+          "headline": "Disclosure under SEBI Takeover Regulations",
+          "category": null,
+          "more_info": "HDFC Bank Limited has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
+          "pdf_url": "https://nsearchives.nseindia.com/corporate/team_sandeshc_20042026122228_Discl10.pdf",
+          "attached_at": "18-May-2026 15:49:35",
+          "source": "NSE"
+        }
+      ],
       "news": [],
       "events": [],
       "sebi_mentions": [],
       "price_action": {
         "date": "2026-05-18",
         "open": 600.7,
-        "high": 605.6,
+        "high": 608.0,
         "low": 594.05,
-        "close": 603.05,
+        "close": 604.95,
         "prev_close": 608.7,
-        "change_pct": -0.93,
+        "change_pct": -0.62,
         "gap_pct": -1.31,
-        "intraday_range_pct": 1.9,
-        "volume": 3053075,
+        "intraday_range_pct": 2.29,
+        "volume": 3980603,
         "avg_volume_20d": 6297326,
-        "volume_ratio": 0.48,
+        "volume_ratio": 0.63,
         "sparkline": [
           580.4,
           581.7,
@@ -293,13 +340,13 @@
           602.8,
           612.55,
           608.7,
-          603.05
+          604.95
         ]
       },
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "HDFC Life Insurance Company Limited's stock price declined 0.93% with below-average volume, indicating a lack of significant catalysts or market interest. The stock's price action was muted, with no notable news or announcements. The decline may be a minor correction, but without a clear catalyst, it's difficult to determine the underlying cause.",
+        "analysis": "HDFC Life Insurance Company Limited's stock price declined 0.62% with below-average volume, and no significant catalysts drove the price action. The company released its scrutinizers report and voting results, but it did not have a notable impact on the stock price. The disclosure under SEBI Takeover Regulations by HDFC Bank Limited may be worth monitoring for future developments.",
         "confidence": "medium",
         "flags": []
       }
@@ -314,20 +361,33 @@
       "nse_announcements": [],
       "news": [],
       "events": [],
-      "sebi_mentions": [],
+      "sebi_mentions": [
+        {
+          "title": "Order releasing of Bank/Post office Accounts, Demat Accounts and Mutual Fund Folios for RC 6745 of 2023",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/may-2026/order-releasing-of-bank-post-office-accounts-demat-accounts-and-mutual-fund-folios-for-rc-6745-of-2023_101490.html",
+          "published_at": "18 May, 2026 +0530",
+          "summary": "Order releasing of Bank/Post office Accounts, Demat Accounts and Mutual Fund Folios for RC 6745 of 2023"
+        },
+        {
+          "title": "Notice of Attachment of Bank Accounts and Demat Accounts with AP No. 15366 & 15367 of 2026 dated May 18, 2026 against Makwana Bharat S. HUF [Defaulter] in the matter of dealing in Illiquid Stock Options on BSE, under Recovery Certificate No. 9093 of 2026.",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/may-2026/notice-of-attachment-of-bank-accounts-and-demat-accounts-with-ap-no-15366-and-15367-of-2026-dated-may-18-2026-against-makwana-bharat-s-huf-defaulter-in-the-matter-of-dealing-in-illiquid-stock-optio-_101486.html",
+          "published_at": "18 May, 2026 +0530",
+          "summary": "Notice of Attachment of Bank Accounts and Demat Accounts with AP No. 15366 & 15367 of 2026 dated May 18, 2026 against Makwana Bharat S. HUF [Defaulter] in the matter of dealing in Illiquid Stock Options on BSE, under Recovery Certificate No. 9093 of 2026."
+        }
+      ],
       "price_action": {
         "date": "2026-05-18",
         "open": 192.0,
         "high": 192.49,
         "low": 186.55,
-        "close": 189.07,
+        "close": 190.34,
         "prev_close": 194.46,
-        "change_pct": -2.77,
+        "change_pct": -2.12,
         "gap_pct": -1.27,
         "intraday_range_pct": 3.05,
-        "volume": 6125937,
+        "volume": 7389978,
         "avg_volume_20d": 17735742,
-        "volume_ratio": 0.35,
+        "volume_ratio": 0.42,
         "sparkline": [
           152.58,
           149.13,
@@ -358,14 +418,14 @@
           194.88,
           199.04,
           194.46,
-          189.07
+          190.34
         ]
       },
       "analysis": {
-        "classification": "move_without_catalyst",
+        "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Bandhan Bank's stock price declined 2.77% despite no notable announcements or news, with lower-than-average trading volume. The lack of catalysts makes it difficult to pinpoint the reason for the decline. The stock's price movement may be due to market sentiment or other unreported factors.",
-        "confidence": "low",
+        "analysis": "Bandhan Bank's stock price declined 2.12% with below-average volume, but no significant catalysts were found to explain the move. The SEBI mentions are unrelated to the company. The decline may be a minor correction in an otherwise stable market.",
+        "confidence": "medium",
         "flags": []
       }
     },
@@ -383,16 +443,16 @@
       "price_action": {
         "date": "2026-05-18",
         "open": 67.3,
-        "high": 67.55,
+        "high": 67.84,
         "low": 66.16,
-        "close": 67.08,
+        "close": 67.59,
         "prev_close": 67.65,
-        "change_pct": -0.84,
+        "change_pct": -0.09,
         "gap_pct": -0.52,
-        "intraday_range_pct": 2.05,
-        "volume": 17585763,
+        "intraday_range_pct": 2.48,
+        "volume": 20702003,
         "avg_volume_20d": 22134874,
-        "volume_ratio": 0.79,
+        "volume_ratio": 0.94,
         "sparkline": [
           61.08,
           61.19,
@@ -423,13 +483,13 @@
           68.3,
           68.54,
           67.65,
-          67.08
+          67.59
         ]
       },
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "IDFC First Bank's stock price declined 0.84% with below-average volume, indicating a lack of significant catalysts or market interest. The move was within the intraday range of 2.05%. No notable announcements or news were reported.",
+        "analysis": "IDFC First Bank's stock price remained relatively stable with a minor decline of 0.09%. The lack of significant news or announcements suggests that the market is awaiting new catalysts. The stock's trading volume was in line with its 20-day average.",
         "confidence": "medium",
         "flags": []
       }
@@ -450,14 +510,14 @@
         "open": 184.91,
         "high": 188.2,
         "low": 183.01,
-        "close": 185.69,
+        "close": 186.3,
         "prev_close": 185.01,
-        "change_pct": 0.37,
+        "change_pct": 0.7,
         "gap_pct": -0.05,
         "intraday_range_pct": 2.81,
-        "volume": 1344679,
+        "volume": 1505648,
         "avg_volume_20d": 2224477,
-        "volume_ratio": 0.6,
+        "volume_ratio": 0.68,
         "sparkline": [
           165.44,
           170.02,
@@ -488,13 +548,13 @@
           184.43,
           186.34,
           185.01,
-          185.69
+          186.3
         ]
       },
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "CGCL traded in a narrow range with a minor gain, lacking any significant catalysts or volume surge. The stock's price action was muted, with a volume ratio below average. No notable developments were observed.",
+        "analysis": "CGCL traded in a narrow range with a modest gain, but the move was not significant enough to be considered meaningful. Volume was below average, indicating a lack of conviction. The stock's price action was uninspiring, with no notable catalysts to drive the move.",
         "confidence": "medium",
         "flags": []
       }
@@ -547,16 +607,16 @@
       "price_action": {
         "date": "2026-05-18",
         "open": 404.6,
-        "high": 404.6,
+        "high": 405.7,
         "low": 395.95,
-        "close": 402.75,
+        "close": 404.35,
         "prev_close": 407.0,
-        "change_pct": -1.04,
+        "change_pct": -0.65,
         "gap_pct": -0.59,
-        "intraday_range_pct": 2.13,
-        "volume": 4895688,
+        "intraday_range_pct": 2.4,
+        "volume": 6007373,
         "avg_volume_20d": 7820416,
-        "volume_ratio": 0.63,
+        "volume_ratio": 0.77,
         "sparkline": [
           383.85,
           387.7,
@@ -587,13 +647,13 @@
           404.45,
           407.85,
           407.0,
-          402.75
+          404.35
         ]
       },
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Tata Power Company Limited's stock price declined by 1.04% with below-average volume, and the announcement of a MoU with Druk Green Power Corporation did not have a significant impact on the stock price. The company's press release regarding the MoU may have been expected by the market, resulting in a muted reaction. The stock's price action suggests a lack of significant catalysts or market-moving news.",
+        "analysis": "Tata Power Company Limited's stock price declined 0.65% despite the announcement of a MoU with Druk Green Power Corporation to build a skill development ecosystem for 5,000 MW clean energy capacity. The stock's volume ratio was below average, indicating a lack of significant market interest. The news did not have a substantial impact on the stock price.",
         "confidence": "medium",
         "flags": []
       }
@@ -604,32 +664,77 @@
       "sector": "Renewable Energy",
       "notes": null,
       "skip_catalysts": false,
-      "bse_announcements": [],
+      "bse_announcements": [
+        {
+          "headline": "Suzlon Energy Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 25/05/2026 ,inter alia, to consider and approve The Financial Results of the Company on Standalone and Consolidated basis for the quarter (unaudited) and financial year ended on 31st March 2026 (audited).",
+          "category": "Board Meeting",
+          "subcategory": null,
+          "more_info": "",
+          "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/83b5f275-ec68-4d59-acaf-654b2463f6fa.pdf",
+          "attached_at": "2026-05-18T16:59:46",
+          "source": "BSE"
+        }
+      ],
       "nse_announcements": [],
       "news": [
+        {
+          "title": "Suzlon Energy Ltd Sees Mixed Technical Signals Amid Price Momentum Shift",
+          "source": "Markets Mojo",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSERUT1c5M29lQWpZNDllWnhVZ0JLbHIwaVN3VDkwWTlFMTU0OVdGVGtqNGhJMTAtR0MtSFpyblZpQ1MwNEtERG84bmVtbUJZbHRzeFlsMVI0cWhzVFcxdlQ3Y2syQTFfX3c1ajVHMUk1VUNqLUZldDVMY1o3VnJTLXRIZUJNMVJTOEVKUmJhaTZFQW5zcUZodjhRbElPMk4wYldBaDVHSVFwbnM0SFRfSEROUXBZdUxlelVUQVNOc3EwUWlYT2c5cWNn?oc=5",
+          "published_at": "2026-05-18T00:24:22+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPSERUT1c5M29lQWpZNDllWnhVZ0JLbHIwaVN3VDkwWTlFMTU0OVdGVGtqNGhJMTAtR0MtSFpyblZpQ1MwNEtERG84bmVtbUJZbHRzeFlsMVI0cWhzVFcxdlQ3Y2syQTFfX3c1ajVHMUk1VUNqLUZldDVMY1o3VnJTLXRIZUJNMVJTOEVKUmJhaTZFQW5zcUZodjhRbElPMk4wYldBaDVHSVFwbnM0SFRfSEROUXBZdUxlelVUQVNOc3EwUWlYT2c5cWNn?oc=5\" target=\"_blank\">Suzlon Energy Ltd Sees Mixed Technical Signals Amid Pri"
+        },
+        {
+          "title": "Suzlon Energy Board Meeting Scheduled on May 25, 2026 to Approve Q4FY26 Financial Results",
+          "source": "scanx.trade",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNR3h3aWZqQUFzMW03SnNoU0FVRVZYb3NQRUctMkViaWRKSU9NU1kxdElHQUw5bjdZSXExUVZNbm1xTktfVEVRMmxOUnQ0V2E2cE93UTZ5UjhZNzVuZ0F6akQwdUo3dWJWRWp3NTN6RThiVnhwMkJwQklrN1dYMDdlRi1UMi1vU3lFcHR5TnlxaHBFU0kxdF9Ia0gxOEMzaFY2V2JaZTdhdmNwR3lkR0VaLXQtVGxZVzdNUF8yWEowem16RlBKWTJ1ZVRjQUlwZ0JlWWJhVVllZExEdjRGRWc?oc=5",
+          "published_at": "2026-05-18T13:13:30+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNR3h3aWZqQUFzMW03SnNoU0FVRVZYb3NQRUctMkViaWRKSU9NU1kxdElHQUw5bjdZSXExUVZNbm1xTktfVEVRMmxOUnQ0V2E2cE93UTZ5UjhZNzVuZ0F6akQwdUo3dWJWRWp3NTN6RThiVnhwMkJwQklrN1dYMDdlRi1UMi1vU3lFcHR5TnlxaHBFU0kxdF9Ia0gxOEMzaFY2V2JaZTdhdmNwR3lkR0VaLXQtVGxZVzdNUF8yWEowem16RlBKWTJ1ZVRjQUlwZ0JlWWJhVVllZExEdjRGRWc?oc=5\" target=\"_blank\">Suzlon Energy Board Meeting "
+        },
+        {
+          "title": "Suzlon chief on new Europe push: 'We're not here to undercut rivals'",
+          "source": "Recharge News",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdVJyRjlRZFZSVmMwUGs4NHJPRXZYbS1nc3ByTnFnNC1BS25CaVJDTVk0VGN6bDNzM2dsREt3LUFPdHJhZFhVR29KY0lTWTlYYzU4aUt3amhfMkNDSmpFU1FaRTBHWi0zRTFDYzBKZUZ0dlpqbnJEc0gzajNTaEdNT21YbTRoS1hSTzdjTkMxY091TnhPbDdQS2lyYWxaUS1vSExmS2xFV3NjMlRFVXNOSlhFa3IyUmc?oc=5",
+          "published_at": "2026-05-18T11:29:31+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPdVJyRjlRZFZSVmMwUGs4NHJPRXZYbS1nc3ByTnFnNC1BS25CaVJDTVk0VGN6bDNzM2dsREt3LUFPdHJhZFhVR29KY0lTWTlYYzU4aUt3amhfMkNDSmpFU1FaRTBHWi0zRTFDYzBKZUZ0dlpqbnJEc0gzajNTaEdNT21YbTRoS1hSTzdjTkMxY091TnhPbDdQS2lyYWxaUS1vSExmS2xFV3NjMlRFVXNOSlhFa3IyUmc?oc=5\" target=\"_blank\">Suzlon chief on new Europe push: 'We're not here to undercut rivals'</a>&nbsp;&n"
+        },
+        {
+          "title": "Suzlon Energy Board Meeting to Approve FY26 Financial Results",
+          "source": "InvestyWise",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8xU0JiSi1TbXdoTFluUE1mbUtVRzZpMUoyQV9tS1p4alNQUFJjYlU0Z3pETkNVSkpFQzFKMjdKRXFiOElYSUl5RmlyM3FRVlNtZXNRN1d6RXZuTDRXdjJqZTNPRzFhLW5aMXF1R3VXdWlGLVN4cUx5aGFR?oc=5",
+          "published_at": "2026-05-18T11:34:09+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE8xU0JiSi1TbXdoTFluUE1mbUtVRzZpMUoyQV9tS1p4alNQUFJjYlU0Z3pETkNVSkpFQzFKMjdKRXFiOElYSUl5RmlyM3FRVlNtZXNRN1d6RXZuTDRXdjJqZTNPRzFhLW5aMXF1R3VXdWlGLVN4cUx5aGFR?oc=5\" target=\"_blank\">Suzlon Energy Board Meeting to Approve FY26 Financial Results</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">InvestyWise</font>"
+        },
         {
           "title": "Suzlon Energy Ltd Sees High Volume Amid Sector Weakness and Downgrade",
           "source": "Markets Mojo",
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeDJ4Rm1TSHlrXzJsR3ZHN0N2d2JxX3NSYnBiTFFqUWYzanJIZ0JvS3RMMW5ramtDXzgxclpSbWViSkhuVHNfa2JtZFA5bThNSDA2ejhLUkx0TUNDM3RVMUliTTMzS2V0Z3ZaS0ltN0FTOG0xdVI4OWFRdF8xNVVFNTEyNjVzQkJLazBpSDZyS2JwUDNJZUFrVzVZU1hDQV81aFVsSFY1cUlUal9KV1RQZG9IT3NLYXBLR3FtVlNKb2sxSGZWRWc?oc=5",
-          "published_at": "2026-05-18T04:30:38+00:00",
+          "published_at": "2026-05-18T04:35:50+00:00",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOeDJ4Rm1TSHlrXzJsR3ZHN0N2d2JxX3NSYnBiTFFqUWYzanJIZ0JvS3RMMW5ramtDXzgxclpSbWViSkhuVHNfa2JtZFA5bThNSDA2ejhLUkx0TUNDM3RVMUliTTMzS2V0Z3ZaS0ltN0FTOG0xdVI4OWFRdF8xNVVFNTEyNjVzQkJLazBpSDZyS2JwUDNJZUFrVzVZU1hDQV81aFVsSFY1cUlUal9KV1RQZG9IT3NLYXBLR3FtVlNKb2sxSGZWRWc?oc=5\" target=\"_blank\">Suzlon Energy Ltd Sees High Volume Amid Sector Weakness and "
         }
       ],
-      "events": [],
+      "events": [
+        {
+          "subject": null,
+          "purpose": "Financial Results",
+          "date": "25-May-2026",
+          "details": "To consider and approve the financial results for the period ended March 31, 2026"
+        }
+      ],
       "sebi_mentions": [],
       "price_action": {
         "date": "2026-05-18",
         "open": 53.48,
         "high": 53.48,
         "low": 52.15,
-        "close": 52.9,
+        "close": 53.25,
         "prev_close": 53.84,
-        "change_pct": -1.75,
+        "change_pct": -1.1,
         "gap_pct": -0.67,
         "intraday_range_pct": 2.47,
-        "volume": 64882911,
+        "volume": 77345366,
         "avg_volume_20d": 102737146,
-        "volume_ratio": 0.63,
+        "volume_ratio": 0.75,
         "sparkline": [
           41.59,
           41.55,
@@ -660,14 +765,14 @@
           53.1,
           53.47,
           53.84,
-          52.9
+          53.25
         ]
       },
       "analysis": {
-        "classification": "move_without_catalyst",
+        "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Suzlon Energy's stock price declined 1.75% despite no significant announcements or events. The stock saw a relatively low volume ratio of 0.63. The news article mentioning high volume amid sector weakness may not be directly relevant to the current price action. ",
-        "confidence": "low",
+        "analysis": "Suzlon Energy's stock price declined 1.1% with below-average volume, and no significant catalysts drove the move. The company's board meeting to approve Q4FY26 financial results is scheduled for May 25, 2026. The stock's technical signals are mixed amid a price momentum shift.",
+        "confidence": "medium",
         "flags": []
       }
     },
@@ -685,16 +790,16 @@
       "price_action": {
         "date": "2026-05-18",
         "open": 125.64,
-        "high": 126.97,
+        "high": 127.45,
         "low": 122.5,
-        "close": 126.05,
+        "close": 126.92,
         "prev_close": 127.1,
-        "change_pct": -0.83,
+        "change_pct": -0.14,
         "gap_pct": -1.15,
-        "intraday_range_pct": 3.52,
-        "volume": 6441662,
+        "intraday_range_pct": 3.89,
+        "volume": 7685154,
         "avg_volume_20d": 11168532,
-        "volume_ratio": 0.58,
+        "volume_ratio": 0.69,
         "sparkline": [
           115.58,
           115.68,
@@ -725,13 +830,13 @@
           128.25,
           128.62,
           127.1,
-          126.05
+          126.92
         ]
       },
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "IREDA's stock price declined 0.83% with below-average volume, indicating a lack of significant catalysts or market interest. The stock's intraday range was 3.52%, but the overall move was not substantial. No notable announcements or news were reported.",
+        "analysis": "IREDA's stock price declined marginally by 0.14% with below-average volume, indicating a lack of significant catalysts or market interest. The stock's intraday range was 3.89%, but the close was near the open, suggesting a neutral trading session. No notable announcements or news were reported.",
         "confidence": "medium",
         "flags": []
       }
@@ -752,14 +857,14 @@
         "open": 197.0,
         "high": 197.56,
         "low": 191.3,
-        "close": 194.86,
+        "close": 195.16,
         "prev_close": 199.78,
-        "change_pct": -2.46,
+        "change_pct": -2.31,
         "gap_pct": -1.39,
         "intraday_range_pct": 3.13,
-        "volume": 1540070,
+        "volume": 2244332,
         "avg_volume_20d": 7317866,
-        "volume_ratio": 0.21,
+        "volume_ratio": 0.31,
         "sparkline": [
           166.43,
           165.43,
@@ -790,13 +895,13 @@
           203.57,
           203.08,
           199.78,
-          194.86
+          195.16
         ]
       },
       "analysis": {
         "classification": "move_without_catalyst",
         "primary_catalyst": null,
-        "analysis": "SWSOLAR declined 2.46% despite lack of news or announcements, volume was lower than average. This move may be due to market sentiment or other unreported factors. The stock's price action will be closely watched for further developments.",
+        "analysis": "SWSOLAR declined 2.31% despite lack of news or announcements, with below-average volume. This move may be a precursor to further decline. No clear catalyst is visible for the decline.",
         "confidence": "low",
         "flags": []
       }
@@ -817,14 +922,14 @@
         "open": 298.0,
         "high": 298.45,
         "low": 287.5,
-        "close": 291.15,
+        "close": 292.45,
         "prev_close": 300.8,
-        "change_pct": -3.21,
+        "change_pct": -2.78,
         "gap_pct": -0.93,
         "intraday_range_pct": 3.64,
-        "volume": 1730810,
+        "volume": 2062742,
         "avg_volume_20d": 6546878,
-        "volume_ratio": 0.26,
+        "volume_ratio": 0.32,
         "sparkline": [
           273.1,
           274.45,
@@ -855,14 +960,14 @@
           311.8,
           304.8,
           300.8,
-          291.15
+          292.45
         ]
       },
       "analysis": {
         "classification": "move_without_catalyst",
         "primary_catalyst": null,
-        "analysis": "Transformers and Rectifiers (India) Limited's stock price declined 3.21% despite no notable announcements or news. The low volume ratio of 0.26 suggests a lack of conviction in the move. This could be a buying opportunity if the company's fundamentals remain intact.",
-        "confidence": "medium",
+        "analysis": "Transformers and Rectifiers (India) Limited's stock price declined 2.78% despite no notable announcements or news. The move was accompanied by below-average volume. The lack of a clear catalyst may indicate a potential opportunity for a reversal. ",
+        "confidence": "low",
         "flags": []
       }
     },
@@ -883,11 +988,39 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxOYTJLSDRldm44MUlTaWZkUWFieWNMeWRhaHRneHV5TkJEaXBJOFdRNXI2bDVuUUF4MkdEaTVaQ3RkM210THRqU0FoR25LNUduR1dmVy03eWc3RWNIaFdFcFk2bDVKVWJmblh1cTZrbkZ2cGxvZVMzaDBJVXl2VUtfQTRNN1dDWlJaQ01Sc2dvX05uTTlzOTA0SXlRVnZwMlp0OHowQnd5RmpvZnZOT2drSmhFTzUybEZ6WmJSWnVHUWpFMEJSdy0yc3lDQXRRekh1NXlsYk5JVmNWMm1kWmp3QWdveWlOOU10ZG1WMnNUaWpacUtGbUE1RS13M19kRDFvQnJ0Td"
         },
         {
+          "title": "ITC Hotels to acquire Zuri Kumarakom Resort & Spa for $21.3m",
+          "source": "Hotel Management Network",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWVdSNGYxZGFYQTJsdnMyUkZtS3ltMkF6VGlKSnFPNE1fbDhuSG9KdG1NazVNZUttT1hfczYwNE5icWJOZlMxMGJJZ3UtZ3cwU0h0RmJUVzFTUjU5S0UtUWtLTGJJelpPQmZIcGxXLThQLVczbW5Qa2E1TmoxSDlqRkdMTVJxbFYxMk1fUHl2SG5Oektj?oc=5",
+          "published_at": "2026-05-18T10:42:34+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNWVdSNGYxZGFYQTJsdnMyUkZtS3ltMkF6VGlKSnFPNE1fbDhuSG9KdG1NazVNZUttT1hfczYwNE5icWJOZlMxMGJJZ3UtZ3cwU0h0RmJUVzFTUjU5S0UtUWtLTGJJelpPQmZIcGxXLThQLVczbW5Qa2E1TmoxSDlqRkdMTVJxbFYxMk1fUHl2SG5Oektj?oc=5\" target=\"_blank\">ITC Hotels to acquire Zuri Kumarakom Resort & Spa for $21.3m</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hotel Management Network</fon"
+        },
+        {
+          "title": "ITC empowers 31,800 spice farmers through tech-driven programme across 2.2 lakh acres",
+          "source": "The Statesman",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPS2hKYzY2TDFFQzNUejlBWVJZQzZCNXpBdVBFOVhGX1Y0cktSU2JIa0FEVU05c1VNeG16MHBvQVUyc0ZsVm1jZ3FSLTlGRmFENTRmSFpWWDltcmR4SEpNRTZ3ZzhTcTEySWpPdDJlbFVJQTBFQW9nbVlwZUM0M3UxU0RORWpwZGFCQmJJTUZCUS1ZcGtaQndtYjBtcloyaTRrOW5MQVk5OFhhRUJfNnJDaEV1TUV2YmtidlN1Qlg3VWtpTmhVTEF1amVkcjZNY0FFYmNidNIB2gFBVV95cUxNaGxiLV9mX1VVN3F1Z1VHYTUwTEhod2JFbnVoOEJwVUFqRzdxZmFMVnUtclJoZ2sxZ2RfYkt1UU9hY2ozaGh4WDB3T2VRZk05cEhha1pfU2szWTE4bjRPT2dJcEI2Z0VLbDZCWG5wZUY0OWVnNFRJSVpzUTRQVFdmMTZVZWhINm5Lc0N4cUcyQlBnYnZZQ3ZLcHM0QlE3T1JBOXh0STNjeV9uMkJRaXBHXy01WXA5RUZKam02TGNURkNqZUsteE9NV2lnUXFqUS1wakh2YkxMN0tVdw?oc=5",
+          "published_at": "2026-05-18T13:09:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPS2hKYzY2TDFFQzNUejlBWVJZQzZCNXpBdVBFOVhGX1Y0cktSU2JIa0FEVU05c1VNeG16MHBvQVUyc0ZsVm1jZ3FSLTlGRmFENTRmSFpWWDltcmR4SEpNRTZ3ZzhTcTEySWpPdDJlbFVJQTBFQW9nbVlwZUM0M3UxU0RORWpwZGFCQmJJTUZCUS1ZcGtaQndtYjBtcloyaTRrOW5MQVk5OFhhRUJfNnJDaEV1TUV2YmtidlN1Qlg3VWtpTmhVTEF1amVkcjZNY0FFYmNidNIB2gFBVV95cUxNaGxiLV9mX1VVN3F1Z1VHYTUwTEhod2JFbnVoOEJwVUFqRzdxZm"
+        },
+        {
           "title": "18.05.2026: ITC Available on Construction of Specialized Industrial Support Structure for VCV Manufacturing Line: Gujarat AAR",
           "source": "taxo.online",
           "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPc1ZzeEl2QWZzM3NfaFB4bjFZaW4tNTFSZ3FpdlE0cFExSG81MVlIREd4aGJYOWRxamlneUt5NGxRUDVWckR0NkFuZGpuYmxZN0w5b09OWXJQMlhhV3FFWmVHUEUxZHlYRFlYNDZLRURkZmVJdlE0VnM0NXBoLVl6R0hpbUhYR1NKR0VQZnNoLUR5SG11ZUtlaXJ2b1BodjBkSEJQQ2pNaXIwSzQxSHdZM3gzOGpRWU83dk93aVdhVlNab19ZZ2hFVXhKbHZBLUNLQVR4TVczX2JFUU9mOUhnTk9sOTEyY21UVUY5Zw?oc=5",
           "published_at": "2026-05-18T05:10:36+00:00",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxPc1ZzeEl2QWZzM3NfaFB4bjFZaW4tNTFSZ3FpdlE0cFExSG81MVlIREd4aGJYOWRxamlneUt5NGxRUDVWckR0NkFuZGpuYmxZN0w5b09OWXJQMlhhV3FFWmVHUEUxZHlYRFlYNDZLRURkZmVJdlE0VnM0NXBoLVl6R0hpbUhYR1NKR0VQZnNoLUR5SG11ZUtlaXJ2b1BodjBkSEJQQ2pNaXIwSzQxSHdZM3gzOGpRWU83dk93aVdhVlNab19ZZ2hFVXhKbHZBLUNLQVR4TVczX2JFUU9mOUhnTk9sOTEyY21UVUY5Zw?oc=5\" target=\"_blank\">18.05.202"
+        },
+        {
+          "title": "ITC’s high-value spice cultivation benefits over 31,800 spices farmers",
+          "source": "BusinessLine",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSXhTdlJvLS13c0QyVEl2RUVDSTR3T092VkhmeVdRX3ZCUlJlRU0td0RUMl95OHdFLU5TczNxSmZiWWxSMFBBNWx2dE1jSE11RFpHYnRQOHdQODVCbFktV3VZemtDRHozWWVMU0dfSllIZFQza1UtU0JYVTlNRmRvTW5mb3d1VEdkUFVjaGZrRGc3X3dzNUhOMTdQOUszeHN3bG45ZmREZnBKWkdtZXlrQk1welRxTkNUbUg4N2xYREhjbWtTV1NiYnFJc2pxcGR3TXJaUnZhX2xQclNjNVZIS9IB5wFBVV95cUxQR25kWXlxVlNQRFpJTlpTaXAxellfLTZPNjQxQ0h0bUFoZExfNVl1Wm1RYnFUVG4xd0ZqUVBmVklTeDRjNjFZdU5FVXVUMktaazBSVXBBM2owS2RuWUJhaFIzQmZoSmo4N3h6dzRxTVpfOFZLNll3bV8xaU96R0ZlRElZMllsSlByN0Q2aDRfNnpxeXk4T0N6U1lGUWk2eXNlNDhZN01LT2oxUFEyd3FTRUlONkdXUFA3cGZ1blJWRXo2X1Q2aUhNUG1IYkRnVUxJcmdQSXYtZXVWRkg2dmM5ZUMyWFNlYWs?oc=5",
+          "published_at": "2026-05-18T09:52:45+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSXhTdlJvLS13c0QyVEl2RUVDSTR3T092VkhmeVdRX3ZCUlJlRU0td0RUMl95OHdFLU5TczNxSmZiWWxSMFBBNWx2dE1jSE11RFpHYnRQOHdQODVCbFktV3VZemtDRHozWWVMU0dfSllIZFQza1UtU0JYVTlNRmRvTW5mb3d1VEdkUFVjaGZrRGc3X3dzNUhOMTdQOUszeHN3bG45ZmREZnBKWkdtZXlrQk1welRxTkNUbUg4N2xYREhjbWtTV1NiYnFJc2pxcGR3TXJaUnZhX2xQclNjNVZIS9IB5wFBVV95cUxQR25kWXlxVlNQRFpJTlpTaXAxellfLTZPNj"
+        },
+        {
+          "title": "ITC dividend in focus: FMCG giant to announce final FY26 payout on May 21 – Check details",
+          "source": "financialexpress.com",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQR04yX2M5Rk9sRUJobG5NSWpXQ09zSHN5OEJSMDRGdkV4eGotUXE2Q1M2VWFSdEl0VFoyVVVxM2VBOUdsWTJEdnNDdjVXY2Y2QktQblkyaURBdFlHaGVjMmRkeFBDQ1Qxb2hMZVN6Rld5ZnFuOVFSYndCNF85aE9ZUlJrWDN4R1JvOUhXeG9jRjUtWmU3NzM0QlIwVnVrZUZsUE9Pd0RMU2Q4cVFtbXI1NnZVdnVKUDNRR21tQW9HVTEyNEo4Y28xRWw0amg4d3k2VGVDUFc1RURaVm5XUWI40gHmAUFVX3lxTE9NV1YtTjltbmNhb0tIRUtXR1dXNm94YkZhay1tYS1ta1NxTi1XcUtyRy1JSEtiRzF4SjF3TkhURm5oM29wVjBlOGtpMW9hWUFKcWRfbXZWbE5lbS1IX0dpYnBjT2x6Ykg3a2pqOEZfQkVUQV9KUkpyS2RyblVRLWl6R1FmcVRIc1RIVkFoVDVrelpMd1hmZFc3Q2tlNUNhNDZTLTVQbWJPX0VBdlE4dVVjSHNsUy15RUl1NWEzUjh3UllhNFkxMTVZdXIwVlpHb2lSekRRQjBfbC1DYnB2aThOSjhCM3JR?oc=5",
+          "published_at": "2026-05-18T12:11:51+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQR04yX2M5Rk9sRUJobG5NSWpXQ09zSHN5OEJSMDRGdkV4eGotUXE2Q1M2VWFSdEl0VFoyVVVxM2VBOUdsWTJEdnNDdjVXY2Y2QktQblkyaURBdFlHaGVjMmRkeFBDQ1Qxb2hMZVN6Rld5ZnFuOVFSYndCNF85aE9ZUlJrWDN4R1JvOUhXeG9jRjUtWmU3NzM0QlIwVnVrZUZsUE9Pd0RMU2Q4cVFtbXI1NnZVdnVKUDNRR21tQW9HVTEyNEo4Y28xRWw0amg4d3k2VGVDUFc1RURaVm5XUWI40gHmAUFVX3lxTE9NV1YtTjltbmNhb0tIRUtXR1dXNm94YkZhay"
         },
         {
           "title": "ITC Hotels share price: 52% upside? Target prices as stock fall after Q4 results",
@@ -902,34 +1035,6 @@
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZ3hKNm1rWEhoT1RBWUpXY3hZaTVPQ2VnajN5Z2hzSWV3c1RWT1pYb1RhNlcyYV9lMWNBT2xEYUdvRGFaNkpNamNLdFFQVEZsSkdla1Q2NkVHZjBBdFZMSWpVa0hiZmZ4cFR5SDZRY2FHTThpZmdSSzdHZ19DQlM0ekIwS0FFUDBMbE9ZQ0pORGV0M2F4NmxuTG5tZmdQdmdjOVk0Z3phS0IyQnpjQWFwRHNmTzZVWXFncERvS1dFMDRJSWxsaXB3eTd6SQ?oc=5",
           "published_at": "2026-05-18T08:02:24+00:00",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNZ3hKNm1rWEhoT1RBWUpXY3hZaTVPQ2VnajN5Z2hzSWV3c1RWT1pYb1RhNlcyYV9lMWNBT2xEYUdvRGFaNkpNamNLdFFQVEZsSkdla1Q2NkVHZjBBdFZMSWpVa0hiZmZ4cFR5SDZRY2FHTThpZmdSSzdHZ19DQlM0ekIwS0FFUDBMbE9ZQ0pORGV0M2F4NmxuTG5tZmdQdmdjOVk0Z3phS0IyQnpjQWFwRHNmTzZVWXFncERvS1dFMDRJSWxsaXB3eTd6SQ?oc=5\" target=\"_blank\">ITC Hotels Shares Tank 3% Despite Strong Q4 Earnings;"
-        },
-        {
-          "title": "ITC Hotels Consolidated March 2026 Net Sales at Rs 1,253.70 crore, up 18.2% Y-o-Y",
-          "source": "Moneycontrol.com",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMG1Ybk5EbEZHMW1COG5QSXRmeTNUSmhCTWx2eTBtb3otcTNSSUJqSEVWQ3NUQlpsbElodGxIaF9tUm84YW80TG82VWREWHVuMjlobllkeG9zV3BJdXRDd1EzVlFYZl9LeTg3Y1l1T0RzNTI0RkR6bjdXYmtiMVJkcUZQdFRSOHZTTkwzakkyZlRHM1Fvd1ZIUEhUdlpuRF9DSnVSelgzRnhZOUZZTVdqX3QzdnhOQjlDek02ZU9LWFppTVZOc0hYcXNiTWN5OTdCbE9OakpfVjkzd0lC?oc=5",
-          "published_at": "2026-05-18T04:13:05+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMG1Ybk5EbEZHMW1COG5QSXRmeTNUSmhCTWx2eTBtb3otcTNSSUJqSEVWQ3NUQlpsbElodGxIaF9tUm84YW80TG82VWREWHVuMjlobllkeG9zV3BJdXRDd1EzVlFYZl9LeTg3Y1l1T0RzNTI0RkR6bjdXYmtiMVJkcUZQdFRSOHZTTkwzakkyZlRHM1Fvd1ZIUEhUdlpuRF9DSnVSelgzRnhZOUZZTVdqX3QzdnhOQjlDek02ZU9LWFppTVZOc0hYcXNiTWN5OTdCbE9OakpfVjkzd0lC?oc=5\" target=\"_blank\">ITC Hotels Consolidated March 2"
-        },
-        {
-          "title": "ITC Ltd. Valuation Shifts to Attractive Amid Mixed Market Returns",
-          "source": "Markets Mojo",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdi1qRzFVWlRleFVHMHdXbGRqdnpXZ3NmTm9BZmE2ZERpcGF3LTByVW9MQzBoQ2t6alpYeEVuN05PeTlMTDRtdGJJOHlXMElrTUJpZ3pkOUxUcXJKRTJfTkVwTkdJVkZLcmRMVE5SWlg5azgwUUFCYTRVUHRVRnJ5TTVJVnRBTEFsbndEYjRTdFRvSXlWSHdnS2N0M1U0RDQtaVZJM3pXTWVuenU1LVFvQWxnNVVWZ0dQVDJWSVpfQQ?oc=5",
-          "published_at": "2026-05-18T03:34:23+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNdi1qRzFVWlRleFVHMHdXbGRqdnpXZ3NmTm9BZmE2ZERpcGF3LTByVW9MQzBoQ2t6alpYeEVuN05PeTlMTDRtdGJJOHlXMElrTUJpZ3pkOUxUcXJKRTJfTkVwTkdJVkZLcmRMVE5SWlg5azgwUUFCYTRVUHRVRnJ5TTVJVnRBTEFsbndEYjRTdFRvSXlWSHdnS2N0M1U0RDQtaVZJM3pXTWVuenU1LVFvQWxnNVVWZ0dQVDJWSVpfQQ?oc=5\" target=\"_blank\">ITC Ltd. Valuation Shifts to Attractive Amid Mixed Market Returns</a>"
-        },
-        {
-          "title": "ITC Hotels to Acquire Zuri Hotels & Resorts in ₹205 Cr Deal",
-          "source": "Trade Brains",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd3Q4QTUxTlZrVy1HWmNVVUd1bHktTXVlVmxHUGFFeGFjR2FFT1paQkwwSW1ydm42eUZSM2VaaVpQUTZtc090cW1NSld6NG5QYnNBSVhNS1hmLWhwWnBvcHR5RGVpcnVqS2xmaVJ0YndDSmIzMC1QMy1iNnAxM2h2VEk1VU5HR3R2?oc=5",
-          "published_at": "2026-05-18T06:04:00+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd3Q4QTUxTlZrVy1HWmNVVUd1bHktTXVlVmxHUGFFeGFjR2FFT1paQkwwSW1ydm42eUZSM2VaaVpQUTZtc090cW1NSld6NG5QYnNBSVhNS1hmLWhwWnBvcHR5RGVpcnVqS2xmaVJ0YndDSmIzMC1QMy1iNnAxM2h2VEk1VU5HR3R2?oc=5\" target=\"_blank\">ITC Hotels to Acquire Zuri Hotels & Resorts in ₹205 Cr Deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Trade Brains</font>"
-        },
-        {
-          "title": "Dividend stocks this week: From ITC Hotels to Power Grid, these shares to trade ex-date, check amount",
-          "source": "India TV News",
-          "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQRUNkWllydzQzYlE4dWtqc0xBQlRsM2kwclhydjNYTGNKLU90SlVTSXlCT0tnMVd2bnNXVDZaaERVMUVlR2IzTDg4cy1ENjNENXM4N3JRdzVhSi1Lakh2dFdqbkllUEpaVnV0WkhsQmpRUV9zQ3p3ZWVXRE92ZElBLUxCYlYteVBjTmR3VC1Lam9HeENRRnRoWDB2R0g4VkdrVjlIbWNMLUNqNW5NUUxoUXo4anYtX0VFYVJHWjJTejl0SmlMQ18xTzJ6LWNkMlA5WE8zV1p1ZnljMzBGdkVKNlo2QWZkUld0T3pWcGpxN3JoMUJFaXppTUt4R1NPOEZ2SGREcjFGaEFYbEFadWJOYnRNbkw2Z9IBmwJBVV95cUxOV05vTy14cGMtLUpYMFF1dHNJc3lXM1lLanpWbVpTek1BSzU5aVlsUDVMSzhMMDV4Vi1ncXhjQUE4UW5fTzAzMDRTS0FaMG5tRFJzNVpUeXNKR0lPeENBS0p3THNVeXhaclAyVUpWcFNiZEhkXzB5SGdDRWNMOXc1d2FPQUgtRWV1TzFuUTQ2aV8wT0F5eUlfVFZ3WG9YX0xTcDh1ZHF2azdieUR1em94bjdlUjZKM2tjdmpCYzJkYjk4cVlpNFJvOTJWLU5Vb0VlSWJpUS02cktRZnlCT2xsVlp2QzBnWmNpdy1YQnFfZGdybW1vR3p3dWVpWnpwczRaaVdyM3N5N0pqQmhfTjJmX2szSjdwQ21ROHp3?oc=5",
-          "published_at": "2026-05-18T03:16:20+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgJBVV95cUxQRUNkWllydzQzYlE4dWtqc0xBQlRsM2kwclhydjNYTGNKLU90SlVTSXlCT0tnMVd2bnNXVDZaaERVMUVlR2IzTDg4cy1ENjNENXM4N3JRdzVhSi1Lakh2dFdqbkllUEpaVnV0WkhsQmpRUV9zQ3p3ZWVXRE92ZElBLUxCYlYteVBjTmR3VC1Lam9HeENRRnRoWDB2R0g4VkdrVjlIbWNMLUNqNW5NUUxoUXo4anYtX0VFYVJHWjJTejl0SmlMQ18xTzJ6LWNkMlA5WE8zV1p1ZnljMzBGdkVKNlo2QWZkUld0T3pWcGpxN3JoMUJFaXppTUt4R1NPOEZ2SGREcj"
         }
       ],
       "events": [
@@ -941,6 +1046,24 @@
         }
       ],
       "sebi_mentions": [
+        {
+          "title": "General Remittance Order dated May 18, 2026 issued under RC No. 9067 of 2026 drawn against Paresh Nathalal Chauhan in the matter of Timbor Home Limited",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/may-2026/general-remittance-order-dated-may-18-2026-issued-under-rc-no-9067-of-2026-drawn-against-paresh-nathalal-chauhan-in-the-matter-of-timbor-home-limited_101503.html",
+          "published_at": "18 May, 2026 +0530",
+          "summary": "General Remittance Order dated May 18, 2026 issued under RC No. 9067 of 2026 drawn against Paresh Nathalal Chauhan in the matter of Timbor Home Limited"
+        },
+        {
+          "title": "General Remittance Order dated May 18, 2026 issued under RC No. 9066 of 2026 drawn against Paresh Nathalal Chauhan in the matter of Timbor Home Limited",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/may-2026/general-remittance-order-dated-may-18-2026-issued-under-rc-no-9066-of-2026-drawn-against-paresh-nathalal-chauhan-in-the-matter-of-timbor-home-limited_101501.html",
+          "published_at": "18 May, 2026 +0530",
+          "summary": "General Remittance Order dated May 18, 2026 issued under RC No. 9066 of 2026 drawn against Paresh Nathalal Chauhan in the matter of Timbor Home Limited"
+        },
+        {
+          "title": "Prohibitory Order no. 1455 of 2026 issued in the matter of Rich Infra Developers India Limited under Recovery Certificate No. 2823 of 2020.",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/may-2026/prohibitory-order-no-1455-of-2026-issued-in-the-matter-of-rich-infra-developers-india-limited-under-recovery-certificate-no-2823-of-2020-_101499.html",
+          "published_at": "18 May, 2026 +0530",
+          "summary": "Prohibitory Order no. 1455 of 2026 issued in the matter of Rich Infra Developers India Limited under Recovery Certificate No. 2823 of 2020."
+        },
         {
           "title": "Adjudication order in the matter of Darshan Orna Limited",
           "url": "https://www.sebi.gov.in/enforcement/orders/may-2026/adjudication-order-in-the-matter-of-darshan-orna-limited_101474.html",
@@ -964,18 +1087,6 @@
           "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/may-2026/notice-of-demand-under-recovery-certificate-no-9111-of-2026-dated-may-14-2026-issued-to-cheryl-shah-pan-awjps0540a-in-the-matter-of-seacoast-shipping-services-limited_101439.html",
           "published_at": "13 May, 2026 +0530",
           "summary": "Notice of Demand under Recovery Certificate No. 9111 of 2026 dated May 14, 2026 issued to Cheryl Shah (PAN- AWJPS0540A) in the matter of Seacoast Shipping Services Limited"
-        },
-        {
-          "title": "Notice of Demand under Recovery Certificate No. 9111 of 2026 dated May 14, 2026 issued to Cheryl Shah (PAN- AWJPS0540A) in the matter of Seacoast Shipping Services Limited",
-          "url": "https://www.sebi.gov.in/enforcement/orders/may-2026/notice-of-demand-under-recovery-certificate-no-9111-of-2026-dated-may-14-2026-issued-to-cheryl-shah-pan-awjps0540a-in-the-matter-of-seacoast-shipping-services-limited_101427.html",
-          "published_at": "13 May, 2026 +0530",
-          "summary": "Notice of Demand under Recovery Certificate No. 9111 of 2026 dated May 14, 2026 issued to Cheryl Shah (PAN- AWJPS0540A) in the matter of Seacoast Shipping Services Limited"
-        },
-        {
-          "title": "Order in the matter of Bajaj Hindusthan Sugar Limited",
-          "url": "https://www.sebi.gov.in/enforcement/orders/may-2026/order-in-the-matter-of-bajaj-hindusthan-sugar-limited_101410.html",
-          "published_at": "13 May, 2026 +0530",
-          "summary": "Order in the matter of Bajaj Hindusthan Sugar Limited"
         }
       ],
       "price_action": {
@@ -983,14 +1094,14 @@
         "open": 309.45,
         "high": 312.3,
         "low": 306.5,
-        "close": 308.5,
+        "close": 310.15,
         "prev_close": 309.45,
-        "change_pct": -0.31,
+        "change_pct": 0.23,
         "gap_pct": 0.0,
         "intraday_range_pct": 1.87,
-        "volume": 12780708,
+        "volume": 14418953,
         "avg_volume_20d": 16900683,
-        "volume_ratio": 0.76,
+        "volume_ratio": 0.85,
         "sparkline": [
           294.85,
           298.45,
@@ -1021,13 +1132,13 @@
           304.45,
           307.2,
           309.45,
-          308.5
+          310.15
         ]
       },
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "ITC's stock price declined by 0.31% with below-average volume, indicating no significant catalyst-driven move. The company's Q4 preview and dividend announcement did not have a substantial impact on the stock price.",
+        "analysis": "ITC's stock price moved up 0.23% with lower-than-average volume, and no significant catalysts were found to drive this move. The company is set to announce its Q4 results and dividend on May 21, which may be a key event to watch.",
         "confidence": "medium",
         "flags": []
       }
@@ -1051,6 +1162,24 @@
       ],
       "sebi_mentions": [
         {
+          "title": "General Remittance Order dated May 18, 2026 issued under RC No. 9067 of 2026 drawn against Paresh Nathalal Chauhan in the matter of Timbor Home Limited",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/may-2026/general-remittance-order-dated-may-18-2026-issued-under-rc-no-9067-of-2026-drawn-against-paresh-nathalal-chauhan-in-the-matter-of-timbor-home-limited_101503.html",
+          "published_at": "18 May, 2026 +0530",
+          "summary": "General Remittance Order dated May 18, 2026 issued under RC No. 9067 of 2026 drawn against Paresh Nathalal Chauhan in the matter of Timbor Home Limited"
+        },
+        {
+          "title": "General Remittance Order dated May 18, 2026 issued under RC No. 9066 of 2026 drawn against Paresh Nathalal Chauhan in the matter of Timbor Home Limited",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/may-2026/general-remittance-order-dated-may-18-2026-issued-under-rc-no-9066-of-2026-drawn-against-paresh-nathalal-chauhan-in-the-matter-of-timbor-home-limited_101501.html",
+          "published_at": "18 May, 2026 +0530",
+          "summary": "General Remittance Order dated May 18, 2026 issued under RC No. 9066 of 2026 drawn against Paresh Nathalal Chauhan in the matter of Timbor Home Limited"
+        },
+        {
+          "title": "Prohibitory Order no. 1455 of 2026 issued in the matter of Rich Infra Developers India Limited under Recovery Certificate No. 2823 of 2020.",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/may-2026/prohibitory-order-no-1455-of-2026-issued-in-the-matter-of-rich-infra-developers-india-limited-under-recovery-certificate-no-2823-of-2020-_101499.html",
+          "published_at": "18 May, 2026 +0530",
+          "summary": "Prohibitory Order no. 1455 of 2026 issued in the matter of Rich Infra Developers India Limited under Recovery Certificate No. 2823 of 2020."
+        },
+        {
           "title": "Adjudication order in the matter of Darshan Orna Limited",
           "url": "https://www.sebi.gov.in/enforcement/orders/may-2026/adjudication-order-in-the-matter-of-darshan-orna-limited_101474.html",
           "published_at": "15 May, 2026 +0530",
@@ -1073,18 +1202,6 @@
           "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/may-2026/notice-of-demand-under-recovery-certificate-no-9111-of-2026-dated-may-14-2026-issued-to-cheryl-shah-pan-awjps0540a-in-the-matter-of-seacoast-shipping-services-limited_101439.html",
           "published_at": "13 May, 2026 +0530",
           "summary": "Notice of Demand under Recovery Certificate No. 9111 of 2026 dated May 14, 2026 issued to Cheryl Shah (PAN- AWJPS0540A) in the matter of Seacoast Shipping Services Limited"
-        },
-        {
-          "title": "Notice of Demand under Recovery Certificate No. 9111 of 2026 dated May 14, 2026 issued to Cheryl Shah (PAN- AWJPS0540A) in the matter of Seacoast Shipping Services Limited",
-          "url": "https://www.sebi.gov.in/enforcement/orders/may-2026/notice-of-demand-under-recovery-certificate-no-9111-of-2026-dated-may-14-2026-issued-to-cheryl-shah-pan-awjps0540a-in-the-matter-of-seacoast-shipping-services-limited_101427.html",
-          "published_at": "13 May, 2026 +0530",
-          "summary": "Notice of Demand under Recovery Certificate No. 9111 of 2026 dated May 14, 2026 issued to Cheryl Shah (PAN- AWJPS0540A) in the matter of Seacoast Shipping Services Limited"
-        },
-        {
-          "title": "Order in the matter of Bajaj Hindusthan Sugar Limited",
-          "url": "https://www.sebi.gov.in/enforcement/orders/may-2026/order-in-the-matter-of-bajaj-hindusthan-sugar-limited_101410.html",
-          "published_at": "13 May, 2026 +0530",
-          "summary": "Order in the matter of Bajaj Hindusthan Sugar Limited"
         }
       ],
       "price_action": {
@@ -1092,14 +1209,14 @@
         "open": 157.79,
         "high": 157.85,
         "low": 150.55,
-        "close": 152.23,
+        "close": 153.44,
         "prev_close": 155.48,
-        "change_pct": -2.09,
+        "change_pct": -1.31,
         "gap_pct": 1.49,
         "intraday_range_pct": 4.7,
-        "volume": 5486651,
+        "volume": 6347195,
         "avg_volume_20d": 3364569,
-        "volume_ratio": 1.63,
+        "volume_ratio": 1.89,
         "sparkline": [
           148.09,
           149.7,
@@ -1130,13 +1247,13 @@
           154.75,
           155.35,
           155.48,
-          152.23
+          153.44
         ]
       },
       "analysis": {
         "classification": "move_without_catalyst",
         "primary_catalyst": null,
-        "analysis": "ITCHOTELS stock price declined 2.09% with elevated volume, but no clear catalyst was found to explain the move. The recent financial results announcement on May 15 may have had some impact, but it's not directly related to the current price action. The stock's intraday range of 4.7% also suggests some volatility.",
+        "analysis": "ITCHOTELS stock price declined 1.31% with a volume ratio of 1.89, indicating a meaningful move without an obvious catalyst. The recent financial results announcement on May 15, 2026, may have had some impact, but it does not directly explain the price action. The stock's intraday range of 4.7% also suggests some volatility.",
         "confidence": "medium",
         "flags": [
           "POSSIBLE_LEAK_OR_FLOW"
@@ -1149,8 +1266,27 @@
       "sector": "Hospitality",
       "notes": null,
       "skip_catalysts": false,
-      "bse_announcements": [],
-      "nse_announcements": [],
+      "bse_announcements": [
+        {
+          "headline": "Press Release -The Company has signed a Franchise Agreement viz. Keys Prima by Lemon Tree Hotels, Karnal",
+          "category": "Company Update",
+          "subcategory": null,
+          "more_info": "",
+          "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/12211fa5-2641-4a60-9385-7a1813e6b5bf.pdf",
+          "attached_at": "2026-05-18T20:16:43",
+          "source": "BSE"
+        }
+      ],
+      "nse_announcements": [
+        {
+          "headline": "Press Release",
+          "category": null,
+          "more_info": "Lemon Tree Hotels Limited has informed the Exchange regarding a press release dated May 18, 2026, titled \"The Company has signed a Franchise Agreement viz. Keys Prima by Lemon Tree Hotels, Karnal\".",
+          "pdf_url": "https://nsearchives.nseindia.com/corporate/LEMONTREE_18052026201112_Stock_Exchange.pdf",
+          "attached_at": "18-May-2026 20:16:46",
+          "source": "NSE"
+        }
+      ],
       "news": [],
       "events": [],
       "sebi_mentions": [],
@@ -1159,14 +1295,14 @@
         "open": 110.0,
         "high": 111.03,
         "low": 106.9,
-        "close": 108.17,
+        "close": 108.85,
         "prev_close": 111.23,
-        "change_pct": -2.75,
+        "change_pct": -2.14,
         "gap_pct": -1.11,
         "intraday_range_pct": 3.71,
-        "volume": 1889123,
+        "volume": 2309929,
         "avg_volume_20d": 8783994,
-        "volume_ratio": 0.22,
+        "volume_ratio": 0.26,
         "sparkline": [
           109.71,
           109.55,
@@ -1197,13 +1333,13 @@
           112.38,
           112.51,
           111.23,
-          108.17
+          108.85
         ]
       },
       "analysis": {
         "classification": "move_without_catalyst",
         "primary_catalyst": null,
-        "analysis": "Lemon Tree Hotels saw a decline of 2.75% in its stock price despite no notable announcements or news. The low volume ratio of 0.22 suggests a lack of conviction in the move. This could be a buying opportunity if the company's fundamentals remain strong.",
+        "analysis": "Lemon Tree Hotels' stock price declined 2.14% despite a positive announcement of a new franchise agreement, indicating a potential disconnect between the news and market reaction. The low volume ratio of 0.26 suggests a lack of conviction in the move. This discrepancy may present a buying opportunity, but the lack of catalyst alignment with the price move warrants caution.",
         "confidence": "medium",
         "flags": []
       }
@@ -1224,14 +1360,14 @@
         "open": 164.65,
         "high": 165.45,
         "low": 160.17,
-        "close": 162.89,
+        "close": 163.61,
         "prev_close": 165.97,
-        "change_pct": -1.86,
+        "change_pct": -1.42,
         "gap_pct": -0.8,
         "intraday_range_pct": 3.18,
-        "volume": 215320,
+        "volume": 270637,
         "avg_volume_20d": 348218,
-        "volume_ratio": 0.62,
+        "volume_ratio": 0.78,
         "sparkline": [
           159.08,
           159.69,
@@ -1262,14 +1398,14 @@
           169.38,
           169.09,
           165.97,
-          162.89
+          163.61
         ]
       },
       "analysis": {
-        "classification": "move_without_catalyst",
+        "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Finolex Industries Limited stock price declined 1.86% despite no notable announcements or news. The move was accompanied by lower-than-average volume. The stock may be due for a bounce, but lack of catalysts makes the outlook uncertain. ",
-        "confidence": "low",
+        "analysis": "Finolex Industries Limited's stock price declined 1.42% with below-average volume, indicating a lack of significant catalysts or market interest. The move was not substantial enough to be considered meaningful. The stock's price action was muted, with no notable news or announcements.",
+        "confidence": "medium",
         "flags": []
       }
     },
@@ -1284,6 +1420,24 @@
       "news": [],
       "events": [],
       "sebi_mentions": [
+        {
+          "title": "General Remittance Order dated May 18, 2026 issued under RC No. 9067 of 2026 drawn against Paresh Nathalal Chauhan in the matter of Timbor Home Limited",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/may-2026/general-remittance-order-dated-may-18-2026-issued-under-rc-no-9067-of-2026-drawn-against-paresh-nathalal-chauhan-in-the-matter-of-timbor-home-limited_101503.html",
+          "published_at": "18 May, 2026 +0530",
+          "summary": "General Remittance Order dated May 18, 2026 issued under RC No. 9067 of 2026 drawn against Paresh Nathalal Chauhan in the matter of Timbor Home Limited"
+        },
+        {
+          "title": "General Remittance Order dated May 18, 2026 issued under RC No. 9066 of 2026 drawn against Paresh Nathalal Chauhan in the matter of Timbor Home Limited",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/may-2026/general-remittance-order-dated-may-18-2026-issued-under-rc-no-9066-of-2026-drawn-against-paresh-nathalal-chauhan-in-the-matter-of-timbor-home-limited_101501.html",
+          "published_at": "18 May, 2026 +0530",
+          "summary": "General Remittance Order dated May 18, 2026 issued under RC No. 9066 of 2026 drawn against Paresh Nathalal Chauhan in the matter of Timbor Home Limited"
+        },
+        {
+          "title": "Prohibitory Order no. 1455 of 2026 issued in the matter of Rich Infra Developers India Limited under Recovery Certificate No. 2823 of 2020.",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/may-2026/prohibitory-order-no-1455-of-2026-issued-in-the-matter-of-rich-infra-developers-india-limited-under-recovery-certificate-no-2823-of-2020-_101499.html",
+          "published_at": "18 May, 2026 +0530",
+          "summary": "Prohibitory Order no. 1455 of 2026 issued in the matter of Rich Infra Developers India Limited under Recovery Certificate No. 2823 of 2020."
+        },
         {
           "title": "Adjudication order in the matter of Darshan Orna Limited",
           "url": "https://www.sebi.gov.in/enforcement/orders/may-2026/adjudication-order-in-the-matter-of-darshan-orna-limited_101474.html",
@@ -1307,18 +1461,6 @@
           "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/may-2026/notice-of-demand-under-recovery-certificate-no-9111-of-2026-dated-may-14-2026-issued-to-cheryl-shah-pan-awjps0540a-in-the-matter-of-seacoast-shipping-services-limited_101439.html",
           "published_at": "13 May, 2026 +0530",
           "summary": "Notice of Demand under Recovery Certificate No. 9111 of 2026 dated May 14, 2026 issued to Cheryl Shah (PAN- AWJPS0540A) in the matter of Seacoast Shipping Services Limited"
-        },
-        {
-          "title": "Notice of Demand under Recovery Certificate No. 9111 of 2026 dated May 14, 2026 issued to Cheryl Shah (PAN- AWJPS0540A) in the matter of Seacoast Shipping Services Limited",
-          "url": "https://www.sebi.gov.in/enforcement/orders/may-2026/notice-of-demand-under-recovery-certificate-no-9111-of-2026-dated-may-14-2026-issued-to-cheryl-shah-pan-awjps0540a-in-the-matter-of-seacoast-shipping-services-limited_101427.html",
-          "published_at": "13 May, 2026 +0530",
-          "summary": "Notice of Demand under Recovery Certificate No. 9111 of 2026 dated May 14, 2026 issued to Cheryl Shah (PAN- AWJPS0540A) in the matter of Seacoast Shipping Services Limited"
-        },
-        {
-          "title": "Order in the matter of Bajaj Hindusthan Sugar Limited",
-          "url": "https://www.sebi.gov.in/enforcement/orders/may-2026/order-in-the-matter-of-bajaj-hindusthan-sugar-limited_101410.html",
-          "published_at": "13 May, 2026 +0530",
-          "summary": "Order in the matter of Bajaj Hindusthan Sugar Limited"
         }
       ],
       "price_action": {
@@ -1326,14 +1468,14 @@
         "open": 421.5,
         "high": 435.85,
         "low": 412.25,
-        "close": 423.7,
+        "close": 424.85,
         "prev_close": 419.15,
-        "change_pct": 1.09,
+        "change_pct": 1.36,
         "gap_pct": 0.56,
         "intraday_range_pct": 5.63,
-        "volume": 340340,
+        "volume": 378064,
         "avg_volume_20d": 648711,
-        "volume_ratio": 0.52,
+        "volume_ratio": 0.58,
         "sparkline": [
           367.0,
           374.4,
@@ -1364,14 +1506,14 @@
           420.6,
           428.05,
           419.15,
-          423.7
+          424.85
         ]
       },
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "GNG Electronics Limited stock price increased by 1.09% with below-average volume, but no significant catalysts were found to explain the move. The stock's price action was muted, and the lack of news or announcements makes it difficult to pinpoint a reason for the change. The stock's volume ratio was 0.52, indicating lower-than-average trading activity.",
-        "confidence": "low",
+        "analysis": "GNG Electronics Limited's stock price increased by 1.36% with below-average volume, but there were no significant catalysts that could explain the move. The SEBI mentions were unrelated to the company. The stock's price action was muted and lacked any meaningful drivers.",
+        "confidence": "medium",
         "flags": []
       }
     },
