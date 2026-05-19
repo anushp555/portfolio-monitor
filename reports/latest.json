@@ -1,7 +1,7 @@
 {
   "report_date": "2026-05-20",
   "trading_day": "2026-05-19",
-  "generated_at": "2026-05-19T19:37:42.899754+05:30",
+  "generated_at": "2026-05-19T19:47:30.444804+05:30",
   "stocks": [
     {
       "symbol": "TMCV",
@@ -20,7 +20,15 @@
           "source": "NSE"
         }
       ],
-      "news": [],
+      "news": [
+        {
+          "title": "Tata Motors (TMCV), BPCL, Dr Reddy's shares: Check strategy, outlook",
+          "source": "Business Today",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZVc4NUVwY2pqTi04NXlEZDBaRzFQbVNHU3Utb2FQN2hnX1ZJM1h2WVVPTmRnbW9RSndCek8tWnpfdHdKd1pUZ2VyUVo4bXRsTlF0cHZSSU9ETXItNmR4UkFNcm1LQURob2FRRmNPdzlnUm1Dd1pMUllobktjYVhqUHoyLVJsTi1XemJEVUd6T1JNZ3BQWUxra0lod3JwUWg1dzFTSllJT1FKZXlsSG56SGNBUEgzcGlMOGdib1BFSWFDQUgtMnRratIBzgFBVV95cUxOWmVQdzExakRjUzZWU0xpM2xqeG53YW1QRUlITW9aRjdMLXZNZnZHZHpLWHdzTXNaZFdsOGoyMDRjQnFiZ1l4bjlrTWcxMW0wMnJNak91UkxsMk4zbmFTem9nZ2VjZ0E5QlZBa0hmTkRzRE9sWUxTREJNMWloN2pSMlpDRzZLN1ROQUIxX2RJZlVBcDZBdGlnY3dSQ0Q1STdjVUEtYTZZV1RjdFJLcV9CcXYtRmx0R2gzVVp1QmQ3T2FzVV9PbU84SnhIVmltQQ?oc=5",
+          "published_at": "2026-05-19T14:06:33+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZVc4NUVwY2pqTi04NXlEZDBaRzFQbVNHU3Utb2FQN2hnX1ZJM1h2WVVPTmRnbW9RSndCek8tWnpfdHdKd1pUZ2VyUVo4bXRsTlF0cHZSSU9ETXItNmR4UkFNcm1LQURob2FRRmNPdzlnUm1Dd1pMUllobktjYVhqUHoyLVJsTi1XemJEVUd6T1JNZ3BQWUxra0lod3JwUWg1dzFTSllJT1FKZXlsSG56SGNBUEgzcGlMOGdib1BFSWFDQUgtMnRratIBzgFBVV95cUxOWmVQdzExakRjUzZWU0xpM2xqeG53YW1QRUlITW9aRjdMLXZNZnZHZHpLWHdzTXNaZF"
+        }
+      ],
       "events": [
         {
           "subject": null,
@@ -79,7 +87,7 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Tata Motors Limited's stock price declined 0.3% with a volume ratio of 1.14, which is not significant enough to indicate a meaningful move. The company had an analyst meet transcript update, but it did not seem to have a substantial impact on the stock price. The stock's intraday range was 3.09%, but it closed near the previous day's close.",
+        "analysis": "Tata Motors' stock price declined 0.3% with a volume ratio of 1.14, indicating no significant price or volume movement. The company's analyst meet transcript was released, but it did not seem to have a notable impact on the stock price. The recent financial results and dividend consideration may have been priced in already.",
         "confidence": "medium",
         "flags": []
       }
@@ -151,11 +159,9 @@
       "analysis": {
         "classification": "move_without_catalyst",
         "primary_catalyst": null,
-        "analysis": "Tata Motors Passenger Vehicles Limited saw a 2.28% increase in price with elevated volume, but no clear catalyst was identified. The recent financial results announcement may have been priced in already. This move could be a sign of underlying strength, but lacks a clear trigger.",
+        "analysis": "Tata Motors Passenger Vehicles Limited saw a 2.28% increase in price with elevated volume, but no clear catalyst was identified. This move could be a sign of underlying strength in the stock. The recent financial results announcement may have been a contributing factor, but its impact is unclear.",
         "confidence": "medium",
-        "flags": [
-          "POSSIBLE_LEAK_OR_FLOW"
-        ]
+        "flags": []
       }
     },
     {
@@ -185,15 +191,7 @@
           "source": "NSE"
         }
       ],
-      "news": [
-        {
-          "title": "Why Is ICICI Bank Limited (ICICIBANK.NS) Stock Up Today?",
-          "source": "Meyka",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HV2lCRGRnLThhaExubi1DMUs2djRfSy1HY3ZjLUpoR2dsRS1Jb0IydGhuYWFNSTZ4SFhpZ0xKY1pxUUpBZEFOUWE2emh1QlFmT2FOSFhRQW1Cb3oxdDAxay1LUFBvN28?oc=5",
-          "published_at": "2026-05-19T04:57:51+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HV2lCRGRnLThhaExubi1DMUs2djRfSy1HY3ZjLUpoR2dsRS1Jb0IydGhuYWFNSTZ4SFhpZ0xKY1pxUUpBZEFOUWE2emh1QlFmT2FOSFhRQW1Cb3oxdDAxay1LUFBvN28?oc=5\" target=\"_blank\">Why Is ICICI Bank Limited (ICICIBANK.NS) Stock Up Today?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Meyka</font>"
-        }
-      ],
+      "news": [],
       "events": [],
       "sebi_mentions": [
         {
@@ -258,7 +256,7 @@
       "analysis": {
         "classification": "move_without_catalyst",
         "primary_catalyst": null,
-        "analysis": "ICICI Bank's stock price declined 0.82% despite a significant increase in trading volume, with no clear catalyst driving the move. The allotment of equity shares under the Employee Stock Option Scheme may not have had a material impact on the stock price. The high volume ratio of 2.34 suggests a POSSIBLE_LEAK_OR_FLOW.",
+        "analysis": "ICICI Bank's stock price declined 0.82% with a significant increase in volume, suggesting a possible leak or flow. The ESOP allotment announcement is unlikely to have driven the price move. The stock's intraday range of 2.12% also indicates some volatility.",
         "confidence": "medium",
         "flags": [
           "POSSIBLE_LEAK_OR_FLOW"
@@ -325,7 +323,7 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "HDFC Life Insurance Company Limited saw a modest 0.9% gain with below-average volume, indicating a lack of significant catalysts or market conviction. The stock's price action was muted, with no notable news or announcements. This suggests a neutral outlook for the stock.",
+        "analysis": "HDFC Life Insurance Company Limited saw a modest 0.9% gain with below-average volume, indicating a lack of significant catalysts or market enthusiasm. The stock's price action was muted, with no notable news or announcements. The low volume ratio of 0.28 suggests a lack of conviction among traders.",
         "confidence": "medium",
         "flags": []
       }
@@ -403,8 +401,8 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Bandhan Bank's stock price rose 0.46% with below-average volume, lacking a clear catalyst. The SEBI mentions do not appear directly related to the bank. The move is not significant enough to warrant attention.",
-        "confidence": "medium",
+        "analysis": "Bandhan Bank's stock price rose 0.46% with below-average volume, lacking a clear catalyst. The SEBI mentions appear unrelated to the company's performance. The move is not significant enough to warrant attention.",
+        "confidence": "high",
         "flags": []
       }
     },
@@ -416,7 +414,15 @@
       "skip_catalysts": false,
       "bse_announcements": [],
       "nse_announcements": [],
-      "news": [],
+      "news": [
+        {
+          "title": "Why Is IDFC First Bank Limited (IDFCFIRSTB.NS) Stock Down Today?",
+          "source": "Meyka",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBEaXZvLUtadUZRN2hHdldvTGpjNFJvTHlWdkZ1S013dFZmdlZwRHBoRGo3dGM0ekJBcUxCQmVuLTF5N0xteGE5b3Q1dEQ0aHprVFRSdDlCVkhscERlNXIzYmppUk9Sall0bVp3?oc=5",
+          "published_at": "2026-05-19T00:49:14+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBEaXZvLUtadUZRN2hHdldvTGpjNFJvTHlWdkZ1S013dFZmdlZwRHBoRGo3dGM0ekJBcUxCQmVuLTF5N0xteGE5b3Q1dEQ0aHprVFRSdDlCVkhscERlNXIzYmppUk9Sall0bVp3?oc=5\" target=\"_blank\">Why Is IDFC First Bank Limited (IDFCFIRSTB.NS) Stock Down Today?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Meyka</font>"
+        }
+      ],
       "events": [],
       "sebi_mentions": [],
       "price_action": {
@@ -468,7 +474,7 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "IDFC First Bank's stock price rose 0.33% with below-average volume, indicating a lack of significant catalysts or market interest. The stock's price action was muted, with no notable news or announcements. The bank's stock is likely to be driven by broader market trends in the absence of any major catalysts.",
+        "analysis": "IDFC First Bank Limited's stock price increased by 0.33% with below-average volume, indicating a lack of significant catalysts or price movement. The news article questioning the stock's decline appears to be outdated or incorrect, given the stock's slight gain. The day's price action was relatively muted.",
         "confidence": "medium",
         "flags": []
       }
@@ -533,7 +539,7 @@
       "analysis": {
         "classification": "move_without_catalyst",
         "primary_catalyst": null,
-        "analysis": "CGCL stock price fell 2.1% with a significant increase in volume, suggesting a possible leak or flow. The stock's intraday range was 3.49%, indicating high volatility. The lack of any notable announcements or news makes the move difficult to explain.",
+        "analysis": "CGCL stock price fell 2.1% with a significant increase in volume, indicating a possible leak or flow. The stock's intraday range was 3.49%, suggesting a notable shift in investor sentiment. This move without a clear catalyst warrants attention.",
         "confidence": "medium",
         "flags": [
           "POSSIBLE_LEAK_OR_FLOW"
@@ -781,7 +787,7 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "IREDA's stock price increased by 0.67% with below-average volume, indicating no significant catalyst or price move. The news article from NDTV Profit did not seem to have a material impact on the stock price. The stock's price action was relatively muted, with no notable events or announcements.",
+        "analysis": "IREDA's stock price rose 0.67% with below-average volume, indicating a lack of significant catalysts or market interest. The news article from NDTV Profit did not appear to have a material impact on the stock's price action. The stock's movement was relatively muted, suggesting a neutral market sentiment.",
         "confidence": "medium",
         "flags": []
       }
@@ -794,7 +800,15 @@
       "skip_catalysts": false,
       "bse_announcements": [],
       "nse_announcements": [],
-      "news": [],
+      "news": [
+        {
+          "title": "SWSOLAR share price target: Brokerage gives buy rating on Sterling and Wilson",
+          "source": "MSN",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbmJXR2hnZXJRN3ByLU5saUt6UEhHMlJJTjZrdzBfWVp2dGN6STNiT19zcjBhcGFnQlNoVVl2SjhrY2hWOFhtYXZqNndCUDA2OXltczZ5ZVB6YlAwdDdiMXUxay1RZEtlRnhhM1BFUlJMcC03NTU5c1NMaVJ3cHF6VTRpY3BFaXVhUmVtNmVDenVaT3RfSmFKSGVkUXdRVG85RTNaUlRaQVUzeV8wQjA5TmdUNkFybHBBaW9oV0ItVnJnSFBfMm40?oc=5",
+          "published_at": "2026-05-19T06:52:04+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNbmJXR2hnZXJRN3ByLU5saUt6UEhHMlJJTjZrdzBfWVp2dGN6STNiT19zcjBhcGFnQlNoVVl2SjhrY2hWOFhtYXZqNndCUDA2OXltczZ5ZVB6YlAwdDdiMXUxay1RZEtlRnhhM1BFUlJMcC03NTU5c1NMaVJ3cHF6VTRpY3BFaXVhUmVtNmVDenVaT3RfSmFKSGVkUXdRVG85RTNaUlRaQVUzeV8wQjA5TmdUNkFybHBBaW9oV0ItVnJnSFBfMm40?oc=5\" target=\"_blank\">SWSOLAR share price target: Brokerage gives buy rating on S"
+        }
+      ],
       "events": [],
       "sebi_mentions": [],
       "price_action": {
@@ -844,9 +858,9 @@
         ]
       },
       "analysis": {
-        "classification": "no_signal",
+        "classification": "move_without_catalyst",
         "primary_catalyst": null,
-        "analysis": "SWSOLAR traded with a 1.35% gain, but the move was not accompanied by any notable catalysts or elevated volume. The stock's price action was relatively muted, with a volume ratio of 0.26. The lack of any significant news or announcements suggests that the move may not be sustainable.",
+        "analysis": "SWSOLAR shares rose 1.35% despite lack of significant news or announcements, volume was lower than average. The move may be driven by market sentiment or other unreported factors. Brokerage buy rating may have contributed to the price increase.",
         "confidence": "low",
         "flags": []
       }
@@ -941,8 +955,8 @@
       },
       "analysis": {
         "classification": "catalyst_drove_move",
-        "primary_catalyst": "TARIL secures ₹175 Crore Order for Power Infrastructure",
-        "analysis": "Transformers and Rectifiers (India) Limited's stock price rose 1.69% following the announcement of a ₹175 Crore order for power infrastructure. The news, reported by multiple sources, likely drove the price action. The company's ability to secure large orders is a positive catalyst for the stock.",
+        "primary_catalyst": "TARIL secures ₹175 Cr order for power infrastructure",
+        "analysis": "Transformers and Rectifiers (India) Limited's stock price rose 1.69% after the company secured a ₹175 Cr order for power infrastructure. The news was widely reported across multiple sources, indicating a positive market reaction to the announcement. This development is likely to boost investor confidence in the company's growth prospects.",
         "confidence": "high",
         "flags": []
       }
@@ -1139,8 +1153,8 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "ITC's stock price remained largely unchanged with a minimal gain of 0.05%, despite announcements of acquiring additional stake in Mother Sparsh and a cigarette price hike. The lack of significant price movement suggests the market has already factored in these developments.",
-        "confidence": "medium",
+        "analysis": "ITC's stock price remained largely unchanged with a minimal gain of 0.05%, and volume ratio was near average at 1.03. No significant catalysts drove the price action.",
+        "confidence": "high",
         "flags": []
       }
     },
@@ -1279,7 +1293,7 @@
       "analysis": {
         "classification": "catalyst_drove_move",
         "primary_catalyst": "Acquisition of shares of Zuri Hotels and Resorts Private Limited",
-        "analysis": "ITC Hotels Limited's stock price rose 1.56% following the company's announcement of acquiring shares of Zuri Hotels and Resorts Private Limited. The acquisition is likely to expand the company's presence in the hospitality sector. The move is a positive development for the company's growth prospects.",
+        "analysis": "ITC Hotels Limited's stock price rose 1.56% following the company's announcement of acquiring shares of Zuri Hotels and Resorts Private Limited. This acquisition is likely to expand the company's presence in the hospitality sector. The stock's move is in line with the positive catalyst.",
         "confidence": "medium",
         "flags": []
       }
@@ -1293,13 +1307,6 @@
       "bse_announcements": [],
       "nse_announcements": [],
       "news": [
-        {
-          "title": "Why Is Lemon Tree Hotels Limited (LEMONTREE.BO) Stock Down Today?",
-          "source": "Meyka",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1MVV9rTEFyWG5pZVI5R3Fjd0pQSVZ5QjdUSGhiVFBFalk0Q3c2OHppbHhCeDl1R21qY0VfNE9VUDMxNFl2MlNvWng4WUtkcTBXdVotRkhWc0tUZlVEMVpzcVR2aGRtZnF4OHc?oc=5",
-          "published_at": "2026-05-19T08:13:20+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1MVV9rTEFyWG5pZVI5R3Fjd0pQSVZ5QjdUSGhiVFBFalk0Q3c2OHppbHhCeDl1R21qY0VfNE9VUDMxNFl2MlNvWng4WUtkcTBXdVotRkhWc0tUZlVEMVpzcVR2aGRtZnF4OHc?oc=5\" target=\"_blank\">Why Is Lemon Tree Hotels Limited (LEMONTREE.BO) Stock Down Today?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Meyka</font>"
-        },
         {
           "title": "Why Is Lemon Tree Hotels Limited (LEMONTREE.BO) Stock Up Today?",
           "source": "Meyka",
@@ -1359,8 +1366,8 @@
       "analysis": {
         "classification": "move_without_catalyst",
         "primary_catalyst": null,
-        "analysis": "Lemon Tree Hotels Limited stock rose 1.98% despite no significant catalysts, with volume ratio at 0.41, which is below average. The move may be driven by market sentiment rather than any specific news or event. The lack of a clear catalyst makes it difficult to predict the stock's future direction.",
-        "confidence": "medium",
+        "analysis": "Lemon Tree Hotels Limited stock rose 1.98% despite lack of significant news or announcements, with below-average volume. This move may be driven by market sentiment or other unreported factors. The stock's price increase may be a sign of underlying strength, but without a clear catalyst, it's difficult to determine the cause.",
+        "confidence": "low",
         "flags": []
       }
     },
@@ -1441,7 +1448,7 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Finolex Industries stock rose 1.38% on moderate volume, with no significant catalysts driving the move. The company announced a board meeting to consider Q4 and FY26 results, but this did not seem to impact the stock price. The lack of meaningful price action or volume suggests a neutral day for the stock.",
+        "analysis": "Finolex Industries stock price rose 1.38% with below-average volume, lacking a clear catalyst. The announcement of the board meeting to discuss Q4 and FY results did not significantly impact the stock. The market is likely waiting for the actual results on May 26.",
         "confidence": "medium",
         "flags": []
       }
@@ -1555,7 +1562,7 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "The stock price of GNG Electronics Limited declined by 1.67% with below-average volume, but no significant catalysts were found to explain the move. The SEBI mentions do not appear to be directly related to the company. The price action is not strong enough to indicate any meaningful trend.",
+        "analysis": "GNG Electronics Limited's stock price declined 1.67% with below-average volume, but no clear catalyst was found to explain the move. The stock's intraday range was 3.99%, but the volume ratio was only 0.24, indicating a lack of conviction. The SEBI mentions do not appear to be directly related to the company.",
         "confidence": "low",
         "flags": []
       }
