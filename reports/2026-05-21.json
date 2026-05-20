@@ -1,7 +1,7 @@
 {
   "report_date": "2026-05-21",
   "trading_day": "2026-05-20",
-  "generated_at": "2026-05-20T18:10:05.216880+05:30",
+  "generated_at": "2026-05-20T19:49:20.799991+05:30",
   "stocks": [
     {
       "symbol": "TMCV",
@@ -78,7 +78,7 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Tata Motors' stock price increased by 0.28% with below-average volume, indicating a lack of significant catalysts or price movement. The recent news about target price trimming did not seem to have a substantial impact. The company's financial results and dividend announcement are already priced in, given the event occurred on May 13, 2026.",
+        "analysis": "Tata Motors' stock price increased by 0.28% with below-average volume, lacking a clear catalyst. The recent news about a trimmed target price but still a 'buy' call had minimal impact. The stock's movement was relatively muted.",
         "confidence": "medium",
         "flags": []
       }
@@ -150,7 +150,7 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Tata Motors Passenger Vehicles Limited stock price remained largely unchanged with a minimal 0.01% gain, and volume was below average. The recent financial results announcement had no apparent impact on the stock price. The stock's intraday range was 2.46%, but it closed near the previous day's level.",
+        "analysis": "Tata Motors Passenger Vehicles Limited stock price remained largely unchanged with a minimal 0.01% increase, and volume was below average, indicating a lack of significant market activity. No recent catalysts appear to have driven the price action. The recent financial results announcement on May 14, 2026, seems to have been already factored into the stock price.",
         "confidence": "medium",
         "flags": []
       }
@@ -161,8 +161,27 @@
       "sector": "Banking",
       "notes": null,
       "skip_catalysts": false,
-      "bse_announcements": [],
-      "nse_announcements": [],
+      "bse_announcements": [
+        {
+          "headline": "Enclosed, please find the schedule of investor meet.  The Bank will be referring to publicly available documents for discussions during interaction in the meet.",
+          "category": "Company Update",
+          "subcategory": null,
+          "more_info": "",
+          "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/2faae042-8eeb-4e69-9a83-287106b8b8e6.pdf",
+          "attached_at": "2026-05-20T18:35:04",
+          "source": "BSE"
+        }
+      ],
+      "nse_announcements": [
+        {
+          "headline": "General Updates",
+          "category": "Banks",
+          "more_info": "ICICI Bank Limited has informed the Exchange about  Disclosure under Regulation 30 read with para  A of Schedule III and Regulation 46(2) of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations ,2015",
+          "pdf_url": "https://nsearchives.nseindia.com/corporate/ICICI2022_20052026184105_BSENSE.pdf",
+          "attached_at": "20-May-2026 18:43:24",
+          "source": "NSE"
+        }
+      ],
       "news": [],
       "events": [],
       "sebi_mentions": [
@@ -228,7 +247,7 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "ICICI Bank's stock price declined 0.28% with below-average volume, lacking a clear catalyst. The SEBI mentions are unrelated to the company. The price action is neutral, with no significant implications.",
+        "analysis": "ICICI Bank's stock price declined 0.28% with below-average volume, and no significant catalysts were reported. The investor meet schedule and general updates are not likely to have driven the price action. The stock's movement appears to be a minor correction.",
         "confidence": "medium",
         "flags": []
       }
@@ -293,8 +312,8 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "HDFC Life Insurance Company Limited's stock price declined by 0.87% with below-average volume, indicating a lack of significant catalysts or market interest. The stock's price action was muted, with no notable news or announcements. The decline may be a minor correction, but without a clear catalyst, it's difficult to discern a clear trend.",
-        "confidence": "low",
+        "analysis": "HDFC Life Insurance Company Limited's stock price declined 0.87% with below-average volume, indicating a lack of significant catalysts or market interest. The stock's intraday range was moderate at 1.42%. No notable announcements or news were reported. ",
+        "confidence": "medium",
         "flags": []
       }
     },
@@ -371,8 +390,8 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Bandhan Bank's stock price rose 0.49% with below-average volume, lacking a clear catalyst. The move was modest and volume was not elevated. No significant news or announcements drove the price action.",
-        "confidence": "medium",
+        "analysis": "Bandhan Bank's stock price rose 0.49% with below-average volume, lacking a clear catalyst. The move is not significant enough to warrant attention. No notable news or announcements drove the price action.",
+        "confidence": "high",
         "flags": []
       }
     },
@@ -436,8 +455,8 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "IDFC First Bank Limited's stock price rose 0.59% with below-average volume, indicating a lack of significant catalysts or market interest. The move was relatively muted, and no notable news or announcements were made. The stock's price action suggests a neutral trading day.",
-        "confidence": "medium",
+        "analysis": "IDFC First Bank Limited saw a modest 0.59% gain with below-average volume, lacking a clear catalyst to explain the move. The stock's price action was muted, with no significant news or announcements. The bank's shares may be due for a reevaluation in the absence of new information.",
+        "confidence": "low",
         "flags": []
       }
     },
@@ -558,8 +577,8 @@
       },
       "analysis": {
         "classification": "catalyst_drove_move",
-        "primary_catalyst": "Fitch Ratings and Moody's assign credit ratings to Capri Global Capital Limited",
-        "analysis": "Capri Global Capital Limited's stock rose 1.94% on above-average volume, driven by the announcement of credit ratings from Fitch Ratings and Moody's. The assigned ratings are likely to improve the company's credit profile and attract investors. The stock's move is a positive response to the catalyst.",
+        "primary_catalyst": "Provisional rating for USD 1 Billion GMTN Program and credit ratings assigned by Moody's and Fitch",
+        "analysis": "Capri Global Capital Limited's stock rose 1.94% with elevated volume, driven by the announcement of provisional ratings for its GMTN program and credit ratings assigned by Moody's and Fitch. The ratings are a positive catalyst for the company. The stock's move is in line with the positive news.",
         "confidence": "high",
         "flags": []
       }
@@ -632,7 +651,7 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Tata Power Company Limited's stock price declined 0.36% with below-average volume, lacking a clear catalyst to explain the move. The news article discussing the company's problems beyond weak profit may have had a minor impact, but it's not conclusive. The stock's price action was relatively muted.",
+        "analysis": "Tata Power's stock price declined 0.36% with below-average volume, lacking a clear catalyst to explain the move. The news article discussing the company's problems did not seem to have a significant impact. The stock's price action was muted, with no notable events or announcements.",
         "confidence": "medium",
         "flags": []
       }
@@ -738,8 +757,8 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Suzlon Energy's stock price declined 0.64% with below-average volume, lacking a clear catalyst to explain the move. The company is set to announce Q4 results on May 25, but no significant news or announcements drove the price action on this day. The market seems to be waiting for the earnings release.",
-        "confidence": "medium",
+        "analysis": "Suzlon Energy's stock price declined 0.64% with below-average volume, lacking a clear catalyst to explain the move. The company is set to announce Q4 results on May 25, which may be a future catalyst. The current price action does not provide a clear trading signal.",
+        "confidence": "low",
         "flags": []
       }
     },
@@ -803,8 +822,8 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "IREDA's stock price declined 0.78% with below-average volume, indicating a lack of significant catalysts or market interest. The stock's intraday range was moderate at 1.35%. No notable announcements or news were reported. ",
-        "confidence": "medium",
+        "analysis": "IREDA's stock price declined 0.78% with below-average volume, indicating a lack of significant catalysts or market interest. The stock's price action was muted, with no notable news or announcements. The decline may be a minor correction, but without a clear catalyst, it's difficult to discern a clear direction.",
+        "confidence": "low",
         "flags": []
       }
     },
@@ -948,7 +967,7 @@
       "analysis": {
         "classification": "catalyst_drove_move",
         "primary_catalyst": "TARIL wins 175cr Rajasthan order for GIS projects",
-        "analysis": "TARIL's stock rose 2.47% on the back of a significant order win from Bhanwariya Infra, indicating a positive development for the company. The order, valued at 175cr, is expected to be supplied by March 2028. This news likely drove the stock's price action for the day.",
+        "analysis": "TARIL's stock price rose 2.47% on the back of a significant order win from Bhanwariya Infra for supplying transformers. The order, valued at 175cr, is expected to be completed by March 2028. This development is a positive catalyst for the stock.",
         "confidence": "high",
         "flags": []
       }
@@ -1001,7 +1020,7 @@
           "title": "ITC Hotels: ICICI Direct keeps 'Buy' on valuation comfort, sees 45% upside",
           "source": "Business Standard",
           "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQUUhPSmxrWmszcEFuV0NMSFhINGd6Y0I1NHRNWmtmc0IxVjdmaVhYMDZiSExRejhqTmFXN1dlWjNNVnA4Qy1zbWdGRXhKRW8zQlJRMEd6d0NDRUFwamItVDFxcEl6QWx6cFJsMjM3d3N0VnlTTjZpb0tTM3N1WWhfUHg3c29mdHZJeWJiMHdsVzFhT0lNZF80S1QxZmhLRzhid3dPNVlCbDVQT19NR1hUR2VwSmo0Qnp1TkFkdkZ4NkxhYmo0emVIMFo0aVNuZ1l6R1lJMFU1MXUySHBlSWRxM0M3eHZKLVNWdWlaOXpjNXI3YVBIRUJMVVVUVzFEQlVkQjVwTl80QmJBOURzSDhMeTBR0gGXAkFVX3lxTE1UeVd1LUpHeUw0SkZ5Z0VVUFVzN29aTEpzSGxGVEF6MWc3UVZNckp2eGlheWFhSVpLMkVnUmFLTGk4Mm5GZ2FoaGloeUdRcXUxSjUtd0t2ODl6dWx4NDFfdVNXWDdtTUJWYVNHMFc4TEhQWUNLUldFTFZGTlhxdVlSOTdsaHZ1SDFRRnY2WVlEZzNqaGVQYm9oc0VscUsxaERTcUZXVFRWbGtFRWk5YUhVYkxtNGFZZkdRUnNXRmh6Uzk2bzFzalVHQW5hd1pINDdmTjNGZ2dQeDdEQU9Db2JYTE1KUjE2d0wzNTdhcWxKZlhXS0tpUXdPdlhaM05IT1RVVUVDYmxnSVVRNGpzbjFSdlV2SXNvSQ?oc=5",
-          "published_at": "2026-05-20T09:31:19+00:00",
+          "published_at": "2026-05-20T09:31:11+00:00",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxQUUhPSmxrWmszcEFuV0NMSFhINGd6Y0I1NHRNWmtmc0IxVjdmaVhYMDZiSExRejhqTmFXN1dlWjNNVnA4Qy1zbWdGRXhKRW8zQlJRMEd6d0NDRUFwamItVDFxcEl6QWx6cFJsMjM3d3N0VnlTTjZpb0tTM3N1WWhfUHg3c29mdHZJeWJiMHdsVzFhT0lNZF80S1QxZmhLRzhid3dPNVlCbDVQT19NR1hUR2VwSmo0Qnp1TkFkdkZ4NkxhYmo0emVIMFo0aVNuZ1l6R1lJMFU1MXUySHBlSWRxM0M3eHZKLVNWdWlaOXpjNXI3YVBIRUJMVVVUVzFEQlVkQjVwTl"
         },
         {
@@ -1126,7 +1145,7 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "ITC's stock price declined by 0.89% with below-average volume, indicating a lack of significant catalysts or market-moving news. The company's Q4 results are scheduled for May 21, which may influence the stock's price in the near term. No major news or announcements drove the price action on May 20.",
+        "analysis": "ITC's stock price declined 0.89% with below-average volume, and no significant catalysts were found to explain the move. The company's Q4 results are scheduled for May 21, which may impact the stock price in the near future. The recent news about ITC raising its stake in Mother Sparsh to 49.32% did not seem to have a significant impact on the stock price.",
         "confidence": "medium",
         "flags": []
       }
@@ -1247,7 +1266,7 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "ITCHOTELS stock price declined 1.49% with below-average volume, lacking a clear catalyst. The recent financial results announcement on May 15, 2026, may have been priced in already. No significant news or SEBI mentions were found to explain the price move.",
+        "analysis": "The stock price of ITC Hotels Limited declined by 1.49% with below-average volume, but no significant catalysts were found to explain the move. The recent financial results announcement on May 15, 2026, may have already been factored into the stock price. The stock's price action does not indicate any significant reaction to recent events.",
         "confidence": "medium",
         "flags": []
       }
@@ -1312,7 +1331,7 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Lemon Tree Hotels Limited traded in a narrow range with a minor gain, but the move was not significant enough to be considered meaningful. The stock's volume ratio was below average, indicating a lack of conviction among investors. The day's price action did not reveal any notable trends or catalysts.",
+        "analysis": "Lemon Tree Hotels Limited saw a minor 0.12% increase in price with below-average volume, indicating a lack of significant market activity. The stock's intraday range was 2.3%, but the overall move was not substantial. No notable catalysts were observed.",
         "confidence": "medium",
         "flags": []
       }
@@ -1323,8 +1342,27 @@
       "sector": "Plastics / Pipes",
       "notes": null,
       "skip_catalysts": false,
-      "bse_announcements": [],
-      "nse_announcements": [],
+      "bse_announcements": [
+        {
+          "headline": "Intimation of Conference Call to discuss Q4FY26 Financial Results",
+          "category": "Company Update",
+          "subcategory": null,
+          "more_info": "",
+          "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/73c15cca-74be-4175-aa0d-212d59114833.pdf",
+          "attached_at": "2026-05-20T19:33:40",
+          "source": "BSE"
+        }
+      ],
+      "nse_announcements": [
+        {
+          "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "category": "Plastic And Plastic Products",
+          "more_info": "Finolex Industries Limited has informed the Exchange about Intimation of Conference Call to discuss Q4FY26 Financial Results",
+          "pdf_url": "https://nsearchives.nseindia.com/corporate/FINPIPE2_20052026193214_Intimation_s.pdf",
+          "attached_at": "20-May-2026 19:32:56",
+          "source": "NSE"
+        }
+      ],
       "news": [],
       "events": [
         {
@@ -1384,7 +1422,7 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Finolex Industries Limited saw a modest 0.99% gain with below-average volume, lacking a clear catalyst. The stock's price action was muted despite an upcoming event to consider financial results and dividend. The market appears to be awaiting the actual results on May 26, 2026.",
+        "analysis": "Finolex Industries Limited saw a modest 0.99% gain with below-average volume, lacking a clear catalyst to drive the move. The company announced a conference call to discuss Q4FY26 financial results, but this did not seem to significantly impact the stock price. The upcoming financial results on May 26 may provide more direction.",
         "confidence": "medium",
         "flags": []
       }
@@ -1498,7 +1536,7 @@
       "analysis": {
         "classification": "move_without_catalyst",
         "primary_catalyst": null,
-        "analysis": "GNG Electronics Limited stock rose 2.06% with below-average volume, lacking a clear catalyst. The move may be driven by market sentiment or other unreported factors. Investors should monitor the stock for further developments.",
+        "analysis": "GNG Electronics Limited stock rose 2.06% despite no significant catalysts. The volume ratio was low at 0.36, indicating a lack of conviction in the move. This could be a sign of a potential reversal.",
         "confidence": "low",
         "flags": []
       }
