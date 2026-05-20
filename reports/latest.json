@@ -1,7 +1,7 @@
 {
   "report_date": "2026-05-21",
   "trading_day": "2026-05-20",
-  "generated_at": "2026-05-20T16:12:21.749179+05:30",
+  "generated_at": "2026-05-20T18:10:05.216880+05:30",
   "stocks": [
     {
       "symbol": "TMCV",
@@ -78,7 +78,7 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Tata Motors' stock price increased by 0.28% with below-average volume, lacking a clear catalyst. The recent news about target price trimming did not significantly impact the stock. The company's financial results announcement is already priced in, having occurred on May 13.",
+        "analysis": "Tata Motors' stock price increased by 0.28% with below-average volume, indicating a lack of significant catalysts or price movement. The recent news about target price trimming did not seem to have a substantial impact. The company's financial results and dividend announcement are already priced in, given the event occurred on May 13, 2026.",
         "confidence": "medium",
         "flags": []
       }
@@ -150,7 +150,7 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Tata Motors Passenger Vehicles Limited stock price remained largely unchanged with a minimal 0.01% increase, and volume ratio was below average at 0.92. No significant catalysts were reported on the day. The recent financial results announcement on May 14th seems to have been factored in already.",
+        "analysis": "Tata Motors Passenger Vehicles Limited stock price remained largely unchanged with a minimal 0.01% gain, and volume was below average. The recent financial results announcement had no apparent impact on the stock price. The stock's intraday range was 2.46%, but it closed near the previous day's level.",
         "confidence": "medium",
         "flags": []
       }
@@ -293,8 +293,8 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "HDFC Life Insurance Company Limited's stock price declined 0.87% with below-average volume, indicating a lack of significant catalysts or market interest. The stock's price action was muted, with no notable news or announcements. The decline may be a minor correction, but without a clear catalyst, it's difficult to determine the cause.",
-        "confidence": "medium",
+        "analysis": "HDFC Life Insurance Company Limited's stock price declined by 0.87% with below-average volume, indicating a lack of significant catalysts or market interest. The stock's price action was muted, with no notable news or announcements. The decline may be a minor correction, but without a clear catalyst, it's difficult to discern a clear trend.",
+        "confidence": "low",
         "flags": []
       }
     },
@@ -371,7 +371,7 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Bandhan Bank's stock price increased by 0.49% with below-average volume, indicating a lack of significant catalysts or market interest. The SEBI mentions are unrelated to the company's performance. The stock's price action suggests a neutral market sentiment.",
+        "analysis": "Bandhan Bank's stock price rose 0.49% with below-average volume, lacking a clear catalyst. The move was modest and volume was not elevated. No significant news or announcements drove the price action.",
         "confidence": "medium",
         "flags": []
       }
@@ -436,7 +436,7 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "IDFC First Bank Limited saw a modest 0.59% gain with below-average volume, lacking a clear catalyst. The stock's price action was muted, with no significant news or announcements. The day's move was not substantial enough to warrant attention.",
+        "analysis": "IDFC First Bank Limited's stock price rose 0.59% with below-average volume, indicating a lack of significant catalysts or market interest. The move was relatively muted, and no notable news or announcements were made. The stock's price action suggests a neutral trading day.",
         "confidence": "medium",
         "flags": []
       }
@@ -492,6 +492,13 @@
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcnVZSFlqNWFzN3VhZEtXZTM3UWppY0t0MkU4WkkyTlk4VHMyaXNuRmYweFFHSU85R1VfTzRNeGFEOXFYQXctZFZmaXpsYzUyYVZrdlp3cXZFS2pZWTZDOEpKU1lMUjM5bnFBT0hmVlp4TVFVN0NjZjhzV3dVUFF1MVIzR0M?oc=5",
           "published_at": "2026-05-20T02:15:58+00:00",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOcnVZSFlqNWFzN3VhZEtXZTM3UWppY0t0MkU4WkkyTlk4VHMyaXNuRmYweFFHSU85R1VfTzRNeGFEOXFYQXctZFZmaXpsYzUyYVZrdlp3cXZFS2pZWTZDOEpKU1lMUjM5bnFBT0hmVlp4TVFVN0NjZjhzV3dVUFF1MVIzR0M?oc=5\" target=\"_blank\">Color-coated steel prices: Tianjin (May 20, 2026 10:15)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mysteel</font>"
+        },
+        {
+          "title": "Capri Global Capital Limited Receives Provisional Rating for USD 1 Billion GMTN Program",
+          "source": "InvestyWise",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdGxhZDE5RTMxSXh3cU1GSkN4R1MxV1lxVU9BSnppdDVkVUJoNVU1SzNVN0pSaVFUelEycjV4RnJzUU4xLS1Uc01pVU5YOG1uRnY2bXNES1BhWjdHYjFyOU9WODZnaTBBLUtpeHl4aV9oOWhFS3dGM04zcU1kbDRqYWc3R2FudGhWSTRtUGZvakRIZ3BuQnJqSEQyN3k?oc=5",
+          "published_at": "2026-05-20T09:42:21+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNdGxhZDE5RTMxSXh3cU1GSkN4R1MxV1lxVU9BSnppdDVkVUJoNVU1SzNVN0pSaVFUelEycjV4RnJzUU4xLS1Uc01pVU5YOG1uRnY2bXNES1BhWjdHYjFyOU9WODZnaTBBLUtpeHl4aV9oOWhFS3dGM04zcU1kbDRqYWc3R2FudGhWSTRtUGZvakRIZ3BuQnJqSEQyN3k?oc=5\" target=\"_blank\">Capri Global Capital Limited Receives Provisional Rating for USD 1 Billion GMTN Program</a>&nbsp;&nbsp;<font color=\""
         },
         {
           "title": "Capri Global Capital Limited Fitch Ratings Assigns BB-/Stable Rating to GMTN Programme",
@@ -551,8 +558,8 @@
       },
       "analysis": {
         "classification": "catalyst_drove_move",
-        "primary_catalyst": "Fitch Ratings assigns BB-/Stable rating to GMTN Programme and Moody's Ratings assigns credit rating",
-        "analysis": "Capri Global Capital Limited's stock price rose 1.94% with a significant increase in volume, likely driven by the positive credit ratings assigned by Fitch Ratings and Moody's Ratings. The ratings upgrade indicates a stable outlook for the company, boosting investor confidence. This development may lead to increased investor interest in the stock.",
+        "primary_catalyst": "Fitch Ratings and Moody's assign credit ratings to Capri Global Capital Limited",
+        "analysis": "Capri Global Capital Limited's stock rose 1.94% on above-average volume, driven by the announcement of credit ratings from Fitch Ratings and Moody's. The assigned ratings are likely to improve the company's credit profile and attract investors. The stock's move is a positive response to the catalyst.",
         "confidence": "high",
         "flags": []
       }
@@ -625,7 +632,7 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Tata Power's stock price declined 0.36% with below-average volume, lacking a clear catalyst. The news article discussing the company's problems did not seem to have a significant impact. The stock's price action was muted, with no notable events or announcements.",
+        "analysis": "Tata Power Company Limited's stock price declined 0.36% with below-average volume, lacking a clear catalyst to explain the move. The news article discussing the company's problems beyond weak profit may have had a minor impact, but it's not conclusive. The stock's price action was relatively muted.",
         "confidence": "medium",
         "flags": []
       }
@@ -636,9 +643,35 @@
       "sector": "Renewable Energy",
       "notes": null,
       "skip_catalysts": false,
-      "bse_announcements": [],
-      "nse_announcements": [],
+      "bse_announcements": [
+        {
+          "headline": "Board Meeting - Q4 FY26 Earnings Conference Call",
+          "category": "Company Update",
+          "subcategory": null,
+          "more_info": "",
+          "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/2abd6863-f871-4215-8fa7-5ad36289468f.pdf",
+          "attached_at": "2026-05-20T16:55:14",
+          "source": "BSE"
+        }
+      ],
+      "nse_announcements": [
+        {
+          "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "category": "Electrical Equipment",
+          "more_info": "Suzlon Energy Limited has informed the Exchange about Schedule of meet",
+          "pdf_url": "https://nsearchives.nseindia.com/corporate/SUZLON1_20052026165040_Suzlon20052026.pdf",
+          "attached_at": "20-May-2026 16:51:15",
+          "source": "NSE"
+        }
+      ],
       "news": [
+        {
+          "title": "Suzlon Energy to announce Q4 results on this date! Check previews & targets price",
+          "source": "Business Today",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcUE5TmFZWGpHRWFycUh0a1VmLTY3dEVuNkd4aGhOYlZrX2hxN0swZksyTFhoeEdfQ3RhVkFmTWhwQnZwX2dYUlNxblZGdzJHd1p4V2ZxSmdPS2I1Y2Rrdk9veTMydUIzVHZEYldRdnZTMXd5U21WMGQ2emhIdlRPOHdDbzJPUWtZa2RvRnFrVy1HdDFfbV9ycllyVFZCdG5EaGh0cW1BY1R3MUwzRmxhLWEydGt5SldLMV8zdUowZWtxd1RQdEtHSHJLcjR5cXZKTk1hZ3lfb2ZkRVc0YWg40gHkAUFVX3lxTE45VmFiQXNfUDRvcWFkTFpHd3MtSHFyR1kxZmptUzJtdTRibGZvX2t5MFRmdHkwMEhESUtkN19IVXNaMUY0aDVuUDdJUlRSY2hKa3pHVTRjRl9nS1RVVzdHYnFaWG9BcVlvb2lkZmk0c0tva1lDOWNGeDhSbVIzUk5EaHJjdDZCZzFnby1pVGlJaXFmRkZFMl8zdk10Zmlwd19YM0FDdzVybzd2dkdjVURDLVVDMWF0YlYzTXY0d29sZElOVXJtWGtiU1dxTk40WlJtYUNFYXIxRzJyd2ZadGQtQ3BLQg?oc=5",
+          "published_at": "2026-05-20T10:53:32+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcUE5TmFZWGpHRWFycUh0a1VmLTY3dEVuNkd4aGhOYlZrX2hxN0swZksyTFhoeEdfQ3RhVkFmTWhwQnZwX2dYUlNxblZGdzJHd1p4V2ZxSmdPS2I1Y2Rrdk9veTMydUIzVHZEYldRdnZTMXd5U21WMGQ2emhIdlRPOHdDbzJPUWtZa2RvRnFrVy1HdDFfbV9ycllyVFZCdG5EaGh0cW1BY1R3MUwzRmxhLWEydGt5SldLMV8zdUowZWtxd1RQdEtHSHJLcjR5cXZKTk1hZ3lfb2ZkRVc0YWg40gHkAUFVX3lxTE45VmFiQXNfUDRvcWFkTFpHd3MtSHFyR1kxZm"
+        },
         {
           "title": "Suzlon Energy Ltd Sees Exceptional Volume Amid Mixed Price Signals",
           "source": "Markets Mojo",
@@ -705,7 +738,7 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Suzlon Energy's stock price declined 0.64% with below-average volume, indicating a lack of significant catalysts or market interest. The company is set to announce its financial results on May 25, which may influence the stock's future movement. No immediate action is warranted based on yesterday's price action.",
+        "analysis": "Suzlon Energy's stock price declined 0.64% with below-average volume, lacking a clear catalyst to explain the move. The company is set to announce Q4 results on May 25, but no significant news or announcements drove the price action on this day. The market seems to be waiting for the earnings release.",
         "confidence": "medium",
         "flags": []
       }
@@ -770,8 +803,8 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "IREDA's stock price declined 0.78% with below-average volume, indicating a lack of significant catalysts or market interest. The stock's price action was muted, with no notable news or announcements. The decline may be a minor correction, but without a clear catalyst, it's difficult to determine the direction of the stock.",
-        "confidence": "low",
+        "analysis": "IREDA's stock price declined 0.78% with below-average volume, indicating a lack of significant catalysts or market interest. The stock's intraday range was moderate at 1.35%. No notable announcements or news were reported. ",
+        "confidence": "medium",
         "flags": []
       }
     },
@@ -915,7 +948,7 @@
       "analysis": {
         "classification": "catalyst_drove_move",
         "primary_catalyst": "TARIL wins 175cr Rajasthan order for GIS projects",
-        "analysis": "TARIL's stock price rose 2.47% on the back of a significant order win from Bhanwariya Infra. The order, worth 175cr, is expected to be supplied by March 2028. This development is a positive catalyst for the stock.",
+        "analysis": "TARIL's stock rose 2.47% on the back of a significant order win from Bhanwariya Infra, indicating a positive development for the company. The order, valued at 175cr, is expected to be supplied by March 2028. This news likely drove the stock's price action for the day.",
         "confidence": "high",
         "flags": []
       }
@@ -930,13 +963,6 @@
       "nse_announcements": [],
       "news": [
         {
-          "title": "ITC Q4 Results: Date, Dividend News, Share Price History And Other Key Details",
-          "source": "NDTV Profit",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOHlmSjBqX21xU29UQkFobERXQmEwWTl0M0dnTkp0V2w2RWc0eUZVWkFwUW94UnBEdjBCaC1icDlhOXlmMk9Id2VmbVR2ZVFBdDMxLXM1ZXdCdlViR21jcDkzTUpaNmlZUE1oM0xuRHp2R2VxaFBxc0szdDQ5MzFEWGhfZ05OLTRNMFYzZF8wSXc2dUdQbHNlci12N1dhMFlfcUI5aXhLME9JOGd4Wk11SDVyZmxJaXdfY09z0gHDAUFVX3lxTE1aMV9SdlRXX2JrUjJXXzFMbjFnLXB1WVVNRFhuTExxMUxSd1B1LU9Bb2JlRFdlVDhJV1h6a0RyZVp0dWMtSm00d1Z3RkZ4cTgyU3NINUlkS0huSXpmb0ZhaWxBRDBoNktQT2JhYWk3dzIteXNTbVFOZy1MSEdNaXhkNXFsLTZPZzg3MjFhTmt5c0dwZ2JZR3BEUmJBVy1na0l5NjNieFdhd2xPb2NQdWlUbmh2aGNMSThSMHRsZVVxVGd1NA?oc=5",
-          "published_at": "2026-05-20T04:19:47+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOHlmSjBqX21xU29UQkFobERXQmEwWTl0M0dnTkp0V2w2RWc0eUZVWkFwUW94UnBEdjBCaC1icDlhOXlmMk9Id2VmbVR2ZVFBdDMxLXM1ZXdCdlViR21jcDkzTUpaNmlZUE1oM0xuRHp2R2VxaFBxc0szdDQ5MzFEWGhfZ05OLTRNMFYzZF8wSXc2dUdQbHNlci12N1dhMFlfcUI5aXhLME9JOGd4Wk11SDVyZmxJaXdfY09z0gHDAUFVX3lxTE1aMV9SdlRXX2JrUjJXXzFMbjFnLXB1WVVNRFhuTExxMUxSd1B1LU9Bb2JlRFdlVDhJV1h6a0RyZVp0dWMtSm"
-        },
-        {
           "title": "ITC Q4 preview: Will cigarette slowdown, tax hit weigh on earnings despite FMCG strength?",
           "source": "The Economic Times",
           "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQZjlMSjhYRFowT3gzMl9xODg5d19wTFFjSWhQNHN2clFqZ3RIN044aDIzbDdHdUhMaGVpZ3o0TXVodnN2dUVZSHhuSm5JYXhfVzdBeDd0VllYS190aV95YVdxWnVOWGppOXZzY2ZvYW9FdWJQd3l6aktfMWhjZk1ueXJvQ2t1UjZUMzFuRXU1TnFxOU0wQTQyV3hlNUhkOWVyU1dIakZuSlFIeHhpVW1wNzQzdHpDQzZmZHBiYzA3WjZJSjFyRTVlVml3cjZLeXlZeXkxb2x6MkRzaGg1WUR0Yk5FN3JfXzB5WmtHeG10ODJ1aGc2X0tN0gH8AUFVX3lxTE9jY0xwbVc0WjVzdDR5dzhUOG8xRjlYaHNOc1N3LTRadGNSc0luMi1DaU9WUFdnTmJHYm8zcGxjLUJ3TTc4RlRDV3pNU0V6QlJCNEVadURycTdmZVhxRXJKdG0yWU1iX195cFd2TVBHWmZWMjFTOEpKeGlnS3ZpYTNnaXNoNjR1ckZLaG8tSHlyNHEyQ3NFNzl6dHBLWEVZdlN5NFc4SHd4MndxV3l1YVFZcklubUhnUDJsMWQtSG0wdVo5VGVfdzVLbGFPZ0QwR3dScWxfdzNoOXRuam1aMF9xOVllVzVveUVXdWFDNG1RNDNJRXJqRVBXM3pXNQ?oc=5",
@@ -944,18 +970,18 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxQZjlMSjhYRFowT3gzMl9xODg5d19wTFFjSWhQNHN2clFqZ3RIN044aDIzbDdHdUhMaGVpZ3o0TXVodnN2dUVZSHhuSm5JYXhfVzdBeDd0VllYS190aV95YVdxWnVOWGppOXZzY2ZvYW9FdWJQd3l6aktfMWhjZk1ueXJvQ2t1UjZUMzFuRXU1TnFxOU0wQTQyV3hlNUhkOWVyU1dIakZuSlFIeHhpVW1wNzQzdHpDQzZmZHBiYzA3WjZJSjFyRTVlVml3cjZLeXlZeXkxb2x6MkRzaGg1WUR0Yk5FN3JfXzB5WmtHeG10ODJ1aGc2X0tN0gH8AUFVX3lxTE9jY0"
         },
         {
+          "title": "ITC Q4 Results: Date, Dividend News, Share Price History And Other Key Details",
+          "source": "NDTV Profit",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOHlmSjBqX21xU29UQkFobERXQmEwWTl0M0dnTkp0V2w2RWc0eUZVWkFwUW94UnBEdjBCaC1icDlhOXlmMk9Id2VmbVR2ZVFBdDMxLXM1ZXdCdlViR21jcDkzTUpaNmlZUE1oM0xuRHp2R2VxaFBxc0szdDQ5MzFEWGhfZ05OLTRNMFYzZF8wSXc2dUdQbHNlci12N1dhMFlfcUI5aXhLME9JOGd4Wk11SDVyZmxJaXdfY09z0gHDAUFVX3lxTE1aMV9SdlRXX2JrUjJXXzFMbjFnLXB1WVVNRFhuTExxMUxSd1B1LU9Bb2JlRFdlVDhJV1h6a0RyZVp0dWMtSm00d1Z3RkZ4cTgyU3NINUlkS0huSXpmb0ZhaWxBRDBoNktQT2JhYWk3dzIteXNTbVFOZy1MSEdNaXhkNXFsLTZPZzg3MjFhTmt5c0dwZ2JZR3BEUmJBVy1na0l5NjNieFdhd2xPb2NQdWlUbmh2aGNMSThSMHRsZVVxVGd1NA?oc=5",
+          "published_at": "2026-05-20T04:19:47+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOHlmSjBqX21xU29UQkFobERXQmEwWTl0M0dnTkp0V2w2RWc0eUZVWkFwUW94UnBEdjBCaC1icDlhOXlmMk9Id2VmbVR2ZVFBdDMxLXM1ZXdCdlViR21jcDkzTUpaNmlZUE1oM0xuRHp2R2VxaFBxc0szdDQ5MzFEWGhfZ05OLTRNMFYzZF8wSXc2dUdQbHNlci12N1dhMFlfcUI5aXhLME9JOGd4Wk11SDVyZmxJaXdfY09z0gHDAUFVX3lxTE1aMV9SdlRXX2JrUjJXXzFMbjFnLXB1WVVNRFhuTExxMUxSd1B1LU9Bb2JlRFdlVDhJV1h6a0RyZVp0dWMtSm"
+        },
+        {
           "title": "ITC Infotech, InsureMO partner on agentic AI insurance push",
           "source": "Life Insurance International",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPc0dZakxKZmFuUXVwcWZEaFlFU3pZMUx4azUyWmRDWGh0UUM4Y1hCc2pBS3FVMTloRTV0blRRd3F1aGk3QWhId3AxT0tOUXFOczlWT0hqdTJRSWNzOFFUeGpoajVUandNczltN2Q5dFZoSHhKTF9yX0tRR0Y2d2RuQmMzVWo1RWgyV0xGamxqdzd4VGc0dlE?oc=5",
           "published_at": "2026-05-20T08:39:44+00:00",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPc0dZakxKZmFuUXVwcWZEaFlFU3pZMUx4azUyWmRDWGh0UUM4Y1hCc2pBS3FVMTloRTV0blRRd3F1aGk3QWhId3AxT0tOUXFOczlWT0hqdTJRSWNzOFFUeGpoajVUandNczltN2Q5dFZoSHhKTF9yX0tRR0Y2d2RuQmMzVWo1RWgyV0xGamxqdzd4VGc0dlE?oc=5\" target=\"_blank\">ITC Infotech, InsureMO partner on agentic AI insurance push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Life Insurance Internationa"
-        },
-        {
-          "title": "ITC Hotels: ICICI Direct keeps 'Buy' on valuation comfort, sees 45% upside",
-          "source": "Business Standard",
-          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQUUhPSmxrWmszcEFuV0NMSFhINGd6Y0I1NHRNWmtmc0IxVjdmaVhYMDZiSExRejhqTmFXN1dlWjNNVnA4Qy1zbWdGRXhKRW8zQlJRMEd6d0NDRUFwamItVDFxcEl6QWx6cFJsMjM3d3N0VnlTTjZpb0tTM3N1WWhfUHg3c29mdHZJeWJiMHdsVzFhT0lNZF80S1QxZmhLRzhid3dPNVlCbDVQT19NR1hUR2VwSmo0Qnp1TkFkdkZ4NkxhYmo0emVIMFo0aVNuZ1l6R1lJMFU1MXUySHBlSWRxM0M3eHZKLVNWdWlaOXpjNXI3YVBIRUJMVVVUVzFEQlVkQjVwTl80QmJBOURzSDhMeTBR0gGXAkFVX3lxTE1UeVd1LUpHeUw0SkZ5Z0VVUFVzN29aTEpzSGxGVEF6MWc3UVZNckp2eGlheWFhSVpLMkVnUmFLTGk4Mm5GZ2FoaGloeUdRcXUxSjUtd0t2ODl6dWx4NDFfdVNXWDdtTUJWYVNHMFc4TEhQWUNLUldFTFZGTlhxdVlSOTdsaHZ1SDFRRnY2WVlEZzNqaGVQYm9oc0VscUsxaERTcUZXVFRWbGtFRWk5YUhVYkxtNGFZZkdRUnNXRmh6Uzk2bzFzalVHQW5hd1pINDdmTjNGZ2dQeDdEQU9Db2JYTE1KUjE2d0wzNTdhcWxKZlhXS0tpUXdPdlhaM05IT1RVVUVDYmxnSVVRNGpzbjFSdlV2SXNvSQ?oc=5",
-          "published_at": "2026-05-20T09:31:19+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxQUUhPSmxrWmszcEFuV0NMSFhINGd6Y0I1NHRNWmtmc0IxVjdmaVhYMDZiSExRejhqTmFXN1dlWjNNVnA4Qy1zbWdGRXhKRW8zQlJRMEd6d0NDRUFwamItVDFxcEl6QWx6cFJsMjM3d3N0VnlTTjZpb0tTM3N1WWhfUHg3c29mdHZJeWJiMHdsVzFhT0lNZF80S1QxZmhLRzhid3dPNVlCbDVQT19NR1hUR2VwSmo0Qnp1TkFkdkZ4NkxhYmo0emVIMFo0aVNuZ1l6R1lJMFU1MXUySHBlSWRxM0M3eHZKLVNWdWlaOXpjNXI3YVBIRUJMVVVUVzFEQlVkQjVwTl"
         },
         {
           "title": "P&H HC Holds ITC Blocking Without Reasoned Order Invalid Under GST Rule 86A",
@@ -970,6 +996,13 @@
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWmtvT2xIdms1X0ZWR0pfNUhBRWl2WEMxLUh4TFBDSUNwRmlsVkpucDhwU2RGM2RKUEgtQWtZdWNHaGNMRi11UzYyYmlaTHdETFhOa0ZsRkM4Q0RXbE9rTmFYUG1FcGRhQzlHeGVmYm1OazRMemRTMDg1TnFLNFlBWC1BNlU1U2xhQ0hkMXdxc2dNWWtackM1ZlQ5TXJ0SUlaVEZoWHRUNm5xeUdoSFVoWFRRZUxxc0RoNS11eTVCT2xVYUVGZC1EbDBR0gHKAUFVX3lxTE1aa29PbEh2azVfRlZHSl81SEFFaXZYQzEtSHhMUENJQ3BGaWxWSm5wOHBTZEYzZEpQSC1Ba1l1Y0doY0xGLXVTNjJiaVpMd0RMWE5rRmxGQzhDRFdsT2tOYVhQbUVwZGFDOUd4ZWZibU5rNEx6ZFMwODVOcUs0WUFYLUE2VTVTbGFDSGQxd3FzZ01Za1pyQzVmVDlNcnRJSVpURmhYdFQ2bnF5R2hIVWhYVFFlTHFzRGg1LXV5NUJPbFVhRUZkLURsMFE?oc=5",
           "published_at": "2026-05-20T07:22:29+00:00",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNWmtvT2xIdms1X0ZWR0pfNUhBRWl2WEMxLUh4TFBDSUNwRmlsVkpucDhwU2RGM2RKUEgtQWtZdWNHaGNMRi11UzYyYmlaTHdETFhOa0ZsRkM4Q0RXbE9rTmFYUG1FcGRhQzlHeGVmYm1OazRMemRTMDg1TnFLNFlBWC1BNlU1U2xhQ0hkMXdxc2dNWWtackM1ZlQ5TXJ0SUlaVEZoWHRUNm5xeUdoSFVoWFRRZUxxc0RoNS11eTVCT2xVYUVGZC1EbDBR0gHKAUFVX3lxTE1aa29PbEh2azVfRlZHSl81SEFFaXZYQzEtSHhMUENJQ3BGaWxWSm5wOHBTZEYzZE"
+        },
+        {
+          "title": "ITC Hotels: ICICI Direct keeps 'Buy' on valuation comfort, sees 45% upside",
+          "source": "Business Standard",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQUUhPSmxrWmszcEFuV0NMSFhINGd6Y0I1NHRNWmtmc0IxVjdmaVhYMDZiSExRejhqTmFXN1dlWjNNVnA4Qy1zbWdGRXhKRW8zQlJRMEd6d0NDRUFwamItVDFxcEl6QWx6cFJsMjM3d3N0VnlTTjZpb0tTM3N1WWhfUHg3c29mdHZJeWJiMHdsVzFhT0lNZF80S1QxZmhLRzhid3dPNVlCbDVQT19NR1hUR2VwSmo0Qnp1TkFkdkZ4NkxhYmo0emVIMFo0aVNuZ1l6R1lJMFU1MXUySHBlSWRxM0M3eHZKLVNWdWlaOXpjNXI3YVBIRUJMVVVUVzFEQlVkQjVwTl80QmJBOURzSDhMeTBR0gGXAkFVX3lxTE1UeVd1LUpHeUw0SkZ5Z0VVUFVzN29aTEpzSGxGVEF6MWc3UVZNckp2eGlheWFhSVpLMkVnUmFLTGk4Mm5GZ2FoaGloeUdRcXUxSjUtd0t2ODl6dWx4NDFfdVNXWDdtTUJWYVNHMFc4TEhQWUNLUldFTFZGTlhxdVlSOTdsaHZ1SDFRRnY2WVlEZzNqaGVQYm9oc0VscUsxaERTcUZXVFRWbGtFRWk5YUhVYkxtNGFZZkdRUnNXRmh6Uzk2bzFzalVHQW5hd1pINDdmTjNGZ2dQeDdEQU9Db2JYTE1KUjE2d0wzNTdhcWxKZlhXS0tpUXdPdlhaM05IT1RVVUVDYmxnSVVRNGpzbjFSdlV2SXNvSQ?oc=5",
+          "published_at": "2026-05-20T09:31:19+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxQUUhPSmxrWmszcEFuV0NMSFhINGd6Y0I1NHRNWmtmc0IxVjdmaVhYMDZiSExRejhqTmFXN1dlWjNNVnA4Qy1zbWdGRXhKRW8zQlJRMEd6d0NDRUFwamItVDFxcEl6QWx6cFJsMjM3d3N0VnlTTjZpb0tTM3N1WWhfUHg3c29mdHZJeWJiMHdsVzFhT0lNZF80S1QxZmhLRzhid3dPNVlCbDVQT19NR1hUR2VwSmo0Qnp1TkFkdkZ4NkxhYmo0emVIMFo0aVNuZ1l6R1lJMFU1MXUySHBlSWRxM0M3eHZKLVNWdWlaOXpjNXI3YVBIRUJMVVVUVzFEQlVkQjVwTl"
         },
         {
           "title": "Gujarat High Court Sustains Arrest in Alleged Fake ITC Racket Case",
@@ -1093,7 +1126,7 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "ITC's stock price declined 0.89% with below-average volume, and no significant catalysts were found to explain the move. The company is set to announce its Q4 results on May 21, which may impact the stock price in the coming days. The recent news about ITC raising its stake in Mother Sparsh to 49.32% did not seem to have a significant impact on the stock price.",
+        "analysis": "ITC's stock price declined by 0.89% with below-average volume, indicating a lack of significant catalysts or market-moving news. The company's Q4 results are scheduled for May 21, which may influence the stock's price in the near term. No major news or announcements drove the price action on May 20.",
         "confidence": "medium",
         "flags": []
       }
@@ -1214,7 +1247,7 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "The stock price of ITC Hotels Limited declined by 1.49% with below-average volume, but no significant catalysts were found to explain the move. The recent financial results announcement on May 15, 2026, may have already been factored into the price. The stock's price action appears to be driven by general market sentiment rather than any company-specific news.",
+        "analysis": "ITCHOTELS stock price declined 1.49% with below-average volume, lacking a clear catalyst. The recent financial results announcement on May 15, 2026, may have been priced in already. No significant news or SEBI mentions were found to explain the price move.",
         "confidence": "medium",
         "flags": []
       }
@@ -1279,8 +1312,8 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Lemon Tree Hotels Limited saw a minor uptick in price with a 0.12% gain, but the move was not significant enough to be driven by a catalyst. The stock's volume ratio was below average at 0.52. The day's price action was largely uneventful.",
-        "confidence": "high",
+        "analysis": "Lemon Tree Hotels Limited traded in a narrow range with a minor gain, but the move was not significant enough to be considered meaningful. The stock's volume ratio was below average, indicating a lack of conviction among investors. The day's price action did not reveal any notable trends or catalysts.",
+        "confidence": "medium",
         "flags": []
       }
     },
@@ -1351,7 +1384,7 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Finolex Industries Limited saw a modest 0.99% gain with below-average volume, lacking a clear catalyst. The stock's price action was muted despite an upcoming event to consider financial results and dividend. The market seems to be awaiting the actual results on May 26, 2026.",
+        "analysis": "Finolex Industries Limited saw a modest 0.99% gain with below-average volume, lacking a clear catalyst. The stock's price action was muted despite an upcoming event to consider financial results and dividend. The market appears to be awaiting the actual results on May 26, 2026.",
         "confidence": "medium",
         "flags": []
       }
