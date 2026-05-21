@@ -1,7 +1,7 @@
 {
   "report_date": "2026-05-22",
   "trading_day": "2026-05-21",
-  "generated_at": "2026-05-21T19:51:58.055017+05:30",
+  "generated_at": "2026-05-21T21:54:58.842982+05:30",
   "stocks": [
     {
       "symbol": "TMCV",
@@ -71,7 +71,7 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Tata Motors' stock price remained largely unchanged, with a minimal 0.05% increase, despite a news article discussing the company's soft earnings. The volume ratio was below average, indicating a lack of significant market interest. The stock's price action suggests a neutral sentiment from investors.",
+        "analysis": "Tata Motors' stock price remained largely unchanged with a 0.05% increase, despite a gap up of 1.84%. The lack of significant price movement and no notable catalysts suggest a neutral day for the stock. Trading volume was below the 20-day average, indicating a lack of conviction among investors.",
         "confidence": "medium",
         "flags": []
       }
@@ -144,7 +144,7 @@
         "classification": "no_signal",
         "primary_catalyst": null,
         "analysis": "Tata Motors Passenger Vehicles Limited stock price remained largely unchanged with a minimal gain of 0.03%. The trading volume was in line with the 20-day average, indicating no unusual activity. The recent financial results announcement had no significant impact on the stock price.",
-        "confidence": "high",
+        "confidence": "medium",
         "flags": []
       }
     },
@@ -240,7 +240,7 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "ICICI Bank's stock price rose 0.44% with below-average volume, lacking a significant catalyst. The allotment of equity shares under the employee stock unit scheme had a minimal impact. The stock's movement was largely neutral.",
+        "analysis": "ICICI Bank's stock price rose 0.44% with below-average volume, lacking a clear catalyst. The allotment of equity shares under the employee stock unit scheme had a minimal impact. The stock's movement was largely neutral.",
         "confidence": "medium",
         "flags": []
       }
@@ -305,8 +305,8 @@
       "analysis": {
         "classification": "move_without_catalyst",
         "primary_catalyst": null,
-        "analysis": "HDFC Life Insurance Company Limited saw a 1.53% increase in price with below-average volume, lacking a clear catalyst. The move may be a sign of underlying strength, but the lack of a catalyst and low volume ratio raises questions. Further monitoring is required to understand the trend.",
-        "confidence": "low",
+        "analysis": "HDFC Life Insurance Company Limited saw a 1.53% increase in price with below-average volume, indicating a lack of clear catalysts driving the move. The stock may be due for a reversion or further movement based on upcoming events. Investors should monitor the stock closely for potential future developments.",
+        "confidence": "medium",
         "flags": []
       }
     },
@@ -383,7 +383,7 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Bandhan Bank's stock price declined 0.56% with below-average volume, lacking a clear catalyst. The move is not significant enough to draw conclusions. No notable news or announcements drove the price action.",
+        "analysis": "Bandhan Bank's stock price declined 0.56% with below-average volume, indicating a lack of significant catalysts or market interest. The SEBI mentions are unrelated to the company's performance. The stock's price action suggests a neutral trading day.",
         "confidence": "medium",
         "flags": []
       }
@@ -448,7 +448,7 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "IDFC First Bank's stock price saw a minor increase of 0.13% with below-average volume, indicating a lack of significant market activity. No notable catalysts were observed. The stock's price movement was relatively muted.",
+        "analysis": "IDFC First Bank's stock price saw a minor increase of 0.13% with below-average volume, indicating a lack of significant market movement. No notable catalysts were observed. The stock's price action was relatively muted.",
         "confidence": "high",
         "flags": []
       }
@@ -658,7 +658,7 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Suzlon Energy Limited saw a minor price increase of 0.57% with below-average volume, indicating no significant catalyst-driven move. The company is set to announce its financial results on May 25, 2026. The stock's price action was largely muted despite a news article mentioning an exceptional volume surge, which did not materialize.",
+        "analysis": "Suzlon Energy Limited saw a minor price increase of 0.57% with below-average volume, indicating no significant catalyst-driven move. The upcoming financial results on May 25, 2026, may be a potential catalyst in the future. The stock's price action was largely muted.",
         "confidence": "medium",
         "flags": []
       }
@@ -723,7 +723,7 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "IREDA's stock price rose 0.87% with below-average volume, lacking a clear catalyst. The move was modest and did not exhibit unusual trading activity. The stock's price action does not suggest a significant reaction to any news or events.",
+        "analysis": "IREDA's stock price rose 0.87% with below-average volume, indicating a lack of significant catalysts or market interest. The move was relatively muted, and no notable news or announcements were made. The stock's price action suggests a neutral tone.",
         "confidence": "medium",
         "flags": []
       }
@@ -788,7 +788,7 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "SWSOLAR traded in a narrow range with a small gain, but the move was not significant enough to be driven by a catalyst. The stock's volume was below average, indicating a lack of conviction. The gap up at the open was not sustained, and the stock closed near its open.",
+        "analysis": "SWSOLAR traded in a narrow range with a small gain, but the move was not significant enough to be considered meaningful. Volume was below average, indicating a lack of conviction. The stock's price action suggests a neutral tone.",
         "confidence": "medium",
         "flags": []
       }
@@ -853,7 +853,7 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "TARIL stock price rose 0.41% with below-average volume, indicating a lack of significant catalysts or market interest. The stock gapped up 1.72% but failed to sustain gains. No notable announcements or news were reported.",
+        "analysis": "Transformers and Rectifiers (India) Limited saw a modest gain of 0.41% with below-average volume, lacking a clear catalyst. The stock's price action was muted despite a gap up. The day's trading does not offer significant insights.",
         "confidence": "medium",
         "flags": []
       }
@@ -1006,11 +1006,11 @@
       ],
       "news": [
         {
-          "title": "ITC Q4 Results: Profit rises 5% YoY to Rs 5,113 crore; Rs 8/share dividend declared",
-          "source": "The Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQUjljMFdNejRlczdxeWdWTTQ5RHF3SWNpUVc0RU1mQzU0WjUyZlduNkFNSHZSS2psNDk1QXg4YXk2cXZNUDhZT2ppX1JjSEg4d3NSamZiMnJaYl93YnE0dVM4Qm1MaFc5X21CenIwS01IMDI4NmtLZVBLS3hVNWozOWtZVzAzS2MxVGxwM0x4ZzVCVGlIeTh3SjlrR3RIVlJjU3pjLTdmT1hTLThxaG9lQjZNWjAyeXFVeDAtcDN1Z2dsTDRpNXRtS3VqM0FyNnNFMDRMUkFZSEwxT25oLTNhYWF2VDQ2UjBaVDBBQ1Bn0gHzAUFVX3lxTE9xYlVLYlpRZkVNYVJYdEo1V2dMRVhpM2w5NmVyNEw0M2xxaVJEQlFaS2RVVkdHNktiUm5vb21qRDZJSWl3RVpCc1o1RlQxYVVUOG0zcUFqRlNMUVBtdHU5RFhCdWlEZDdfdThnSHBuVDhfLTRmbVlHUGlQeXJCelk2c204U1YyeEVRSFJNY2JkN1ZpM3pUZ1J4a1VMZGdpSUlLMzRRU1owZGdxRDN0bnJGeEkxMlFnTHhlam4xQnlmSDFPekdOa1ByUThwLUFudnYtbzBBSE5PTkNZQ0FIOXZXUElEOFFrUzlUbDNLQVVDTGFFTQ?oc=5",
-          "published_at": "2026-05-21T10:04:15+00:00",
-          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxQUjljMFdNejRlczdxeWdWTTQ5RHF3SWNpUVc0RU1mQzU0WjUyZlduNkFNSHZSS2psNDk1QXg4YXk2cXZNUDhZT2ppX1JjSEg4d3NSamZiMnJaYl93YnE0dVM4Qm1MaFc5X21CenIwS01IMDI4NmtLZVBLS3hVNWozOWtZVzAzS2MxVGxwM0x4ZzVCVGlIeTh3SjlrR3RIVlJjU3pjLTdmT1hTLThxaG9lQjZNWjAyeXFVeDAtcDN1Z2dsTDRpNXRtS3VqM0FyNnNFMDRMUkFZSEwxT25oLTNhYWF2VDQ2UjBaVDBBQ1Bn0gHzAUFVX3lxTE9xYlVLYl"
+          "title": "ITC Q4 net profit beats estimates; revenue falls 7%, declares ₹8 dividend",
+          "source": "CNBC TV18",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZGEyOGtNWEk3SHJic0FBM3hEcjBWLVpxOFFueEIzUkNCcjh0V21hUTZ5alN3TmJzM1pEd085bGViX1FRSURqSjFJc2lwYWg1QkIzR3ZvS1otamhpSl9VTUhXOEswbko2MUMtWHQ0Yi1QY3U3cU41ckN5SUl4UHhwc1d2RS1MdVQtMHRIZkotRGsycXhudmttTHVaUU9zWE9Kb2F0bEROWjNna05FN29BVnAzOFFYSVpLRHB4eEkwQ3pwN0MwSVB2dzhoR2VIZG1zZjdEdXhxR2LSAd4BQVVfeXFMTllEcXV1cy0yLXREZklLVHRKU0xkTmdSQmZhM3owaWgyMTZRcWdZcV9IUWJ2QkRFTV9vZnJkOHJnSTgwR0xBWllTM0hESmpDcV9fa2hFNkx5SDFGSFVaWW9UOFphbDltNC1HUTB0Zm51NE9RQXhqY1FBUEl1dmQxOG8xQ2w3SWRuNmdXMkJWQXE0RVVXLWx1Ml9jYkJOQUFIOGx0c3JSaTBoN0FQWUdoRTNQY0RWWTVmMVRlTDctQTZJS3hOdHJmTWdVNFFDSjd4LVZnQ1ZLRXlFekZxSWZ3?oc=5",
+          "published_at": "2026-05-21T10:32:13+00:00",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZGEyOGtNWEk3SHJic0FBM3hEcjBWLVpxOFFueEIzUkNCcjh0V21hUTZ5alN3TmJzM1pEd085bGViX1FRSURqSjFJc2lwYWg1QkIzR3ZvS1otamhpSl9VTUhXOEswbko2MUMtWHQ0Yi1QY3U3cU41ckN5SUl4UHhwc1d2RS1MdVQtMHRIZkotRGsycXhudmttTHVaUU9zWE9Kb2F0bEROWjNna05FN29BVnAzOFFYSVpLRHB4eEkwQ3pwN0MwSVB2dzhoR2VIZG1zZjdEdXhxR2LSAd4BQVVfeXFMTllEcXV1cy0yLXREZklLVHRKU0xkTmdSQmZhM3"
         },
         {
           "title": "Stocks to Watch for May 22: LIC, ITC, Max Health, Nykaa, Tata Steel and more",
@@ -1020,10 +1020,17 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUngybW4zWThoMnVha1VKZDJvc2F3b1dYWXpVRXpDVnd4eVdPRW8zMHVaOWpjVy1rN2RuMFNHd3AtcWZnLVU2aHpSenk2eTY4dkNiLWtSUTFJZUloT2NyVDhiOURyVWZqdGNheWJPaDVza0JmbmhnNzBBQVJDejNHRExKVVEwY25samdOWFBjUmswODFWWU0zYmJBUWs0aHJBTHZROGZvcU1fb1UwY3J0UFFsVjg2ZFVNQ0xSWTE5cDDSAcYBQVVfeXFMUHJOM0hDVTA1bGtkTjl4WkZpRUlHN2lMam9McWhTU1h3SEp6NklyejdlM0NZLXdnR1E0eFFkZWQxMV"
         },
         {
+          "title": "ITC announces final dividend of Rs 8/share. Check record date and other details",
+          "source": "The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNjlXTnprbGdSTElOa0xVVDVJV280VE5oN3JHYm0yRk5sNW5ETFBpbUhDVzJSWFhqOEZ6RFQ0M083WTd5dTJnMURrRFRlTmhoa3gzd3ZTUTVFVW82RlIxeWdoWURLLWFhYXdYQmxWeTJLLTcyQWZJbHAwMkc1c0p4S0QyNERvOGF2czBna1VvYUR1cWdOb0gzMUM4YkpSQWU5VXpPTHZaS2NCR3lhZ2E3T1dMdlRwYkJndTVGZ3pRQWZxc0lkX1c2cjNkSVIwb3BDN1JncDVfRllwclBxOTZOamw3MWRPb2vSAewBQVVfeXFMUDFfNU5kWnJDUnJiYWZIRmp4YWF4MFVXN1l3aTlvVDlraFd2YW52Ny1sNnZpUmJQSmszT3FKUzZNWDBYY3ZwUGdmdU9kbGZEOXY3cmE3V0JkeC1zRi1qZHdXdFFfRkhPbE1oVUtVd2gzZ21MSnZDbFdwN2VZcmhkUUVyejBSTzB5cFYtWk1oSnFXVkJSMTBLa2xsTFp5eG9fVWZEcmdYdHl5a3JPbTdUcjRNTUNwLUl0cWtLeklNd1c2QU1zbFZ5QjRNaUJDU1ZCMXFEWjBLWnZULUgwYVJZY0lGdnRaNW5kcUR6RzQ?oc=5",
+          "published_at": "2026-05-21T12:12:02+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNjlXTnprbGdSTElOa0xVVDVJV280VE5oN3JHYm0yRk5sNW5ETFBpbUhDVzJSWFhqOEZ6RFQ0M083WTd5dTJnMURrRFRlTmhoa3gzd3ZTUTVFVW82RlIxeWdoWURLLWFhYXdYQmxWeTJLLTcyQWZJbHAwMkc1c0p4S0QyNERvOGF2czBna1VvYUR1cWdOb0gzMUM4YkpSQWU5VXpPTHZaS2NCR3lhZ2E3T1dMdlRwYkJndTVGZ3pRQWZxc0lkX1c2cjNkSVIwb3BDN1JncDVfRllwclBxOTZOamw3MWRPb2vSAewBQVVfeXFMUDFfNU5kWnJDUnJiYWZIRmp4YW"
+        },
+        {
           "title": "ITC Q4 Result: Net profit drops 74% YoY to ₹5,113 crore; board recommends final dividend of ₹8 per share for FY26",
           "source": "Upstox",
           "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPUUJKZC1jNDRrTTcwWnI4Y1VmR3VtOWpLV3hNSVVhTG95bUEwYjd6WHB2MGRQNkp1eDk5V0IxeGFlN0JWSE05MU92c0phQ1kxSEFxaUxEbGg5WVZ6aWRadlF2MnhuaTg2VlNJeDVsZUJsT2hjMWJjY21oZGVkSWZUVkhjU3BvYUR2MnJkUHJjaFRQblVXX1NSMnByTjc1YjN5YmZubTZQSXVoR0J1Um05bjYtMzdkaUp0VXpOajMzbDhtcW9PdlpXdnNnZ21WeU9sV0hHYl9DbXdLVWN0RFV6dVl6T0RhUGpUUW54TUt6RWxDOU5Ba2xFNjM3WmtDX1lw?oc=5",
-          "published_at": "2026-05-21T10:13:36+00:00",
+          "published_at": "2026-05-21T10:20:47+00:00",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxPUUJKZC1jNDRrTTcwWnI4Y1VmR3VtOWpLV3hNSVVhTG95bUEwYjd6WHB2MGRQNkp1eDk5V0IxeGFlN0JWSE05MU92c0phQ1kxSEFxaUxEbGg5WVZ6aWRadlF2MnhuaTg2VlNJeDVsZUJsT2hjMWJjY21oZGVkSWZUVkhjU3BvYUR2MnJkUHJjaFRQblVXX1NSMnByTjc1YjN5YmZubTZQSXVoR0J1Um05bjYtMzdkaUp0VXpOajMzbDhtcW9PdlpXdnNnZ21WeU9sV0hHYl9DbXdLVWN0RFV6dVl6T0RhUGpUUW54TUt6RWxDOU5Ba2xFNjM3WmtDX1lw?oc=5\""
         },
         {
@@ -1048,13 +1055,6 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTW9zR1RBaFIzMnhNYzhjT2l0Q3ZGRXJlaGNSRUZIRHBjUW8wQThyYkt2THZFcDJjd0FaQjlULWNWUUtDNjJmTUV1RmJCbkQzdnBCVFRBdFVjSTQwMnBQYWJVM2dUZmFMbTBnWXpsZTYyXzhWWm53Z3hNY0JLQlBhbGktSUhRTkJPV2R6VWFXQWJtUVoxZWNuMG51REdrZ05FTUg5bmlfZ1EzTG91Z25FOXpYWkpqQUFBcXRSR0ZoMVU?oc=5\" target=\"_blank\">India's ITC posts profit uptick on tax-led price hikes, Middle East "
         },
         {
-          "title": "ITC Q4 FY26 result: Profit rises 2% to ₹6,692 crore; revenue up 17%",
-          "source": "Business Standard",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQd3NCT1dTR2VObGt2TkFTRlBGeUU2Zi0zN2R1bEdFbEdyblg5bDVLdW1Sd1M4eGwtRlRoeFlsTVN2M2prRFBXVUpxNFNwUUlmQl95UkwweUxLTHVJN0F1MlUySnJ4eHg2cmNrTkg5VnRfQ0hZb1VjNXA5TG02RzBoMW1MckhVTmhMZGhhSHhDeEZmUjJOamJTenR0LUZhbzItTW83N2ZuUkpmMlV5SEd6RTViOHc5cVoyWm5XaHdfaXRmNlMyQ2p6TnZQVy0wcXlzRGFwYmVGNl9lRzgyYnBMZlk2UU4zQdIB6wFBVV95cUxOZXYyS18yUTVUSFdBNmtSS3B0YnA4ZHY2bE81THpIQ1dsSVRpR1pYeWlsUkZKY2RNNGItQUdNa0lxaXN0aEFGT0tXZ2VKMXBEZzRmN1B4NXZDNVViekFUdGtWUFhhUlR2ZHJVU3lRQ3BEb3FzU2xOcjFLSEdqR3kyWGlaQi1MS2Y4UTlGWUd3Um8wSzlKX3paQnBtWlFTWEF0Qk81RTJ4V19fVmEwNDdaRVFjN2dieVZXSlNIX1VjQlg5RlNHYVhmVTFSUEdQV0R5QnN1Zlg2WDVyWEhCV192ZnZONG0zbEtzaWhZ?oc=5",
-          "published_at": "2026-05-21T11:58:48+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQd3NCT1dTR2VObGt2TkFTRlBGeUU2Zi0zN2R1bEdFbEdyblg5bDVLdW1Sd1M4eGwtRlRoeFlsTVN2M2prRFBXVUpxNFNwUUlmQl95UkwweUxLTHVJN0F1MlUySnJ4eHg2cmNrTkg5VnRfQ0hZb1VjNXA5TG02RzBoMW1MckhVTmhMZGhhSHhDeEZmUjJOamJTenR0LUZhbzItTW83N2ZuUkpmMlV5SEd6RTViOHc5cVoyWm5XaHdfaXRmNlMyQ2p6TnZQVy0wcXlzRGFwYmVGNl9lRzgyYnBMZlk2UU4zQdIB6wFBVV95cUxOZXYyS18yUTVUSFdBNmtSS3B0Yn"
-        },
-        {
           "title": "ITC posts 5% rise in standalone profit as cigarette taxes, West Asia disruptions weigh on quarterly performance",
           "source": "Fortune India",
           "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNbGNzNE1icjItbE43em1jbEU4di1xRlFkbmhSRVNjTi1tOUZwTEFLV3QzN0tRaWJTRVV2a3h0cF9Jal9wc3JuNHhRd2lsd3hGNWdjUkM1VVAxX0hpeVNLRnREQWxQSzNaZmUtZmlHVEZtUU1scF95OF95MkJHaEtqN25qclhLT3c0MVp2R1psS0ZjWWZNVU1iekMxbEVaNkNEZ2JWelNWNzhieEZSQlVWUjgxM0lueC1neFhsZHFtcGl1MVNEUWtGSVBGMXdoUW40R21wSkp6RXdwMVM5ZUtRZ3RkOU1uMFAySXdPcFliSGHSAf4BQVVfeXFMTzdJWUdmUHhyb3RsVFRBcXp5aXpxQjBHUkJ5eFJON1ZBSzZ6TWJhNVRrOEZYbkxTX09Fb0FrWlZ6RzV4SnVYanBUWk5UR1k1VXpJdEdUZFpuWUtqRlkxeXRGZW01UmlZdUI3dnpNRklmV3hMclhSaHRWb0sxT0ptN21HNUNfcHF1TTFNZGtxbDUteW9EcTkweEpIcXZrWE51TVQzWTJIUl8wYlpmcmJkeHA1MUhvYTI1MzloQU5XbVB0TThGb1IwOGlqdHNEbjdQdkpmY1Bndm5abWZuQWItN0FIRFU4X1gwd1daR3pjWDcyUDZ5bUliUWMwOFJiZkE?oc=5",
@@ -1071,6 +1071,12 @@
         }
       ],
       "sebi_mentions": [
+        {
+          "title": "Release Order – Fancos Trademart Private Ltd. [Defaulter] PAN: AACCF8546P in the matter of Trading by certain entities in Mentha Oil futures contracts at Multi Commodity Exchange of India Limited: Certificate No. 7210 of 2023.",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/may-2026/release-order-fancos-trademart-private-ltd-defaulter-pan-aaccf8546p-in-the-matter-of-trading-by-certain-entities-in-mentha-oil-futures-contracts-at-multi-commodity-exchange-of-india-limited-cer-_101557.html",
+          "published_at": "21 May, 2026 +0530",
+          "summary": "Release Order – Fancos Trademart Private Ltd. [Defaulter] PAN: AACCF8546P in the matter of Trading by certain entities in Mentha Oil futures contracts at Multi Commodity Exchange of India Limited: Certificate No. 7210 of 2023."
+        },
         {
           "title": "Adjudication Order in the matter of Shubhlaxmi Jewel Art Limited",
           "url": "https://www.sebi.gov.in/enforcement/orders/may-2026/adjudication-order-in-the-matter-of-shubhlaxmi-jewel-art-limited_101552.html",
@@ -1179,10 +1185,10 @@
         ]
       },
       "analysis": {
-        "classification": "catalyst_drove_move",
-        "primary_catalyst": "ITC Q4 Results: Profit rises 5% YoY to Rs 5,113 crore; Rs 8/share dividend declared",
-        "analysis": "ITC's Q4 results showed a 5% YoY increase in profit, driven by tax-led price hikes, and the company declared a final dividend of Rs 8 per share. The stock price rose 0.16% on the day, likely driven by the positive earnings report and dividend announcement.",
-        "confidence": "high",
+        "classification": "catalyst_without_move",
+        "primary_catalyst": "ITC Q4 Results: Net profit drops 74% YoY to ₹5,113 crore; board recommends final dividend of ₹8 per share for FY26",
+        "analysis": "ITC's Q4 results showed a 74% YoY drop in net profit, but the company recommended a final dividend of ₹8 per share. The stock price, however, did not react significantly to this news. This could be a lag opportunity for investors to react to the results and dividend announcement.",
+        "confidence": "medium",
         "flags": []
       }
     },
@@ -1204,6 +1210,12 @@
         }
       ],
       "sebi_mentions": [
+        {
+          "title": "Release Order – Fancos Trademart Private Ltd. [Defaulter] PAN: AACCF8546P in the matter of Trading by certain entities in Mentha Oil futures contracts at Multi Commodity Exchange of India Limited: Certificate No. 7210 of 2023.",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/may-2026/release-order-fancos-trademart-private-ltd-defaulter-pan-aaccf8546p-in-the-matter-of-trading-by-certain-entities-in-mentha-oil-futures-contracts-at-multi-commodity-exchange-of-india-limited-cer-_101557.html",
+          "published_at": "21 May, 2026 +0530",
+          "summary": "Release Order – Fancos Trademart Private Ltd. [Defaulter] PAN: AACCF8546P in the matter of Trading by certain entities in Mentha Oil futures contracts at Multi Commodity Exchange of India Limited: Certificate No. 7210 of 2023."
+        },
         {
           "title": "Adjudication Order in the matter of Shubhlaxmi Jewel Art Limited",
           "url": "https://www.sebi.gov.in/enforcement/orders/may-2026/adjudication-order-in-the-matter-of-shubhlaxmi-jewel-art-limited_101552.html",
@@ -1314,7 +1326,7 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "ITC Hotels stock price rose 0.64% with below-average volume, lacking a clear catalyst. The recent financial results announcement on May 15 may have been priced in already. The stock's muted reaction suggests a lack of new information driving the price action.",
+        "analysis": "The stock price of ITC Hotels Limited rose 0.64% with below-average volume, indicating a lack of significant catalysts or market interest. The recent financial results announcement on May 15, 2026, may have been priced in already. The stock's movement was relatively muted, suggesting no new information drove the price action.",
         "confidence": "medium",
         "flags": []
       }
@@ -1379,8 +1391,8 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Lemon Tree Hotels Limited saw a modest 0.8% gain with below-average volume, lacking a clear catalyst. The move was not significant enough to warrant attention. The stock's price action was muted, with no notable news or announcements.",
-        "confidence": "medium",
+        "analysis": "Lemon Tree Hotels Limited saw a modest 0.8% gain with below-average volume, indicating a lack of significant catalysts or market conviction. The stock's price action was muted, with no notable news or announcements. The company's shares may be due for a breakout, but currently, there is no clear direction.",
+        "confidence": "low",
         "flags": []
       }
     },
@@ -1451,7 +1463,7 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Finolex Industries Limited stock saw a modest 0.99% gain with a volume ratio of 1.3, but no significant catalysts were reported. The upcoming financial results announcement on May 26 may influence the stock's future movement. The current price action lacks a clear driver.",
+        "analysis": "Finolex Industries Limited saw a modest 0.99% gain with elevated volume, but no clear catalyst emerged to explain the move. The company is set to announce its quarterly and annual financial results on May 26, which may be a future catalyst. The current price action lacks a clear driver.",
         "confidence": "low",
         "flags": []
       }
@@ -1467,6 +1479,12 @@
       "news": [],
       "events": [],
       "sebi_mentions": [
+        {
+          "title": "Release Order – Fancos Trademart Private Ltd. [Defaulter] PAN: AACCF8546P in the matter of Trading by certain entities in Mentha Oil futures contracts at Multi Commodity Exchange of India Limited: Certificate No. 7210 of 2023.",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/may-2026/release-order-fancos-trademart-private-ltd-defaulter-pan-aaccf8546p-in-the-matter-of-trading-by-certain-entities-in-mentha-oil-futures-contracts-at-multi-commodity-exchange-of-india-limited-cer-_101557.html",
+          "published_at": "21 May, 2026 +0530",
+          "summary": "Release Order – Fancos Trademart Private Ltd. [Defaulter] PAN: AACCF8546P in the matter of Trading by certain entities in Mentha Oil futures contracts at Multi Commodity Exchange of India Limited: Certificate No. 7210 of 2023."
+        },
         {
           "title": "Adjudication Order in the matter of Shubhlaxmi Jewel Art Limited",
           "url": "https://www.sebi.gov.in/enforcement/orders/may-2026/adjudication-order-in-the-matter-of-shubhlaxmi-jewel-art-limited_101552.html",
@@ -1577,7 +1595,7 @@
       "analysis": {
         "classification": "move_without_catalyst",
         "primary_catalyst": null,
-        "analysis": "GNG Electronics Limited saw a significant 4.08% increase in price with elevated volume, but no clear catalyst was found to explain this move. This could be a sign of a possible leak or flow in the stock. Investors should keep a close eye on the stock's future movements.",
+        "analysis": "GNG Electronics Limited saw a significant price increase of 4.08% with elevated volume, but no clear catalyst was found to explain this move. The stock's price action may be driven by other market forces. This could be a possible leak or flow, warranting further investigation.",
         "confidence": "medium",
         "flags": [
           "POSSIBLE_LEAK_OR_FLOW"
