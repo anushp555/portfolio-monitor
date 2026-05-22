@@ -1,7 +1,7 @@
 {
   "report_date": "2026-05-23",
   "trading_day": "2026-05-22",
-  "generated_at": "2026-05-22T17:40:10.930061+05:30",
+  "generated_at": "2026-05-22T18:10:32.194463+05:30",
   "stocks": [
     {
       "symbol": "TMCV",
@@ -72,7 +72,7 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Tata Motors stock saw a modest 0.8% gain with volume ratio at 1.14, but no significant catalysts were reported. The ESOP/ESOS/ESPS announcement is unlikely to have driven the price action. The stock's movement appears to be largely driven by market sentiment.",
+        "analysis": "Tata Motors Limited saw a modest 0.8% gain with volume ratio at 1.14, but no significant catalysts drove the move. The ESOP/ESOS/ESPS announcement is unlikely to have a material impact. The stock's price action was muted.",
         "confidence": "medium",
         "flags": []
       }
@@ -137,7 +137,7 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Tata Motors Passenger Vehicles Limited stock saw a modest 0.55% gain with below-average volume, lacking any notable catalysts. The price action was muted, with no significant news or announcements. The stock's movement was largely in line with the overall market.",
+        "analysis": "Tata Motors Passenger Vehicles Limited stock saw a modest 0.55% gain with below-average volume, indicating a lack of significant catalysts or market interest. The stock's price action was muted, with no notable news or announcements. The gap up at the open was not sustained, leading to a relatively flat day.",
         "confidence": "medium",
         "flags": []
       }
@@ -154,10 +154,10 @@
       "events": [],
       "sebi_mentions": [
         {
-          "title": "Order releasing of Bank/Post office Accounts, Demat Accounts and Mutual Fund Folios for RC 6745 of 2023",
-          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/may-2026/order-releasing-of-bank-post-office-accounts-demat-accounts-and-mutual-fund-folios-for-rc-6745-of-2023_101490.html",
-          "published_at": "18 May, 2026 +0530",
-          "summary": "Order releasing of Bank/Post office Accounts, Demat Accounts and Mutual Fund Folios for RC 6745 of 2023"
+          "title": "Notice of Attachment of Bank Accounts 15370 of 2026 dated May 20, 2026 against TARUN KUMAR GHAI [Defaulter] PAN: AAIPG1916F in the matter of ISO at BSE-TARUN KUMAR GHAI: under Recovery Certificate No. 9100 of 2026.",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/may-2026/notice-of-attachment-of-bank-accounts-15370-of-2026-dated-may-20-2026-against-tarun-kumar-ghai-defaulter-pan-aaipg1916f-in-the-matter-of-iso-at-bse-tarun-kumar-ghai-under-recovery-certificate-no-_101574.html",
+          "published_at": "20 May, 2026 +0530",
+          "summary": "Notice of Attachment of Bank Accounts 15370 of 2026 dated May 20, 2026 against TARUN KUMAR GHAI [Defaulter] PAN: AAIPG1916F in the matter of ISO at BSE-TARUN KUMAR GHAI: under Recovery Certificate No. 9100 of 2026."
         }
       ],
       "price_action": {
@@ -209,7 +209,7 @@
       "analysis": {
         "classification": "move_without_catalyst",
         "primary_catalyst": null,
-        "analysis": "ICICI Bank stock rose 1.73% despite lack of significant news or announcements. The move was accompanied by below-average volume. This could be a sign of underlying strength, but without a clear catalyst, it's difficult to determine the driver of the move.",
+        "analysis": "ICICI Bank's stock price rose 1.73% despite no significant announcements or news. The move was accompanied by below-average volume. This could be a sign of a potential leak or flow, but the low volume ratio reduces the confidence in this signal.",
         "confidence": "low",
         "flags": []
       }
@@ -274,8 +274,8 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "HDFC Life Insurance Company Limited traded in a narrow range with a small gain, but the move was not significant enough to be driven by any catalyst. The stock's volume was below its 20-day average. The gap up at the open was not sustained, and the stock closed with a minor gain.",
-        "confidence": "medium",
+        "analysis": "HDFC Life Insurance Company Limited traded in a narrow range with a minor gain, lacking any significant catalysts or volume surge. The stock's price action was muted, with a volume ratio below average. No notable events or announcements influenced the stock's movement.",
+        "confidence": "high",
         "flags": []
       }
     },
@@ -301,10 +301,10 @@
       "events": [],
       "sebi_mentions": [
         {
-          "title": "Order releasing of Bank/Post office Accounts, Demat Accounts and Mutual Fund Folios for RC 6745 of 2023",
-          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/may-2026/order-releasing-of-bank-post-office-accounts-demat-accounts-and-mutual-fund-folios-for-rc-6745-of-2023_101490.html",
-          "published_at": "18 May, 2026 +0530",
-          "summary": "Order releasing of Bank/Post office Accounts, Demat Accounts and Mutual Fund Folios for RC 6745 of 2023"
+          "title": "Notice of Attachment of Bank Accounts 15370 of 2026 dated May 20, 2026 against TARUN KUMAR GHAI [Defaulter] PAN: AAIPG1916F in the matter of ISO at BSE-TARUN KUMAR GHAI: under Recovery Certificate No. 9100 of 2026.",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/may-2026/notice-of-attachment-of-bank-accounts-15370-of-2026-dated-may-20-2026-against-tarun-kumar-ghai-defaulter-pan-aaipg1916f-in-the-matter-of-iso-at-bse-tarun-kumar-ghai-under-recovery-certificate-no-_101574.html",
+          "published_at": "20 May, 2026 +0530",
+          "summary": "Notice of Attachment of Bank Accounts 15370 of 2026 dated May 20, 2026 against TARUN KUMAR GHAI [Defaulter] PAN: AAIPG1916F in the matter of ISO at BSE-TARUN KUMAR GHAI: under Recovery Certificate No. 9100 of 2026."
         }
       ],
       "price_action": {
@@ -356,7 +356,7 @@
       "analysis": {
         "classification": "move_without_catalyst",
         "primary_catalyst": null,
-        "analysis": "Bandhan Bank's stock price rose 1.85% despite no significant catalysts, with volume ratio at 0.64, which is below the threshold for elevated volume. This move may be driven by market sentiment or other unreported factors. The recent SEBI order and BSE announcement do not seem to have had a direct impact on the stock price.",
+        "analysis": "Bandhan Bank's stock rose 1.85% despite no significant catalysts, with lower-than-average trading volume. This move may be driven by market sentiment rather than any specific news or event. The stock's price action warrants further monitoring.",
         "confidence": "medium",
         "flags": []
       }
@@ -367,8 +367,27 @@
       "sector": "Banking",
       "notes": null,
       "skip_catalysts": false,
-      "bse_announcements": [],
-      "nse_announcements": [],
+      "bse_announcements": [
+        {
+          "headline": "Kindly refer the enclosed Intimation regarding Schedule of Institutional Investor Meeting",
+          "category": "Company Update",
+          "subcategory": null,
+          "more_info": "",
+          "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/d9bce2ad-f290-4d6a-9b73-211f7130aab3.pdf",
+          "attached_at": "2026-05-22T17:54:12",
+          "source": "BSE"
+        }
+      ],
+      "nse_announcements": [
+        {
+          "headline": "General Updates",
+          "category": null,
+          "more_info": "IDFC First Bank Limited has informed the Exchange about Schedule of Analysts / Institutional Investors meet(s) - Intimation",
+          "pdf_url": "https://nsearchives.nseindia.com/corporate/IDFCFIRSTB_22052026174102_IDFCFIRSTB_Investor_Meetings.pdf",
+          "attached_at": "22-May-2026 17:43:40",
+          "source": "NSE"
+        }
+      ],
       "news": [],
       "events": [],
       "sebi_mentions": [],
@@ -421,7 +440,7 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "IDFC First Bank's stock price rose 0.85% with below-average volume, indicating a lack of significant catalysts or market interest. The move was relatively muted and did not exhibit any notable trends. The stock's price action was largely uneventful.",
+        "analysis": "IDFC First Bank's stock price rose 0.85% with below-average volume, lacking a clear catalyst to drive the move. The company announced a schedule for an institutional investor meeting, but it did not seem to have a significant impact. The stock's price action was muted, with no notable news or events.",
         "confidence": "medium",
         "flags": []
       }
@@ -436,7 +455,20 @@
       "nse_announcements": [],
       "news": [],
       "events": [],
-      "sebi_mentions": [],
+      "sebi_mentions": [
+        {
+          "title": "Notice of Demand under Recovery Certificate number 9123 of 2026 dated May 22, 2026 issued to Mr. J Murali Manohar (PAN:ATTPM0621R) [Defaulter] in the matter of Mediaone Global Entertainment Limited.",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/may-2026/notice-of-demand-under-recovery-certificate-number-9123-of-2026-dated-may-22-2026-issued-to-mr-j-murali-manohar-pan-attpm0621r-defaulter-in-the-matter-of-mediaone-global-entertainment-limited-_101591.html",
+          "published_at": "22 May, 2026 +0530",
+          "summary": "Notice of Demand under Recovery Certificate number 9123 of 2026 dated May 22, 2026 issued to Mr. J Murali Manohar (PAN:ATTPM0621R) [Defaulter] in the matter of Mediaone Global Entertainment Limited."
+        },
+        {
+          "title": "Notice of Demand under Recovery Certificate number 9122 of 2026 dated May 22, 2026 issued to Ms. Saraswathy Gopalan (PAN:APVPS1354P) [Defaulter] in the matter of Mediaone Global Entertainment Limited.",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/may-2026/notice-of-demand-under-recovery-certificate-number-9122-of-2026-dated-may-22-2026-issued-to-ms-saraswathy-gopalan-pan-apvps1354p-defaulter-in-the-matter-of-mediaone-global-entertainment-limited-_101589.html",
+          "published_at": "22 May, 2026 +0530",
+          "summary": "Notice of Demand under Recovery Certificate number 9122 of 2026 dated May 22, 2026 issued to Ms. Saraswathy Gopalan (PAN:APVPS1354P) [Defaulter] in the matter of Mediaone Global Entertainment Limited."
+        }
+      ],
       "price_action": {
         "date": "2026-05-22",
         "open": 185.37,
@@ -486,7 +518,7 @@
       "analysis": {
         "classification": "move_without_catalyst",
         "primary_catalyst": null,
-        "analysis": "CGCL rose 2.85% on above-average volume, with no apparent catalyst. This move may indicate underlying demand. The stock's price action could be a sign of a possible leak or flow, warranting further investigation.",
+        "analysis": "CGCL stock rose 2.85% with elevated volume, but no clear catalyst was found. This move could be a possible leak or flow. Investors should monitor the stock for further developments.",
         "confidence": "medium",
         "flags": [
           "POSSIBLE_LEAK_OR_FLOW"
@@ -553,7 +585,7 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Tata Power Company Limited's stock price declined 0.39% with below-average volume, indicating a lack of significant catalysts or market interest. The stock's price action was muted, with no notable news or announcements. The company's stock is likely to be driven by broader market trends in the absence of any material developments.",
+        "analysis": "Tata Power Company Limited's stock price declined 0.39% with below-average volume, indicating a lack of significant catalysts or market interest. The stock's intraday range was moderate at 1.66%. No notable announcements or news were reported.",
         "confidence": "medium",
         "flags": []
       }
@@ -636,11 +668,11 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxOT0pDb1RLWXZQb3hLWF9IVXNjM19OTW1ETjAzdnd0OTNpRUtGbjV0RW9FNm1UNkxhUjdzTXExU3BwYWtVaC1aOHJTR0NJUjhud3lhc1dsclNLVXdlejQ2ODlTYlpCQlFpQ3J1Z2xSU2NxQ1AxV3F1RngwZGl1NVFqVTR0TjJ1VGRoV1A1VkNQQzJhNmtSWkxNQkpFaDBTTkNjNHJzcFBYQzNucVpKdFNuVEJtWUtuUC1FdlllUnBpcG9KTFBpVlVtWU5tblNjNmNyQ2F5UWVnaXR1eDAteXRva2RRbmo1NnBDTXRTSm04Ql9YTUoyT3NmS1QwTEQ?oc=5\" targ"
         },
         {
-          "title": "Suzlon Energy's 3 MW platform reaches a milestone after a 195 MW order from Sunsure Energy",
-          "source": "CNBC TV18",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNWEotYjJHX1BqTkpacmNjbThZdlA5WXB1NU1NOUlfWV9yLVJ1eWdsQ1BLYUEzSFdwcEtBZkVkTTRkWjlQTm1EM1d3TlFhZk9hejZXaF8wQUY5akx1ZEUzZHVpb0t3VVJha05WNTc1Q1NXcUdVNmV0RGlKaTdxdWhsVVEwZTEzQTc5ZmtlWms4SVBENWRWQlNFdjEzYzh3Y3dERUVCbFVRV2s2aGJUaWtubkVUOWwzRERzbmduYWQzMm9qZ3Nld1RoT0dPVmlIM3hfczVyaE56QUNLQnJIVG5nRUxzWVZmclRl0gHuAUFVX3lxTE9jeDFqWWwtbWlyaUd5dHRFU1JfOUJfUlNIbmN4d2dUMG9ZM1EzTkswSU1yMTU0ejA5TlN6ZVpjVGhkT21VODNtZkhQbEQyUVVWV0lUZmU1WUJrX2NuNlBBbHJ2V3FNWklTLVVPSU5xRUhKN09qNk5SWGoxZ3JYdUcxWjFYeWxGcjN1OTBzY21NQlNKOHVaT3M0WFktalpBdDBoLU5VdURzZzQyNUVzWVB3NUJrZlNpMzBrem81MWxET0Z6cktObTlHemxNLW11dUZobkNGMUU0UTFhQlhCT2ljLVBvX3VhRDZ0Z3FSNkE?oc=5",
-          "published_at": "2026-05-22T04:36:07+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxNWEotYjJHX1BqTkpacmNjbThZdlA5WXB1NU1NOUlfWV9yLVJ1eWdsQ1BLYUEzSFdwcEtBZkVkTTRkWjlQTm1EM1d3TlFhZk9hejZXaF8wQUY5akx1ZEUzZHVpb0t3VVJha05WNTc1Q1NXcUdVNmV0RGlKaTdxdWhsVVEwZTEzQTc5ZmtlWms4SVBENWRWQlNFdjEzYzh3Y3dERUVCbFVRV2s2aGJUaWtubkVUOWwzRERzbmduYWQzMm9qZ3Nld1RoT0dPVmlIM3hfczVyaE56QUNLQnJIVG5nRUxzWVZmclRl0gHuAUFVX3lxTE9jeDFqWWwtbWlyaUd5dHRFU1"
+          "title": "Suzlon bags 195MW wind energy order from Sunsure Energy",
+          "source": "BusinessLine",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNODFVekdTWFlpRE5qd2JtRFRsN05vN3dqTnctRVgzYlNKMjk3NE04VjlqSTktRDM2ME5lMU90ZVlNR1dOQ0lzUjR1OTFMTjJSNHFVcVhQZ0EwajA3VlNoQUJ3U3NHUFlqQ1RncVNyRkhOMkItVXdmMmtBaHRoNi1qdS00cFdHZ05nVEk2cy1CdnlHdXQ1cXhSMW9lYWk0dUdFRmt3bmhWdmNKSE1HZ1dKbEIzODZFSzdsM0tJVllNWdIBxgFBVV95cUxNSHBXZERSLWdZQzlzV0xwbkxyMFF4cmJ3SDJiLWx6ckhuMDNuNk9wV1pkRmc4OFBwMzdudGpJcm14NDFUbng3Z0t1SnRXdXZRYU9NODFUQUJMN0lpRFFtTVgzYlRGR29UbGlna0wwQ00zWE5XTGF1WnNpVmZabnItNHFnRXZ2ZkNNSEt0d2NpUkZuc2Y4cEdHejRmTG81RzJ0cVpPRkFzaHcyWmR2b0RXRF92SERIcjNfRjJOYnBNeVRkQUU5LXc?oc=5",
+          "published_at": "2026-05-22T05:49:41+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNODFVekdTWFlpRE5qd2JtRFRsN05vN3dqTnctRVgzYlNKMjk3NE04VjlqSTktRDM2ME5lMU90ZVlNR1dOQ0lzUjR1OTFMTjJSNHFVcVhQZ0EwajA3VlNoQUJ3U3NHUFlqQ1RncVNyRkhOMkItVXdmMmtBaHRoNi1qdS00cFdHZ05nVEk2cy1CdnlHdXQ1cXhSMW9lYWk0dUdFRmt3bmhWdmNKSE1HZ1dKbEIzODZFSzdsM0tJVllNWdIBxgFBVV95cUxNSHBXZERSLWdZQzlzV0xwbkxyMFF4cmJ3SDJiLWx6ckhuMDNuNk9wV1pkRmc4OFBwMzdudGpJcm14ND"
         }
       ],
       "events": [
@@ -701,7 +733,7 @@
       "analysis": {
         "classification": "catalyst_drove_move",
         "primary_catalyst": "Suzlon bags 195 MW wind energy order from Sunsure Energy",
-        "analysis": "Suzlon Energy's stock rose 1.66% after the company announced a 195 MW order from Sunsure Energy, taking its 3 MW platform sales to nearly 9 GW. The order is a positive catalyst for the stock. The company's upcoming financial results on May 25, 2026, will be closely watched.",
+        "analysis": "Suzlon Energy's shares rose 1.66% after the company announced a new 195 MW order from Sunsure Energy, taking its 3 MW platform sales to nearly 9 GW. The order is a positive catalyst for the stock. The company's orderbook now crosses 2 GW, which is a significant milestone.",
         "confidence": "high",
         "flags": []
       }
@@ -766,8 +798,8 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "IREDA's stock price rose 0.89% with below-average volume, lacking a clear catalyst. The move is not significant enough to draw conclusions. The stock's price action will be monitored for further developments.",
-        "confidence": "low",
+        "analysis": "IREDA stock saw a modest gain of 0.89% with below-average volume, lacking a clear catalyst to explain the move. The stock's price action was muted, with no significant news or announcements. The lack of meaningful price movement or catalysts makes it a quiet trading day for IREDA.",
+        "confidence": "medium",
         "flags": []
       }
     },
@@ -831,7 +863,7 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "SWSOLAR traded in a narrow range with a modest gain, but the move was not significant enough to be considered meaningful. Volume was below average, indicating a lack of conviction. The stock's price action was largely uninspired, with no notable catalysts to drive the move.",
+        "analysis": "SWSOLAR traded in a narrow range with a modest gain, but the move was not significant enough to be driven by a catalyst. The stock's volume was below average, indicating a lack of conviction. The day's price action was largely neutral.",
         "confidence": "medium",
         "flags": []
       }
@@ -926,8 +958,8 @@
       },
       "analysis": {
         "classification": "catalyst_drove_move",
-        "primary_catalyst": "TARIL bags ₹228.26 crore GETCO order for transformers and reactors",
-        "analysis": "TARIL's shares rose 1.5% after the company announced it had secured a ₹228.26 crore order from GETCO. The order win is a positive development for the company. The stock's price action suggests investors are bullish on the company's prospects.",
+        "primary_catalyst": "TARIL secures Rs 228.3 crore GETCO transformer order",
+        "analysis": "TARIL's shares rose 1.5% after the company announced it had secured a Rs 228.3 crore GETCO transformer order. The news was widely reported and likely drove the price action. The order win is a positive development for the company.",
         "confidence": "high",
         "flags": []
       }
@@ -938,8 +970,27 @@
       "sector": "FMCG",
       "notes": null,
       "skip_catalysts": false,
-      "bse_announcements": [],
-      "nse_announcements": [],
+      "bse_announcements": [
+        {
+          "headline": "Publication of Advertisement re: Loss of Share Certificates",
+          "category": "Company Update",
+          "subcategory": null,
+          "more_info": "",
+          "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/6394b949-4083-4888-99ef-3751a2bd8521.pdf",
+          "attached_at": "2026-05-22T17:47:05",
+          "source": "BSE"
+        }
+      ],
+      "nse_announcements": [
+        {
+          "headline": "Copy of Newspaper Publication",
+          "category": "Cigarettes",
+          "more_info": "ITC Limited has informed the Exchange about Copy of Newspaper Publication",
+          "pdf_url": "https://nsearchives.nseindia.com/corporate/ITC_22052026174303_SEIntimation.pdf",
+          "attached_at": "22-May-2026 17:44:25",
+          "source": "NSE"
+        }
+      ],
       "news": [
         {
           "title": "ITC shares down 25% in six months: Should you buy, sell or hold?",
@@ -970,6 +1021,13 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOMEhyNEh3ZktQSEtjRWtkVlB1V3Y0b1NWVklKdU9WdHZVbTBFSFlkWGF6SHl3bFZJTjJPZndCM2pZU2VWbVozTTBEQWdtQzVuRGRjOVo0XzFiNGJGTmVJcklvMWx1SFRvcTRQQUtjMS1CaWtWbVFDQnJ6U3EwYUk5dllSWGsxNkNqeFAwRmx3Q3NsakhfZEJIc0NucDZXX0RscER5LUtrRjV4OXpJTE80UURWR09iV0tZWjVTaG9hMURpbjJJc0o3aU00UUxUTjA?oc=5\" target=\"_blank\">ITC Limited Stock 12‑Month Price Target Cut to I"
         },
         {
+          "title": "ITC Ltd Strengthens Coastal Ecology Through Mangrove Conservation",
+          "source": "Deccan Chronicle",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQnlzMnhzakEzUWdFUEg2OFEzNExydkFuY1NET3h2S3dwM2FFNFZobV9udlpoUGZkaHBIUGdVVEpXNERHNU10VVdKV3RfbWhHVHdHc2pZaW04U3JsZTlCTDVlTW5OM3hKY2RwdDA4UVhDSVhmXzBrRmhCTU9sUmVsQ0pZQVlPTllJalRvaGtIU1dFUk9sanNheHhFVGHSAaIBQVVfeXFMTXJtajEwNXpybjNjZmxhNU5mdkJJMDBWR2V3VzFmbDl3RWZ1NTQtWlduYjcxd0ZUdEk5X0o2cnF5T0RUam02ajJyWHR0dy14OHRUaHRTdDZucFJpbXo4MTE1ZzkxVEI1U25laGFQazRValZqaXU2WmZXSWdwR2NkOW1SQUd0aHpWQ2h1eHFuUVNtc2JYd0VpcnI2dUMydFVXVEZR?oc=5",
+          "published_at": "2026-05-22T12:06:32+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPQnlzMnhzakEzUWdFUEg2OFEzNExydkFuY1NET3h2S3dwM2FFNFZobV9udlpoUGZkaHBIUGdVVEpXNERHNU10VVdKV3RfbWhHVHdHc2pZaW04U3JsZTlCTDVlTW5OM3hKY2RwdDA4UVhDSVhmXzBrRmhCTU9sUmVsQ0pZQVlPTllJalRvaGtIU1dFUk9sanNheHhFVGHSAaIBQVVfeXFMTXJtajEwNXpybjNjZmxhNU5mdkJJMDBWR2V3VzFmbDl3RWZ1NTQtWlduYjcxd0ZUdEk5X0o2cnF5T0RUam02ajJyWHR0dy14OHRUaHRTdDZucFJpbXo4MTE1ZzkxVE"
+        },
+        {
           "title": "ITC Q4 Results 2026: Share Price Target, Dividend Details",
           "source": "Liquide Blog",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxdWoyckxGLXQ5VVNvVEh2X0QyLXIxWEM0NTR1OHRnSDg4WGVmbV9TelJRVlNIaGEtZXdOZnoyVjZOcHVsNkUtVWNPNXE1QlBWd1RmN0pxbzhCQ3R2RmNKZXZkRWpXa1FsVXRBc1cwTXNPckt3bi1KTUpicDhrM28?oc=5",
@@ -989,13 +1047,6 @@
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTF9RVHBvZGZySmZGeEdQeUI1REp0VEJXNDJUSzFXdHNlQ0ZTSklHQ3RGLXZ1X3REbFBPMjJPQXdiTnhmazU0S0JFZWtINlU3aGt1d1ZXXzAzNHFnZGVNaEt6UF94RllLQjVEakRzYWpKUXozeGlwWVJWNXJza2xVQjh4bFIzcVRrdVl1a0lEOHdIYWtSNnZ6RERRZ29EZmd1S2xXeQ?oc=5",
           "published_at": "2026-05-22T04:27:57+00:00",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNTF9RVHBvZGZySmZGeEdQeUI1REp0VEJXNDJUSzFXdHNlQ0ZTSklHQ3RGLXZ1X3REbFBPMjJPQXdiTnhmazU0S0JFZWtINlU3aGt1d1ZXXzAzNHFnZGVNaEt6UF94RllLQjVEakRzYWpKUXozeGlwWVJWNXJza2xVQjh4bFIzcVRrdVl1a0lEOHdIYWtSNnZ6RERRZ29EZmd1S2xXeQ?oc=5\" target=\"_blank\">ITC Infotech, InsureMO team up to modernise insurance operations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IBS"
-        },
-        {
-          "title": "SAM Advises ITC Hotels on Acquisition of The Zuri Kumarakom Kerala Resort & Spa | SCC Times",
-          "source": "SCC Online",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVVRERXZibUthanJ5azdfZmk2cFdhU0UwRDJ0bkpGTS12NUJRSGdKNHhVQndZLWk0dU43cEFkcUNSUlZ6MEtGRE00MDNMY0FXMXhLalQtc3RhdGlwbGthY0c2aWs3OC1EdUVrRW5HMVNOT3E3Mnh2dThXWG16Z3pLc1hTWEVOa0hKYm0wOF9DaXFrY2xyRDJFZTk1R0lzWWkyNThfMG4wZ0xsUkVhdnZReks2T1ZGUEI2VnQxSGg4N1dvMlFvSUE?oc=5",
-          "published_at": "2026-05-22T04:30:43+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQVVRERXZibUthanJ5azdfZmk2cFdhU0UwRDJ0bkpGTS12NUJRSGdKNHhVQndZLWk0dU43cEFkcUNSUlZ6MEtGRE00MDNMY0FXMXhLalQtc3RhdGlwbGthY0c2aWs3OC1EdUVrRW5HMVNOT3E3Mnh2dThXWG16Z3pLc1hTWEVOa0hKYm0wOF9DaXFrY2xyRDJFZTk1R0lzWWkyNThfMG4wZ0xsUkVhdnZReks2T1ZGUEI2VnQxSGg4N1dvMlFvSUE?oc=5\" target=\"_blank\">SAM Advises ITC Hotels on Acquisition of The Zuri Kumarakom "
         }
       ],
       "events": [
@@ -1007,6 +1058,18 @@
         }
       ],
       "sebi_mentions": [
+        {
+          "title": "Notice of Demand under Recovery Certificate number 9123 of 2026 dated May 22, 2026 issued to Mr. J Murali Manohar (PAN:ATTPM0621R) [Defaulter] in the matter of Mediaone Global Entertainment Limited.",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/may-2026/notice-of-demand-under-recovery-certificate-number-9123-of-2026-dated-may-22-2026-issued-to-mr-j-murali-manohar-pan-attpm0621r-defaulter-in-the-matter-of-mediaone-global-entertainment-limited-_101591.html",
+          "published_at": "22 May, 2026 +0530",
+          "summary": "Notice of Demand under Recovery Certificate number 9123 of 2026 dated May 22, 2026 issued to Mr. J Murali Manohar (PAN:ATTPM0621R) [Defaulter] in the matter of Mediaone Global Entertainment Limited."
+        },
+        {
+          "title": "Notice of Demand under Recovery Certificate number 9122 of 2026 dated May 22, 2026 issued to Ms. Saraswathy Gopalan (PAN:APVPS1354P) [Defaulter] in the matter of Mediaone Global Entertainment Limited.",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/may-2026/notice-of-demand-under-recovery-certificate-number-9122-of-2026-dated-may-22-2026-issued-to-ms-saraswathy-gopalan-pan-apvps1354p-defaulter-in-the-matter-of-mediaone-global-entertainment-limited-_101589.html",
+          "published_at": "22 May, 2026 +0530",
+          "summary": "Notice of Demand under Recovery Certificate number 9122 of 2026 dated May 22, 2026 issued to Ms. Saraswathy Gopalan (PAN:APVPS1354P) [Defaulter] in the matter of Mediaone Global Entertainment Limited."
+        },
         {
           "title": "Completion of Recovery Certificate No. 7210 of 2023 dated October 04, 2023 issued to Fancos Trademart Private Ltd [Defaulter] PAN: AACCF8546P in the matter of Trading by certain entities in Mentha Oil futures contracts at Multi Commodity Exchange of India Limited.",
           "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/may-2026/completion-of-recovery-certificate-no-7210-of-2023-dated-october-04-2023-issued-to-fancos-trademart-private-ltd-defaulter-pan-aaccf8546p-in-the-matter-of-trading-by-certain-entities-in-mentha-oil-_101559.html",
@@ -1048,24 +1111,6 @@
           "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/may-2026/certificate-no-rc8054-of-2024-a-p-nos-15368-of-2026-in-respect-of-vedant-commodeal-pvt-ltd-pan-aabcl9683l-in-the-matter-of-worth-investment-and-trading-private-limited_101513.html",
           "published_at": "19 May, 2026 +0530",
           "summary": "Certificate No. RC8054 of 2024 A.P Nos 15368 of 2026 in respect of Vedant Commodeal Pvt Ltd (PAN: AABCL9683L) in the matter of Worth Investment and Trading Private Limited"
-        },
-        {
-          "title": "General Remittance Order dated May 18, 2026 issued under RC No. 9067 of 2026 drawn against Paresh Nathalal Chauhan in the matter of Timbor Home Limited",
-          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/may-2026/general-remittance-order-dated-may-18-2026-issued-under-rc-no-9067-of-2026-drawn-against-paresh-nathalal-chauhan-in-the-matter-of-timbor-home-limited_101503.html",
-          "published_at": "18 May, 2026 +0530",
-          "summary": "General Remittance Order dated May 18, 2026 issued under RC No. 9067 of 2026 drawn against Paresh Nathalal Chauhan in the matter of Timbor Home Limited"
-        },
-        {
-          "title": "General Remittance Order dated May 18, 2026 issued under RC No. 9066 of 2026 drawn against Paresh Nathalal Chauhan in the matter of Timbor Home Limited",
-          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/may-2026/general-remittance-order-dated-may-18-2026-issued-under-rc-no-9066-of-2026-drawn-against-paresh-nathalal-chauhan-in-the-matter-of-timbor-home-limited_101501.html",
-          "published_at": "18 May, 2026 +0530",
-          "summary": "General Remittance Order dated May 18, 2026 issued under RC No. 9066 of 2026 drawn against Paresh Nathalal Chauhan in the matter of Timbor Home Limited"
-        },
-        {
-          "title": "Prohibitory Order no. 1455 of 2026 issued in the matter of Rich Infra Developers India Limited under Recovery Certificate No. 2823 of 2020.",
-          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/may-2026/prohibitory-order-no-1455-of-2026-issued-in-the-matter-of-rich-infra-developers-india-limited-under-recovery-certificate-no-2823-of-2020-_101499.html",
-          "published_at": "18 May, 2026 +0530",
-          "summary": "Prohibitory Order no. 1455 of 2026 issued in the matter of Rich Infra Developers India Limited under Recovery Certificate No. 2823 of 2020."
         }
       ],
       "price_action": {
@@ -1115,11 +1160,13 @@
         ]
       },
       "analysis": {
-        "classification": "catalyst_drove_move",
-        "primary_catalyst": "Q4 results announcement",
-        "analysis": "ITC's stock price fell 2.06% following the Q4 results announcement, indicating a negative market reaction to the company's performance. The decline was accompanied by a significant increase in volume, suggesting that investors are reassessing their positions in the stock. The results announcement is likely the primary catalyst for the price move.",
-        "confidence": "high",
-        "flags": []
+        "classification": "move_without_catalyst",
+        "primary_catalyst": null,
+        "analysis": "ITC's stock price fell 2.06% despite no significant catalysts, with a volume ratio of 1.86 indicating elevated trading activity. This move without a clear catalyst could be a sign of a possible leak or flow. Investors should monitor the stock closely for further developments.",
+        "confidence": "medium",
+        "flags": [
+          "POSSIBLE_LEAK_OR_FLOW"
+        ]
       }
     },
     {
@@ -1140,6 +1187,18 @@
         }
       ],
       "sebi_mentions": [
+        {
+          "title": "Notice of Demand under Recovery Certificate number 9123 of 2026 dated May 22, 2026 issued to Mr. J Murali Manohar (PAN:ATTPM0621R) [Defaulter] in the matter of Mediaone Global Entertainment Limited.",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/may-2026/notice-of-demand-under-recovery-certificate-number-9123-of-2026-dated-may-22-2026-issued-to-mr-j-murali-manohar-pan-attpm0621r-defaulter-in-the-matter-of-mediaone-global-entertainment-limited-_101591.html",
+          "published_at": "22 May, 2026 +0530",
+          "summary": "Notice of Demand under Recovery Certificate number 9123 of 2026 dated May 22, 2026 issued to Mr. J Murali Manohar (PAN:ATTPM0621R) [Defaulter] in the matter of Mediaone Global Entertainment Limited."
+        },
+        {
+          "title": "Notice of Demand under Recovery Certificate number 9122 of 2026 dated May 22, 2026 issued to Ms. Saraswathy Gopalan (PAN:APVPS1354P) [Defaulter] in the matter of Mediaone Global Entertainment Limited.",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/may-2026/notice-of-demand-under-recovery-certificate-number-9122-of-2026-dated-may-22-2026-issued-to-ms-saraswathy-gopalan-pan-apvps1354p-defaulter-in-the-matter-of-mediaone-global-entertainment-limited-_101589.html",
+          "published_at": "22 May, 2026 +0530",
+          "summary": "Notice of Demand under Recovery Certificate number 9122 of 2026 dated May 22, 2026 issued to Ms. Saraswathy Gopalan (PAN:APVPS1354P) [Defaulter] in the matter of Mediaone Global Entertainment Limited."
+        },
         {
           "title": "Completion of Recovery Certificate No. 7210 of 2023 dated October 04, 2023 issued to Fancos Trademart Private Ltd [Defaulter] PAN: AACCF8546P in the matter of Trading by certain entities in Mentha Oil futures contracts at Multi Commodity Exchange of India Limited.",
           "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/may-2026/completion-of-recovery-certificate-no-7210-of-2023-dated-october-04-2023-issued-to-fancos-trademart-private-ltd-defaulter-pan-aaccf8546p-in-the-matter-of-trading-by-certain-entities-in-mentha-oil-_101559.html",
@@ -1181,24 +1240,6 @@
           "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/may-2026/certificate-no-rc8054-of-2024-a-p-nos-15368-of-2026-in-respect-of-vedant-commodeal-pvt-ltd-pan-aabcl9683l-in-the-matter-of-worth-investment-and-trading-private-limited_101513.html",
           "published_at": "19 May, 2026 +0530",
           "summary": "Certificate No. RC8054 of 2024 A.P Nos 15368 of 2026 in respect of Vedant Commodeal Pvt Ltd (PAN: AABCL9683L) in the matter of Worth Investment and Trading Private Limited"
-        },
-        {
-          "title": "General Remittance Order dated May 18, 2026 issued under RC No. 9067 of 2026 drawn against Paresh Nathalal Chauhan in the matter of Timbor Home Limited",
-          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/may-2026/general-remittance-order-dated-may-18-2026-issued-under-rc-no-9067-of-2026-drawn-against-paresh-nathalal-chauhan-in-the-matter-of-timbor-home-limited_101503.html",
-          "published_at": "18 May, 2026 +0530",
-          "summary": "General Remittance Order dated May 18, 2026 issued under RC No. 9067 of 2026 drawn against Paresh Nathalal Chauhan in the matter of Timbor Home Limited"
-        },
-        {
-          "title": "General Remittance Order dated May 18, 2026 issued under RC No. 9066 of 2026 drawn against Paresh Nathalal Chauhan in the matter of Timbor Home Limited",
-          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/may-2026/general-remittance-order-dated-may-18-2026-issued-under-rc-no-9066-of-2026-drawn-against-paresh-nathalal-chauhan-in-the-matter-of-timbor-home-limited_101501.html",
-          "published_at": "18 May, 2026 +0530",
-          "summary": "General Remittance Order dated May 18, 2026 issued under RC No. 9066 of 2026 drawn against Paresh Nathalal Chauhan in the matter of Timbor Home Limited"
-        },
-        {
-          "title": "Prohibitory Order no. 1455 of 2026 issued in the matter of Rich Infra Developers India Limited under Recovery Certificate No. 2823 of 2020.",
-          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/may-2026/prohibitory-order-no-1455-of-2026-issued-in-the-matter-of-rich-infra-developers-india-limited-under-recovery-certificate-no-2823-of-2020-_101499.html",
-          "published_at": "18 May, 2026 +0530",
-          "summary": "Prohibitory Order no. 1455 of 2026 issued in the matter of Rich Infra Developers India Limited under Recovery Certificate No. 2823 of 2020."
         }
       ],
       "price_action": {
@@ -1250,8 +1291,8 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "The stock price of ITC Hotels Limited remained largely unchanged with a minor decline of 0.14%. There were no significant announcements or news that could have driven the price action. The company's recent financial results announcement on May 15, 2026, did not seem to have a notable impact on the stock price.",
-        "confidence": "medium",
+        "analysis": "The stock price of ITC Hotels Limited remained largely unchanged with a minor decline of 0.14%. There were no significant catalysts that could have driven the price action. The company's recent financial results announcement on May 15, 2026, did not seem to have a notable impact on the stock price.",
+        "confidence": "high",
         "flags": []
       }
     },
@@ -1332,7 +1373,7 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Lemon Tree Hotels Limited saw a modest 1.14% gain with below-average volume, lacking a clear catalyst to drive the move. The upcoming board meeting to discuss Q4 and FY26 financial results may be a non-event. The stock's price action was muted despite the announcement.",
+        "analysis": "Lemon Tree Hotels' stock price rose 1.14% with below-average volume, lacking a clear catalyst. The upcoming board meeting to discuss Q4 and FY results may influence future price action. The current move appears neutral.",
         "confidence": "medium",
         "flags": []
       }
@@ -1404,7 +1445,7 @@
       "analysis": {
         "classification": "move_without_catalyst",
         "primary_catalyst": null,
-        "analysis": "Finolex Industries saw a 2.34% increase in price with elevated volume, but no clear catalyst was found. The upcoming financial results announcement on May 26 may have contributed to the move. The stock's price action could be a sign of potential buying interest ahead of the results.",
+        "analysis": "Finolex Industries saw a 2.34% increase in price with elevated volume, but no clear catalyst was found. The upcoming financial results announcement on May 26 may have contributed to the move. This could be a possible leak or flow, warranting further investigation.",
         "confidence": "medium",
         "flags": [
           "POSSIBLE_LEAK_OR_FLOW"
@@ -1422,6 +1463,18 @@
       "news": [],
       "events": [],
       "sebi_mentions": [
+        {
+          "title": "Notice of Demand under Recovery Certificate number 9123 of 2026 dated May 22, 2026 issued to Mr. J Murali Manohar (PAN:ATTPM0621R) [Defaulter] in the matter of Mediaone Global Entertainment Limited.",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/may-2026/notice-of-demand-under-recovery-certificate-number-9123-of-2026-dated-may-22-2026-issued-to-mr-j-murali-manohar-pan-attpm0621r-defaulter-in-the-matter-of-mediaone-global-entertainment-limited-_101591.html",
+          "published_at": "22 May, 2026 +0530",
+          "summary": "Notice of Demand under Recovery Certificate number 9123 of 2026 dated May 22, 2026 issued to Mr. J Murali Manohar (PAN:ATTPM0621R) [Defaulter] in the matter of Mediaone Global Entertainment Limited."
+        },
+        {
+          "title": "Notice of Demand under Recovery Certificate number 9122 of 2026 dated May 22, 2026 issued to Ms. Saraswathy Gopalan (PAN:APVPS1354P) [Defaulter] in the matter of Mediaone Global Entertainment Limited.",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/may-2026/notice-of-demand-under-recovery-certificate-number-9122-of-2026-dated-may-22-2026-issued-to-ms-saraswathy-gopalan-pan-apvps1354p-defaulter-in-the-matter-of-mediaone-global-entertainment-limited-_101589.html",
+          "published_at": "22 May, 2026 +0530",
+          "summary": "Notice of Demand under Recovery Certificate number 9122 of 2026 dated May 22, 2026 issued to Ms. Saraswathy Gopalan (PAN:APVPS1354P) [Defaulter] in the matter of Mediaone Global Entertainment Limited."
+        },
         {
           "title": "Completion of Recovery Certificate No. 7210 of 2023 dated October 04, 2023 issued to Fancos Trademart Private Ltd [Defaulter] PAN: AACCF8546P in the matter of Trading by certain entities in Mentha Oil futures contracts at Multi Commodity Exchange of India Limited.",
           "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/may-2026/completion-of-recovery-certificate-no-7210-of-2023-dated-october-04-2023-issued-to-fancos-trademart-private-ltd-defaulter-pan-aaccf8546p-in-the-matter-of-trading-by-certain-entities-in-mentha-oil-_101559.html",
@@ -1463,24 +1516,6 @@
           "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/may-2026/certificate-no-rc8054-of-2024-a-p-nos-15368-of-2026-in-respect-of-vedant-commodeal-pvt-ltd-pan-aabcl9683l-in-the-matter-of-worth-investment-and-trading-private-limited_101513.html",
           "published_at": "19 May, 2026 +0530",
           "summary": "Certificate No. RC8054 of 2024 A.P Nos 15368 of 2026 in respect of Vedant Commodeal Pvt Ltd (PAN: AABCL9683L) in the matter of Worth Investment and Trading Private Limited"
-        },
-        {
-          "title": "General Remittance Order dated May 18, 2026 issued under RC No. 9067 of 2026 drawn against Paresh Nathalal Chauhan in the matter of Timbor Home Limited",
-          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/may-2026/general-remittance-order-dated-may-18-2026-issued-under-rc-no-9067-of-2026-drawn-against-paresh-nathalal-chauhan-in-the-matter-of-timbor-home-limited_101503.html",
-          "published_at": "18 May, 2026 +0530",
-          "summary": "General Remittance Order dated May 18, 2026 issued under RC No. 9067 of 2026 drawn against Paresh Nathalal Chauhan in the matter of Timbor Home Limited"
-        },
-        {
-          "title": "General Remittance Order dated May 18, 2026 issued under RC No. 9066 of 2026 drawn against Paresh Nathalal Chauhan in the matter of Timbor Home Limited",
-          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/may-2026/general-remittance-order-dated-may-18-2026-issued-under-rc-no-9066-of-2026-drawn-against-paresh-nathalal-chauhan-in-the-matter-of-timbor-home-limited_101501.html",
-          "published_at": "18 May, 2026 +0530",
-          "summary": "General Remittance Order dated May 18, 2026 issued under RC No. 9066 of 2026 drawn against Paresh Nathalal Chauhan in the matter of Timbor Home Limited"
-        },
-        {
-          "title": "Prohibitory Order no. 1455 of 2026 issued in the matter of Rich Infra Developers India Limited under Recovery Certificate No. 2823 of 2020.",
-          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/may-2026/prohibitory-order-no-1455-of-2026-issued-in-the-matter-of-rich-infra-developers-india-limited-under-recovery-certificate-no-2823-of-2020-_101499.html",
-          "published_at": "18 May, 2026 +0530",
-          "summary": "Prohibitory Order no. 1455 of 2026 issued in the matter of Rich Infra Developers India Limited under Recovery Certificate No. 2823 of 2020."
         }
       ],
       "price_action": {
@@ -1530,11 +1565,13 @@
         ]
       },
       "analysis": {
-        "classification": "no_signal",
+        "classification": "move_without_catalyst",
         "primary_catalyst": null,
-        "analysis": "GNG Electronics Limited stock price increased by 1.18% with a volume ratio of 1.37, but no significant catalysts were found to explain the move. The stock's price action was within its intraday range of 4.0%. No notable news or announcements were made by the company.",
-        "confidence": "low",
-        "flags": []
+        "analysis": "GNG Electronics Limited saw a 1.18% increase in price with a volume ratio of 1.37, but no clear catalyst was found to drive this move. The stock gapped up 3.82% at the open, indicating some market enthusiasm. This move without a clear catalyst, combined with elevated volume, could be a sign of underlying interest in the stock.",
+        "confidence": "medium",
+        "flags": [
+          "POSSIBLE_LEAK_OR_FLOW"
+        ]
       }
     },
     {
