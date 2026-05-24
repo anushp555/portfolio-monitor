@@ -1,9 +1,8 @@
 name: Daily Portfolio Report
 
 on:
-  schedule:
-    - cron: "30 3 * * 1-5"   # 09:00 IST primary
-    - cron: "30 4 * * 1-5"   # 10:00 IST backup, runs if 09:00 was skipped
+  # Scheduled via cron-job.org for reliable timing at 09:00 IST.
+  # Built-in GitHub Actions cron disabled due to multi-hour delays on free tier.
   workflow_dispatch:
 
 permissions:
