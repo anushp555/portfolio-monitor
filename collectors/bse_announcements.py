@@ -3,14 +3,6 @@
 The BSE exposes a public JSON API at:
   https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w
 
-Required query params:
-  strCat       : 'A' (All)
-  strPrevDate  : DD/MM/YYYY  -- inclusive lower bound
-  strToDate    : DD/MM/YYYY  -- inclusive upper bound
-  strScrip     : numeric scrip code, e.g. 500325
-  strSearch    : 'P' (text-search mode flag, leave empty)
-  strType      : 'C' (Company-specific)
-
 Returns a list of announcements with: headline, category, pdf_link, attached_at.
 """
 
@@ -54,7 +46,7 @@ async def fetch_bse_announcements(
         "strSearch": "P",
         "strType": "C",
     }
-   try:
+    try:
         r = await client.get(BSE_URL, params=params, headers=HEADERS, timeout=20.0)
         r.raise_for_status()
         data = r.json()
@@ -76,8 +68,11 @@ async def fetch_bse_announcements(
     if not isinstance(items, list):
         log.warning("BSE 'Table' not a list for %s; skipping", scrip_code)
         return []
+
     out: list[dict[str, Any]] = []
     for it in items:
+        if not isinstance(it, dict):
+            continue
         pdf_name = it.get("ATTACHMENTNAME") or ""
         pdf_url = (
             f"https://www.bseindia.com/xml-data/corpfiling/AttachLive/{pdf_name}"
