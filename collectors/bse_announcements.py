@@ -54,7 +54,7 @@ async def fetch_bse_announcements(
         "strSearch": "P",
         "strType": "C",
     }
-    try:
+   try:
         r = await client.get(BSE_URL, params=params, headers=HEADERS, timeout=20.0)
         r.raise_for_status()
         data = r.json()
@@ -62,7 +62,20 @@ async def fetch_bse_announcements(
         log.warning("BSE fetch failed for %s: %s", scrip_code, e)
         return []
 
+    # BSE sometimes returns a string (error page / rate-limit message) instead
+    # of the expected JSON object. Guard against that so one bad response
+    # doesn't crash the whole pipeline.
+    if not isinstance(data, dict):
+        log.warning(
+            "BSE returned non-dict for %s (got %s); skipping",
+            scrip_code, type(data).__name__,
+        )
+        return []
+
     items = data.get("Table", []) or []
+    if not isinstance(items, list):
+        log.warning("BSE 'Table' not a list for %s; skipping", scrip_code)
+        return []
     out: list[dict[str, Any]] = []
     for it in items:
         pdf_name = it.get("ATTACHMENTNAME") or ""
