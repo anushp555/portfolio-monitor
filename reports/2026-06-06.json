@@ -1,7 +1,7 @@
 {
   "report_date": "2026-06-06",
   "trading_day": "2026-06-05",
-  "generated_at": "2026-06-05T10:11:03.892426+05:30",
+  "generated_at": "2026-06-08T09:00:49.230789+05:30",
   "stocks": [
     {
       "symbol": "TMCV",
@@ -10,23 +10,105 @@
       "notes": "Post-demerger CV business (trucks, buses, Iveco). Yahoo uses TMCV; NSE uses TATAMOTORS.",
       "skip_catalysts": false,
       "bse_announcements": [],
-      "nse_announcements": [],
-      "news": [],
+      "nse_announcements": [
+        {
+          "headline": "General Updates",
+          "category": null,
+          "more_info": "Tata Motors Limited has informed the Exchange about physical letters sent to the shareholders of the Company.",
+          "pdf_url": "https://nsearchives.nseindia.com/corporate/TMLCOMMERCIAL_06062026225708_NSEBSELETTERTOSH.pdf",
+          "attached_at": "06-Jun-2026 22:57:27",
+          "source": "NSE"
+        },
+        {
+          "headline": "Updates",
+          "category": null,
+          "more_info": "Tata Motors Limited has informed the Exchange regarding 'Business Responsibility and Sustainability Report for the Financial Year 2025-26'.",
+          "pdf_url": "https://nsearchives.nseindia.com/corporate/TMLCOMMERCIAL_06062026214429_NSEBSEBRSR.pdf",
+          "attached_at": "06-Jun-2026 21:44:38",
+          "source": "NSE"
+        },
+        {
+          "headline": "Shareholders meeting",
+          "category": null,
+          "more_info": "Tata Motors Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on June 29, 2026",
+          "pdf_url": "https://nsearchives.nseindia.com/corporate/TMLCOMMERCIAL_06062026213659_NSEBSENOTICE.pdf",
+          "attached_at": "06-Jun-2026 21:38:02",
+          "source": "NSE"
+        }
+      ],
+      "news": [
+        {
+          "title": "TATA MOTORS LIMITED Share Price Today - Live TMCV Stock Price for NSE/BSE",
+          "source": "Upstox",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ac2Nnb09DcjJJTVp6OU1mREltZ1FHTThpb0dEbUdZSl95dHpvcXpFX3lCZ0RLZjNGUDd5M3BiQVA1SzNab1c2Y3JPbEtFbXpfOC1ncnUxRTdsc2laVURLQjRTSzFFS3R6VEE?oc=5",
+          "published_at": "2026-06-05T07:00:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1ac2Nnb09DcjJJTVp6OU1mREltZ1FHTThpb0dEbUdZSl95dHpvcXpFX3lCZ0RLZjNGUDd5M3BiQVA1SzNab1c2Y3JPbEtFbXpfOC1ncnUxRTdsc2laVURLQjRTSzFFS3R6VEE?oc=5\" target=\"_blank\">TATA MOTORS LIMITED Share Price Today - Live TMCV Stock Price for NSE/BSE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Upstox</font>"
+        },
+        {
+          "title": "Tata Motors Share Latest News I TMPV Share I TMCV Share I Tata Motors Passenger Vehicles Share (MMaN1y2QYh)",
+          "source": "Fathom Journal",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWeExuY1ZFTW9wMnBQdlFWUE9lbzAydF9RcXJsQkt6OEdLUGxabnhyZ0RFeDk1MW43anJ1LUkzTTVSME1PemNBVmhrQ0VwUjFxZDE5QmNhRGs3LTczRlUxWVJCbzRHcC15Nk5oMkRudDlOU244ZHc?oc=5",
+          "published_at": "2026-06-07T08:19:23+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBWeExuY1ZFTW9wMnBQdlFWUE9lbzAydF9RcXJsQkt6OEdLUGxabnhyZ0RFeDk1MW43anJ1LUkzTTVSME1PemNBVmhrQ0VwUjFxZDE5QmNhRGs3LTczRlUxWVJCbzRHcC15Nk5oMkRudDlOU244ZHc?oc=5\" target=\"_blank\">Tata Motors Share Latest News I TMPV Share I TMCV Share I Tata Motors Passenger Vehicles Share (MMaN1y2QYh)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fathom Journal</font>"
+        },
+        {
+          "title": "Tmcv Share Latest News | Tmcv Share Latest News Today |tata Motors Commercial Share (NC9JomcLWC)",
+          "source": "Fathom Journal",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZZngtX3hBNEc5WlVGSlF3T1B4SnV0V1BkaUJRUHRTZUdpZ0xtSVZYdHBycmhvb28yLXM2RF9vYTdzUGsyUi1DaGpOQzZnaDhwd0xvUHFjb1lvdzhVNDZ4NzU2LVNCNk9DRlhyN3VvVnFmRGxXMGc?oc=5",
+          "published_at": "2026-06-07T06:06:32+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZZngtX3hBNEc5WlVGSlF3T1B4SnV0V1BkaUJRUHRTZUdpZ0xtSVZYdHBycmhvb28yLXM2RF9vYTdzUGsyUi1DaGpOQzZnaDhwd0xvUHFjb1lvdzhVNDZ4NzU2LVNCNk9DRlhyN3VvVnFmRGxXMGc?oc=5\" target=\"_blank\">Tmcv Share Latest News | Tmcv Share Latest News Today |tata Motors Commercial Share (NC9JomcLWC)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fathom Journal</font>"
+        },
+        {
+          "title": "Tata Motors Q4 Results 2026 | Tata Motors Share News Today | TMCV Q4 Results | TMCV Results Today (Ur7nCnJjBb)",
+          "source": "Fathom Journal",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE10MlNrZG4zd2xrUGJHbFlZUFlMS1lXaXVzOXF0UmY1R2wzelI5UE55QjJKVUhXOWJuUXJmUUFfR01EQWtLQTNLbEE2NER6Z1ZoUlZuVVhuTXNCd3Fwcl90S1dYaktQRGhKaGF1dERMM3B0OWRLc3c?oc=5",
+          "published_at": "2026-06-06T01:57:57+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE10MlNrZG4zd2xrUGJHbFlZUFlMS1lXaXVzOXF0UmY1R2wzelI5UE55QjJKVUhXOWJuUXJmUUFfR01EQWtLQTNLbEE2NER6Z1ZoUlZuVVhuTXNCd3Fwcl90S1dYaktQRGhKaGF1dERMM3B0OWRLc3c?oc=5\" target=\"_blank\">Tata Motors Q4 Results 2026 | Tata Motors Share News Today | TMCV Q4 Results | TMCV Results Today (Ur7nCnJjBb)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fathom Journal</font"
+        },
+        {
+          "title": "Ashok Leyland, Tmcv, Tmpv, Ola Electric Share Latest News, Tata Motor, Share Anelysis (XRrR8Afobb)",
+          "source": "Fathom Journal",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9sQnRiOHlCQjVrSDRDNnRsdVVWOUNnYTVRSVhTQVlpWml4dHZwTzNuVTRHblBqN3NfOW9BUWMxY3R4VEE4elZBQzlVajA3OWc0MWVHZFVrQVVKRUNSa3dKclNpYWtmZVpfMTE2NWo5cDdSR21mTWc?oc=5",
+          "published_at": "2026-06-05T16:40:52+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9sQnRiOHlCQjVrSDRDNnRsdVVWOUNnYTVRSVhTQVlpWml4dHZwTzNuVTRHblBqN3NfOW9BUWMxY3R4VEE4elZBQzlVajA3OWc0MWVHZFVrQVVKRUNSa3dKclNpYWtmZVpfMTE2NWo5cDdSR21mTWc?oc=5\" target=\"_blank\">Ashok Leyland, Tmcv, Tmpv, Ola Electric Share Latest News, Tata Motor, Share Anelysis (XRrR8Afobb)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fathom Journal</font>"
+        },
+        {
+          "title": "TATA MOTORS Share I TMPV Share News I TMCV I Tata Motors Passenger Vehicles Q3 Result I Big Breaking (iA90gf65OF)",
+          "source": "Fathom Journal",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zazdad1RzOFRQMU8yN2NUcTNPRnZGMVdRTklJNUJ3cF85ZGx5SEtxSFhITnZNenFqRzNQanFMODVIX2JsQ1pvRFlTYTZsT1cydGd6UkthTGd4NExGMVBoZkMzQkNjYloxYTBlb1VPTHo?oc=5",
+          "published_at": "2026-06-05T14:56:08+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE0zazdad1RzOFRQMU8yN2NUcTNPRnZGMVdRTklJNUJ3cF85ZGx5SEtxSFhITnZNenFqRzNQanFMODVIX2JsQ1pvRFlTYTZsT1cydGd6UkthTGd4NExGMVBoZkMzQkNjYloxYTBlb1VPTHo?oc=5\" target=\"_blank\">TATA MOTORS Share I TMPV Share News I TMCV I Tata Motors Passenger Vehicles Q3 Result I Big Breaking (iA90gf65OF)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fathom Journal</font>"
+        },
+        {
+          "title": "TATA Motors Share News Today,TMCV Buy Or Sell ?,tata Motor PV Results Analysis,Target Tomarrow (dr2f2zvYaI)",
+          "source": "Fathom Journal",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ydU1FVi1LX1Q5a3pJd041OVlIdDVYVDFZNzhjeXhFS0pYMV9LWWtFV0tZV1VnUjRXR1VNaDduMFByQTNxZU5BVElEZkxmM2xxUVUwOE4ydVJBTGxTWDc4VGlsQmJsTlVWcTNiVUU1RGZidFJrQWc?oc=5",
+          "published_at": "2026-06-05T14:19:36+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9ydU1FVi1LX1Q5a3pJd041OVlIdDVYVDFZNzhjeXhFS0pYMV9LWWtFV0tZV1VnUjRXR1VNaDduMFByQTNxZU5BVElEZkxmM2xxUVUwOE4ydVJBTGxTWDc4VGlsQmJsTlVWcTNiVUU1RGZidFJrQWc?oc=5\" target=\"_blank\">TATA Motors Share News Today,TMCV Buy Or Sell ?,tata Motor PV Results Analysis,Target Tomarrow (dr2f2zvYaI)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fathom Journal</font>"
+        },
+        {
+          "title": "TATA MOTORS DEMERGER NEWS I TMCV Share Result I TMCV BUY SELL HOLD I TMPV SHARE I TATA MOTORS NEWS (J6PH4A5jrY)",
+          "source": "Fathom Journal",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1oYjQ0QTdabUpZYXJrMUllZUlrMmwxdGdVRVl4Q1Vhb0pDcWlQN0Y4ZE9Pd1prQS0yTnhqeHdfdmUtel9XTkR6MFFtMjN5bWtjNnU3QWpQdmYwc0tHcFFJOWtseFhaMFBLcllGd1NodS1IMWNHb2c?oc=5",
+          "published_at": "2026-06-06T01:23:08+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1oYjQ0QTdabUpZYXJrMUllZUlrMmwxdGdVRVl4Q1Vhb0pDcWlQN0Y4ZE9Pd1prQS0yTnhqeHdfdmUtel9XTkR6MFFtMjN5bWtjNnU3QWpQdmYwc0tHcFFJOWtseFhaMFBLcllGd1NodS1IMWNHb2c?oc=5\" target=\"_blank\">TATA MOTORS DEMERGER NEWS I TMCV Share Result I TMCV BUY SELL HOLD I TMPV SHARE I TATA MOTORS NEWS (J6PH4A5jrY)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fathom Journal</fon"
+        }
+      ],
       "events": [],
       "sebi_mentions": [],
       "price_action": {
         "date": "2026-06-05",
         "open": 376.6,
         "high": 378.6,
-        "low": 372.5,
-        "close": 376.1,
+        "low": 367.05,
+        "close": 369.15,
         "prev_close": 373.6,
-        "change_pct": 0.67,
+        "change_pct": -1.19,
         "gap_pct": 0.8,
-        "intraday_range_pct": 1.63,
-        "volume": 981140,
+        "intraday_range_pct": 3.09,
+        "volume": 6074601,
         "avg_volume_20d": 10054079,
-        "volume_ratio": 0.1,
+        "volume_ratio": 0.6,
         "sparkline": [
           420.75,
           418.3,
@@ -57,13 +139,13 @@
           370.55,
           373.95,
           373.6,
-          376.1
+          369.15
         ]
       },
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Tata Motors Limited stock price increased by 0.67% with low volume, no significant catalysts were observed. The stock's price action was muted, with no notable news or announcements. The low volume ratio of 0.1 suggests a lack of market interest.",
+        "analysis": "Tata Motors stock price declined 1.19% with below-average volume, lacking a clear catalyst to explain the move. The company's announcements and news did not reveal any significant events that could have driven the price action. The stock's price movement appears to be neutral, without any notable catalysts or trading activity.",
         "confidence": "medium",
         "flags": []
       }
@@ -76,22 +158,79 @@
       "skip_catalysts": false,
       "bse_announcements": [],
       "nse_announcements": [],
-      "news": [],
+      "news": [
+        {
+          "title": "Tata Motors Share Latest News I TMPV Share I TMCV Share I Tata Motors Passenger Vehicles Share (MMaN1y2QYh)",
+          "source": "Fathom Journal",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWeExuY1ZFTW9wMnBQdlFWUE9lbzAydF9RcXJsQkt6OEdLUGxabnhyZ0RFeDk1MW43anJ1LUkzTTVSME1PemNBVmhrQ0VwUjFxZDE5QmNhRGs3LTczRlUxWVJCbzRHcC15Nk5oMkRudDlOU244ZHc?oc=5",
+          "published_at": "2026-06-07T08:19:23+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBWeExuY1ZFTW9wMnBQdlFWUE9lbzAydF9RcXJsQkt6OEdLUGxabnhyZ0RFeDk1MW43anJ1LUkzTTVSME1PemNBVmhrQ0VwUjFxZDE5QmNhRGs3LTczRlUxWVJCbzRHcC15Nk5oMkRudDlOU244ZHc?oc=5\" target=\"_blank\">Tata Motors Share Latest News I TMPV Share I TMCV Share I Tata Motors Passenger Vehicles Share (MMaN1y2QYh)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fathom Journal</font>"
+        },
+        {
+          "title": "Tata Motors Passenger Vehicles Ltd Q2 Results",
+          "source": "Mint",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSkMwRlBET1BLM2xRQjNXV1p6UjJlWjdyTUZWOTZ0SzJ0Wlp6SWFVTkk1eWs5LUd1MmdlVWFOY3QyNTZuMDFkSWZFVTZleEE1VVV6dEJYOTNINFBRM0l2d1E1aExQaHdyVjY2UlRzYU1OTUoxRldiRjBnZktfc0M0NE9sNUg2SFFUclZsMnFrWGxUaWNERjNHRkhKeVVmWkJa?oc=5",
+          "published_at": "2026-06-05T07:00:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNSkMwRlBET1BLM2xRQjNXV1p6UjJlWjdyTUZWOTZ0SzJ0Wlp6SWFVTkk1eWs5LUd1MmdlVWFOY3QyNTZuMDFkSWZFVTZleEE1VVV6dEJYOTNINFBRM0l2d1E1aExQaHdyVjY2UlRzYU1OTUoxRldiRjBnZktfc0M0NE9sNUg2SFFUclZsMnFrWGxUaWNERjNHRkhKeVVmWkJa?oc=5\" target=\"_blank\">Tata Motors Passenger Vehicles Ltd Q2 Results</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mint</font>"
+        },
+        {
+          "title": "TATA MOTORS Share I TMPV Share News I TMCV I Tata Motors Passenger Vehicles Q3 Result I Big Breaking (iA90gf65OF)",
+          "source": "Fathom Journal",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zazdad1RzOFRQMU8yN2NUcTNPRnZGMVdRTklJNUJ3cF85ZGx5SEtxSFhITnZNenFqRzNQanFMODVIX2JsQ1pvRFlTYTZsT1cydGd6UkthTGd4NExGMVBoZkMzQkNjYloxYTBlb1VPTHo?oc=5",
+          "published_at": "2026-06-05T14:56:08+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE0zazdad1RzOFRQMU8yN2NUcTNPRnZGMVdRTklJNUJ3cF85ZGx5SEtxSFhITnZNenFqRzNQanFMODVIX2JsQ1pvRFlTYTZsT1cydGd6UkthTGd4NExGMVBoZkMzQkNjYloxYTBlb1VPTHo?oc=5\" target=\"_blank\">TATA MOTORS Share I TMPV Share News I TMCV I Tata Motors Passenger Vehicles Q3 Result I Big Breaking (iA90gf65OF)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fathom Journal</font>"
+        },
+        {
+          "title": "Tata Motors Share Latest New I TMCV Share Crash I TMPV Share Crash I Tata Motors Share Crash Reasons (V8L3JUTbaL)",
+          "source": "Fathom Journal",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBhVXkySnNNLUgwTWhHdHg2MVdhMi1EeERqa2JNNklIYmpOVU5TSW9mUk5PeHhrb0QyalRvLS1od196UzFHeHpJNGlIMmpVeWhUYjZUejlhRC0zcTA3TzlQWTNhaE9WZjcyeEMwNEFKajNTWUFlcWc?oc=5",
+          "published_at": "2026-06-06T05:04:24+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBhVXkySnNNLUgwTWhHdHg2MVdhMi1EeERqa2JNNklIYmpOVU5TSW9mUk5PeHhrb0QyalRvLS1od196UzFHeHpJNGlIMmpVeWhUYjZUejlhRC0zcTA3TzlQWTNhaE9WZjcyeEMwNEFKajNTWUFlcWc?oc=5\" target=\"_blank\">Tata Motors Share Latest New I TMCV Share Crash I TMPV Share Crash I Tata Motors Share Crash Reasons (V8L3JUTbaL)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fathom Journal</f"
+        },
+        {
+          "title": "TMPV Q4 Results 2026 | TMPV Results Today | TMPV Share Latest News | Tata Motors Share News Today (kKhaVH2FeM)",
+          "source": "Fathom Journal",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE93bzVRbDdNal9JSkoyN0Y1ZkNOaXltZFJOYi1YVkFWU0Z1SnVxMW56Rk1LaVdhay1FUlhoZzgtdEtLejZ2OTItbWlvWWpqSm1LcU91VXBfNTNrUkQwRWFjWlR4QjRGV1JZTG1WS2hYRFM?oc=5",
+          "published_at": "2026-06-06T16:26:44+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE93bzVRbDdNal9JSkoyN0Y1ZkNOaXltZFJOYi1YVkFWU0Z1SnVxMW56Rk1LaVdhay1FUlhoZzgtdEtLejZ2OTItbWlvWWpqSm1LcU91VXBfNTNrUkQwRWFjWlR4QjRGV1JZTG1WS2hYRFM?oc=5\" target=\"_blank\">TMPV Q4 Results 2026 | TMPV Results Today | TMPV Share Latest News | Tata Motors Share News Today (kKhaVH2FeM)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fathom Journal</font>"
+        },
+        {
+          "title": "TMPV Dividend I PFC I LIC I Bonus Split & Dividend आज घोषना हुई I UPCOMING BONUS & DIVIDEND (YWpVOSWx62)",
+          "source": "Fathom Journal",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8zOGFMT3IyU3Y5MjJWbWFLS3ZiaXNvNmRUM2l5RHNmR0lRWG9tZnRwTXRtYVVEOFoxaFgyR0tuVlY2blNyX3c1WXUtT0tFVWJUT2hnRlN3OWRPQk8tNGQxNTBOUW82U19OUF9iM1Y2S3pDdG01N1E?oc=5",
+          "published_at": "2026-06-05T04:51:21+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE8zOGFMT3IyU3Y5MjJWbWFLS3ZiaXNvNmRUM2l5RHNmR0lRWG9tZnRwTXRtYVVEOFoxaFgyR0tuVlY2blNyX3c1WXUtT0tFVWJUT2hnRlN3OWRPQk8tNGQxNTBOUW82U19OUF9iM1Y2S3pDdG01N1E?oc=5\" target=\"_blank\">TMPV Dividend I PFC I LIC I Bonus Split & Dividend आज घोषना हुई I UPCOMING BONUS & DIVIDEND (YWpVOSWx62)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fathom Journal</font>"
+        },
+        {
+          "title": "TMPV Share Latest News Today | TMCV Share Latest News Today | Tomorrow Kiya Hoga | (o2YaaZx5m8)",
+          "source": "Fathom Journal",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE01TFoxeXhXRXN5cWRlN250LXdIVFFTVGFXTU5GeXpMU3pZVEJHcjVhUVo0Q29hNmVlWlJudG9LNE1Rc1B6azdDRUtGWXhmdDRWN1U4NEFKb3N5Sk1xSmIwZU40em8wZnQ1WjF3T3lMekh0YWdYY3c?oc=5",
+          "published_at": "2026-06-05T17:21:10+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE01TFoxeXhXRXN5cWRlN250LXdIVFFTVGFXTU5GeXpMU3pZVEJHcjVhUVo0Q29hNmVlWlJudG9LNE1Rc1B6azdDRUtGWXhmdDRWN1U4NEFKb3N5Sk1xSmIwZU40em8wZnQ1WjF3T3lMekh0YWdYY3c?oc=5\" target=\"_blank\">TMPV Share Latest News Today | TMCV Share Latest News Today | Tomorrow Kiya Hoga | (o2YaaZx5m8)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fathom Journal</font>"
+        },
+        {
+          "title": "TMPV And TMCV Share Latest News Today | Big Breaking News | US-Israel-Iran War | (av8006iSCL)",
+          "source": "Fathom Journal",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5pa0VfYTdCRnBEQmZCU2JER1JWSlQxSzh1b0NGek1mbFg0ejk4ZE5mMU5kVmdQMG5pOGVDT3ZEVTRmUnExSjJoa0RZQW9KVWpDXzlHY212MUwzb01ZZTRZTW5saThxeXI0NUltTEZFNzA3LWI1WVE?oc=5",
+          "published_at": "2026-06-06T00:29:27+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5pa0VfYTdCRnBEQmZCU2JER1JWSlQxSzh1b0NGek1mbFg0ejk4ZE5mMU5kVmdQMG5pOGVDT3ZEVTRmUnExSjJoa0RZQW9KVWpDXzlHY212MUwzb01ZZTRZTW5saThxeXI0NUltTEZFNzA3LWI1WVE?oc=5\" target=\"_blank\">TMPV And TMCV Share Latest News Today | Big Breaking News | US-Israel-Iran War | (av8006iSCL)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fathom Journal</font>"
+        }
+      ],
       "events": [],
       "sebi_mentions": [],
       "price_action": {
         "date": "2026-06-05",
         "open": 401.0,
         "high": 403.05,
-        "low": 396.5,
-        "close": 397.15,
+        "low": 393.6,
+        "close": 397.8,
         "prev_close": 399.7,
-        "change_pct": -0.64,
+        "change_pct": -0.48,
         "gap_pct": 0.33,
-        "intraday_range_pct": 1.64,
-        "volume": 1687764,
+        "intraday_range_pct": 2.36,
+        "volume": 9554051,
         "avg_volume_20d": 12725950,
-        "volume_ratio": 0.13,
+        "volume_ratio": 0.75,
         "sparkline": [
           354.35,
           350.8,
@@ -122,13 +261,13 @@
           390.2,
           398.15,
           399.7,
-          397.15
+          397.8
         ]
       },
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Tata Motors Passenger Vehicles Limited stock price declined 0.64% with below-average volume, indicating a lack of significant catalysts or market interest. The stock's intraday range was 1.64%, but the move was not substantial enough to be considered meaningful. No notable announcements or news were reported.",
+        "analysis": "The stock price of Tata Motors Passenger Vehicles Limited declined by 0.48% with a volume ratio of 0.75, indicating a lack of significant catalysts or price movement. No notable news or announcements were found to have driven the price action.",
         "confidence": "medium",
         "flags": []
       }
@@ -140,30 +279,47 @@
       "notes": null,
       "skip_catalysts": false,
       "bse_announcements": [],
-      "nse_announcements": [],
-      "news": [],
-      "events": [],
-      "sebi_mentions": [
+      "nse_announcements": [
         {
-          "title": "Notice of Attachment of Bank Accounts under AP No. 15400 of 2026 dated June 03, 2026, against Upendra Tarachand Mahadule  [Defaulter] PAN: ACAPM4821B in the matter of Illiquid Stock Options under Recovery Certificate No. 9110 of 2026",
-          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/jun-2026/notice-of-attachment-of-bank-accounts-under-ap-no-15400-of-2026-dated-june-03-2026-against-upendra-tarachand-mahadule-defaulter-pan-acapm4821b-in-the-matter-of-illiquid-stock-options-under-reco-_101818.html",
-          "published_at": "03 Jun, 2026 +0530",
-          "summary": "Notice of Attachment of Bank Accounts under AP No. 15400 of 2026 dated June 03, 2026, against Upendra Tarachand Mahadule  [Defaulter] PAN: ACAPM4821B in the matter of Illiquid Stock Options under Recovery Certificate No. 9110 of 2026"
+          "headline": "ESOP/ESOS/ESPS",
+          "category": "Banks",
+          "more_info": "ICICI Bank Limited has informed the Exchange regarding Allotment of 1210306  Shares.",
+          "pdf_url": "https://nsearchives.nseindia.com/corporate/ICICIBANK1_05062026114710_Lettertoexchange.pdf",
+          "attached_at": "05-Jun-2026 11:47:47",
+          "source": "NSE"
         }
       ],
+      "news": [
+        {
+          "title": "ICICIBANK Outlook for the Week (June 08, 2026 – June 12, 2026)",
+          "source": "Equitypandit",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kYVhJNHdOWnMwcEkwMTVPZ0lMSm52Nzg0SlZEVHpBc2tNV2VkelBkcU95NnRLck13OGVLRlpHc0U2d1FQZ2tSTm1rM2U2SV9Na05SNS13RlNIOS1LZUstQk9vQlhDZlhVY0lhVw?oc=5",
+          "published_at": "2026-06-05T07:00:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9kYVhJNHdOWnMwcEkwMTVPZ0lMSm52Nzg0SlZEVHpBc2tNV2VkelBkcU95NnRLck13OGVLRlpHc0U2d1FQZ2tSTm1rM2U2SV9Na05SNS13RlNIOS1LZUstQk9vQlhDZlhVY0lhVw?oc=5\" target=\"_blank\">ICICIBANK Outlook for the Week (June 08, 2026 – June 12, 2026)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Equitypandit</font>"
+        },
+        {
+          "title": "ICICI Bank Q3 Results 2026 - Find ICICI Bank Q3 Earnings Result | ICICIBANK Q3 results",
+          "source": "Mint",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVXQ3RmhFNkZEYnhDOV9mb3k3LXZJSXNzM1BOeFo5cTR5QTRhSGlPZGZXazdrX1Z1UzNRejhMd1dqZWpkdC1Wc2ZfdGtnaDZyYTdsUEloTlZabGc0YUs2dms5WlE5M1Rvb3hQdk5UUkFsYkRwd3RNLWJIY1M5dTFYSA?oc=5",
+          "published_at": "2026-06-05T07:00:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOVXQ3RmhFNkZEYnhDOV9mb3k3LXZJSXNzM1BOeFo5cTR5QTRhSGlPZGZXazdrX1Z1UzNRejhMd1dqZWpkdC1Wc2ZfdGtnaDZyYTdsUEloTlZabGc0YUs2dms5WlE5M1Rvb3hQdk5UUkFsYkRwd3RNLWJIY1M5dTFYSA?oc=5\" target=\"_blank\">ICICI Bank Q3 Results 2026 - Find ICICI Bank Q3 Earnings Result | ICICIBANK Q3 results</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mint</font>"
+        }
+      ],
+      "events": [],
+      "sebi_mentions": [],
       "price_action": {
         "date": "2026-06-05",
         "open": 1257.0,
-        "high": 1263.4,
-        "low": 1254.3,
-        "close": 1259.6,
+        "high": 1265.0,
+        "low": 1250.0,
+        "close": 1262.1,
         "prev_close": 1251.7,
-        "change_pct": 0.63,
+        "change_pct": 0.83,
         "gap_pct": 0.42,
-        "intraday_range_pct": 0.73,
-        "volume": 1342382,
+        "intraday_range_pct": 1.2,
+        "volume": 10166393,
         "avg_volume_20d": 16782713,
-        "volume_ratio": 0.08,
+        "volume_ratio": 0.61,
         "sparkline": [
           1314.1,
           1292.0,
@@ -194,14 +350,14 @@
           1226.6,
           1242.0,
           1251.7,
-          1259.6
+          1262.1
         ]
       },
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "ICICI Bank's stock price rose 0.63% with below-average volume, lacking a clear catalyst. The SEBI mention is unrelated to the company. The move is not significant enough to warrant attention.",
-        "confidence": "high",
+        "analysis": "ICICI Bank's stock price increased by 0.83% with lower-than-average volume, but no significant catalysts were found to explain the move. The ESOP/ESOS/ESPS announcement and news articles did not seem to have a material impact on the stock price. The stock's price action was relatively muted.",
+        "confidence": "medium",
         "flags": []
       }
     },
@@ -213,22 +369,37 @@
       "skip_catalysts": false,
       "bse_announcements": [],
       "nse_announcements": [],
-      "news": [],
+      "news": [
+        {
+          "title": "HDFCLIFE Outlook for the Week (June 08, 2026 – June 12, 2026)",
+          "source": "Equitypandit",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE04bEM3b3Q5S1BMY3NEVlBBNXg3bFc0U3JaU01IRkJ0eUZQQzNTOEIzU2JNZzQxT19Gampza2h5bldUbG9vNm9Vc215cHB1czR0REl6SkNJNmdPUUIwVVNJeDdBWGJCNmY5SGdR?oc=5",
+          "published_at": "2026-06-05T07:00:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE04bEM3b3Q5S1BMY3NEVlBBNXg3bFc0U3JaU01IRkJ0eUZQQzNTOEIzU2JNZzQxT19Gampza2h5bldUbG9vNm9Vc215cHB1czR0REl6SkNJNmdPUUIwVVNJeDdBWGJCNmY5SGdR?oc=5\" target=\"_blank\">HDFCLIFE Outlook for the Week (June 08, 2026 – June 12, 2026)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Equitypandit</font>"
+        },
+        {
+          "title": "HDFC LIFE INS CO LTD Share Price Today - Live HDFCLIFE Stock Price for NSE/BSE",
+          "source": "Upstox",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9rbmpVWmJiOEVqYWFGbHNBdFhudURwc01vMGRrM3lYdFZYRkNlRTc2cThBbXNDZ3pFVDhjUVEzOGQ3ZVl0dGhmUG8zSWlJZGlHZE0yNURUTUFtN1ZzNXlQQ1ZXUkxpb3Bjd3dj?oc=5",
+          "published_at": "2026-06-06T02:42:59+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9rbmpVWmJiOEVqYWFGbHNBdFhudURwc01vMGRrM3lYdFZYRkNlRTc2cThBbXNDZ3pFVDhjUVEzOGQ3ZVl0dGhmUG8zSWlJZGlHZE0yNURUTUFtN1ZzNXlQQ1ZXUkxpb3Bjd3dj?oc=5\" target=\"_blank\">HDFC LIFE INS CO LTD Share Price Today - Live HDFCLIFE Stock Price for NSE/BSE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Upstox</font>"
+        }
+      ],
       "events": [],
       "sebi_mentions": [],
       "price_action": {
         "date": "2026-06-05",
         "open": 577.4,
         "high": 590.0,
-        "low": 577.1,
-        "close": 587.0,
+        "low": 573.9,
+        "close": 575.3,
         "prev_close": 573.75,
-        "change_pct": 2.31,
+        "change_pct": 0.27,
         "gap_pct": 0.64,
-        "intraday_range_pct": 2.25,
-        "volume": 1402807,
+        "intraday_range_pct": 2.81,
+        "volume": 3882527,
         "avg_volume_20d": 3078094,
-        "volume_ratio": 0.46,
+        "volume_ratio": 1.26,
         "sparkline": [
           597.3,
           590.15,
@@ -259,13 +430,13 @@
           579.9,
           574.4,
           573.75,
-          587.0
+          575.3
         ]
       },
       "analysis": {
-        "classification": "move_without_catalyst",
+        "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "HDFC Life Insurance Company Limited saw a 2.31% increase in price with below-average volume, lacking a clear catalyst. This move may be driven by market sentiment or other unreported factors. The stock's price increase without a corresponding catalyst warrants further investigation.",
+        "analysis": "HDFCLIFE stock price moved up 0.27% with a volume ratio of 1.26, which is not significant enough to be driven by any catalyst. The news articles are general outlook and share price updates, not material enough to drive the price action. The stock's movement is relatively muted.",
         "confidence": "medium",
         "flags": []
       }
@@ -277,30 +448,40 @@
       "notes": null,
       "skip_catalysts": false,
       "bse_announcements": [],
-      "nse_announcements": [],
-      "news": [],
-      "events": [],
-      "sebi_mentions": [
+      "nse_announcements": [
         {
-          "title": "Notice of Attachment of Bank Accounts under AP No. 15400 of 2026 dated June 03, 2026, against Upendra Tarachand Mahadule  [Defaulter] PAN: ACAPM4821B in the matter of Illiquid Stock Options under Recovery Certificate No. 9110 of 2026",
-          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/jun-2026/notice-of-attachment-of-bank-accounts-under-ap-no-15400-of-2026-dated-june-03-2026-against-upendra-tarachand-mahadule-defaulter-pan-acapm4821b-in-the-matter-of-illiquid-stock-options-under-reco-_101818.html",
-          "published_at": "03 Jun, 2026 +0530",
-          "summary": "Notice of Attachment of Bank Accounts under AP No. 15400 of 2026 dated June 03, 2026, against Upendra Tarachand Mahadule  [Defaulter] PAN: ACAPM4821B in the matter of Illiquid Stock Options under Recovery Certificate No. 9110 of 2026"
+          "headline": "Shareholders meeting",
+          "category": null,
+          "more_info": "Bandhan Bank Limited has submitted the Voting Result of Postal Ballot, along with a copy of the Scrutinizer's Report.",
+          "pdf_url": "https://nsearchives.nseindia.com/corporate/BANDHANBNK_06062026173822_SE_Disclosure_PB_Results_and_ScrutinizerReport_06062026_sd.pdf",
+          "attached_at": "06-Jun-2026 17:44:10",
+          "source": "NSE"
         }
       ],
+      "news": [
+        {
+          "title": "Bandhan Bank Q4 Results 2026 - Find Bandhan Bank Q4 Earnings Result | BANDHANBNK Q4 results",
+          "source": "Mint",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMFc5YnlBNEJMWGl6eTYyQ3ZjTTZkdDBlc3BmUmlPaG9RdmI1SDNma0lCT0kzVzhZZ2d1Z19GU05oaUNld2h4Z0U0bFpKdjFyNG1iQUFFRHEyNjVCcEs2dDRMaFV2SFlUMEstaGhlZERuRmxGUnA0ZmJyS0o2YXFGMERBbw?oc=5",
+          "published_at": "2026-06-05T07:00:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQMFc5YnlBNEJMWGl6eTYyQ3ZjTTZkdDBlc3BmUmlPaG9RdmI1SDNma0lCT0kzVzhZZ2d1Z19GU05oaUNld2h4Z0U0bFpKdjFyNG1iQUFFRHEyNjVCcEs2dDRMaFV2SFlUMEstaGhlZERuRmxGUnA0ZmJyS0o2YXFGMERBbw?oc=5\" target=\"_blank\">Bandhan Bank Q4 Results 2026 - Find Bandhan Bank Q4 Earnings Result | BANDHANBNK Q4 results</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mint</font>"
+        }
+      ],
+      "events": [],
+      "sebi_mentions": [],
       "price_action": {
         "date": "2026-06-05",
         "open": 205.55,
-        "high": 206.85,
-        "low": 205.1,
-        "close": 206.59,
+        "high": 208.95,
+        "low": 203.36,
+        "close": 205.87,
         "prev_close": 205.44,
-        "change_pct": 0.56,
+        "change_pct": 0.21,
         "gap_pct": 0.05,
-        "intraday_range_pct": 0.85,
-        "volume": 1243770,
+        "intraday_range_pct": 2.72,
+        "volume": 6152884,
         "avg_volume_20d": 9325927,
-        "volume_ratio": 0.13,
+        "volume_ratio": 0.66,
         "sparkline": [
           181.87,
           178.65,
@@ -331,14 +512,14 @@
           206.33,
           207.62,
           205.44,
-          206.59
+          205.87
         ]
       },
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Bandhan Bank's stock price rose 0.56% with below-average volume, indicating a lack of significant catalysts or market interest. The SEBI mention is unrelated to the company's operations. The move is not meaningful enough to warrant attention.",
-        "confidence": "high",
+        "analysis": "Bandhan Bank's stock price saw a minor increase of 0.21% with below-average volume, and no significant catalysts drove the price action. The Q4 results news did not have a substantial impact on the stock price. The shareholders meeting announcement also did not influence the stock's movement.",
+        "confidence": "medium",
         "flags": []
       }
     },
@@ -349,23 +530,54 @@
       "notes": null,
       "skip_catalysts": false,
       "bse_announcements": [],
-      "nse_announcements": [],
-      "news": [],
+      "nse_announcements": [
+        {
+          "headline": "Final  forensic  audit  report",
+          "category": null,
+          "more_info": "Please find enclosed Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 - Report on Chandigarh incident",
+          "pdf_url": "https://nsearchives.nseindia.com/corporate/IDFCFIRSTB_05062026220239_Outcome_KPMG_Forensic_Review_Report.pdf",
+          "attached_at": "05-Jun-2026 22:05:46",
+          "source": "NSE"
+        }
+      ],
+      "news": [
+        {
+          "title": "IDFC FIRST BANK LIMITED Share Price Today - Live IDFCFIRSTB Stock Price for NSE/BSE",
+          "source": "Upstox",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5TY2xoOFhmaXRGMk92QlRZRkNPSkR4R01IaVozSmJsaHBkd0Z2ZHo5MHVYTkdKejZGWVJJRjhhU0dfZVhEUEtjdU0zaG1CS1BrR0h5X1JMNHljUFNXNnhPUzFvTkNzeUhDZ29tc0JEZw?oc=5",
+          "published_at": "2026-06-05T07:00:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5TY2xoOFhmaXRGMk92QlRZRkNPSkR4R01IaVozSmJsaHBkd0Z2ZHo5MHVYTkdKejZGWVJJRjhhU0dfZVhEUEtjdU0zaG1CS1BrR0h5X1JMNHljUFNXNnhPUzFvTkNzeUhDZ29tc0JEZw?oc=5\" target=\"_blank\">IDFC FIRST BANK LIMITED Share Price Today - Live IDFCFIRSTB Stock Price for NSE/BSE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Upstox</font>"
+        },
+        {
+          "title": "IDFC First Bank Q1 Results 2026 - Find IDFC First Bank Q1 Earnings Result | IDFCFIRSTB Q1 results",
+          "source": "Mint",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYzRXeHpBMFQxOFNEd3Q1UGJPMkZpNi1rWV83Y0VjOFZrRTdSclY3dFctQTdkYkxvM01SREJqSEticVhkQmhGV3pjTUl0OVM2SGJtRG5iRXRxWWpnS19RNFhmUTFBbVItenRxT2xycHNtcnJOUUphakhDei1PVmxtVnI0RFVhdzg?oc=5",
+          "published_at": "2026-06-05T07:00:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOYzRXeHpBMFQxOFNEd3Q1UGJPMkZpNi1rWV83Y0VjOFZrRTdSclY3dFctQTdkYkxvM01SREJqSEticVhkQmhGV3pjTUl0OVM2SGJtRG5iRXRxWWpnS19RNFhmUTFBbVItenRxT2xycHNtcnJOUUphakhDei1PVmxtVnI0RFVhdzg?oc=5\" target=\"_blank\">IDFC First Bank Q1 Results 2026 - Find IDFC First Bank Q1 Earnings Result | IDFCFIRSTB Q1 results</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mint</fon"
+        },
+        {
+          "title": "Loan losses (actual) to loan loss reserve of IDFC First Bank Ltd. – NSE:IDFCFIRSTB",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYm5yM0RXaHVkWlBzcFVfM3pYNWxsWDlPVzhlcmxZTUNsWDdCaWNzSHVhenN2ZUx6OGFaUHhEd0hBWlNXaVVvczllM08ya0xOc09CVVpmSkJ6dE9ZWDB0Z0ZPU21pSTAzWXdoWlVNU0l0eEVLUjY4WVVlSkdkdjZrZ01WYi1RcEdnVE5fRDhjMzNRTUdKcWRDRnNpbnl4V1RxYWhKem54cnpBb0NCTUwxclRSM1YxZw?oc=5",
+          "published_at": "2026-06-06T08:30:36+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQYm5yM0RXaHVkWlBzcFVfM3pYNWxsWDlPVzhlcmxZTUNsWDdCaWNzSHVhenN2ZUx6OGFaUHhEd0hBWlNXaVVvczllM08ya0xOc09CVVpmSkJ6dE9ZWDB0Z0ZPU21pSTAzWXdoWlVNU0l0eEVLUjY4WVVlSkdkdjZrZ01WYi1RcEdnVE5fRDhjMzNRTUdKcWRDRnNpbnl4V1RxYWhKem54cnpBb0NCTUwxclRSM1YxZw?oc=5\" target=\"_blank\">Loan losses (actual) to loan loss reserve of IDFC First Bank Ltd. – NSE:IDFCFIRST"
+        }
+      ],
       "events": [],
       "sebi_mentions": [],
       "price_action": {
         "date": "2026-06-05",
         "open": 72.16,
-        "high": 72.64,
-        "low": 71.96,
+        "high": 72.9,
+        "low": 71.82,
         "close": 72.35,
         "prev_close": 72.16,
         "change_pct": 0.26,
         "gap_pct": 0.0,
-        "intraday_range_pct": 0.94,
-        "volume": 2735005,
+        "intraday_range_pct": 1.5,
+        "volume": 28670926,
         "avg_volume_20d": 24314955,
-        "volume_ratio": 0.11,
+        "volume_ratio": 1.18,
         "sparkline": [
           70.27,
           68.71,
@@ -402,8 +614,8 @@
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "IDFC First Bank's stock price remained largely unchanged with a 0.26% gain, on lower-than-average volume. The lack of significant price movement or catalysts suggests a neutral trading day. No notable events or announcements were reported.",
-        "confidence": "high",
+        "analysis": "IDFC First Bank's stock price remained relatively stable with a 0.26% increase, and the volume ratio was 1.18, which is not significantly elevated. The final forensic audit report was released, but it did not seem to have a major impact on the stock price.",
+        "confidence": "medium",
         "flags": []
       }
     },
@@ -414,23 +626,51 @@
       "notes": null,
       "skip_catalysts": false,
       "bse_announcements": [],
-      "nse_announcements": [],
+      "nse_announcements": [
+        {
+          "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "category": null,
+          "more_info": "Capri Global Capital Limited has informed the Exchange about Schedule of meet",
+          "pdf_url": "https://nsearchives.nseindia.com/corporate/CGCL_05062026162829_CGCL_Investor_Interaction_Exchange_Filing.pdf",
+          "attached_at": "05-Jun-2026 16:28:50",
+          "source": "NSE"
+        }
+      ],
       "news": [],
       "events": [],
-      "sebi_mentions": [],
+      "sebi_mentions": [
+        {
+          "title": "Notice of Demand under Recovery Certificate number 9139 of 2026 dated June 5, 2026 issued to Mr.K. Sai Prasad (PAN: AAJPS6517M) [Defaulter] in the matter of Mediaone Global Entertainment Limited.",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/jun-2026/notice-of-demand-under-recovery-certificate-number-9139-of-2026-dated-june-5-2026-issued-to-mr-k-sai-prasad-pan-aajps6517m-defaulter-in-the-matter-of-mediaone-global-entertainment-limited-_101886.html",
+          "published_at": "05 Jun, 2026 +0530",
+          "summary": "Notice of Demand under Recovery Certificate number 9139 of 2026 dated June 5, 2026 issued to Mr.K. Sai Prasad (PAN: AAJPS6517M) [Defaulter] in the matter of Mediaone Global Entertainment Limited."
+        },
+        {
+          "title": "Notice of Demand under Recovery Certificate number 9137 of 2026 dated June 5, 2026 issued to Mediaone Global Entertainment Ltd (PAN: AAACR0405M) [Defaulter] in the matter of Mediaone Global Entertainment Limited.",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/jun-2026/notice-of-demand-under-recovery-certificate-number-9137-of-2026-dated-june-5-2026-issued-to-mediaone-global-entertainment-ltd-pan-aaacr0405m-defaulter-in-the-matter-of-mediaone-global-entertainm-_101880.html",
+          "published_at": "05 Jun, 2026 +0530",
+          "summary": "Notice of Demand under Recovery Certificate number 9137 of 2026 dated June 5, 2026 issued to Mediaone Global Entertainment Ltd (PAN: AAACR0405M) [Defaulter] in the matter of Mediaone Global Entertainment Limited."
+        },
+        {
+          "title": "Notice of Demand under Recovery Certificate number 9136 of 2026 dated June 5, 2026 issued to Mediaone Global Entertainment Ltd (PAN: AAACR0405M) [Defaulter] in the matter of Mediaone Global Entertainment Limited.",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/jun-2026/notice-of-demand-under-recovery-certificate-number-9136-of-2026-dated-june-5-2026-issued-to-mediaone-global-entertainment-ltd-pan-aaacr0405m-defaulter-in-the-matter-of-mediaone-global-entertainm-_101876.html",
+          "published_at": "05 Jun, 2026 +0530",
+          "summary": "Notice of Demand under Recovery Certificate number 9136 of 2026 dated June 5, 2026 issued to Mediaone Global Entertainment Ltd (PAN: AAACR0405M) [Defaulter] in the matter of Mediaone Global Entertainment Limited."
+        }
+      ],
       "price_action": {
         "date": "2026-06-05",
         "open": 203.0,
         "high": 205.0,
-        "low": 202.34,
-        "close": 204.67,
+        "low": 200.93,
+        "close": 202.77,
         "prev_close": 202.53,
-        "change_pct": 1.06,
+        "change_pct": 0.12,
         "gap_pct": 0.23,
-        "intraday_range_pct": 1.31,
-        "volume": 656162,
+        "intraday_range_pct": 2.01,
+        "volume": 3384453,
         "avg_volume_20d": 3091641,
-        "volume_ratio": 0.21,
+        "volume_ratio": 1.09,
         "sparkline": [
           185.13,
           185.04,
@@ -461,13 +701,13 @@
           198.77,
           201.36,
           202.53,
-          204.67
+          202.77
         ]
       },
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "CGCL stock price rose 1.06% with below-average volume, indicating a lack of significant catalysts or market interest. The move is not substantial enough to warrant attention. No notable announcements or news were reported.",
+        "analysis": "CGCL's stock price closed with a minor gain of 0.12% despite a gap up, with volume ratio at 1.09, which is not significantly elevated. The analyst meet update is a minor positive but did not have a significant impact on the stock price. The SEBI mentions are unrelated to the company.",
         "confidence": "medium",
         "flags": []
       }
@@ -480,22 +720,44 @@
       "skip_catalysts": false,
       "bse_announcements": [],
       "nse_announcements": [],
-      "news": [],
+      "news": [
+        {
+          "title": "TATA POWER CO LTD Share Price Today - Live TATAPOWER Stock Price for NSE/BSE",
+          "source": "Upstox",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UVUN0OGR1YVBaQW9KZGJRS25XcElwWU01Z3lqRUdOM2ZlOUx2d3RONV9NRW9GN2RWaWQyRktSdlBtSzgySUdFNDlUelQ4UUJmUjZzSGpObTNjeVVnUDZSSjJBVEtnVzg?oc=5",
+          "published_at": "2026-06-05T07:00:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UVUN0OGR1YVBaQW9KZGJRS25XcElwWU01Z3lqRUdOM2ZlOUx2d3RONV9NRW9GN2RWaWQyRktSdlBtSzgySUdFNDlUelQ4UUJmUjZzSGpObTNjeVVnUDZSSjJBVEtnVzg?oc=5\" target=\"_blank\">TATA POWER CO LTD Share Price Today - Live TATAPOWER Stock Price for NSE/BSE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Upstox</font>"
+        },
+        {
+          "title": "TATAPOWER Outlook for the Week (June 08, 2026 – June 12, 2026)",
+          "source": "Equitypandit",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRU0ZqT1YyRlBJZVdaeXNtYmtuNnhnQ2IwbUNRN1E2MUNSay15X01XOWdIRldqWFFIRnBlREZuOEpNck5uNVg3bk9rQ0dlSUhhV3QtTHpHYUVNZGhZVjdkNWg0V3ZTVUdjYkFJYw?oc=5",
+          "published_at": "2026-06-05T07:00:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBRU0ZqT1YyRlBJZVdaeXNtYmtuNnhnQ2IwbUNRN1E2MUNSay15X01XOWdIRldqWFFIRnBlREZuOEpNck5uNVg3bk9rQ0dlSUhhV3QtTHpHYUVNZGhZVjdkNWg0V3ZTVUdjYkFJYw?oc=5\" target=\"_blank\">TATAPOWER Outlook for the Week (June 08, 2026 – June 12, 2026)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Equitypandit</font>"
+        },
+        {
+          "title": "Top Tata Group Dividend Stocks Bonus TCS Titan TataPower Tata Steel Voltas TMPV Trent Stock Finshots (WCq4dEfyLU)",
+          "source": "Fathom Journal",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1weE9pUmpsOGl2NTk2TXh4S0dVWXZsQ1ljSDNRekR6M2Y3am1veWZWRlVMb1RxTGdVd2hLVTJDdjdSYmRGX1o3ZWpwX01XYWJiNTE2dUlaU1JST2JZeWVMdHBCQUY1YXZncHN3T1BCMUo?oc=5",
+          "published_at": "2026-06-06T12:04:47+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1weE9pUmpsOGl2NTk2TXh4S0dVWXZsQ1ljSDNRekR6M2Y3am1veWZWRlVMb1RxTGdVd2hLVTJDdjdSYmRGX1o3ZWpwX01XYWJiNTE2dUlaU1JST2JZeWVMdHBCQUY1YXZncHN3T1BCMUo?oc=5\" target=\"_blank\">Top Tata Group Dividend Stocks Bonus TCS Titan TataPower Tata Steel Voltas TMPV Trent Stock Finshots (WCq4dEfyLU)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fathom Journal</font>"
+        }
+      ],
       "events": [],
       "sebi_mentions": [],
       "price_action": {
         "date": "2026-06-05",
         "open": 411.45,
         "high": 413.75,
-        "low": 411.05,
-        "close": 413.0,
+        "low": 406.55,
+        "close": 409.2,
         "prev_close": 410.8,
-        "change_pct": 0.54,
+        "change_pct": -0.39,
         "gap_pct": 0.16,
-        "intraday_range_pct": 0.66,
-        "volume": 444322,
+        "intraday_range_pct": 1.75,
+        "volume": 2616616,
         "avg_volume_20d": 5951099,
-        "volume_ratio": 0.07,
+        "volume_ratio": 0.44,
         "sparkline": [
           453.2,
           461.8,
@@ -526,13 +788,13 @@
           414.9,
           411.75,
           410.8,
-          413.0
+          409.2
         ]
       },
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Tata Power Company Limited saw a modest 0.54% gain with below-average volume, indicating a lack of significant catalysts or market interest. The stock's price action was muted, with no notable announcements or news. The low volume ratio of 0.07 suggests a lack of conviction among traders.",
+        "analysis": "Tata Power Company Limited's stock price declined by 0.39% with below-average volume, indicating a lack of significant catalysts or market interest. The stock's price action was muted, with no notable news or announcements driving the move. The company's outlook and dividend prospects may be worth monitoring in the coming week.",
         "confidence": "medium",
         "flags": []
       }
@@ -545,22 +807,72 @@
       "skip_catalysts": false,
       "bse_announcements": [],
       "nse_announcements": [],
-      "news": [],
+      "news": [
+        {
+          "title": "The fresh wind turning Suzlon 2.0 turbines",
+          "source": "BusinessLine",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcmY5aVRVT0tzX3BsSjVWR2pla3JoQmhHX3I4WEpWeW54NVNURXp2Y2dhZTZocDBBVmZJMWNEMElza29HR0JtdWt0OXNHY3RIbUpfaFZ5bzdsTFJqZDZZdnJxV3FwSy11NUZqeWRwTmx6U01KYVpUUy1qRG4zOWJQV0R1NnRkYlRvVzh0Y1huWnlfclM1ZzZZSkFOVTJwLVN2YWtHTDIyc2Jub0RDeGItQlViMU9NUTNCcUHSAcABQVVfeXFMTUZoVDdoZnpnYTBKQ2FSUzZzcHBPMnhLdGRhSWltSnMzbjAtYzBGUy1hUTk3WE9mM3RjQ3FZTmZZZGhlWG9Ic3EzamtUMVd3NGxNRzRISzNFOUktazdXY1hlbFUzWDFIQUFPa09ndHpwTGp5d3hzeDRQVW1CRFo1Rk5HWFZJUWZiaXNYWm5KTlFnU2MxY2MxRXUtZVc5WGdoR2JBMy1zWURjZHkxMHVGWXhmN1VScUc2VWQ4Z3E2MXRL?oc=5",
+          "published_at": "2026-06-08T01:17:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOcmY5aVRVT0tzX3BsSjVWR2pla3JoQmhHX3I4WEpWeW54NVNURXp2Y2dhZTZocDBBVmZJMWNEMElza29HR0JtdWt0OXNHY3RIbUpfaFZ5bzdsTFJqZDZZdnJxV3FwSy11NUZqeWRwTmx6U01KYVpUUy1qRG4zOWJQV0R1NnRkYlRvVzh0Y1huWnlfclM1ZzZZSkFOVTJwLVN2YWtHTDIyc2Jub0RDeGItQlViMU9NUTNCcUHSAcABQVVfeXFMTUZoVDdoZnpnYTBKQ2FSUzZzcHBPMnhLdGRhSWltSnMzbjAtYzBGUy1hUTk3WE9mM3RjQ3FZTmZZZGhlWG9Ic3"
+        },
+        {
+          "title": "Suzlon 2.0: Why the renewable energy giant's strategic shift matters",
+          "source": "Business Standard",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQWRQUnFrR24wVmRVdXJHNnM2c2VTRDVLSDJuQXJqRWNpMFdHZHhiaUp0WVY2MFN4QXB0YXNEMmVKbFliQTE0aXJXcE52cHJXMzVNdDgxRXRtaTA2cGlWa0hkcWx1ZUd4ZE14dlZfRXBiN3lWRGUzNjVlQm9wSkNrYnBzNFBhMFVYcHo0di1hLXd6aFR2V3kyeFl3NmplRWdGM1Y1bHJ1czJ6ZkVYc0ttTDFhY1ROY0JnSDBTdVIxcDJpQlNLaHd6SmZJONIB0AFBVV95cUxQZmVrQ2RqZVlwa0lmd1duaW9aSmJib2ZXSzRMWGZZNE1Hb2NzUzdPeFBLU2RNU1RnLTU1UzBGamxuNVlITnU1eU51Mm12TlhqREJWU1BmVzdsV1lnWjdoNS1fLV91ckxaNEpLZkhwWDlvRFFVODQzUUIwM19qc3pmSzJDTGRHWjV0eHVNd3k5TE1FZUxXa19CbGFWdHpZTXFPVlZoZUJfbzF4enk0Yk5fOEc1Y0N1M25yeEExZjdvYUtrVmh1UDlNZURIZlJxTmZr?oc=5",
+          "published_at": "2026-06-05T10:42:31+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNQWRQUnFrR24wVmRVdXJHNnM2c2VTRDVLSDJuQXJqRWNpMFdHZHhiaUp0WVY2MFN4QXB0YXNEMmVKbFliQTE0aXJXcE52cHJXMzVNdDgxRXRtaTA2cGlWa0hkcWx1ZUd4ZE14dlZfRXBiN3lWRGUzNjVlQm9wSkNrYnBzNFBhMFVYcHo0di1hLXd6aFR2V3kyeFl3NmplRWdGM1Y1bHJ1czJ6ZkVYc0ttTDFhY1ROY0JnSDBTdVIxcDJpQlNLaHd6SmZJONIB0AFBVV95cUxQZmVrQ2RqZVlwa0lmd1duaW9aSmJib2ZXSzRMWGZZNE1Hb2NzUzdPeFBLU2RNU1"
+        },
+        {
+          "title": "Suzlon appoints Ashok Ramachandran as President of India business",
+          "source": "Windtech International",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX09pWFpVSnA2STBScVhmMzhaVXVRaHdiRjBtMFFUZVRjRnBTakM3SWJabnc2eEZmcTFhdkZ0ZVczSXJDeENfMHd1cG5tZW5nVU9GSFM5di1xN21OM01RV19acFNKWDVENXBfdDFwc05IbkVSb1pEX3B2MFNsT2lVMmw2VlNkUl90MWFxWmVHQ1dlaVRacGN4Tmx1VVNNSE9TdG1RUy1SOUxMdHhLMzZ4UVo1X0RVbW1X?oc=5",
+          "published_at": "2026-06-05T08:48:32+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX09pWFpVSnA2STBScVhmMzhaVXVRaHdiRjBtMFFUZVRjRnBTakM3SWJabnc2eEZmcTFhdkZ0ZVczSXJDeENfMHd1cG5tZW5nVU9GSFM5di1xN21OM01RV19acFNKWDVENXBfdDFwc05IbkVSb1pEX3B2MFNsT2lVMmw2VlNkUl90MWFxWmVHQ1dlaVRacGN4Tmx1VVNNSE9TdG1RUy1SOUxMdHhLMzZ4UVo1X0RVbW1X?oc=5\" target=\"_blank\">Suzlon appoints Ashok Ramachandran as President of India business</a>&nbsp;&nbs"
+        },
+        {
+          "title": "Suzlon 2.0 bets big on renewable energy, battery storage",
+          "source": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQlJyNnZhUGdNUGdEQmxLZURna3ItXzJLbVhiSWhtNXpwM3F6VTdUYWo4bWVyMzhEZEwtTTZtcnpoS1dSTGlPUUE2SXNaVVoteF94dHVSSzlRTm1iMjBRYlJsdWNQMDBaUFVpRGJKVEtORHZlaS1IV2ItanR2eFF2b3V0eWFTRVFrLU9SS2c1UWE3SVd6NEhzZGVXVzd4S1FZWmhnR3BkQQ?oc=5",
+          "published_at": "2026-06-05T06:42:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPQlJyNnZhUGdNUGdEQmxLZURna3ItXzJLbVhiSWhtNXpwM3F6VTdUYWo4bWVyMzhEZEwtTTZtcnpoS1dSTGlPUUE2SXNaVVoteF94dHVSSzlRTm1iMjBRYlJsdWNQMDBaUFVpRGJKVEtORHZlaS1IV2ItanR2eFF2b3V0eWFTRVFrLU9SS2c1UWE3SVd6NEhzZGVXVzd4S1FZWmhnR3BkQQ?oc=5\" target=\"_blank\">Suzlon 2.0 bets big on renewable energy, battery storage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</f"
+        },
+        {
+          "title": "Suzlon Charts Path to 10 GW Annual Sales",
+          "source": "Machine Maker",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UVmJPOEFPaWFzdGJLd21nd0E3aEtZc3pvTV82Y2MybXluWVBUa3NfaW1HSl9nZmRfMEJMRDhiX0FwZjM2bU12LWM4SzFxa2NTT183MkhqU2lnb3ppUzZSWG83TUhzeV9ueHJ3QTVaamN6X1hrRE9UMTUwNi1xLUk?oc=5",
+          "published_at": "2026-06-06T10:37:32+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5UVmJPOEFPaWFzdGJLd21nd0E3aEtZc3pvTV82Y2MybXluWVBUa3NfaW1HSl9nZmRfMEJMRDhiX0FwZjM2bU12LWM4SzFxa2NTT183MkhqU2lnb3ppUzZSWG83TUhzeV9ueHJ3QTVaamN6X1hrRE9UMTUwNi1xLUk?oc=5\" target=\"_blank\">Suzlon Charts Path to 10 GW Annual Sales</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Machine Maker</font>"
+        },
+        {
+          "title": "Suzlon Eyes 10 GW Annual Renewable Energy Sales, 70 GW AUM By FY31",
+          "source": "BW Businessworld",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYndaZmlyZ2RLVHBCbHJLY2ZRcWFJclFVMjBxWUNGaUVmdUNoUENQUEdQWHpiMkhnTzRzVW40SHd1Yk92OC15a192YXJrV2VGcVJscG1mbV9JdmdXenpSdWpfUllHeU5jTTdGWkhLZDNPNG80UnRFaWhsVFhjSFZsQzJKRHF6RGVQY0NiU3NhU0xZS2xsYy1BSHZ1SS1ZZzktZUE3YlBfaUMtd2ZNLVE?oc=5",
+          "published_at": "2026-06-05T23:21:48+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPYndaZmlyZ2RLVHBCbHJLY2ZRcWFJclFVMjBxWUNGaUVmdUNoUENQUEdQWHpiMkhnTzRzVW40SHd1Yk92OC15a192YXJrV2VGcVJscG1mbV9JdmdXenpSdWpfUllHeU5jTTdGWkhLZDNPNG80UnRFaWhsVFhjSFZsQzJKRHF6RGVQY0NiU3NhU0xZS2xsYy1BSHZ1SS1ZZzktZUE3YlBfaUMtd2ZNLVE?oc=5\" target=\"_blank\">Suzlon Eyes 10 GW Annual Renewable Energy Sales, 70 GW AUM By FY31</a>&nbsp;&nbsp;<font colo"
+        },
+        {
+          "title": "Exclusive | Ditch the passive voice. Sustainability needs action – Dharini Mishra of Suzlon Group",
+          "source": "Mediabrief.com",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBCQkRsMnFHSzRBZDVfVU9zMXBXSkJQWVF6YzExVW5pLXNTVmdvZl9nSURiSklSS3Z5NVdhVVlUY2p1aWNHbGNHOGo4RjlpVVhFSm90Sl9UOXBDR3lCenlLRklXUWZ5WWFkcERVanRLUjBmdw?oc=5",
+          "published_at": "2026-06-05T05:21:14+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBCQkRsMnFHSzRBZDVfVU9zMXBXSkJQWVF6YzExVW5pLXNTVmdvZl9nSURiSklSS3Z5NVdhVVlUY2p1aWNHbGNHOGo4RjlpVVhFSm90Sl9UOXBDR3lCenlLRklXUWZ5WWFkcERVanRLUjBmdw?oc=5\" target=\"_blank\">Exclusive | Ditch the passive voice. Sustainability needs action – Dharini Mishra of Suzlon Group</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mediabrief.com</font>"
+        }
+      ],
       "events": [],
       "sebi_mentions": [],
       "price_action": {
         "date": "2026-06-05",
         "open": 55.8,
         "high": 56.12,
-        "low": 55.38,
-        "close": 55.65,
+        "low": 55.1,
+        "close": 55.31,
         "prev_close": 55.62,
-        "change_pct": 0.05,
+        "change_pct": -0.56,
         "gap_pct": 0.32,
-        "intraday_range_pct": 1.33,
-        "volume": 16640478,
+        "intraday_range_pct": 1.83,
+        "volume": 72836939,
         "avg_volume_20d": 99490671,
-        "volume_ratio": 0.17,
+        "volume_ratio": 0.73,
         "sparkline": [
           56.93,
           57.32,
@@ -591,14 +903,14 @@
           54.52,
           54.4,
           55.62,
-          55.65
+          55.31
         ]
       },
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Suzlon Energy Limited traded in a narrow range with minimal price movement and below-average volume. The stock's price action was largely neutral, with no significant catalysts driving the move. The day's trading activity did not provide any meaningful insights.",
-        "confidence": "high",
+        "analysis": "Suzlon Energy's stock price declined 0.56% with below-average volume, and no clear catalyst emerged to explain the move. The company announced several strategic shifts and appointments, but the market reaction was muted. The lack of a significant price move or volume surge suggests that investors are waiting for more concrete developments.",
+        "confidence": "medium",
         "flags": []
       }
     },
@@ -610,35 +922,30 @@
       "skip_catalysts": false,
       "bse_announcements": [],
       "nse_announcements": [],
-      "news": [],
-      "events": [
+      "news": [
         {
-          "subject": null,
-          "purpose": "Financial Results",
-          "date": "29-May-2026",
-          "details": "To consider and approve the audited financial results (Standalone & Consolidated) and audited financial statements (Standalone & Consolidated)  of the Company for the quarter and year ended March 31, 2026."
-        },
-        {
-          "subject": null,
-          "purpose": "Dividend",
-          "date": "29-May-2026",
-          "details": "To consider and recommend the final dividend, if any, on the equity shares of the Company for the Financial Year 2025-26."
+          "title": "IREDA shares fall 8% in two days post Q4 – brokerage target price hints at 45% upside",
+          "source": "MSN",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZXR6VDE1SGNKQzF2d0dEVXhRQURnamZ5ZG1jU1BVa1FuVXh2dXhVbnZLeG9uNFZFQVNrcy0wS2ptYnNJSnJsZDcyVzRFemJ2bmR1UTl0b040Qk03M01nVTE1MERaMG80TExvX0dmXzl1clZVY0FucmZVU05tREpsWHhyUEZkX18zSHN2aFY0TWNHY2RUOGo1cFZjQXo1MEZDaVM0MjdIX0o2TFh3enM0VlYzUS1WdHI0TGhMSzZnMmt2WURqT2tWMHJGQkRHcXBoRmc?oc=5",
+          "published_at": "2026-06-06T14:05:44+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZXR6VDE1SGNKQzF2d0dEVXhRQURnamZ5ZG1jU1BVa1FuVXh2dXhVbnZLeG9uNFZFQVNrcy0wS2ptYnNJSnJsZDcyVzRFemJ2bmR1UTl0b040Qk03M01nVTE1MERaMG80TExvX0dmXzl1clZVY0FucmZVU05tREpsWHhyUEZkX18zSHN2aFY0TWNHY2RUOGo1cFZjQXo1MEZDaVM0MjdIX0o2TFh3enM0VlYzUS1WdHI0TGhMSzZnMmt2WURqT2tWMHJGQkRHcXBoRmc?oc=5\" target=\"_blank\">IREDA shares fall 8% in two days post Q4 – b"
         }
       ],
+      "events": [],
       "sebi_mentions": [],
       "price_action": {
         "date": "2026-06-05",
         "open": 123.48,
-        "high": 125.0,
-        "low": 123.24,
-        "close": 124.8,
+        "high": 125.67,
+        "low": 122.75,
+        "close": 123.43,
         "prev_close": 123.24,
-        "change_pct": 1.27,
+        "change_pct": 0.15,
         "gap_pct": 0.19,
-        "intraday_range_pct": 1.43,
-        "volume": 1284446,
+        "intraday_range_pct": 2.37,
+        "volume": 5141536,
         "avg_volume_20d": 8308191,
-        "volume_ratio": 0.15,
+        "volume_ratio": 0.62,
         "sparkline": [
           138.0,
           138.05,
@@ -669,13 +976,13 @@
           124.93,
           122.83,
           123.24,
-          124.8
+          123.43
         ]
       },
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "IREDA's stock price rose 1.27% with below-average volume, lacking a clear catalyst from the previous day. The recent financial results and dividend consideration may have a delayed impact. The stock's muted reaction suggests a lack of market enthusiasm.",
+        "analysis": "IREDA's stock price showed minimal movement with a 0.15% increase, and volume was below average, indicating no significant catalysts or price action. The recent news about a potential 45% upside may have been overshadowed by the lack of immediate market reaction. The stock's muted response suggests investors are waiting for further developments.",
         "confidence": "low",
         "flags": []
       }
@@ -687,30 +994,40 @@
       "notes": null,
       "skip_catalysts": false,
       "bse_announcements": [],
-      "nse_announcements": [],
-      "news": [],
-      "events": [],
-      "sebi_mentions": [
+      "nse_announcements": [
         {
-          "title": "Release Order of RC No- 6543- Chetan Sandesera in the matter of GDR by Sterling Biotech Limited",
-          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/jun-2026/release-order-of-rc-no-6543-chetan-sandesera-in-the-matter-of-gdr-by-sterling-biotech-limited_101836.html",
-          "published_at": "03 Jun, 2026 +0530",
-          "summary": "Release Order of RC No- 6543- Chetan Sandesera in the matter of GDR by Sterling Biotech Limited"
+          "headline": "Copy of Newspaper Publication",
+          "category": null,
+          "more_info": "Sterling and Wilson Renewable Energy Limited has informed the Exchange about Copy of Newspaper Publication",
+          "pdf_url": "https://nsearchives.nseindia.com/corporate/SWSOLAR_05062026194014_Reg30Intimation_signed.pdf",
+          "attached_at": "05-Jun-2026 19:40:26",
+          "source": "NSE"
         }
       ],
+      "news": [
+        {
+          "title": "Why Is Sterling and Wilson Renewable Energy Limited (SWSOLAR.NS) Stock Up Today?",
+          "source": "Meyka",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ldGJ0SVVuZXlCSlRBNDVaVm9WVm0yLUs1MGF6LTZOM3JNYWZnX2NyQnZnR1V4ajNkRExITGI4bURBSVVQeHloTVU3V0tncE9EMTI2dTJha2xlb0x2TVROYUl6dU4?oc=5",
+          "published_at": "2026-06-05T13:27:25+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ldGJ0SVVuZXlCSlRBNDVaVm9WVm0yLUs1MGF6LTZOM3JNYWZnX2NyQnZnR1V4ajNkRExITGI4bURBSVVQeHloTVU3V0tncE9EMTI2dTJha2xlb0x2TVROYUl6dU4?oc=5\" target=\"_blank\">Why Is Sterling and Wilson Renewable Energy Limited (SWSOLAR.NS) Stock Up Today?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Meyka</font>"
+        }
+      ],
+      "events": [],
+      "sebi_mentions": [],
       "price_action": {
         "date": "2026-06-05",
         "open": 202.0,
-        "high": 204.3,
+        "high": 205.8,
         "low": 199.2,
-        "close": 204.22,
+        "close": 203.67,
         "prev_close": 200.53,
-        "change_pct": 1.84,
+        "change_pct": 1.57,
         "gap_pct": 0.73,
-        "intraday_range_pct": 2.54,
-        "volume": 523825,
+        "intraday_range_pct": 3.29,
+        "volume": 2303767,
         "avg_volume_20d": 1790477,
-        "volume_ratio": 0.29,
+        "volume_ratio": 1.29,
         "sparkline": [
           216.01,
           213.31,
@@ -741,14 +1058,14 @@
           191.59,
           194.75,
           200.53,
-          204.22
+          203.67
         ]
       },
       "analysis": {
         "classification": "move_without_catalyst",
         "primary_catalyst": null,
-        "analysis": "SWSOLAR shares rose 1.84% despite lack of significant news or announcements, with below-average volume. This move may be a sign of underlying strength, but without a clear catalyst, it's difficult to determine the driver. The stock's price action will be closely watched for further developments.",
-        "confidence": "low",
+        "analysis": "SWSOLAR stock rose 1.57% with above-average volume, but no clear catalyst was identified. The move may be driven by market sentiment or other unreported factors. The lack of a clear catalyst makes it difficult to predict future price action.",
+        "confidence": "medium",
         "flags": []
       }
     },
@@ -760,22 +1077,37 @@
       "skip_catalysts": false,
       "bse_announcements": [],
       "nse_announcements": [],
-      "news": [],
+      "news": [
+        {
+          "title": "TRANS & RECTI. LTD Share Price Today - Live TARIL Stock Price for NSE/BSE",
+          "source": "Upstox",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Ic29qUG1XUUJFRURQMzlMQjNZNEhubnpLNVB2Sm9IS2VLWmZMa3dVb3EyYU1sV2Mxa1FkTEsyY1luVkVlTlMyYVFVM1F1TWxXRUExRnRrTmZDUTQ0T3R0OWxGd1U?oc=5",
+          "published_at": "2026-06-05T07:00:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Ic29qUG1XUUJFRURQMzlMQjNZNEhubnpLNVB2Sm9IS2VLWmZMa3dVb3EyYU1sV2Mxa1FkTEsyY1luVkVlTlMyYVFVM1F1TWxXRUExRnRrTmZDUTQ0T3R0OWxGd1U?oc=5\" target=\"_blank\">TRANS & RECTI. LTD Share Price Today - Live TARIL Stock Price for NSE/BSE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Upstox</font>"
+        },
+        {
+          "title": "Interview with Satyen Mamtora: Ester oil, ultra-high voltage and TARIL's next transformer shifts",
+          "source": "Power Peak Digest",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOR256cng1UVVuTGtYY3VRUEpYakxBNVBvN2NmMlAwdFhabkh2SnNLYmp4TGwyN1NZWG9FenBhbDE5dlJEZFFnbUZZcnVjWE4xcjVldE5ucmczQ1podGpKekRoeFFSd3hLekVxZ192dktWT183VnhLTDVxRVhnSVU0U1BuMmJCM0JiN1czUUNn?oc=5",
+          "published_at": "2026-06-06T05:37:30+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOR256cng1UVVuTGtYY3VRUEpYakxBNVBvN2NmMlAwdFhabkh2SnNLYmp4TGwyN1NZWG9FenBhbDE5dlJEZFFnbUZZcnVjWE4xcjVldE5ucmczQ1podGpKekRoeFFSd3hLekVxZ192dktWT183VnhLTDVxRVhnSVU0U1BuMmJCM0JiN1czUUNn?oc=5\" target=\"_blank\">Interview with Satyen Mamtora: Ester oil, ultra-high voltage and TARIL's next transformer shifts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">P"
+        }
+      ],
       "events": [],
       "sebi_mentions": [],
       "price_action": {
         "date": "2026-06-05",
         "open": 320.0,
-        "high": 322.9,
-        "low": 316.45,
-        "close": 317.0,
+        "high": 323.55,
+        "low": 313.25,
+        "close": 321.1,
         "prev_close": 317.4,
-        "change_pct": -0.13,
+        "change_pct": 1.17,
         "gap_pct": 0.82,
-        "intraday_range_pct": 2.03,
-        "volume": 456207,
+        "intraday_range_pct": 3.25,
+        "volume": 1928524,
         "avg_volume_20d": 2065896,
-        "volume_ratio": 0.22,
+        "volume_ratio": 0.93,
         "sparkline": [
           342.65,
           337.8,
@@ -806,14 +1138,14 @@
           312.35,
           311.75,
           317.4,
-          317.0
+          321.1
         ]
       },
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "TARIL's stock price remained largely unchanged with a minor decline of 0.13%. The trading volume was significantly lower than the 20-day average. No notable catalysts were observed.",
-        "confidence": "high",
+        "analysis": "TARIL's stock price rose 1.17% with a volume ratio of 0.93, indicating a lack of significant catalysts or price movement. The news articles do not provide any meaningful insights that could have driven the price action. The stock's movement appears to be neutral.",
+        "confidence": "medium",
         "flags": []
       }
     },
@@ -827,50 +1159,118 @@
       "nse_announcements": [],
       "news": [
         {
-          "title": "ITC Properties Group's Unit Enters MoU With China Unicom Hong Kong",
-          "source": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQktDUWQ5V2RxYzh5LVJoSm14M29vYTlWUDdZRHByWmRVOFV3ZUM0Tzc0dnBpbFhVR1puMi0yVldjOU00c1RHRWpuekQxQUVBSGk0QnJrWThrZHF3MzE5b2RoR3RpQ09TalVndzMwUkZOWV82VW02T0hXYW5FVEZHWDZtNFZkSU5VbGtqaWJ5WW5oSzFTOThfTlNPRDhOVDBaVzZuWkUxRzZrLU16akx0bnd4WXA4aWRzb2ttLXVlZmxiclV5SW1jMDZKYzNhMzllSXc?oc=5",
-          "published_at": "2026-06-05T01:27:00+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQktDUWQ5V2RxYzh5LVJoSm14M29vYTlWUDdZRHByWmRVOFV3ZUM0Tzc0dnBpbFhVR1puMi0yVldjOU00c1RHRWpuekQxQUVBSGk0QnJrWThrZHF3MzE5b2RoR3RpQ09TalVndzMwUkZOWV82VW02T0hXYW5FVEZHWDZtNFZkSU5VbGtqaWJ5WW5oSzFTOThfTlNPRDhOVDBaVzZuWkUxRzZrLU16akx0bnd4WXA4aWRzb2ttLXVlZmxiclV5SW1jMDZKYzNhMzllSXc?oc=5\" target=\"_blank\">ITC Properties Group's Unit Enters MoU With "
+          "title": "A new look with fresh bites — Fabelle at ITC Sonar is where you need to be",
+          "source": "t2ONLINE",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQ3hSM0ZjbGdoWEE1Q0w5YTEtZDJSN1BhYmp0VHRWM191U0pmQUNlUF9YN3dIaEpEanJOQ1RTUm9WLVZwSkZPOGhJMThRampqMWdJbEV5YkU4czJsbkNWcTNlZ2hVeW9YVlpKT1lpUHlxX0JHVDhZM0VkQ3RKbjZxdklfSkJ3WDl0ZU9KUnF2eUdKeHMxZG1mUFNYRS0zeS1TUVF2T1R6ZUNydjNVR2RrdndmRjJIbzIwWW1JZ0l0OTVSbDQ?oc=5",
+          "published_at": "2026-06-07T22:30:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQ3hSM0ZjbGdoWEE1Q0w5YTEtZDJSN1BhYmp0VHRWM191U0pmQUNlUF9YN3dIaEpEanJOQ1RTUm9WLVZwSkZPOGhJMThRampqMWdJbEV5YkU4czJsbkNWcTNlZ2hVeW9YVlpKT1lpUHlxX0JHVDhZM0VkQ3RKbjZxdklfSkJ3WDl0ZU9KUnF2eUdKeHMxZG1mUFNYRS0zeS1TUVF2T1R6ZUNydjNVR2RrdndmRjJIbzIwWW1JZ0l0OTVSbDQ?oc=5\" target=\"_blank\">A new look with fresh bites — Fabelle at ITC Sonar is where you "
         },
         {
-          "title": "ITC PROPERTIES (00199.HK) Partners with China Unicom Hong Kong on AI Computing Infrastructure, Expands New Fanling IDC Facility",
-          "source": "AASTOCKS.com",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVFMzdjlKRFR4THh5QUVUN3g4V0NlU1lEbkh5Qlo4SnozcldoV1M1TTJoWEU1R2liaEgwNkVXYVVXRXZOWDhaMWxRdDVUeGVjbGtlcFJhZDlFSmVGWFFUcjdLNWR5dXRfeFhSQk9TN2ZYLUxyNVhja1dBa3FVaUlhcGd6OTMzbzRJQTNhdk9meUR1bUxwSkE?oc=5",
-          "published_at": "2026-06-05T00:22:00+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNVFMzdjlKRFR4THh5QUVUN3g4V0NlU1lEbkh5Qlo4SnozcldoV1M1TTJoWEU1R2liaEgwNkVXYVVXRXZOWDhaMWxRdDVUeGVjbGtlcFJhZDlFSmVGWFFUcjdLNWR5dXRfeFhSQk9TN2ZYLUxyNVhja1dBa3FVaUlhcGd6OTMzbzRJQTNhdk9meUR1bUxwSkE?oc=5\" target=\"_blank\">ITC PROPERTIES (00199.HK) Partners with China Unicom Hong Kong on AI Computing Infrastructure, Expands New Fanling IDC Facil"
+          "title": "DGGI busts fake invoice racket, Hyd man held in ₹72cr ITC fraud",
+          "source": "The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWDhuSlZTcGh4Z0IxSjQ3U2NvWUsyUUtWSEJhcGtPQTJ2Z1VuMTVDRFB0a3IzN2dxSDE2RkllcERKSTBEUWc1RmZ5TkZuNndvdTRGa21yTC1kVDZzRjdHZnlEZGdQRVNKd3pEaWNOYUdoZ0NlRmpxTjVwT1JaLWlZVlB5SmZ0X1FsOXVOb3N5bEQzMkVzUFdtdzBMRnR2MndpbS1rRFZUN0lDVFJKSnNyRkY0cGVPWTJWM0lHNXZyX0NCLVpwM2JaTTZBLVRMWXEtZ24xMdIB2gFBVV95cUxNNmdDNmJIcVd4WlY4QlY0dGFEVjE4ZXU3d3AtclhjZkhYNXh6N2hlUGo1WHdXc0Zrd05sZXpQRmRWQXFoSDBjb01OSjE4RXkxbktFS0JjWGM4OGRoeU01YUFRRGE5aGhYMVpIZ09jY0o2c3JKenhLYUdwNlRyVW4wRndzWk05Vzg0VTdGc2RDMTFkU0ZHTXN0Tl9semhVa1FKWDBvTWpmcUh4OEVubm5ZcGhVczl6XzZ0bUppQi1BMU1FRlFUQkpvbFBJY0x3RlNUUWpsbEJuR2VxZw?oc=5",
+          "published_at": "2026-06-07T14:02:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWDhuSlZTcGh4Z0IxSjQ3U2NvWUsyUUtWSEJhcGtPQTJ2Z1VuMTVDRFB0a3IzN2dxSDE2RkllcERKSTBEUWc1RmZ5TkZuNndvdTRGa21yTC1kVDZzRjdHZnlEZGdQRVNKd3pEaWNOYUdoZ0NlRmpxTjVwT1JaLWlZVlB5SmZ0X1FsOXVOb3N5bEQzMkVzUFdtdzBMRnR2MndpbS1rRFZUN0lDVFJKSnNyRkY0cGVPWTJWM0lHNXZyX0NCLVpwM2JaTTZBLVRMWXEtZ24xMdIB2gFBVV95cUxNNmdDNmJIcVd4WlY4QlY0dGFEVjE4ZXU3d3AtclhjZkhYNXh6N2"
         },
         {
-          "title": "ITC PROPERTIES (00199) has dropped 5.263%. The last price is HK$2.34",
-          "source": "AASTOCKS.com",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9SQlVkZDFtM0JZRjdSbnpCNjc2WldJUzVoeFRudzRHelRRRi0tdjBDcjRIcm92NmJLbHE1SG0tZmpBb1RTaWltLXNydDZiOTBvT2tOOWxXdnV6SEQ2RjlYUnNSc1AyZ2U4c1JvX2JDUDBfdw?oc=5",
-          "published_at": "2026-06-05T02:50:09+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9SQlVkZDFtM0JZRjdSbnpCNjc2WldJUzVoeFRudzRHelRRRi0tdjBDcjRIcm92NmJLbHE1SG0tZmpBb1RTaWltLXNydDZiOTBvT2tOOWxXdnV6SEQ2RjlYUnNSc1AyZ2U4c1JvX2JDUDBfdw?oc=5\" target=\"_blank\">ITC PROPERTIES (00199) has dropped 5.263%. The last price is HK$2.34</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AASTOCKS.com</font>"
+          "title": "ITC Hotels signs 43-room Storii resort at Assam tea estate",
+          "source": "Prop News Time",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaGt1RWlleFNwNjNrNjE0eGFkWHhrZHNwYS04U2kxRzdhM19oSnFnbXRKSGVqZDRISkVaWERTNzZ2THlKUkcxWnhWdEpsTUctWDl0dzNoRHpYNVg2eGUwTEpUd3g3aGhGLTFvb05keWxETEhPdVZNZGx4bVJ2Y1Ayck5VdkpYQnFDSTg3RGtCNnhmUC1ockNBdnlLeEZvd3hYbUJjSFR3alZwYi1HVnNJ?oc=5",
+          "published_at": "2026-06-08T01:35:02+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPaGt1RWlleFNwNjNrNjE0eGFkWHhrZHNwYS04U2kxRzdhM19oSnFnbXRKSGVqZDRISkVaWERTNzZ2THlKUkcxWnhWdEpsTUctWDl0dzNoRHpYNVg2eGUwTEpUd3g3aGhGLTFvb05keWxETEhPdVZNZGx4bVJ2Y1Ayck5VdkpYQnFDSTg3RGtCNnhmUC1ockNBdnlLeEZvd3hYbUJjSFR3alZwYi1HVnNJ?oc=5\" target=\"_blank\">ITC Hotels signs 43-room Storii resort at Assam tea estate</a>&nbsp;&nbsp;<font color=\"#6f6"
         },
         {
-          "title": "ITC shares: A risk or reward for investors? Stock at 52-week low",
-          "source": "MSN",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRHZYenJiUFNBUDRVUUxBRDJxb0xodVBoUUZFM2VHZF9Lb0NhQmVVeUN6Y1RGUU1lWGZBdjZOcmpuUWhMTFA1eG12T1RBVC14d3FGNVFHa3dXTU1vbXJIZldiWG5XVFN4azQ2NllodE0zY05IZldHczlYOFV2NnE4ak1FQlc3bEx1MjNWbTNyQi1UNS11YS14YU5tZnZITklOSWczelVUSm5LNW9iNmJRei1Nd2VRdDJHY2ZnU3pqMFItWU1KNXl5XzJLWkpldnAzSlE3c0FYMU0wQzA?oc=5",
-          "published_at": "2026-06-05T01:51:13+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRHZYenJiUFNBUDRVUUxBRDJxb0xodVBoUUZFM2VHZF9Lb0NhQmVVeUN6Y1RGUU1lWGZBdjZOcmpuUWhMTFA1eG12T1RBVC14d3FGNVFHa3dXTU1vbXJIZldiWG5XVFN4azQ2NllodE0zY05IZldHczlYOFV2NnE4ak1FQlc3bEx1MjNWbTNyQi1UNS11YS14YU5tZnZITklOSWczelVUSm5LNW9iNmJRei1Nd2VRdDJHY2ZnU3pqMFItWU1KNXl5XzJLWkpldnAzSlE3c0FYMU0wQzA?oc=5\" target=\"_blank\">ITC shares: A risk or reward for"
+          "title": "ITC HOTELS LIMITED Share Price Today - Live ITCHOTELS Stock Price for NSE/BSE",
+          "source": "Upstox",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54ekEtS1BNTlF3VnN1bUg0YVpoTUVxdXc2THdfb19HMkw1czNrRDFaVHZpU2NraGVpYXlMZGJGamhhcTJsTjNLazJHMzltX3lxdlRySWVJM29Ob0Z1cmJpNHRfcDFfTzJj?oc=5",
+          "published_at": "2026-06-05T07:00:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE54ekEtS1BNTlF3VnN1bUg0YVpoTUVxdXc2THdfb19HMkw1czNrRDFaVHZpU2NraGVpYXlMZGJGamhhcTJsTjNLazJHMzltX3lxdlRySWVJM29Ob0Z1cmJpNHRfcDFfTzJj?oc=5\" target=\"_blank\">ITC HOTELS LIMITED Share Price Today - Live ITCHOTELS Stock Price for NSE/BSE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Upstox</font>"
         },
         {
-          "title": "Hotels Signs 25th Storii Property: Tea Estate Retreat Debuts in Guwahati",
-          "source": "Nomad Lawyer",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5BX2k0MWZOdlRXeGdfd0FGbjdRZWk1TXU2SUJOSGlodFhhMjJqczJlYzI5TzZ5SWZXODNqUndpNy1mMmpxcjZ5MUowLWJ4WEdXUnd1NlhqYW1iV1E0bWNONnFNT2ItTjdtUTRMQk9pTWxJT01hNy1sZUVZVVM3ajg?oc=5",
-          "published_at": "2026-06-05T02:32:04+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5BX2k0MWZOdlRXeGdfd0FGbjdRZWk1TXU2SUJOSGlodFhhMjJqczJlYzI5TzZ5SWZXODNqUndpNy1mMmpxcjZ5MUowLWJ4WEdXUnd1NlhqYW1iV1E0bWNONnFNT2ItTjdtUTRMQk9pTWxJT01hNy1sZUVZVVM3ajg?oc=5\" target=\"_blank\">Hotels Signs 25th Storii Property: Tea Estate Retreat Debuts in Guwahati</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nomad Lawyer</font>"
+          "title": "GST ITC Cannot Be Denied for Supplier’s Tax Default: HC",
+          "source": "Studycafe",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWmlWbUMzRVhjRGQ1QTJaM3ZFMHVOUFdjd3YwTXp2TnNsazNIUGlfLS1EQWJZblVhNW5GQnM2Um9wbG5GSEl2RUV5bVhid1NmNVh1R1JNVEZVMWl0aVlmSmlsR0laeS00dmd0ZHozTVBTZThBNDhzdWFiUUEtbkE5TUdIRGwxZ2NzRDdXWk1sNA?oc=5",
+          "published_at": "2026-06-07T12:38:02+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPWmlWbUMzRVhjRGQ1QTJaM3ZFMHVOUFdjd3YwTXp2TnNsazNIUGlfLS1EQWJZblVhNW5GQnM2Um9wbG5GSEl2RUV5bVhid1NmNVh1R1JNVEZVMWl0aVlmSmlsR0laeS00dmd0ZHozTVBTZThBNDhzdWFiUUEtbkE5TUdIRGwxZ2NzRDdXWk1sNA?oc=5\" target=\"_blank\">GST ITC Cannot Be Denied for Supplier’s Tax Default: HC</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Studycafe</font>"
         },
         {
-          "title": "ITC, IOC, Infosys, Wipro among top 15 NSE 500 dividend yield stocks – check list",
-          "source": "MSN",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTWdBZmRCR1Ewd2pyTVN0UGJWcHlfRTY5emdLSlZIZEJ6SEhWUVRfMWFRajRYSjBpMTlYRl9mX2FNMVdPZlZsR0RqNFNSRG04RHlPN296ci04dW16MlhuNGVPZ2dHUHFHSGhrSmRhcFF0Tm1MMndrODZOd0V0WHlaX2FkRFRrZlpnWHJXY2lfeExseWJPWUpPT2V0cGRndWwzWEhsNk5FNk81cU9rOEFMYjBvV0V5WnAtZFdkS2NPanFBUzVkZTJZSW1TaUVTRmNhZ01ud3BuN1czbUJSNm5xOHltdjRic1FTN2t1bg?oc=5",
-          "published_at": "2026-06-05T02:48:45+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTWdBZmRCR1Ewd2pyTVN0UGJWcHlfRTY5emdLSlZIZEJ6SEhWUVRfMWFRajRYSjBpMTlYRl9mX2FNMVdPZlZsR0RqNFNSRG04RHlPN296ci04dW16MlhuNGVPZ2dHUHFHSGhrSmRhcFF0Tm1MMndrODZOd0V0WHlaX2FkRFRrZlpnWHJXY2lfeExseWJPWUpPT2V0cGRndWwzWEhsNk5FNk81cU9rOEFMYjBvV0V5WnAtZFdkS2NPanFBUzVkZTJZSW1TaUVTRmNhZ01ud3BuN1czbUJSNm5xOHltdjRic1FTN2t1bg?oc=5\" target=\"_blank\">ITC, IOC,"
+          "title": "Moderna seeks Arbutus payout immunity; March patent transactions; Trump unveils ITC picks; UPC provides long-arm guidance; Hikma SCOTUS ruling; plus much more",
+          "source": "IAM Patent",
+          "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNTmE2THZ2eXZCMEJLWU5Da3VueFA3WnFxcUJqM2ZLamZCQ2pPUGNTWU1xVlhBOE5TempZR05PTlItWUNVMVRocDd6VzJ1cGdoVnNJNU5KdDZJNG94b1ZNRkR0X2VKb3JkZUFpX0lCNWpmNHR2UDJ6YWtCQnZsb0c0ZzJiRTdYOXJEdEI0azJ5NVlyT0pBZnUtaENIYzNrWlBtdDl6TERNc3U5Z3VILWEtYnR2Zm9aZFZndjZKcWZDQWxMMFd2b2hKWlUzMzF0N3dtblgxNkFyYzBKYUJRYVhXZmtHcTVobXNUcDlLbkt1YWgtWVdVM0VNSVBLMklTTmNTTGpKTXcwekM1VkVueWNNbjhsR29IOEpGTlE?oc=5",
+          "published_at": "2026-06-07T10:36:53+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgJBVV95cUxNTmE2THZ2eXZCMEJLWU5Da3VueFA3WnFxcUJqM2ZLamZCQ2pPUGNTWU1xVlhBOE5TempZR05PTlItWUNVMVRocDd6VzJ1cGdoVnNJNU5KdDZJNG94b1ZNRkR0X2VKb3JkZUFpX0lCNWpmNHR2UDJ6YWtCQnZsb0c0ZzJiRTdYOXJEdEI0azJ5NVlyT0pBZnUtaENIYzNrWlBtdDl6TERNc3U5Z3VILWEtYnR2Zm9aZFZndjZKcWZDQWxMMFd2b2hKWlUzMzF0N3dtblgxNkFyYzBKYUJRYVhXZmtHcTVobXNUcDlLbkt1YWgtWVdVM0VNSVBLMklTTmNTTGpKTX"
+        },
+        {
+          "title": "ITC leveraging purpose-specific AI tools for carrying out climate risk assessments at 140 sites",
+          "source": "BusinessLine",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPQnFEMVRFNnFzS3c4Ty1RNmZVeE5FNUNmZERHNU5KQ0d3dVVSR25qaTg2NHA4YXh2NUtUU3FaSjRnckllTkxaOGhXRGZOcFRuTnk5Q3NTYUNsT3djMk03c2ZjMGlUQWMwR2QtaDdld042TVBNcFkxSWhJRk81b3EyVGVZNXp3QkcyRVJ5enJRUEx6eXBxWXRHS2ZJVmxSNzZIY1NDNjhlUmlHWWZOTTVJS25WdDNYN2JZVTVaQXZjcFBxTGJTTWZlZHZ0SjhMUnh1VHhlUGtFQnVFcFdUWHZveG1POUFmaFQ2Y0xYVndFUW85NTF40gH7AUFVX3lxTFBzYnkzZHRySUtISW1RdGxDV0NZb3NjMU9aMVNZcmVtTUhxOUx4bzhPb2ZGVjZ4WnZfbF9nVzdub2ZZaGx4WWlNNDg0elJBZHUzRmtJZ2czdUxxMk8wcEFjZVFPWnpwQmlZdUdmR3VqSTQtT2g0YjUzOE54U0R1NkhqNGNOLURrM3psdFB2NlVhSmJySFI0cG1iZnlRc29EVDRSODlBOFIzUThqS3N5Mm9qeDZ4cVJudXZvZk1vZmd4eDQ4WGp1VkRBNzNDTlFOMEo1ckZvRXNCd0R1WUluODYwVVM5OFFOeGhHbGpZXzhZMVlCU3p3RURHLUxJ?oc=5",
+          "published_at": "2026-06-05T09:11:08+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxPQnFEMVRFNnFzS3c4Ty1RNmZVeE5FNUNmZERHNU5KQ0d3dVVSR25qaTg2NHA4YXh2NUtUU3FaSjRnckllTkxaOGhXRGZOcFRuTnk5Q3NTYUNsT3djMk03c2ZjMGlUQWMwR2QtaDdld042TVBNcFkxSWhJRk81b3EyVGVZNXp3QkcyRVJ5enJRUEx6eXBxWXRHS2ZJVmxSNzZIY1NDNjhlUmlHWWZOTTVJS25WdDNYN2JZVTVaQXZjcFBxTGJTTWZlZHZ0SjhMUnh1VHhlUGtFQnVFcFdUWHZveG1POUFmaFQ2Y0xYVndFUW85NTF40gH7AUFVX3lxTFBzYnkzZH"
+        },
+        {
+          "title": "Gauhati HC Protects Bona Fide Purchaser’s ITC Despite Supplier Default.",
+          "source": "Studycafe",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaG5OcXdWdW4xWUkwdVBoV3d6Rm5fNFlyLVJjVXNPMk5ZWkt6ZXBZOGVDU19fSnhBMjB3TWZkbXBPQUswTlhVZkl2ekVjVjBNSGhwa1o3d0YxaXhXVTFUa2pEVEd5b0pFUWVnRk5idW4yMm9VRWI4OU1LWmN0aGFMdXVfSlpCczRpaElJRDY0bm94LXhENldjUHBWUEZzUnJWSkw1Mg?oc=5",
+          "published_at": "2026-06-06T12:11:54+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPaG5OcXdWdW4xWUkwdVBoV3d6Rm5fNFlyLVJjVXNPMk5ZWkt6ZXBZOGVDU19fSnhBMjB3TWZkbXBPQUswTlhVZkl2ekVjVjBNSGhwa1o3d0YxaXhXVTFUa2pEVEd5b0pFUWVnRk5idW4yMm9VRWI4OU1LWmN0aGFMdXVfSlpCczRpaElJRDY0bm94LXhENldjUHBWUEZzUnJWSkw1Mg?oc=5\" target=\"_blank\">Gauhati HC Protects Bona Fide Purchaser’s ITC Despite Supplier Default.</a>&nbsp;&nbsp;<font color=\"#6f6f"
         }
       ],
       "events": [],
       "sebi_mentions": [
+        {
+          "title": "Certificate No. RC9143 of 2026_ Notice of Demand in respect of HKC Techhind Private Limited (PAN: AAACH6407P) in the matter of Illiquid Stock Options",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/jun-2026/certificate-no-rc9143-of-2026-notice-of-demand-in-respect-of-hkc-techhind-private-limited-pan-aaach6407p-in-the-matter-of-illiquid-stock-options_101899.html",
+          "published_at": "05 Jun, 2026 +0530",
+          "summary": "Certificate No. RC9143 of 2026_ Notice of Demand in respect of HKC Techhind Private Limited (PAN: AAACH6407P) in the matter of Illiquid Stock Options"
+        },
+        {
+          "title": "Certificate No. RC9142 of 2026_ Notice of Demand in respect of Agomoni Commercial Private Limited (PAN: AAHCA2663H) in the matter of Illiquid Stock Options",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/jun-2026/certificate-no-rc9142-of-2026-notice-of-demand-in-respect-of-agomoni-commercial-private-limited-pan-aahca2663h-in-the-matter-of-illiquid-stock-options_101897.html",
+          "published_at": "05 Jun, 2026 +0530",
+          "summary": "Certificate No. RC9142 of 2026_ Notice of Demand in respect of Agomoni Commercial Private Limited (PAN: AAHCA2663H) in the matter of Illiquid Stock Options"
+        },
+        {
+          "title": "Adjudication Order in respect of The Ellenbarrie Tea Company Limited in the matter of Illiquid Stock Options at BSE.",
+          "url": "https://www.sebi.gov.in/enforcement/orders/jun-2026/adjudication-order-in-respect-of-the-ellenbarrie-tea-company-limited-in-the-matter-of-illiquid-stock-options-at-bse-_101894.html",
+          "published_at": "05 Jun, 2026 +0530",
+          "summary": "Adjudication Order in respect of The Ellenbarrie Tea Company Limited in the matter of Illiquid Stock Options at BSE."
+        },
+        {
+          "title": "Certificate No. RC9141 of 2026_ Notice of Demand in respect of Asan Steels Private Limited (PAN: AAHCA8637P) in the matter of Illiquid Stock Options",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/jun-2026/certificate-no-rc9141-of-2026-notice-of-demand-in-respect-of-asan-steels-private-limited-pan-aahca8637p-in-the-matter-of-illiquid-stock-options_101891.html",
+          "published_at": "05 Jun, 2026 +0530",
+          "summary": "Certificate No. RC9141 of 2026_ Notice of Demand in respect of Asan Steels Private Limited (PAN: AAHCA8637P) in the matter of Illiquid Stock Options"
+        },
+        {
+          "title": "Notice of Demand under Recovery Certificate number 9139 of 2026 dated June 5, 2026 issued to Mr.K. Sai Prasad (PAN: AAJPS6517M) [Defaulter] in the matter of Mediaone Global Entertainment Limited.",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/jun-2026/notice-of-demand-under-recovery-certificate-number-9139-of-2026-dated-june-5-2026-issued-to-mr-k-sai-prasad-pan-aajps6517m-defaulter-in-the-matter-of-mediaone-global-entertainment-limited-_101886.html",
+          "published_at": "05 Jun, 2026 +0530",
+          "summary": "Notice of Demand under Recovery Certificate number 9139 of 2026 dated June 5, 2026 issued to Mr.K. Sai Prasad (PAN: AAJPS6517M) [Defaulter] in the matter of Mediaone Global Entertainment Limited."
+        },
+        {
+          "title": "Certificate No. RC9138 of 2026_ Notice of Demand in respect of Amanat Developers Private Limited (PAN: AAGCA9440D) in the matter of Illiquid Stock Options",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/jun-2026/certificate-no-rc9138-of-2026-notice-of-demand-in-respect-of-amanat-developers-private-limited-pan-aagca9440d-in-the-matter-of-illiquid-stock-options_101882.html",
+          "published_at": "05 Jun, 2026 +0530",
+          "summary": "Certificate No. RC9138 of 2026_ Notice of Demand in respect of Amanat Developers Private Limited (PAN: AAGCA9440D) in the matter of Illiquid Stock Options"
+        },
+        {
+          "title": "Notice of Demand under Recovery Certificate number 9137 of 2026 dated June 5, 2026 issued to Mediaone Global Entertainment Ltd (PAN: AAACR0405M) [Defaulter] in the matter of Mediaone Global Entertainment Limited.",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/jun-2026/notice-of-demand-under-recovery-certificate-number-9137-of-2026-dated-june-5-2026-issued-to-mediaone-global-entertainment-ltd-pan-aaacr0405m-defaulter-in-the-matter-of-mediaone-global-entertainm-_101880.html",
+          "published_at": "05 Jun, 2026 +0530",
+          "summary": "Notice of Demand under Recovery Certificate number 9137 of 2026 dated June 5, 2026 issued to Mediaone Global Entertainment Ltd (PAN: AAACR0405M) [Defaulter] in the matter of Mediaone Global Entertainment Limited."
+        },
+        {
+          "title": "SEBI Order for Compliance - Release Order for Recovery Certificate No. 9078 of 2026 against I Zone Academy Private Limited (PAN: AACCI0592E) in the matter of trading in Illiquid Stock Options on BSE.",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/jun-2026/sebi-order-for-compliance-release-order-for-recovery-certificate-no-9078-of-2026-against-i-zone-academy-private-limited-pan-aacci0592e-in-the-matter-of-trading-in-illiquid-stock-options-on-bse-_101878.html",
+          "published_at": "05 Jun, 2026 +0530",
+          "summary": "SEBI Order for Compliance - Release Order for Recovery Certificate No. 9078 of 2026 against I Zone Academy Private Limited (PAN: AACCI0592E) in the matter of trading in Illiquid Stock Options on BSE."
+        },
+        {
+          "title": "Notice of Demand under Recovery Certificate number 9136 of 2026 dated June 5, 2026 issued to Mediaone Global Entertainment Ltd (PAN: AAACR0405M) [Defaulter] in the matter of Mediaone Global Entertainment Limited.",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/jun-2026/notice-of-demand-under-recovery-certificate-number-9136-of-2026-dated-june-5-2026-issued-to-mediaone-global-entertainment-ltd-pan-aaacr0405m-defaulter-in-the-matter-of-mediaone-global-entertainm-_101876.html",
+          "published_at": "05 Jun, 2026 +0530",
+          "summary": "Notice of Demand under Recovery Certificate number 9136 of 2026 dated June 5, 2026 issued to Mediaone Global Entertainment Ltd (PAN: AAACR0405M) [Defaulter] in the matter of Mediaone Global Entertainment Limited."
+        },
         {
           "title": "Certificate No. RC9096 of 2026_A.P Nos 15407 of 2026_ Swift Dealmark Private Limited (PAN: AAPCS1110D) in the matter of Illiquid Stock Options",
           "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/jun-2026/certificate-no-rc9096-of-2026-a-p-nos-15407-of-2026-swift-dealmark-private-limited-pan-aapcs1110d-in-the-matter-of-illiquid-stock-options_101848.html",
@@ -882,39 +1282,21 @@
           "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/jun-2026/certificate-no-rc9096-of-2026-a-p-nos-15406-of-2026-swift-dealmark-private-limited-pan-aapcs1110d-in-the-matter-of-illiquid-stock-options_101846.html",
           "published_at": "04 Jun, 2026 +0530",
           "summary": "Certificate No. RC9096 of 2026_A.P Nos 15406 of 2026_ Swift Dealmark Private Limited (PAN: AAPCS1110D) in the matter of Illiquid Stock Options"
-        },
-        {
-          "title": "Release Order of RC No- 6543- Chetan Sandesera in the matter of GDR by Sterling Biotech Limited",
-          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/jun-2026/release-order-of-rc-no-6543-chetan-sandesera-in-the-matter-of-gdr-by-sterling-biotech-limited_101836.html",
-          "published_at": "03 Jun, 2026 +0530",
-          "summary": "Release Order of RC No- 6543- Chetan Sandesera in the matter of GDR by Sterling Biotech Limited"
-        },
-        {
-          "title": "Corrigendum to Order dated March 24, 2026 in the matter of Front-running trades of Big Client - Sarvottam Securities Private Limited by multiple entities.",
-          "url": "https://www.sebi.gov.in/enforcement/orders/jun-2026/corrigendum-to-order-dated-march-24-2026-in-the-matter-of-front-running-trades-of-big-client-sarvottam-securities-private-limited-by-multiple-entities-_101822.html",
-          "published_at": "03 Jun, 2026 +0530",
-          "summary": "Corrigendum to Order dated March 24, 2026 in the matter of Front-running trades of Big Client - Sarvottam Securities Private Limited by multiple entities."
-        },
-        {
-          "title": "Interim Order in the matter of Rajesh Exports Limited",
-          "url": "https://www.sebi.gov.in/enforcement/orders/jun-2026/interim-order-in-the-matter-of-rajesh-exports-limited_101820.html",
-          "published_at": "03 Jun, 2026 +0530",
-          "summary": "Interim Order in the matter of Rajesh Exports Limited"
         }
       ],
       "price_action": {
         "date": "2026-06-05",
         "open": 280.0,
-        "high": 281.0,
-        "low": 279.5,
-        "close": 280.05,
+        "high": 281.4,
+        "low": 277.85,
+        "close": 280.7,
         "prev_close": 280.3,
-        "change_pct": -0.09,
+        "change_pct": 0.14,
         "gap_pct": -0.11,
-        "intraday_range_pct": 0.54,
-        "volume": 2250016,
+        "intraday_range_pct": 1.27,
+        "volume": 16065822,
         "avg_volume_20d": 19291742,
-        "volume_ratio": 0.12,
+        "volume_ratio": 0.83,
         "sparkline": [
           303.85,
           304.45,
@@ -945,13 +1327,13 @@
           283.25,
           277.0,
           280.3,
-          280.05
+          280.7
         ]
       },
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "ITC's stock price remained relatively stable with a minor decline of 0.09%. There were no significant announcements or news that could have driven the price action. The company's properties group unit entering an MoU with China Unicom Hong Kong was reported, but it did not seem to have a notable impact on the stock price.",
+        "analysis": "ITC's stock price moved marginally, with a 0.14% increase, and volume was below average, indicating a lack of significant catalysts or market-moving events. The news articles did not reveal any major developments that could have driven the price action.",
         "confidence": "medium",
         "flags": []
       }
@@ -964,9 +1346,71 @@
       "skip_catalysts": false,
       "bse_announcements": [],
       "nse_announcements": [],
-      "news": [],
+      "news": [
+        {
+          "title": "ITC HOTELS LIMITED Share Price Today - Live ITCHOTELS Stock Price for NSE/BSE",
+          "source": "Upstox",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54ekEtS1BNTlF3VnN1bUg0YVpoTUVxdXc2THdfb19HMkw1czNrRDFaVHZpU2NraGVpYXlMZGJGamhhcTJsTjNLazJHMzltX3lxdlRySWVJM29Ob0Z1cmJpNHRfcDFfTzJj?oc=5",
+          "published_at": "2026-06-05T07:00:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE54ekEtS1BNTlF3VnN1bUg0YVpoTUVxdXc2THdfb19HMkw1czNrRDFaVHZpU2NraGVpYXlMZGJGamhhcTJsTjNLazJHMzltX3lxdlRySWVJM29Ob0Z1cmJpNHRfcDFfTzJj?oc=5\" target=\"_blank\">ITC HOTELS LIMITED Share Price Today - Live ITCHOTELS Stock Price for NSE/BSE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Upstox</font>"
+        }
+      ],
       "events": [],
       "sebi_mentions": [
+        {
+          "title": "Certificate No. RC9143 of 2026_ Notice of Demand in respect of HKC Techhind Private Limited (PAN: AAACH6407P) in the matter of Illiquid Stock Options",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/jun-2026/certificate-no-rc9143-of-2026-notice-of-demand-in-respect-of-hkc-techhind-private-limited-pan-aaach6407p-in-the-matter-of-illiquid-stock-options_101899.html",
+          "published_at": "05 Jun, 2026 +0530",
+          "summary": "Certificate No. RC9143 of 2026_ Notice of Demand in respect of HKC Techhind Private Limited (PAN: AAACH6407P) in the matter of Illiquid Stock Options"
+        },
+        {
+          "title": "Certificate No. RC9142 of 2026_ Notice of Demand in respect of Agomoni Commercial Private Limited (PAN: AAHCA2663H) in the matter of Illiquid Stock Options",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/jun-2026/certificate-no-rc9142-of-2026-notice-of-demand-in-respect-of-agomoni-commercial-private-limited-pan-aahca2663h-in-the-matter-of-illiquid-stock-options_101897.html",
+          "published_at": "05 Jun, 2026 +0530",
+          "summary": "Certificate No. RC9142 of 2026_ Notice of Demand in respect of Agomoni Commercial Private Limited (PAN: AAHCA2663H) in the matter of Illiquid Stock Options"
+        },
+        {
+          "title": "Adjudication Order in respect of The Ellenbarrie Tea Company Limited in the matter of Illiquid Stock Options at BSE.",
+          "url": "https://www.sebi.gov.in/enforcement/orders/jun-2026/adjudication-order-in-respect-of-the-ellenbarrie-tea-company-limited-in-the-matter-of-illiquid-stock-options-at-bse-_101894.html",
+          "published_at": "05 Jun, 2026 +0530",
+          "summary": "Adjudication Order in respect of The Ellenbarrie Tea Company Limited in the matter of Illiquid Stock Options at BSE."
+        },
+        {
+          "title": "Certificate No. RC9141 of 2026_ Notice of Demand in respect of Asan Steels Private Limited (PAN: AAHCA8637P) in the matter of Illiquid Stock Options",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/jun-2026/certificate-no-rc9141-of-2026-notice-of-demand-in-respect-of-asan-steels-private-limited-pan-aahca8637p-in-the-matter-of-illiquid-stock-options_101891.html",
+          "published_at": "05 Jun, 2026 +0530",
+          "summary": "Certificate No. RC9141 of 2026_ Notice of Demand in respect of Asan Steels Private Limited (PAN: AAHCA8637P) in the matter of Illiquid Stock Options"
+        },
+        {
+          "title": "Notice of Demand under Recovery Certificate number 9139 of 2026 dated June 5, 2026 issued to Mr.K. Sai Prasad (PAN: AAJPS6517M) [Defaulter] in the matter of Mediaone Global Entertainment Limited.",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/jun-2026/notice-of-demand-under-recovery-certificate-number-9139-of-2026-dated-june-5-2026-issued-to-mr-k-sai-prasad-pan-aajps6517m-defaulter-in-the-matter-of-mediaone-global-entertainment-limited-_101886.html",
+          "published_at": "05 Jun, 2026 +0530",
+          "summary": "Notice of Demand under Recovery Certificate number 9139 of 2026 dated June 5, 2026 issued to Mr.K. Sai Prasad (PAN: AAJPS6517M) [Defaulter] in the matter of Mediaone Global Entertainment Limited."
+        },
+        {
+          "title": "Certificate No. RC9138 of 2026_ Notice of Demand in respect of Amanat Developers Private Limited (PAN: AAGCA9440D) in the matter of Illiquid Stock Options",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/jun-2026/certificate-no-rc9138-of-2026-notice-of-demand-in-respect-of-amanat-developers-private-limited-pan-aagca9440d-in-the-matter-of-illiquid-stock-options_101882.html",
+          "published_at": "05 Jun, 2026 +0530",
+          "summary": "Certificate No. RC9138 of 2026_ Notice of Demand in respect of Amanat Developers Private Limited (PAN: AAGCA9440D) in the matter of Illiquid Stock Options"
+        },
+        {
+          "title": "Notice of Demand under Recovery Certificate number 9137 of 2026 dated June 5, 2026 issued to Mediaone Global Entertainment Ltd (PAN: AAACR0405M) [Defaulter] in the matter of Mediaone Global Entertainment Limited.",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/jun-2026/notice-of-demand-under-recovery-certificate-number-9137-of-2026-dated-june-5-2026-issued-to-mediaone-global-entertainment-ltd-pan-aaacr0405m-defaulter-in-the-matter-of-mediaone-global-entertainm-_101880.html",
+          "published_at": "05 Jun, 2026 +0530",
+          "summary": "Notice of Demand under Recovery Certificate number 9137 of 2026 dated June 5, 2026 issued to Mediaone Global Entertainment Ltd (PAN: AAACR0405M) [Defaulter] in the matter of Mediaone Global Entertainment Limited."
+        },
+        {
+          "title": "SEBI Order for Compliance - Release Order for Recovery Certificate No. 9078 of 2026 against I Zone Academy Private Limited (PAN: AACCI0592E) in the matter of trading in Illiquid Stock Options on BSE.",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/jun-2026/sebi-order-for-compliance-release-order-for-recovery-certificate-no-9078-of-2026-against-i-zone-academy-private-limited-pan-aacci0592e-in-the-matter-of-trading-in-illiquid-stock-options-on-bse-_101878.html",
+          "published_at": "05 Jun, 2026 +0530",
+          "summary": "SEBI Order for Compliance - Release Order for Recovery Certificate No. 9078 of 2026 against I Zone Academy Private Limited (PAN: AACCI0592E) in the matter of trading in Illiquid Stock Options on BSE."
+        },
+        {
+          "title": "Notice of Demand under Recovery Certificate number 9136 of 2026 dated June 5, 2026 issued to Mediaone Global Entertainment Ltd (PAN: AAACR0405M) [Defaulter] in the matter of Mediaone Global Entertainment Limited.",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/jun-2026/notice-of-demand-under-recovery-certificate-number-9136-of-2026-dated-june-5-2026-issued-to-mediaone-global-entertainment-ltd-pan-aaacr0405m-defaulter-in-the-matter-of-mediaone-global-entertainm-_101876.html",
+          "published_at": "05 Jun, 2026 +0530",
+          "summary": "Notice of Demand under Recovery Certificate number 9136 of 2026 dated June 5, 2026 issued to Mediaone Global Entertainment Ltd (PAN: AAACR0405M) [Defaulter] in the matter of Mediaone Global Entertainment Limited."
+        },
         {
           "title": "Certificate No. RC9096 of 2026_A.P Nos 15407 of 2026_ Swift Dealmark Private Limited (PAN: AAPCS1110D) in the matter of Illiquid Stock Options",
           "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/jun-2026/certificate-no-rc9096-of-2026-a-p-nos-15407-of-2026-swift-dealmark-private-limited-pan-aapcs1110d-in-the-matter-of-illiquid-stock-options_101848.html",
@@ -978,39 +1422,21 @@
           "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/jun-2026/certificate-no-rc9096-of-2026-a-p-nos-15406-of-2026-swift-dealmark-private-limited-pan-aapcs1110d-in-the-matter-of-illiquid-stock-options_101846.html",
           "published_at": "04 Jun, 2026 +0530",
           "summary": "Certificate No. RC9096 of 2026_A.P Nos 15406 of 2026_ Swift Dealmark Private Limited (PAN: AAPCS1110D) in the matter of Illiquid Stock Options"
-        },
-        {
-          "title": "Release Order of RC No- 6543- Chetan Sandesera in the matter of GDR by Sterling Biotech Limited",
-          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/jun-2026/release-order-of-rc-no-6543-chetan-sandesera-in-the-matter-of-gdr-by-sterling-biotech-limited_101836.html",
-          "published_at": "03 Jun, 2026 +0530",
-          "summary": "Release Order of RC No- 6543- Chetan Sandesera in the matter of GDR by Sterling Biotech Limited"
-        },
-        {
-          "title": "Corrigendum to Order dated March 24, 2026 in the matter of Front-running trades of Big Client - Sarvottam Securities Private Limited by multiple entities.",
-          "url": "https://www.sebi.gov.in/enforcement/orders/jun-2026/corrigendum-to-order-dated-march-24-2026-in-the-matter-of-front-running-trades-of-big-client-sarvottam-securities-private-limited-by-multiple-entities-_101822.html",
-          "published_at": "03 Jun, 2026 +0530",
-          "summary": "Corrigendum to Order dated March 24, 2026 in the matter of Front-running trades of Big Client - Sarvottam Securities Private Limited by multiple entities."
-        },
-        {
-          "title": "Interim Order in the matter of Rajesh Exports Limited",
-          "url": "https://www.sebi.gov.in/enforcement/orders/jun-2026/interim-order-in-the-matter-of-rajesh-exports-limited_101820.html",
-          "published_at": "03 Jun, 2026 +0530",
-          "summary": "Interim Order in the matter of Rajesh Exports Limited"
         }
       ],
       "price_action": {
         "date": "2026-06-05",
         "open": 156.0,
         "high": 157.0,
-        "low": 154.4,
-        "close": 154.8,
+        "low": 151.85,
+        "close": 153.18,
         "prev_close": 155.33,
-        "change_pct": -0.34,
+        "change_pct": -1.38,
         "gap_pct": 0.43,
-        "intraday_range_pct": 1.67,
-        "volume": 623271,
+        "intraday_range_pct": 3.32,
+        "volume": 3493319,
         "avg_volume_20d": 2777713,
-        "volume_ratio": 0.22,
+        "volume_ratio": 1.26,
         "sparkline": [
           160.7,
           157.94,
@@ -1041,14 +1467,14 @@
           152.63,
           152.4,
           155.33,
-          154.8
+          153.18
         ]
       },
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "The stock price of ITC Hotels Limited declined marginally by 0.34% with below-average volume, indicating a lack of significant catalysts or market interest. The SEBI mentions are unrelated to the company, and therefore, do not impact the stock's price action. The day's trading activity does not provide any meaningful insights.",
-        "confidence": "high",
+        "analysis": "ITC Hotels stock price declined 1.38% with moderate volume, but no significant catalysts were found to explain the move. The stock's price action was within its recent range, and no major news or announcements were reported. The decline may be attributed to general market sentiment or sectoral trends.",
+        "confidence": "low",
         "flags": []
       }
     },
@@ -1060,22 +1486,37 @@
       "skip_catalysts": false,
       "bse_announcements": [],
       "nse_announcements": [],
-      "news": [],
+      "news": [
+        {
+          "title": "LEMON TREE HOTELS LTD Share Price Today - Live LEMONTREE Stock Price for NSE/BSE",
+          "source": "Upstox",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvb2dGd2NoTks4amdZaDdTMWdkOTFqa2k1YS1oVjJUZm9QTE5VUExwbGhKUUE1Q3pVUmZDeng5MlZ1d1JBeVhsUlFEV0k3d3E4X1BDam85UEpKSWRHLUg2RklLSUpRTmloN0VteQ?oc=5",
+          "published_at": "2026-06-05T07:00:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBvb2dGd2NoTks4amdZaDdTMWdkOTFqa2k1YS1oVjJUZm9QTE5VUExwbGhKUUE1Q3pVUmZDeng5MlZ1d1JBeVhsUlFEV0k3d3E4X1BDam85UEpKSWRHLUg2RklLSUpRTmloN0VteQ?oc=5\" target=\"_blank\">LEMON TREE HOTELS LTD Share Price Today - Live LEMONTREE Stock Price for NSE/BSE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Upstox</font>"
+        },
+        {
+          "title": "Lemon Tree Hotels Q4 Results 2026 - Find Lemon Tree Hotels Q4 Earnings Result | LEMONTREE Q4 results",
+          "source": "Mint",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYW9kZm9obEhSQXR3ZlVmSDBkN2dvb0EzTXh1YWpQc3dkYlo5QnZrYTBRMEJFNzR6Q3BHSkplVGJvMldHUkN5cGt3Z2V0eU9hRF9mdzFWWVk0bDZQc3lTdHVvczhBQ1V2WC11dnFZMV9ZcGwzM1hMOWEzOXVNR0JLQkxPREo5cm9mb1E?oc=5",
+          "published_at": "2026-06-05T07:00:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNYW9kZm9obEhSQXR3ZlVmSDBkN2dvb0EzTXh1YWpQc3dkYlo5QnZrYTBRMEJFNzR6Q3BHSkplVGJvMldHUkN5cGt3Z2V0eU9hRF9mdzFWWVk0bDZQc3lTdHVvczhBQ1V2WC11dnFZMV9ZcGwzM1hMOWEzOXVNR0JLQkxPREo5cm9mb1E?oc=5\" target=\"_blank\">Lemon Tree Hotels Q4 Results 2026 - Find Lemon Tree Hotels Q4 Earnings Result | LEMONTREE Q4 results</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mi"
+        }
+      ],
       "events": [],
       "sebi_mentions": [],
       "price_action": {
         "date": "2026-06-05",
         "open": 111.7,
         "high": 111.99,
-        "low": 110.21,
-        "close": 110.95,
+        "low": 109.7,
+        "close": 109.91,
         "prev_close": 111.06,
-        "change_pct": -0.1,
+        "change_pct": -1.04,
         "gap_pct": 0.58,
-        "intraday_range_pct": 1.6,
-        "volume": 493827,
+        "intraday_range_pct": 2.06,
+        "volume": 2469880,
         "avg_volume_20d": 2417161,
-        "volume_ratio": 0.2,
+        "volume_ratio": 1.02,
         "sparkline": [
           119.83,
           118.61,
@@ -1106,14 +1547,14 @@
           111.16,
           110.56,
           111.06,
-          110.95
+          109.91
         ]
       },
       "analysis": {
-        "classification": "no_signal",
+        "classification": "move_without_catalyst",
         "primary_catalyst": null,
-        "analysis": "Lemon Tree Hotels Limited's stock price remained largely unchanged with a minor decline of 0.1%. The trading volume was significantly lower than the 20-day average. No notable catalysts were observed.",
-        "confidence": "high",
+        "analysis": "Lemon Tree Hotels' stock price declined 1.04% despite no significant news or announcements. The volume ratio was relatively normal at 1.02. The decline may be due to market sentiment or other factors not immediately apparent. ",
+        "confidence": "medium",
         "flags": []
       }
     },
@@ -1132,15 +1573,15 @@
         "date": "2026-06-05",
         "open": 173.8,
         "high": 175.33,
-        "low": 173.38,
-        "close": 174.32,
+        "low": 171.71,
+        "close": 172.93,
         "prev_close": 172.94,
-        "change_pct": 0.8,
+        "change_pct": -0.01,
         "gap_pct": 0.5,
-        "intraday_range_pct": 1.13,
-        "volume": 94022,
+        "intraday_range_pct": 2.09,
+        "volume": 374833,
         "avg_volume_20d": 2033430,
-        "volume_ratio": 0.05,
+        "volume_ratio": 0.18,
         "sparkline": [
           172.21,
           175.36,
@@ -1171,14 +1612,14 @@
           176.08,
           175.71,
           172.94,
-          174.32
+          172.93
         ]
       },
       "analysis": {
         "classification": "no_signal",
         "primary_catalyst": null,
-        "analysis": "Finolex Industries Limited saw a modest 0.8% gain with below-average volume, lacking a clear catalyst. The stock's price action was muted, with a narrow intraday range. The low volume ratio suggests a lack of conviction among traders.",
-        "confidence": "medium",
+        "analysis": "Finolex Industries Limited traded in a narrow range with minimal price change and below-average volume. The stock's price action lacked a clear catalyst. The lack of significant news or announcements suggests a quiet trading day.",
+        "confidence": "high",
         "flags": []
       }
     },
@@ -1194,6 +1635,60 @@
       "events": [],
       "sebi_mentions": [
         {
+          "title": "Certificate No. RC9143 of 2026_ Notice of Demand in respect of HKC Techhind Private Limited (PAN: AAACH6407P) in the matter of Illiquid Stock Options",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/jun-2026/certificate-no-rc9143-of-2026-notice-of-demand-in-respect-of-hkc-techhind-private-limited-pan-aaach6407p-in-the-matter-of-illiquid-stock-options_101899.html",
+          "published_at": "05 Jun, 2026 +0530",
+          "summary": "Certificate No. RC9143 of 2026_ Notice of Demand in respect of HKC Techhind Private Limited (PAN: AAACH6407P) in the matter of Illiquid Stock Options"
+        },
+        {
+          "title": "Certificate No. RC9142 of 2026_ Notice of Demand in respect of Agomoni Commercial Private Limited (PAN: AAHCA2663H) in the matter of Illiquid Stock Options",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/jun-2026/certificate-no-rc9142-of-2026-notice-of-demand-in-respect-of-agomoni-commercial-private-limited-pan-aahca2663h-in-the-matter-of-illiquid-stock-options_101897.html",
+          "published_at": "05 Jun, 2026 +0530",
+          "summary": "Certificate No. RC9142 of 2026_ Notice of Demand in respect of Agomoni Commercial Private Limited (PAN: AAHCA2663H) in the matter of Illiquid Stock Options"
+        },
+        {
+          "title": "Adjudication Order in respect of The Ellenbarrie Tea Company Limited in the matter of Illiquid Stock Options at BSE.",
+          "url": "https://www.sebi.gov.in/enforcement/orders/jun-2026/adjudication-order-in-respect-of-the-ellenbarrie-tea-company-limited-in-the-matter-of-illiquid-stock-options-at-bse-_101894.html",
+          "published_at": "05 Jun, 2026 +0530",
+          "summary": "Adjudication Order in respect of The Ellenbarrie Tea Company Limited in the matter of Illiquid Stock Options at BSE."
+        },
+        {
+          "title": "Certificate No. RC9141 of 2026_ Notice of Demand in respect of Asan Steels Private Limited (PAN: AAHCA8637P) in the matter of Illiquid Stock Options",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/jun-2026/certificate-no-rc9141-of-2026-notice-of-demand-in-respect-of-asan-steels-private-limited-pan-aahca8637p-in-the-matter-of-illiquid-stock-options_101891.html",
+          "published_at": "05 Jun, 2026 +0530",
+          "summary": "Certificate No. RC9141 of 2026_ Notice of Demand in respect of Asan Steels Private Limited (PAN: AAHCA8637P) in the matter of Illiquid Stock Options"
+        },
+        {
+          "title": "Notice of Demand under Recovery Certificate number 9139 of 2026 dated June 5, 2026 issued to Mr.K. Sai Prasad (PAN: AAJPS6517M) [Defaulter] in the matter of Mediaone Global Entertainment Limited.",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/jun-2026/notice-of-demand-under-recovery-certificate-number-9139-of-2026-dated-june-5-2026-issued-to-mr-k-sai-prasad-pan-aajps6517m-defaulter-in-the-matter-of-mediaone-global-entertainment-limited-_101886.html",
+          "published_at": "05 Jun, 2026 +0530",
+          "summary": "Notice of Demand under Recovery Certificate number 9139 of 2026 dated June 5, 2026 issued to Mr.K. Sai Prasad (PAN: AAJPS6517M) [Defaulter] in the matter of Mediaone Global Entertainment Limited."
+        },
+        {
+          "title": "Certificate No. RC9138 of 2026_ Notice of Demand in respect of Amanat Developers Private Limited (PAN: AAGCA9440D) in the matter of Illiquid Stock Options",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/jun-2026/certificate-no-rc9138-of-2026-notice-of-demand-in-respect-of-amanat-developers-private-limited-pan-aagca9440d-in-the-matter-of-illiquid-stock-options_101882.html",
+          "published_at": "05 Jun, 2026 +0530",
+          "summary": "Certificate No. RC9138 of 2026_ Notice of Demand in respect of Amanat Developers Private Limited (PAN: AAGCA9440D) in the matter of Illiquid Stock Options"
+        },
+        {
+          "title": "Notice of Demand under Recovery Certificate number 9137 of 2026 dated June 5, 2026 issued to Mediaone Global Entertainment Ltd (PAN: AAACR0405M) [Defaulter] in the matter of Mediaone Global Entertainment Limited.",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/jun-2026/notice-of-demand-under-recovery-certificate-number-9137-of-2026-dated-june-5-2026-issued-to-mediaone-global-entertainment-ltd-pan-aaacr0405m-defaulter-in-the-matter-of-mediaone-global-entertainm-_101880.html",
+          "published_at": "05 Jun, 2026 +0530",
+          "summary": "Notice of Demand under Recovery Certificate number 9137 of 2026 dated June 5, 2026 issued to Mediaone Global Entertainment Ltd (PAN: AAACR0405M) [Defaulter] in the matter of Mediaone Global Entertainment Limited."
+        },
+        {
+          "title": "SEBI Order for Compliance - Release Order for Recovery Certificate No. 9078 of 2026 against I Zone Academy Private Limited (PAN: AACCI0592E) in the matter of trading in Illiquid Stock Options on BSE.",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/jun-2026/sebi-order-for-compliance-release-order-for-recovery-certificate-no-9078-of-2026-against-i-zone-academy-private-limited-pan-aacci0592e-in-the-matter-of-trading-in-illiquid-stock-options-on-bse-_101878.html",
+          "published_at": "05 Jun, 2026 +0530",
+          "summary": "SEBI Order for Compliance - Release Order for Recovery Certificate No. 9078 of 2026 against I Zone Academy Private Limited (PAN: AACCI0592E) in the matter of trading in Illiquid Stock Options on BSE."
+        },
+        {
+          "title": "Notice of Demand under Recovery Certificate number 9136 of 2026 dated June 5, 2026 issued to Mediaone Global Entertainment Ltd (PAN: AAACR0405M) [Defaulter] in the matter of Mediaone Global Entertainment Limited.",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/jun-2026/notice-of-demand-under-recovery-certificate-number-9136-of-2026-dated-june-5-2026-issued-to-mediaone-global-entertainment-ltd-pan-aaacr0405m-defaulter-in-the-matter-of-mediaone-global-entertainm-_101876.html",
+          "published_at": "05 Jun, 2026 +0530",
+          "summary": "Notice of Demand under Recovery Certificate number 9136 of 2026 dated June 5, 2026 issued to Mediaone Global Entertainment Ltd (PAN: AAACR0405M) [Defaulter] in the matter of Mediaone Global Entertainment Limited."
+        },
+        {
           "title": "Certificate No. RC9096 of 2026_A.P Nos 15407 of 2026_ Swift Dealmark Private Limited (PAN: AAPCS1110D) in the matter of Illiquid Stock Options",
           "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/jun-2026/certificate-no-rc9096-of-2026-a-p-nos-15407-of-2026-swift-dealmark-private-limited-pan-aapcs1110d-in-the-matter-of-illiquid-stock-options_101848.html",
           "published_at": "04 Jun, 2026 +0530",
@@ -1204,39 +1699,21 @@
           "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/jun-2026/certificate-no-rc9096-of-2026-a-p-nos-15406-of-2026-swift-dealmark-private-limited-pan-aapcs1110d-in-the-matter-of-illiquid-stock-options_101846.html",
           "published_at": "04 Jun, 2026 +0530",
           "summary": "Certificate No. RC9096 of 2026_A.P Nos 15406 of 2026_ Swift Dealmark Private Limited (PAN: AAPCS1110D) in the matter of Illiquid Stock Options"
-        },
-        {
-          "title": "Release Order of RC No- 6543- Chetan Sandesera in the matter of GDR by Sterling Biotech Limited",
-          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/jun-2026/release-order-of-rc-no-6543-chetan-sandesera-in-the-matter-of-gdr-by-sterling-biotech-limited_101836.html",
-          "published_at": "03 Jun, 2026 +0530",
-          "summary": "Release Order of RC No- 6543- Chetan Sandesera in the matter of GDR by Sterling Biotech Limited"
-        },
-        {
-          "title": "Corrigendum to Order dated March 24, 2026 in the matter of Front-running trades of Big Client - Sarvottam Securities Private Limited by multiple entities.",
-          "url": "https://www.sebi.gov.in/enforcement/orders/jun-2026/corrigendum-to-order-dated-march-24-2026-in-the-matter-of-front-running-trades-of-big-client-sarvottam-securities-private-limited-by-multiple-entities-_101822.html",
-          "published_at": "03 Jun, 2026 +0530",
-          "summary": "Corrigendum to Order dated March 24, 2026 in the matter of Front-running trades of Big Client - Sarvottam Securities Private Limited by multiple entities."
-        },
-        {
-          "title": "Interim Order in the matter of Rajesh Exports Limited",
-          "url": "https://www.sebi.gov.in/enforcement/orders/jun-2026/interim-order-in-the-matter-of-rajesh-exports-limited_101820.html",
-          "published_at": "03 Jun, 2026 +0530",
-          "summary": "Interim Order in the matter of Rajesh Exports Limited"
         }
       ],
       "price_action": {
         "date": "2026-06-05",
         "open": 452.35,
         "high": 453.95,
-        "low": 422.05,
-        "close": 426.1,
+        "low": 410.55,
+        "close": 420.55,
         "prev_close": 447.35,
-        "change_pct": -4.75,
+        "change_pct": -5.99,
         "gap_pct": 1.12,
-        "intraday_range_pct": 7.13,
-        "volume": 252340,
+        "intraday_range_pct": 9.7,
+        "volume": 811735,
         "avg_volume_20d": 369867,
-        "volume_ratio": 0.68,
+        "volume_ratio": 2.19,
         "sparkline": [
           385.2,
           413.8,
@@ -1267,15 +1744,17 @@
           441.4,
           440.35,
           447.35,
-          426.1
+          420.55
         ]
       },
       "analysis": {
         "classification": "move_without_catalyst",
         "primary_catalyst": null,
-        "analysis": "GNG Electronics Limited's stock price declined 4.75% with below-average volume, lacking a clear catalyst. The move may be due to market sentiment or other unreported factors. This unexpected decline warrants further investigation.",
+        "analysis": "GNG Electronics Limited's stock price declined 5.99% with a significant increase in volume, but no clear catalyst was found to explain the move. The stock's intraday range was 9.7%, indicating high volatility. This could be a sign of a possible leak or flow, warranting further investigation.",
         "confidence": "medium",
-        "flags": []
+        "flags": [
+          "POSSIBLE_LEAK_OR_FLOW"
+        ]
       }
     },
     {
