@@ -1,43 +1,35 @@
 name: Daily Portfolio Report
-
 on:
   # Scheduled via cron-job.org for reliable timing at 09:00 IST.
   # Built-in GitHub Actions cron disabled due to multi-hour delays on free tier.
   workflow_dispatch:
-
 permissions:
   contents: write
-
 concurrency:
   group: daily-report
   cancel-in-progress: false
-
 jobs:
   build-report:
     runs-on: ubuntu-latest
     timeout-minutes: 15
-
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
-
+        with:
+          fetch-depth: 0
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-          cache: pip
-
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
-
       - name: Run pipeline
         env:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
           GROQ_MODEL: llama-3.3-70b-versatile
         run: python -m scripts.run_daily
-
       - name: Commit report
         run: |
           git config user.name  "catalyst-desk-bot"
