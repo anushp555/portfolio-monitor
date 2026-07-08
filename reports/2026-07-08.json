@@ -1,7 +1,7 @@
 {
   "report_date": "2026-07-08",
   "trading_day": "2026-07-07",
-  "generated_at": "2026-07-07T19:48:08.733717+05:30",
+  "generated_at": "2026-07-08T09:01:17.470308+05:30",
   "stocks": [
     {
       "symbol": "TMCV",
@@ -24,7 +24,7 @@
         "change_pct": -1.14,
         "gap_pct": 0.45,
         "intraday_range_pct": 2.44,
-        "volume": 4140764,
+        "volume": 4140826,
         "avg_volume_20d": 9923042,
         "volume_ratio": 0.42,
         "sparkline": [
@@ -89,7 +89,7 @@
         "change_pct": -1.37,
         "gap_pct": 0.5,
         "intraday_range_pct": 2.05,
-        "volume": 7423775,
+        "volume": 7428187,
         "avg_volume_20d": 13175385,
         "volume_ratio": 0.56,
         "sparkline": [
@@ -142,6 +142,30 @@
       "bse_announcements": [],
       "nse_announcements": [
         {
+          "headline": "Updates",
+          "category": "Banks",
+          "more_info": "ICICI Bank Limited has informed the Exchange regarding 'Notice of Annual General Meeting - Newspaper Publication'.",
+          "pdf_url": "https://nsearchives.nseindia.com/corporate/ICICI2022_07072026202249_NSEBSE_07072026.pdf",
+          "attached_at": "07-Jul-2026 20:24:35",
+          "source": "NSE"
+        },
+        {
+          "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "category": "Banks",
+          "more_info": "ICICI Bank Limited has informed the Exchange about Certificate under Regulation 74(5) of SEBI (Depositories and Participants) Regulations, 2018, for the quarter ended June 30, 2026 received from 3i Infotech Limited, Registrar to an Issue and Share Transfer Agent for bonds /debentures of the Bank.",
+          "pdf_url": "https://nsearchives.nseindia.com/corporate/ICICIBANK1_07072026200138_Regulation74_5__Certificate_BONDS.pdf",
+          "attached_at": "07-Jul-2026 20:02:10",
+          "source": "NSE"
+        },
+        {
+          "headline": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+          "category": "Banks",
+          "more_info": "ICICI Bank Limited has informed the Exchange about the Certificate under Regulation 74(5) SEBI (Depositories and Participants) Regulations, 2018, for the quarter ended June 30, 2026 received from KFin Technologies Limited, Registrar to an Issue and Share Transfer Agent for equity shares of the Bank.",
+          "pdf_url": "https://nsearchives.nseindia.com/corporate/ICICIBANK1_07072026195501_Regulation74_5__Certificate.pdf",
+          "attached_at": "07-Jul-2026 19:55:58",
+          "source": "NSE"
+        },
+        {
           "headline": "ESOP/ESOS/ESPS",
           "category": "Banks",
           "more_info": "ICICI Bank Limited has informed the Exchange regarding Allotment of 237850  Shares.",
@@ -150,22 +174,7 @@
           "source": "NSE"
         }
       ],
-      "news": [
-        {
-          "title": "ETFs Investing in ICICI Bank Limited Sponsored ADR Stocks",
-          "source": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BTTlVNE91RGtIZFRLRDBocDFTdkEzeUdQbXo2dXBJY1lOVDc2R1NQLXY5SjFiNzUxSXdwa05uSUhyRHZJd2oxWHNZNHFoNTNaWmtVdlRoeWpGYlFQZDJn?oc=5",
-          "published_at": "2026-07-07T11:11:34+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BTTlVNE91RGtIZFRLRDBocDFTdkEzeUdQbXo2dXBJY1lOVDc2R1NQLXY5SjFiNzUxSXdwa05uSUhyRHZJd2oxWHNZNHFoNTNaWmtVdlRoeWpGYlFQZDJn?oc=5\" target=\"_blank\">ETFs Investing in ICICI Bank Limited Sponsored ADR Stocks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
-        },
-        {
-          "title": "ICICI Bank Stock Update: Share Price Consolidates Amid Strategic Deals",
-          "source": "LatestLY",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTlBmTXMxUFFzRlRNRlh3NWh1dlBDWW9ZdzdEX01FdTlLSHhHZFdXR213bDFaTzNUWG11cjBtNEZVT1VlR0NOQlA1M3h5cFE2WGQzX1JiWU4xcFU3MmlGYnVpeE1TWHloMk5TWnpjTWxnZEhjWmg1bVBTX3ZxamhkVXQ1YkJRajV4WmdFLWQ2cy1JSDNXREVEQVo0Zm9lSS1VRG5JQmNydUlkVzlHQUgtOHJkLVh1Mm_SAbwBQVVfeXFMTmlEdWpXU2FoYldhelVRVmxiWkNUa29YVks0eHg1MGVCLXlGOWQ2V1JfM1JvUG5BWjg4TTZKQTFfM2RvZ1I1S3pzc0paNGUxcWRTSnRsWkZjaUE0QS0zVkJld3VFbXdUZ3dkNXBnQ1A4bFhGVF80NWQ1Nmxra004RlNXQTBGbENwdjJFSTNMYnoyUnJQazhteVVLVkFFVlNfNkhDOWQzU3AtUkE0Y1BYUU5sU1pkN29ReEx2WmY?oc=5",
-          "published_at": "2026-07-07T04:15:09+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPTlBmTXMxUFFzRlRNRlh3NWh1dlBDWW9ZdzdEX01FdTlLSHhHZFdXR213bDFaTzNUWG11cjBtNEZVT1VlR0NOQlA1M3h5cFE2WGQzX1JiWU4xcFU3MmlGYnVpeE1TWHloMk5TWnpjTWxnZEhjWmg1bVBTX3ZxamhkVXQ1YkJRajV4WmdFLWQ2cy1JSDNXREVEQVo0Zm9lSS1VRG5JQmNydUlkVzlHQUgtOHJkLVh1Mm_SAbwBQVVfeXFMTmlEdWpXU2FoYldhelVRVmxiWkNUa29YVks0eHg1MGVCLXlGOWQ2V1JfM1JvUG5BWjg4TTZKQTFfM2RvZ1I1S3pzc0"
-        }
-      ],
+      "news": [],
       "events": [],
       "sebi_mentions": [
         {
@@ -185,7 +194,7 @@
         "change_pct": -0.86,
         "gap_pct": 0.33,
         "intraday_range_pct": 1.61,
-        "volume": 15664066,
+        "volume": 15664178,
         "avg_volume_20d": 14863524,
         "volume_ratio": 1.05,
         "sparkline": [
@@ -238,7 +247,14 @@
       "bse_announcements": [],
       "nse_announcements": [],
       "news": [],
-      "events": [],
+      "events": [
+        {
+          "subject": null,
+          "purpose": "Financial Results",
+          "date": "15-Jul-2026",
+          "details": "To consider and approve the financial results for the period ended Jun 30, 2026"
+        }
+      ],
       "sebi_mentions": [],
       "price_action": {
         "date": "2026-07-07",
@@ -250,7 +266,7 @@
         "change_pct": 1.46,
         "gap_pct": 0.23,
         "intraday_range_pct": 1.9,
-        "volume": 2585259,
+        "volume": 2585422,
         "avg_volume_20d": 2859569,
         "volume_ratio": 0.9,
         "sparkline": [
@@ -342,9 +358,9 @@
         "open": 208.75,
         "high": 211.8,
         "low": 204.69,
-        "close": 205.1,
+        "close": NaN,
         "prev_close": 207.39,
-        "change_pct": -1.1,
+        "change_pct": NaN,
         "gap_pct": 0.66,
         "intraday_range_pct": 3.43,
         "volume": 8834253,
@@ -380,7 +396,7 @@
           205.1,
           200.6,
           207.39,
-          205.1
+          NaN
         ]
       },
       "analysis": {
@@ -410,11 +426,11 @@
       ],
       "news": [
         {
-          "title": "Price to sales forward of IDFC First Bank Ltd. – BSE:IDFCFIRSTB",
+          "title": "Enterprise value to revenue forward of IDFC First Bank Ltd. – NSE:IDFCFIRSTB",
           "source": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPczBqZ2dfOGNoSndFekloRHhTOGk1dFVLR1lSblJWSVBhaFZmdFU4Vm1XLVB6LWRYU2dYanM4eXRxWExNdjRNMkFIeU5DOGVhSkw3VlZlTFpxX2I5c0p3cWlRUkc1OGJ1M24yZWpqaWJUQ1RsTlpkdU9mQW1ydFFibW5FaWdpWEFFUUhIYVJfSThxczQ5QUptV3h2cVpQclI5YWc?oc=5",
-          "published_at": "2026-07-07T09:57:56+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPczBqZ2dfOGNoSndFekloRHhTOGk1dFVLR1lSblJWSVBhaFZmdFU4Vm1XLVB6LWRYU2dYanM4eXRxWExNdjRNMkFIeU5DOGVhSkw3VlZlTFpxX2I5c0p3cWlRUkc1OGJ1M24yZWpqaWJUQ1RsTlpkdU9mQW1ydFFibW5FaWdpWEFFUUhIYVJfSThxczQ5QUptV3h2cVpQclI5YWc?oc=5\" target=\"_blank\">Price to sales forward of IDFC First Bank Ltd. – BSE:IDFCFIRSTB</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Trading"
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONFJzeE9LbE1XY04yV1hTWnk1WlF2LXMwbDlqMFhtQXpDaGZ0azBVTjlsOXBQRmRLTnlGNlRtN09KSWM3NGJsWXRtdG5Sa3U2bkhDdERVek5PWGdwRXZzUXhxTTRvaUhlaTJhZzAzbl9DdTJCRU5CUUlVOVdkdjM2YVIyT1JDdUNocnRzU1ZjZHFIajQ3M0FnZU1VQ3BfTHlOZW1uaDhNdy1vbjM1Yjk5Qw?oc=5",
+          "published_at": "2026-07-07T14:44:09+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxONFJzeE9LbE1XY04yV1hTWnk1WlF2LXMwbDlqMFhtQXpDaGZ0azBVTjlsOXBQRmRLTnlGNlRtN09KSWM3NGJsWXRtdG5Sa3U2bkhDdERVek5PWGdwRXZzUXhxTTRvaUhlaTJhZzAzbl9DdTJCRU5CUUlVOVdkdjM2YVIyT1JDdUNocnRzU1ZjZHFIajQ3M0FnZU1VQ3BfTHlOZW1uaDhNdy1vbjM1Yjk5Qw?oc=5\" target=\"_blank\">Enterprise value to revenue forward of IDFC First Bank Ltd. – NSE:IDFCFIRSTB</a>&nbsp;&nb"
         }
       ],
       "events": [],
@@ -429,7 +445,7 @@
         "change_pct": -0.88,
         "gap_pct": -0.02,
         "intraday_range_pct": 1.91,
-        "volume": 16242865,
+        "volume": 16245821,
         "avg_volume_20d": 26965531,
         "volume_ratio": 0.6,
         "sparkline": [
@@ -538,9 +554,9 @@
         "open": 243.0,
         "high": 246.95,
         "low": 235.0,
-        "close": 237.47,
+        "close": NaN,
         "prev_close": 242.38,
-        "change_pct": -2.03,
+        "change_pct": NaN,
         "gap_pct": 0.26,
         "intraday_range_pct": 4.93,
         "volume": 10529227,
@@ -576,7 +592,7 @@
           227.76,
           233.87,
           242.38,
-          237.47
+          NaN
         ]
       },
       "analysis": {
@@ -617,7 +633,7 @@
         "change_pct": -0.09,
         "gap_pct": -0.13,
         "intraday_range_pct": 1.44,
-        "volume": 4480066,
+        "volume": 4480736,
         "avg_volume_20d": 5675044,
         "volume_ratio": 0.79,
         "sparkline": [
@@ -671,18 +687,18 @@
       "nse_announcements": [],
       "news": [
         {
-          "title": "Suzlon Share Price Extends Losing Streak, Dips 8% In Five Days — What's Dragging The Stock?",
-          "source": "NDTV Profit",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeXlJdHdPT2lZMGo0T1N6M0QzSGRvUnJWaENNVHJ2VWJOa21IV1g3a2hjTHpEZFkzYk1fT185b2JIOXQtU0ZIMHI1YnNJWVpMTjdPMXo5eEpqMnZkSU9lS2hVNzE1UFo1QzJ6LUhzeWZBNlFSc2xlV0JzVXZlMGtSQTZ6MWhQNk9QMGttUzNtZ2pwZDZ6M1ZSSEdpM0VPWXFIbldHMm4wdmxOODBST2o3LURZT2NDVjVucGQyM3NxckhDeGQ4bUFmejcyRWhyaURMcUFYR9IB3AFBVV95cUxOZFFmaWRSdV9JRjlHMXZranVWQ0VHUnFweU94OTZZcUZzcHREcnJRUWNVb0QzYkF1XzJ6OWdoUFVLVmFmNkl4LWlGc04yZGtJYzItZGhUS3pxQkdrc3FFVzlOd25sNjlZN284bE9oNVBUdTZDdmdVRGtEYjZjc2FGZFczWUN0MU0xSTRLQ1NTVWFZMmJmbDI2LTF6cGZUX3lvNlRzQnFTZXBNTkVHSmNCUDZLbGZ0Z3Zqa1l3UGF6VlBqMUFqdFk2TVNtcjNJS196aVlwb3JYc3RkOHlX?oc=5",
-          "published_at": "2026-07-07T06:11:02+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeXlJdHdPT2lZMGo0T1N6M0QzSGRvUnJWaENNVHJ2VWJOa21IV1g3a2hjTHpEZFkzYk1fT185b2JIOXQtU0ZIMHI1YnNJWVpMTjdPMXo5eEpqMnZkSU9lS2hVNzE1UFo1QzJ6LUhzeWZBNlFSc2xlV0JzVXZlMGtSQTZ6MWhQNk9QMGttUzNtZ2pwZDZ6M1ZSSEdpM0VPWXFIbldHMm4wdmxOODBST2o3LURZT2NDVjVucGQyM3NxckhDeGQ4bUFmejcyRWhyaURMcUFYR9IB3AFBVV95cUxOZFFmaWRSdV9JRjlHMXZranVWQ0VHUnFweU94OTZZcUZzcHREcn"
-        },
-        {
           "title": "Suzlon, KPIT Tech, IndusInd Bank: Top stocks to trade — Check key levels to watch & more",
           "source": "Business Today",
           "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOM0VyMXJ5YjVZQzdRWDFBN3duOHdGRTlESldxN3dJbFFyZ3hSRVMtZld0MmlOdDFFM1VxTHJUZVJLVnFKNkNTT3ZkbEVkUUJOcWR1VnFqLU4xaXBES3NxYzhJWkZla3pmQlg3dmVuU2ZQdEUzYTBkVmhNaXNNU2hVVWg1V3AwcFVZaVhPam9Samo2ZkZSdnE1MTE1WGxKRHpZQ0o5dTR0ajNFbjdXYXdKaVozNjdTbGZ5TVhUYk9IUUtKVTA5UGVKdWE3STNUQ1lIODl4WXNOQ3JjZ2Z4MnNFS09Nb9IB6AFBVV95cUxNaVFuNW9BcnV3ME1HS2piZ3VpRHQyR1Y4VlY5d3lUZ2xsSmJ2QjAxNTBaTkFYNkUtTnNrWlE5UVhQWjBtbWFiRVhBZERGUGdDWi1mbHRtb0wwbE50MV8wWDNZX1hkRlpNT0NlRld3RXFUeTg1alBYc2huQ19ZVTZ6NlljbnE4bDVZWF9uYS0wS05SWXVZckdrSVJXaE5PTnQ2akJXeXlWQ2Y1YXE0dDk5T2JOaEVqQVZWbklkWXA3dkdKSk1XMjNsRkphcVp5blFTWWZFWmhDTnNwMDFLN2NxRjEzWks1UDdS?oc=5",
           "published_at": "2026-07-07T01:58:09+00:00",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOM0VyMXJ5YjVZQzdRWDFBN3duOHdGRTlESldxN3dJbFFyZ3hSRVMtZld0MmlOdDFFM1VxTHJUZVJLVnFKNkNTT3ZkbEVkUUJOcWR1VnFqLU4xaXBES3NxYzhJWkZla3pmQlg3dmVuU2ZQdEUzYTBkVmhNaXNNU2hVVWg1V3AwcFVZaVhPam9Samo2ZkZSdnE1MTE1WGxKRHpZQ0o5dTR0ajNFbjdXYXdKaVozNjdTbGZ5TVhUYk9IUUtKVTA5UGVKdWE3STNUQ1lIODl4WXNOQ3JjZ2Z4MnNFS09Nb9IB6AFBVV95cUxNaVFuNW9BcnV3ME1HS2piZ3VpRHQyR1"
+        },
+        {
+          "title": "Suzlon Share Price Extends Losing Streak, Dips 8% In Five Days — What's Dragging The Stock?",
+          "source": "NDTV Profit",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeXlJdHdPT2lZMGo0T1N6M0QzSGRvUnJWaENNVHJ2VWJOa21IV1g3a2hjTHpEZFkzYk1fT185b2JIOXQtU0ZIMHI1YnNJWVpMTjdPMXo5eEpqMnZkSU9lS2hVNzE1UFo1QzJ6LUhzeWZBNlFSc2xlV0JzVXZlMGtSQTZ6MWhQNk9QMGttUzNtZ2pwZDZ6M1ZSSEdpM0VPWXFIbldHMm4wdmxOODBST2o3LURZT2NDVjVucGQyM3NxckhDeGQ4bUFmejcyRWhyaURMcUFYR9IB3AFBVV95cUxOZFFmaWRSdV9JRjlHMXZranVWQ0VHUnFweU94OTZZcUZzcHREcnJRUWNVb0QzYkF1XzJ6OWdoUFVLVmFmNkl4LWlGc04yZGtJYzItZGhUS3pxQkdrc3FFVzlOd25sNjlZN284bE9oNVBUdTZDdmdVRGtEYjZjc2FGZFczWUN0MU0xSTRLQ1NTVWFZMmJmbDI2LTF6cGZUX3lvNlRzQnFTZXBNTkVHSmNCUDZLbGZ0Z3Zqa1l3UGF6VlBqMUFqdFk2TVNtcjNJS196aVlwb3JYc3RkOHlX?oc=5",
+          "published_at": "2026-07-07T06:11:02+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeXlJdHdPT2lZMGo0T1N6M0QzSGRvUnJWaENNVHJ2VWJOa21IV1g3a2hjTHpEZFkzYk1fT185b2JIOXQtU0ZIMHI1YnNJWVpMTjdPMXo5eEpqMnZkSU9lS2hVNzE1UFo1QzJ6LUhzeWZBNlFSc2xlV0JzVXZlMGtSQTZ6MWhQNk9QMGttUzNtZ2pwZDZ6M1ZSSEdpM0VPWXFIbldHMm4wdmxOODBST2o3LURZT2NDVjVucGQyM3NxckhDeGQ4bUFmejcyRWhyaURMcUFYR9IB3AFBVV95cUxOZFFmaWRSdV9JRjlHMXZranVWQ0VHUnFweU94OTZZcUZzcHREcn"
         },
         {
           "title": "Suzlon Energy Ltd slips for fifth straight session",
@@ -704,7 +720,7 @@
         "change_pct": -1.97,
         "gap_pct": 0.0,
         "intraday_range_pct": 2.54,
-        "volume": 56950982,
+        "volume": 56983348,
         "avg_volume_20d": 85099807,
         "volume_ratio": 0.67,
         "sparkline": [
@@ -769,7 +785,7 @@
         "change_pct": -1.25,
         "gap_pct": 0.21,
         "intraday_range_pct": 1.9,
-        "volume": 3347431,
+        "volume": 3351443,
         "avg_volume_20d": 5026627,
         "volume_ratio": 0.67,
         "sparkline": [
@@ -834,7 +850,7 @@
         "change_pct": -2.05,
         "gap_pct": 0.36,
         "intraday_range_pct": 2.98,
-        "volume": 826154,
+        "volume": 828502,
         "avg_volume_20d": 3554856,
         "volume_ratio": 0.23,
         "sparkline": [
@@ -899,7 +915,7 @@
         "change_pct": -2.15,
         "gap_pct": 0.45,
         "intraday_range_pct": 3.4,
-        "volume": 1971892,
+        "volume": 1973947,
         "avg_volume_20d": 5758990,
         "volume_ratio": 0.34,
         "sparkline": [
@@ -960,11 +976,11 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxQaGI1OWp0NDh5ZXBBNmZkZWhsamlvbGdnZTRrMU1aZUFxQ1FzaGpNQ2lvYnNjT0hsbjZOMk4tWlA4NmdpY1E1NDhqcFR2dXdPSTQycld6bnVXWUtraHJiSFU3cEk0Z2NFMVRxZHVibWN0OFVHTU13TUhCM2FHck1SemFHY0dpLURhaEluYmZYMEdCUlpGYjJJc2ljVnBGdndld0tvakRqVThubEl1YmdKZUlGd0ZXakhOOWp5cnpvRVlLM2ZESkZMWDA5VEttRTI5dXFGZU5KVWE2N3AtcUxWNlBzbWlwbWZpTVM3bWFHMUc?oc=5\" target=\"_blank\">ITC "
         },
         {
-          "title": "ITC Hotels’ Welcomhotel brand debuts in Mysuru",
-          "source": "Hotelier India",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOS10WVMyY0ZlQ3VxQmJQSzEtYV8wS0lQOVMtTi1NMG13ckxkZWg0WnRzWVZSWFh0NTlwQ0QwT0hOTEpCcHZKWTByejJ3amJyTHhoZElCcjU1NDBvMnlNTlZ6RE81MGtDVGNDUEJ1ZXVjQWREc3MwWUpOYjNFOGlJak9XZ2dJUExUaFJIT0NXX08?oc=5",
-          "published_at": "2026-07-07T12:10:43+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNOS10WVMyY0ZlQ3VxQmJQSzEtYV8wS0lQOVMtTi1NMG13ckxkZWg0WnRzWVZSWFh0NTlwQ0QwT0hOTEpCcHZKWTByejJ3amJyTHhoZElCcjU1NDBvMnlNTlZ6RE81MGtDVGNDUEJ1ZXVjQWREc3MwWUpOYjNFOGlJak9XZ2dJUExUaFJIT0NXX08?oc=5\" target=\"_blank\">ITC Hotels’ Welcomhotel brand debuts in Mysuru</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hotelier India</font>"
+          "title": "ITC Hotels signs new hotel in Mysuru",
+          "source": "BigInfo.in",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xZVYtQnlpRzhlaE9lampCck83aXFXdVhoVThiLVk4UGViVURhWlQ1U3U0UExNMEZ4ZERlVUJqcWxzQjdVaDZVWnJuNXB4Q2FNOGVTY2ZqWmJVbGtlTndiUlZ4Vm95UURueVJEWg?oc=5",
+          "published_at": "2026-07-08T00:38:38+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE8xZVYtQnlpRzhlaE9lampCck83aXFXdVhoVThiLVk4UGViVURhWlQ1U3U0UExNMEZ4ZERlVUJqcWxzQjdVaDZVWnJuNXB4Q2FNOGVTY2ZqWmJVbGtlTndiUlZ4Vm95UURueVJEWg?oc=5\" target=\"_blank\">ITC Hotels signs new hotel in Mysuru</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigInfo.in</font>"
         },
         {
           "title": "ITC Hotels signs Welcomhotel property in Mysuru",
@@ -974,38 +990,38 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNd0F1YkRQdklFZkxBNkdMYjlGOE9GeUhibmk2WmVhcW9FM0g1WGhBN0RZeXEtaWpyOUhfS1Rkd1NPM3IzSUU3N0FQcUk5YUJ5dWhCZ1huVVI2dkxLVlZWbzgtSjBUMi02TXpJcjI4TEtOMVlJTlNOS1kxa0NaQk02dktMQ19sWkE5WkU3a3VIdDVpTjA?oc=5\" target=\"_blank\">ITC Hotels signs Welcomhotel property in Mysuru</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BW Hotelier</font>"
         },
         {
+          "title": "ITC Hotels Expands Karnataka Footprint with Signing of 99-Key Welcomhotel in Mysuru",
+          "source": "Soul Of Hospitality",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdHlwWVF2T1JlOW9tTDgyU2tkUVByTnhXWTZRTnljejhucmRER2d3NWJwdnY2M0RmYVROSXZBdkJHb1k3dF9VMlVzXzF2YVQ0eEVraTRLeEljWjJ4RF9BaW1iVGxNR0pnNElXOTR4aDdaVmt5bnpvQU5TdTFCeDN1WU5hcWwxYWNiV3VGOHE3UjE4VEQtVHlNbGk0b3RsZXFZOVJ3YjRPSjNFN2JObVozYk1mTi1qa2wxVk8tWWY3VFRCSG1fdFFkejVhZ25kRkpWdUxkMXdjQ1Q?oc=5",
+          "published_at": "2026-07-07T14:52:37+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdHlwWVF2T1JlOW9tTDgyU2tkUVByTnhXWTZRTnljejhucmRER2d3NWJwdnY2M0RmYVROSXZBdkJHb1k3dF9VMlVzXzF2YVQ0eEVraTRLeEljWjJ4RF9BaW1iVGxNR0pnNElXOTR4aDdaVmt5bnpvQU5TdTFCeDN1WU5hcWwxYWNiV3VGOHE3UjE4VEQtVHlNbGk0b3RsZXFZOVJ3YjRPSjNFN2JObVozYk1mTi1qa2wxVk8tWWY3VFRCSG1fdFFkejVhZ25kRkpWdUxkMXdjQ1Q?oc=5\" target=\"_blank\">ITC Hotels Expands Karnataka Footpri"
+        },
+        {
+          "title": "ITC Hotels’ Welcomhotel brand debuts in Mysuru",
+          "source": "Hotelier India",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOS10WVMyY0ZlQ3VxQmJQSzEtYV8wS0lQOVMtTi1NMG13ckxkZWg0WnRzWVZSWFh0NTlwQ0QwT0hOTEpCcHZKWTByejJ3amJyTHhoZElCcjU1NDBvMnlNTlZ6RE81MGtDVGNDUEJ1ZXVjQWREc3MwWUpOYjNFOGlJak9XZ2dJUExUaFJIT0NXX08?oc=5",
+          "published_at": "2026-07-07T12:10:43+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNOS10WVMyY0ZlQ3VxQmJQSzEtYV8wS0lQOVMtTi1NMG13ckxkZWg0WnRzWVZSWFh0NTlwQ0QwT0hOTEpCcHZKWTByejJ3amJyTHhoZElCcjU1NDBvMnlNTlZ6RE81MGtDVGNDUEJ1ZXVjQWREc3MwWUpOYjNFOGlJak9XZ2dJUExUaFJIT0NXX08?oc=5\" target=\"_blank\">ITC Hotels’ Welcomhotel brand debuts in Mysuru</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hotelier India</font>"
+        },
+        {
           "title": "ITC signs Welcomhotel in Rajasthan",
           "source": "Asian Hospitality",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9LT1VQYkNVUHJKWmtYdk1VZGxiSUFqcnY2WW0wLU5aMUdJSE1fZTI4SHQ4aHNLLU14NVItZE5aZGlYV083TXlFNGRpS09qalA1MUNlbjA1YlZ6WHRCOFlsSnZjanZCRnNnZldBM1hkQ2kwWWlSdVgw?oc=5",
-          "published_at": "2026-07-07T06:25:07+00:00",
+          "published_at": "2026-07-07T10:41:12+00:00",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9LT1VQYkNVUHJKWmtYdk1VZGxiSUFqcnY2WW0wLU5aMUdJSE1fZTI4SHQ4aHNLLU14NVItZE5aZGlYV083TXlFNGRpS09qalA1MUNlbjA1YlZ6WHRCOFlsSnZjanZCRnNnZldBM1hkQ2kwWWlSdVgw?oc=5\" target=\"_blank\">ITC signs Welcomhotel in Rajasthan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Asian Hospitality</font>"
         },
         {
-          "title": "Madras High Court Upholds GST Demand Holds ITC Claim Based On Fabricated Agreement Invalid",
-          "source": "LiveLawBiz",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdkdNYmttbXoyQWtJcFpZa2lkY1hneHY3U3VhWlNwTVhfM3Q2NmJHN2NSZEVKWVcwQl85T0JMX2tweDNwTTl0aUxJUmRVcVViNF92cEJ3VGl4aDhTd3Y4Nk96dGtsMDV0ZXJiQWJlcGNYM0tGQ1h4NWhrSG1xZ28wc0FiQTFEZGE5NnpfUlNwSHZnbTB0anNEcnlKY0RKSmJjd0VzT2cyZmw1UF85MGh0bUdQcnZzNWhQZVFNN0FBWEV0NFZwMDROVTFYTUJfQ2xH0gHWAUFVX3lxTFBrZzJrd2RLQm1ENzY1SUZ1dlBwcmRXcUdraklCQ2FLa3BIa3k2ZngyTTBCN19XVU1lSk9OWmhRNXdScHIyVzlUMkVOcUhUcXgzSFZ5WGZTTVFCdGxuYTAzamhUVm83WUJGOHl6SGJ3Z0tFUE5jVnoyYXNKNC14Wk5Zd1NhLVhGenMzd0U5aC1YaWJ6aVpVMVI3XzROZlBHNEV2djJMZXpOaVlySE1VOW1TWkphTlMyUklHOWdFclZxQmI1WHZlNW1qVUQtNTRIdmJGT1Y2c3c?oc=5",
-          "published_at": "2026-07-07T09:17:48+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdkdNYmttbXoyQWtJcFpZa2lkY1hneHY3U3VhWlNwTVhfM3Q2NmJHN2NSZEVKWVcwQl85T0JMX2tweDNwTTl0aUxJUmRVcVViNF92cEJ3VGl4aDhTd3Y4Nk96dGtsMDV0ZXJiQWJlcGNYM0tGQ1h4NWhrSG1xZ28wc0FiQTFEZGE5NnpfUlNwSHZnbTB0anNEcnlKY0RKSmJjd0VzT2cyZmw1UF85MGh0bUdQcnZzNWhQZVFNN0FBWEV0NFZwMDROVTFYTUJfQ2xH0gHWAUFVX3lxTFBrZzJrd2RLQm1ENzY1SUZ1dlBwcmRXcUdraklCQ2FLa3BIa3k2ZngyTT"
-        },
-        {
-          "title": "Single malts take centre stage at whiskey-tasting at ITC Royal Bengal",
-          "source": "Telegraph India",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZXMxU2RBNlRmaEQxZVFCUEZaMDNUYlBFb0s5SUdSOWphSHUyTHBFdXdwTUNjMGVVakVVdmVTbmFRd292ak5TWjl6eXR3ZWhWcWNlX21wa19uYjFjRTlUSmMxaURpTVRlRGZ6SzhxOFFXWm5tUjNKQ0tuYzRsdUEzRTlXQUN1dW9FU2ZZVllsUmhUSHk4UE42NlBiY0hpR3FKcU1wYUxwZmE3Vk0zbVlvTFlPUVNiakRMR1ItbjYzVmV2bEV4b2NOeHNR0gHPAUFVX3lxTFBuR2NYQ0xSV2g0ZmI0ZjR1dFpDQ3NQSFpyYmdndTFvQ1BZMEdULWdTSW9FcnZqWklyRElMamtkc2VlVU9TQzVPWE1rd0toRmUxdzBTYnBQTUFIc0FoZWFlRzVNcEhHcDZMNDRkZjVpRHYxVmlQbVVHT0VNQ2VTN0I0Vl9qS2JnaU9iQ1N2TzZqM2dEVHdXUUpvSm85cktsUmJ2MWxTbXBmbDNSVjRobUlyU204eW8wZE13eU83d05kczZlWFpRLXlNUEhwbW5mNA?oc=5",
-          "published_at": "2026-07-07T11:27:48+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOZXMxU2RBNlRmaEQxZVFCUEZaMDNUYlBFb0s5SUdSOWphSHUyTHBFdXdwTUNjMGVVakVVdmVTbmFRd292ak5TWjl6eXR3ZWhWcWNlX21wa19uYjFjRTlUSmMxaURpTVRlRGZ6SzhxOFFXWm5tUjNKQ0tuYzRsdUEzRTlXQUN1dW9FU2ZZVllsUmhUSHk4UE42NlBiY0hpR3FKcU1wYUxwZmE3Vk0zbVlvTFlPUVNiakRMR1ItbjYzVmV2bEV4b2NOeHNR0gHPAUFVX3lxTFBuR2NYQ0xSV2g0ZmI0ZjR1dFpDQ3NQSFpyYmdndTFvQ1BZMEdULWdTSW9FcnZqWk"
-        },
-        {
-          "title": "ITC Properties to acquire 20% stake in PYI Investment through HKD 336.68 million deal",
-          "source": "Prop News Time",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYTZZQUczejhxOTdSQnFNUlZ3Y0ZwcG1CLVZDb2doMG81R0UwV3BtUXNyTElteko5TmdLNmZ5MHYyX3VjNEg2OG9Xb2tDT2g3VmIxaUhTV3pIUThVN3VrTk1ITHVxZXhjeTBTUGpnY01GbFEweWh3WUdrNXFMN0tHZHBTRkhMWmlodlg5OE80cldFbTJQdndNalhCZWcyZlU4Y2xZLXRhbjkzcDdrLTBkUnlRdG0welE0emQxem5WS09nWG1XU2RvLUtFQWdYN3ZnbXdv?oc=5",
-          "published_at": "2026-07-07T10:32:17+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYTZZQUczejhxOTdSQnFNUlZ3Y0ZwcG1CLVZDb2doMG81R0UwV3BtUXNyTElteko5TmdLNmZ5MHYyX3VjNEg2OG9Xb2tDT2g3VmIxaUhTV3pIUThVN3VrTk1ITHVxZXhjeTBTUGpnY01GbFEweWh3WUdrNXFMN0tHZHBTRkhMWmlodlg5OE80cldFbTJQdndNalhCZWcyZlU4Y2xZLXRhbjkzcDdrLTBkUnlRdG0welE0emQxem5WS09nWG1XU2RvLUtFQWdYN3ZnbXdv?oc=5\" target=\"_blank\">ITC Properties to acquire 20% stake in PYI "
+          "title": "CENVAT Credit Cannot Be Denied Merely Because Air Separation Plant Becomes Attached to Earth: CESTAT in ITC Ltd Case [Read Order]",
+          "source": "Taxscan",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPSTdkaTNHUlBTVVp6d0Rva1BrTDhMRGdrRUhleUdSR2dCUXhKd21DckNRdVhMaWpWSjFjU19xVkZWQVZOSU5GQUxSblZSNnNXZWpsQzhRVnNtVFJHanBEUkk3VWw3eFlsU3ZhdzQ0WFJUWHZKZVRsUkxTUFBBNmdyVHAxWkNZVVA4Mm5fUE5WRDZGc3FYVHVkQmctSEdDcUJxOGx3ZWY5T3NoUmhqa0Ixc0RKNndYTndZTVZqNFBIOUdsVEdXSFFKZW8wWWFhTnlYM21BblJLWDk0aTBWUFY2T2NTNzBIN1JDSW1IdGhxbw?oc=5",
+          "published_at": "2026-07-07T10:26:42+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxPSTdkaTNHUlBTVVp6d0Rva1BrTDhMRGdrRUhleUdSR2dCUXhKd21DckNRdVhMaWpWSjFjU19xVkZWQVZOSU5GQUxSblZSNnNXZWpsQzhRVnNtVFJHanBEUkk3VWw3eFlsU3ZhdzQ0WFJUWHZKZVRsUkxTUFBBNmdyVHAxWkNZVVA4Mm5fUE5WRDZGc3FYVHVkQmctSEdDcUJxOGx3ZWY5T3NoUmhqa0Ixc0RKNndYTndZTVZqNFBIOUdsVEdXSFFKZW8wWWFhTnlYM21BblJLWDk0aTBWUFY2T2NTNzBIN1JDSW1IdGhxbw?oc=5\" target=\"_blank\">CENVA"
         },
         {
           "title": "ITC Grand Central Mumbai introduces seasonal monsoon tea experience",
           "source": "BW Hotelier",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOFppQ1RyeGZudk5la09Pd0RENmhNVGNmdEhDTXIwZm1lejJpUUNPRTk3VmZSRDhqWU1HRWF5MnlTTG82ZDZzYTJkQm1IUGNxVVRuZzhPdHU1cVdrSF9jOVF6YTdQMVcyUmlvSlZIXzlIbXpTc2t5bG9jR0ZCLXhhSGhkZDRtcDRnOUlTdEo2WUlTWU5ONVZJTFFkbUk4REJQQ3p6eWpZRnVqTnVJbVE?oc=5",
-          "published_at": "2026-07-07T06:44:56+00:00",
+          "published_at": "2026-07-07T18:45:28+00:00",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPOFppQ1RyeGZudk5la09Pd0RENmhNVGNmdEhDTXIwZm1lejJpUUNPRTk3VmZSRDhqWU1HRWF5MnlTTG82ZDZzYTJkQm1IUGNxVVRuZzhPdHU1cVdrSF9jOVF6YTdQMVcyUmlvSlZIXzlIbXpTc2t5bG9jR0ZCLXhhSGhkZDRtcDRnOUlTdEo2WUlTWU5ONVZJTFFkbUk4REJQQ3p6eWpZRnVqTnVJbVE?oc=5\" target=\"_blank\">ITC Grand Central Mumbai introduces seasonal monsoon tea experience</a>&nbsp;&nbsp;<font col"
         }
       ],
@@ -1082,18 +1098,6 @@
           "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/jul-2026/remittance-advice-against-ad-advertising-private-limited-defaulter-pan-aajca3551c-in-the-matter-of-fortis-healthcare-limited-under-recovery-certificate-no-8808-of-2025-_102616.html",
           "published_at": "06 Jul, 2026 +0530",
           "summary": "Remittance Advice against: AD Advertising Private Limited [Defaulter] PAN: AAJCA3551C in the matter of Fortis Healthcare Limited under recovery certificate no. 8808 of 2025."
-        },
-        {
-          "title": "Exemption Order in the matter of Waaree Energies Limited",
-          "url": "https://www.sebi.gov.in/https://www.sebi.gov.in/sebi_data/attachdocs/jul-2026/waree-exemption-order.pdf",
-          "published_at": "03 Jul, 2026 +0530",
-          "summary": "Exemption Order in the matter of Waaree Energies Limited"
-        },
-        {
-          "title": "Exemption Order in the matter of Vadilal Enterprises Limited",
-          "url": "https://www.sebi.gov.in/https://www.sebi.gov.in/sebi_data/attachdocs/jul-2026/vel-exemption-order.pdf",
-          "published_at": "03 Jul, 2026 +0530",
-          "summary": "Exemption Order in the matter of Vadilal Enterprises Limited"
         }
       ],
       "price_action": {
@@ -1106,7 +1110,7 @@
         "change_pct": 0.17,
         "gap_pct": 0.02,
         "intraday_range_pct": 1.44,
-        "volume": 18489823,
+        "volume": 18491160,
         "avg_volume_20d": 11710543,
         "volume_ratio": 1.58,
         "sparkline": [
@@ -1240,18 +1244,6 @@
           "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/jul-2026/remittance-advice-against-ad-advertising-private-limited-defaulter-pan-aajca3551c-in-the-matter-of-fortis-healthcare-limited-under-recovery-certificate-no-8808-of-2025-_102616.html",
           "published_at": "06 Jul, 2026 +0530",
           "summary": "Remittance Advice against: AD Advertising Private Limited [Defaulter] PAN: AAJCA3551C in the matter of Fortis Healthcare Limited under recovery certificate no. 8808 of 2025."
-        },
-        {
-          "title": "Exemption Order in the matter of Waaree Energies Limited",
-          "url": "https://www.sebi.gov.in/https://www.sebi.gov.in/sebi_data/attachdocs/jul-2026/waree-exemption-order.pdf",
-          "published_at": "03 Jul, 2026 +0530",
-          "summary": "Exemption Order in the matter of Waaree Energies Limited"
-        },
-        {
-          "title": "Exemption Order in the matter of Vadilal Enterprises Limited",
-          "url": "https://www.sebi.gov.in/https://www.sebi.gov.in/sebi_data/attachdocs/jul-2026/vel-exemption-order.pdf",
-          "published_at": "03 Jul, 2026 +0530",
-          "summary": "Exemption Order in the matter of Vadilal Enterprises Limited"
         }
       ],
       "price_action": {
@@ -1264,7 +1256,7 @@
         "change_pct": 1.63,
         "gap_pct": 0.5,
         "intraday_range_pct": 2.41,
-        "volume": 5836878,
+        "volume": 5840812,
         "avg_volume_20d": 4488054,
         "volume_ratio": 1.3,
         "sparkline": [
@@ -1324,9 +1316,9 @@
         "open": 121.19,
         "high": 122.65,
         "low": 118.52,
-        "close": 120.62,
+        "close": NaN,
         "prev_close": 120.1,
-        "change_pct": 0.43,
+        "change_pct": NaN,
         "gap_pct": 0.91,
         "intraday_range_pct": 3.44,
         "volume": 6328357,
@@ -1362,7 +1354,7 @@
           118.99,
           118.95,
           120.1,
-          120.62
+          NaN
         ]
       },
       "analysis": {
@@ -1389,9 +1381,9 @@
         "open": 174.59,
         "high": 174.59,
         "low": 170.2,
-        "close": 170.75,
+        "close": NaN,
         "prev_close": 173.74,
-        "change_pct": -1.72,
+        "change_pct": NaN,
         "gap_pct": 0.49,
         "intraday_range_pct": 2.53,
         "volume": 552307,
@@ -1427,7 +1419,7 @@
           176.31,
           174.77,
           173.74,
-          170.75
+          NaN
         ]
       },
       "analysis": {
@@ -1520,22 +1512,53 @@
           "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/jul-2026/remittance-advice-against-ad-advertising-private-limited-defaulter-pan-aajca3551c-in-the-matter-of-fortis-healthcare-limited-under-recovery-certificate-no-8808-of-2025-_102616.html",
           "published_at": "06 Jul, 2026 +0530",
           "summary": "Remittance Advice against: AD Advertising Private Limited [Defaulter] PAN: AAJCA3551C in the matter of Fortis Healthcare Limited under recovery certificate no. 8808 of 2025."
-        },
-        {
-          "title": "Exemption Order in the matter of Waaree Energies Limited",
-          "url": "https://www.sebi.gov.in/https://www.sebi.gov.in/sebi_data/attachdocs/jul-2026/waree-exemption-order.pdf",
-          "published_at": "03 Jul, 2026 +0530",
-          "summary": "Exemption Order in the matter of Waaree Energies Limited"
-        },
-        {
-          "title": "Exemption Order in the matter of Vadilal Enterprises Limited",
-          "url": "https://www.sebi.gov.in/https://www.sebi.gov.in/sebi_data/attachdocs/jul-2026/vel-exemption-order.pdf",
-          "published_at": "03 Jul, 2026 +0530",
-          "summary": "Exemption Order in the matter of Vadilal Enterprises Limited"
         }
       ],
       "price_action": {
-        "error": "insufficient_data"
+        "date": "2026-07-07",
+        "open": 641.55,
+        "high": 662.05,
+        "low": 619.0,
+        "close": 622.3,
+        "prev_close": 641.55,
+        "change_pct": -3.0,
+        "gap_pct": 0.0,
+        "intraday_range_pct": 6.71,
+        "volume": 574697,
+        "avg_volume_20d": 1141510,
+        "volume_ratio": 0.5,
+        "sparkline": [
+          439.9,
+          439.9,
+          438.95,
+          428.75,
+          441.4,
+          440.35,
+          447.35,
+          420.55,
+          399.85,
+          411.1,
+          392.6,
+          418.55,
+          432.5,
+          448.4,
+          451.6,
+          451.3,
+          456.35,
+          501.95,
+          548.75,
+          528.3,
+          532.0,
+          565.75,
+          565.75,
+          569.05,
+          625.45,
+          656.7,
+          674.85,
+          641.15,
+          641.55,
+          622.3
+        ]
       },
       "analysis": {
         "classification": "no_signal",
