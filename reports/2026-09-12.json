@@ -1,7 +1,7 @@
 {
   "report_date": "2026-09-12",
   "trading_day": "2026-09-11",
-  "generated_at": "2026-09-14T09:00:56.016683+05:30",
+  "generated_at": "2026-09-15T09:00:59.638136+05:30",
   "stocks": [
     {
       "symbol": "TMCV",
@@ -76,15 +76,7 @@
       "skip_catalysts": false,
       "bse_announcements": [],
       "nse_announcements": [],
-      "news": [
-        {
-          "title": "JLR’s 4,000 Job Cuts Put a 300,000-Vehicle Break-Even at the Center of TMPV’s Bet",
-          "source": "TechStock²",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQl9qTFZ5MGt3Vndib1RwdENQMG5LSHc3RnpYNUJacHNVbklvNGxiLVhWNXJLd1ZmVHhJMDV6X215VjNDcnlBV1lMbFVud3Z0OWlnc0dqUzEzWFA1M3A5UFk3a20tdG9QNnpCM3MyV1RqTS1TajJlaWpmajNITmRFYVVidW56aUVwZzNnQ2VONGl2ZnJGYngwNVdnaVA4c28?oc=5",
-          "published_at": "2026-09-13T14:07:58+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOQl9qTFZ5MGt3Vndib1RwdENQMG5LSHc3RnpYNUJacHNVbklvNGxiLVhWNXJLd1ZmVHhJMDV6X215VjNDcnlBV1lMbFVud3Z0OWlnc0dqUzEzWFA1M3A5UFk3a20tdG9QNnpCM3MyV1RqTS1TajJlaWpmajNITmRFYVVidW56aUVwZzNnQ2VONGl2ZnJGYngwNVdnaVA4c28?oc=5\" target=\"_blank\">JLR’s 4,000 Job Cuts Put a 300,000-Vehicle Break-Even at the Center of TMPV’s Bet</a>&nbsp;&nbsp;<font color=\"#6"
-        }
-      ],
+      "news": [],
       "events": [],
       "sebi_mentions": [],
       "price_action": {
@@ -160,13 +152,6 @@
       ],
       "news": [
         {
-          "title": "Weekly Recap: NIM squeeze and hybrid fixed-to-floating home loans",
-          "source": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObFY2Q1AzczZzeHNVNUNNZ0gxclk0WjBjamZHcUN6bVV4OWZPNU9xWnNSU3hpWDVoSGhTTVFqTFFfY2g5OHVXOWJiby1fU3YzZVlUWTdDU0FsWWxYbDhzVlFGMjc1ZExQeFZmLTIzUHJRWXY5S2NNdW1mbjU2NFRpSDVFcUxWZmxGUlY1QmkteVRpaWdYU2p3OTd4VHgyVFVJNjdQeU5oREoyUTV1a2xGNi1XVXpzME8tR25sYVVWMmpmSERU?oc=5",
-          "published_at": "2026-09-14T01:14:00+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxObFY2Q1AzczZzeHNVNUNNZ0gxclk0WjBjamZHcUN6bVV4OWZPNU9xWnNSU3hpWDVoSGhTTVFqTFFfY2g5OHVXOWJiby1fU3YzZVlUWTdDU0FsWWxYbDhzVlFGMjc1ZExQeFZmLTIzUHJRWXY5S2NNdW1mbjU2NFRpSDVFcUxWZmxGUlY1QmkteVRpaWdYU2p3OTd4VHgyVFVJNjdQeU5oREoyUTV1a2xGNi1XVXpzME8tR25sYVVWMmpmSERU?oc=5\" target=\"_blank\">Weekly Recap: NIM squeeze and hybrid fixed-to-floating home loa"
-        },
-        {
           "title": "ICICI Bank Share Price - Live NSE: ICICIBANK Stock Price & Chart",
           "source": "Upstox",
           "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE41ZWlLb1o0emplRlRyWWY3MnhuaG1TMzVobHB2ZVk4NGc5aTFkb3FrX2Q4ZjZaanV6V2oySlFPTlZZa05qUnNicW9pNktGdnlxU1BvalA3VjJVUlBqaUtSSmdaMA?oc=5",
@@ -181,29 +166,36 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9kYVhJNHdOWnMwcEkwMTVPZ0lMSm52Nzg0SlZEVHpBc2tNV2VkelBkcU95NnRLck13OGVLRlpHc0U2d1FQZ2tSTm1rM2U2SV9Na05SNS13RlNIOS1LZUstQk9vQlhDZlhVY0lhVw?oc=5\" target=\"_blank\">ICICIBANK Outlook for the Week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Equitypandit</font>"
         },
         {
+          "title": "Weekly Recap: NIM squeeze and hybrid fixed-to-floating home loans",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObFY2Q1AzczZzeHNVNUNNZ0gxclk0WjBjamZHcUN6bVV4OWZPNU9xWnNSU3hpWDVoSGhTTVFqTFFfY2g5OHVXOWJiby1fU3YzZVlUWTdDU0FsWWxYbDhzVlFGMjc1ZExQeFZmLTIzUHJRWXY5S2NNdW1mbjU2NFRpSDVFcUxWZmxGUlY1QmkteVRpaWdYU2p3OTd4VHgyVFVJNjdQeU5oREoyUTV1a2xGNi1XVXpzME8tR25sYVVWMmpmSERU?oc=5",
+          "published_at": "2026-09-14T01:14:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxObFY2Q1AzczZzeHNVNUNNZ0gxclk0WjBjamZHcUN6bVV4OWZPNU9xWnNSU3hpWDVoSGhTTVFqTFFfY2g5OHVXOWJiby1fU3YzZVlUWTdDU0FsWWxYbDhzVlFGMjc1ZExQeFZmLTIzUHJRWXY5S2NNdW1mbjU2NFRpSDVFcUxWZmxGUlY1QmkteVRpaWdYU2p3OTd4VHgyVFVJNjdQeU5oREoyUTV1a2xGNi1XVXpzME8tR25sYVVWMmpmSERU?oc=5\" target=\"_blank\">Weekly Recap: NIM squeeze and hybrid fixed-to-floating home loa"
+        },
+        {
+          "title": "ICICI Bank Ltd Share Price Today,, ICICIBANK Share Price NSE, BSE",
+          "source": "Business Today",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNnU5b1E5Q3hTbEk3azd3T05ON0c2VW0zQWZPSXAtWkR5aHdoendpcFVkWi01dGFMZVEwSVZGX2FDejZIZy1Bd2pwYS1MZG9FQkdHVDVOLXgwVERjZ01qMUdFY05kVzJ1ckNybGh4eXRiX1FYeXA4cFlWVnF0cDN1VlVKcDY5QQ?oc=5",
+          "published_at": "2026-09-11T07:00:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNNnU5b1E5Q3hTbEk3azd3T05ON0c2VW0zQWZPSXAtWkR5aHdoendpcFVkWi01dGFMZVEwSVZGX2FDejZIZy1Bd2pwYS1MZG9FQkdHVDVOLXgwVERjZ01qMUdFY05kVzJ1ckNybGh4eXRiX1FYeXA4cFlWVnF0cDN1VlVKcDY5QQ?oc=5\" target=\"_blank\">ICICI Bank Ltd Share Price Today,, ICICIBANK Share Price NSE, BSE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Today</font>"
+        },
+        {
           "title": "ICICI Bank Stock Update: Share Price Dips Amidst Sector Strike Concerns",
-          "source": "LatestLY",
+          "source": "latestly.com",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTDYtV1Fsa0V6OER5UXRzNnhOdWtTUHNIYnp2RnVEbGNjdXVXSmZYUkF4c1lVQlJYSmtVU2NDOE5RSEhSWFBzWTdqc0RybUVqVC1lU08tQUhoNm1EXy02d3N0RjhJZmp2N1h3bDZWc0ZoTUMydnlKVEk3bk1Tcloxdy1BREJzSTZoOWFCNWstMjdvVzVuRmgxZTdjdndHSlozbWhxZFo2X0xpcUhidHMzQnFsaXpLRlNx0gG-AUFVX3lxTE12U2hUdGVoSlprT1o4dnpHZ25qRWxIMUo3SFBhMThpX3pHODJDeUNQb2M3Q0swYnhYNExQOVhZS2VVTjlpbVBwSHlfNmdtT005YVVTM2FxWllGVk9lbmk5SUNyd0ZQVlZzemRyWVRHXzAzNWxvVEJNSV83c0lNVXhCZHJBUWJRTHE1TWM2OU84TEVQRlZXNDZUTTdtQ2NMODhMWEhpdUFKeVlWaXluY3pxTkxZdlVfa0o0dC14Rnc?oc=5",
           "published_at": "2026-09-11T04:03:07+00:00",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTDYtV1Fsa0V6OER5UXRzNnhOdWtTUHNIYnp2RnVEbGNjdXVXSmZYUkF4c1lVQlJYSmtVU2NDOE5RSEhSWFBzWTdqc0RybUVqVC1lU08tQUhoNm1EXy02d3N0RjhJZmp2N1h3bDZWc0ZoTUMydnlKVEk3bk1Tcloxdy1BREJzSTZoOWFCNWstMjdvVzVuRmgxZTdjdndHSlozbWhxZFo2X0xpcUhidHMzQnFsaXpLRlNx0gG-AUFVX3lxTE12U2hUdGVoSlprT1o4dnpHZ25qRWxIMUo3SFBhMThpX3pHODJDeUNQb2M3Q0swYnhYNExQOVhZS2VVTjlpbVBwSH"
         },
         {
           "title": "ICICI Bank Stock Update: Share Price Dips Amidst Sector Strike Concerns",
-          "source": "LatestLY",
+          "source": "latestly.com",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcmtTYUNHWDU0S3pDRTNPdjc1dkxWd0dyMjZxbGh3SFR2U3NpcWFSTlpvazR2RWZQeXZ5dUlTV2cyakd3cHVUQmpGanFWQU5WSUgtVmNyd0RNcWRqTEE2cnlxX1gwdndqN1BkUTF4czRmNzFMRjNFVDFGTjNGXzk2RzZJanRiWWFRZnd0RDFMTmxoY05qNDg1VWFueHlOcDRJYm1uZVlmTHR3LUVkY0puZ2NnWVBVamNBTC000gHAAUFVX3lxTE1EVHJLd3JveVRWbU5OSXZpdTJRSHYwa3hxNXlnTFpqQVA2YmxwUkREenJzcXhXZHQxMG1kMEZLVWEtekNkNkMtZ1N0X09SRkNBdkFlOWhfV1g0Y0ZRbTdMQ2pheXJUUGR1c1pjYTAtS3lNcFNibWJwMTFCRGlSTmh6WXh2Zjg3R2VfOVdNR0dpcGxqZlZZQ2tSM3IteUlZWGZMMDl6NzNRUm9vc0tNNGQwRDNiYWl6VzQ0R0wxRWV6ZQ?oc=5",
           "published_at": "2026-09-11T04:03:57+00:00",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcmtTYUNHWDU0S3pDRTNPdjc1dkxWd0dyMjZxbGh3SFR2U3NpcWFSTlpvazR2RWZQeXZ5dUlTV2cyakd3cHVUQmpGanFWQU5WSUgtVmNyd0RNcWRqTEE2cnlxX1gwdndqN1BkUTF4czRmNzFMRjNFVDFGTjNGXzk2RzZJanRiWWFRZnd0RDFMTmxoY05qNDg1VWFueHlOcDRJYm1uZVlmTHR3LUVkY0puZ2NnWVBVamNBTC000gHAAUFVX3lxTE1EVHJLd3JveVRWbU5OSXZpdTJRSHYwa3hxNXlnTFpqQVA2YmxwUkREenJzcXhXZHQxMG1kMEZLVWEtekNkNk"
         }
       ],
       "events": [],
-      "sebi_mentions": [
-        {
-          "title": "Notice of Attachment of Bank and Post Office Accounts 15795 of 2026 dated September 09, 2026, against VIKRAM ANAND HUF [Defaulter] PAN: AAJHV0926R in the matter of dealings in Illiquid Stock Options on BSE -VIKRAM ANAND HUF: under Recovery Certificate No. 9285 of 2026.",
-          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/notice-of-attachment-of-bank-and-post-office-accounts-15795-of-2026-dated-september-09-2026-against-vikram-anand-huf-defaulter-pan-aajhv0926r-in-the-matter-of-dealings-in-illiquid-stock-options-o-_104436.html",
-          "published_at": "09 Sep, 2026 +0530",
-          "summary": "Notice of Attachment of Bank and Post Office Accounts 15795 of 2026 dated September 09, 2026, against VIKRAM ANAND HUF [Defaulter] PAN: AAJHV0926R in the matter of dealings in Illiquid Stock Options on BSE -VIKRAM ANAND HUF: under Recovery Certificate No. 9285 of 2026."
-        }
-      ],
+      "sebi_mentions": [],
       "price_action": {
         "date": "2026-09-11",
         "open": 1371.6,
@@ -277,18 +269,18 @@
       ],
       "news": [
         {
-          "title": "Weekly Recap: VNB margin ~25.6% and GST order confirming sizeable tax demand",
-          "source": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYVJkR3FTTVpqaXh5WDViUURES1RrbUEzUmphMzQ5ODQxbV9DT0RYdkozQWJjTEloRFJHNlVyVWZoYTFpaHM5eDYxUVJtdkFWbzk5X0xiY1JLdEh1Y0lsejRRV0JyaHZSQ29XRW1RWERHOEtHeDRrbTdpd2ZWZXNhWFBjU3NLNWxzRmdnNktmcG1pTFZVQUVOckpwZXAwaWNfWUN4ejZzMjNfTHowbndFZWJMWWNsQ1d6WVlpZFBmQUNOb3ZVd2h2aGlKVXA0clJ5?oc=5",
-          "published_at": "2026-09-14T01:14:00+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYVJkR3FTTVpqaXh5WDViUURES1RrbUEzUmphMzQ5ODQxbV9DT0RYdkozQWJjTEloRFJHNlVyVWZoYTFpaHM5eDYxUVJtdkFWbzk5X0xiY1JLdEh1Y0lsejRRV0JyaHZSQ29XRW1RWERHOEtHeDRrbTdpd2ZWZXNhWFBjU3NLNWxzRmdnNktmcG1pTFZVQUVOckpwZXAwaWNfWUN4ejZzMjNfTHowbndFZWJMWWNsQ1d6WVlpZFBmQUNOb3ZVd2h2aGlKVXA0clJ5?oc=5\" target=\"_blank\">Weekly Recap: VNB margin ~25.6% and GST order c"
-        },
-        {
           "title": "HDFC Life Insurance Share Price - Live NSE: HDFCLIFE Stock Price & Chart",
           "source": "Upstox",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9rbmpVWmJiOEVqYWFGbHNBdFhudURwc01vMGRrM3lYdFZYRkNlRTc2cThBbXNDZ3pFVDhjUVEzOGQ3ZVl0dGhmUG8zSWlJZGlHZE0yNURUTUFtN1ZzNXlQQ1ZXUkxpb3Bjd3dj?oc=5",
           "published_at": "2026-09-11T07:00:00+00:00",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9rbmpVWmJiOEVqYWFGbHNBdFhudURwc01vMGRrM3lYdFZYRkNlRTc2cThBbXNDZ3pFVDhjUVEzOGQ3ZVl0dGhmUG8zSWlJZGlHZE0yNURUTUFtN1ZzNXlQQ1ZXUkxpb3Bjd3dj?oc=5\" target=\"_blank\">HDFC Life Insurance Share Price - Live NSE: HDFCLIFE Stock Price & Chart</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Upstox</font>"
+        },
+        {
+          "title": "Weekly Recap: VNB margin ~25.6% and GST order confirming sizeable tax demand",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYVJkR3FTTVpqaXh5WDViUURES1RrbUEzUmphMzQ5ODQxbV9DT0RYdkozQWJjTEloRFJHNlVyVWZoYTFpaHM5eDYxUVJtdkFWbzk5X0xiY1JLdEh1Y0lsejRRV0JyaHZSQ29XRW1RWERHOEtHeDRrbTdpd2ZWZXNhWFBjU3NLNWxzRmdnNktmcG1pTFZVQUVOckpwZXAwaWNfWUN4ejZzMjNfTHowbndFZWJMWWNsQ1d6WVlpZFBmQUNOb3ZVd2h2aGlKVXA0clJ5?oc=5",
+          "published_at": "2026-09-14T01:14:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYVJkR3FTTVpqaXh5WDViUURES1RrbUEzUmphMzQ5ODQxbV9DT0RYdkozQWJjTEloRFJHNlVyVWZoYTFpaHM5eDYxUVJtdkFWbzk5X0xiY1JLdEh1Y0lsejRRV0JyaHZSQ29XRW1RWERHOEtHeDRrbTdpd2ZWZXNhWFBjU3NLNWxzRmdnNktmcG1pTFZVQUVOckpwZXAwaWNfWUN4ejZzMjNfTHowbndFZWJMWWNsQ1d6WVlpZFBmQUNOb3ZVd2h2aGlKVXA0clJ5?oc=5\" target=\"_blank\">Weekly Recap: VNB margin ~25.6% and GST order c"
         }
       ],
       "events": [],
@@ -371,17 +363,24 @@
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96SXRuekpzdllWZzJjQjliS0Z5TUQwZUdGM1hYX0JWc1BDN0tYcHkxN0FCQ3cza3YxSEh3aDFOZ2FSZkcwU0djNU9reG5BSTk3cDVtU3NEeUpkZmdrUmw3ejFTNEpON1drNnpn?oc=5",
           "published_at": "2026-09-11T07:00:00+00:00",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE96SXRuekpzdllWZzJjQjliS0Z5TUQwZUdGM1hYX0JWc1BDN0tYcHkxN0FCQ3cza3YxSEh3aDFOZ2FSZkcwU0djNU9reG5BSTk3cDVtU3NEeUpkZmdrUmw3ejFTNEpON1drNnpn?oc=5\" target=\"_blank\">Bandhan Bank Share Price - Live NSE: BANDHANBNK Stock Price & Chart</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Upstox</font>"
+        },
+        {
+          "title": "BANDHAN BANK LIMITED Option Chain",
+          "source": "Upstox",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YUmsyd25CWmpHWmZMa3NOam1qNHN0dXFiZFlTaUU5dzRxb2gwZGFrR1p3eDhaQ2FXSW9BWXFKRk1qbTFiclRfbEE4MDVsUVZCV3JrOWtQazNYNjlOUlJ6dUpxSQ?oc=5",
+          "published_at": "2026-09-11T07:00:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YUmsyd25CWmpHWmZMa3NOam1qNHN0dXFiZFlTaUU5dzRxb2gwZGFrR1p3eDhaQ2FXSW9BWXFKRk1qbTFiclRfbEE4MDVsUVZCV3JrOWtQazNYNjlOUlJ6dUpxSQ?oc=5\" target=\"_blank\">BANDHAN BANK LIMITED Option Chain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Upstox</font>"
+        },
+        {
+          "title": "Bandhan Bank Share Price today: price rise and market cap",
+          "source": "Univest",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9SV3h3Sk9fUkluVWFCLTJwc1dJN1Z3N1A0a3JzTmk2X09HTldBbUwxcWVIYVd2REdoSTJSRG40dmQ2SEVaV3E5MkhyOHlIZ2F0U2tjSU9CbnBNWno3Z0RmajVfX0Fkc1dQeWZybWU0anFRcXF5Qy1fU3NKNDdaZw?oc=5",
+          "published_at": "2026-09-12T09:47:18+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9SV3h3Sk9fUkluVWFCLTJwc1dJN1Z3N1A0a3JzTmk2X09HTldBbUwxcWVIYVd2REdoSTJSRG40dmQ2SEVaV3E5MkhyOHlIZ2F0U2tjSU9CbnBNWno3Z0RmajVfX0Fkc1dQeWZybWU0anFRcXF5Qy1fU3NKNDdaZw?oc=5\" target=\"_blank\">Bandhan Bank Share Price today: price rise and market cap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Univest</font>"
         }
       ],
       "events": [],
-      "sebi_mentions": [
-        {
-          "title": "Notice of Attachment of Bank and Post Office Accounts 15795 of 2026 dated September 09, 2026, against VIKRAM ANAND HUF [Defaulter] PAN: AAJHV0926R in the matter of dealings in Illiquid Stock Options on BSE -VIKRAM ANAND HUF: under Recovery Certificate No. 9285 of 2026.",
-          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/notice-of-attachment-of-bank-and-post-office-accounts-15795-of-2026-dated-september-09-2026-against-vikram-anand-huf-defaulter-pan-aajhv0926r-in-the-matter-of-dealings-in-illiquid-stock-options-o-_104436.html",
-          "published_at": "09 Sep, 2026 +0530",
-          "summary": "Notice of Attachment of Bank and Post Office Accounts 15795 of 2026 dated September 09, 2026, against VIKRAM ANAND HUF [Defaulter] PAN: AAJHV0926R in the matter of dealings in Illiquid Stock Options on BSE -VIKRAM ANAND HUF: under Recovery Certificate No. 9285 of 2026."
-        }
-      ],
+      "sebi_mentions": [],
       "price_action": {
         "date": "2026-09-11",
         "open": 171.75,
@@ -605,7 +604,15 @@
           "source": "NSE"
         }
       ],
-      "news": [],
+      "news": [
+        {
+          "title": "Tata Power seeks claims for lost share certificates",
+          "source": "scanx.trade",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOX2JUaS1yZUhiTTFqWTA1T3IyNENGZlBrVlVNUFh5R1NtQ095Vlc5eHR4NHJ1bDVCQzBrS19GQnFGUWFodVNXR1haSElkTzJ1dXo5TkZNQnIyOGc3UHNyU1ZhQWRPQWQtTXZQV0R0enVzcG15ZmVJMnkyQmdEUDh2MkR5eU1MZ2ZRSTBwcm1aMU1DbmlSdkVKakhPUlhBQ1hoc1c2R3FJSWFaSnc3?oc=5",
+          "published_at": "2026-09-13T17:09:30+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOX2JUaS1yZUhiTTFqWTA1T3IyNENGZlBrVlVNUFh5R1NtQ095Vlc5eHR4NHJ1bDVCQzBrS19GQnFGUWFodVNXR1haSElkTzJ1dXo5TkZNQnIyOGc3UHNyU1ZhQWRPQWQtTXZQV0R0enVzcG15ZmVJMnkyQmdEUDh2MkR5eU1MZ2ZRSTBwcm1aMU1DbmlSdkVKakhPUlhBQ1hoc1c2R3FJSWFaSnc3?oc=5\" target=\"_blank\">Tata Power seeks claims for lost share certificates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">scanx."
+        }
+      ],
       "events": [],
       "sebi_mentions": [],
       "price_action": {
@@ -681,18 +688,18 @@
       ],
       "news": [
         {
-          "title": "Suzlon share price down by 7% in one month - Will stock bounce back? Experts decode | Outlook",
+          "title": "Suzlon share: Shareholders approve all resolutions at 31st AGM | What does it mean for renewable energy stock?",
           "source": "Livemint",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxORG1xVHBTY0Q1WXpDRkNLT2pUNDhNOUZoV0dwR1N2NEZRNzVnQzNNSmZib3JSWXhNZ2lrZDNIU1FPeXRKY3Y3MUlOcm1rSzNJdVI3VU5WUkNzSDhkQ2VwbVBiZmNoZzZOYlp1M0ZaaUs1OUtfaGoyck42am9lc0MwaVBQdWpocDJ0d0FNanU5ald2b2lUdjc2NDlYYXlDOGdyOFZ2MGNUdjRhb09nVVNqaFNWM0t3WUdCbEt4aWRDaGE3LXNfMVZTZDdVa2dwQkZPMVZBYzI1WUo3Q0FWN0tFV1dSSk9XYWQwcF9ueHJn0gHzAUFVX3lxTFBpVVRIeHg5S3lSZkgxOWs1Z21VaVpwTENkU2M2cnVaV0lUOVUtM1p1MDZmaWdwZXJfaXhIZVA4TENuN1FvSHR2TlNfNzUwMEJzNmkyREFXbW94b0Y1bXdqQ21hZ1JCaHBrZERqUy0wQlVIR2ZDLUNxbmlnS3Mzam1mQnZOM29SZ2FPZXBpeEROejZCbUt1bkx5WDBDcl9ubmd4ZENnclQ0N1hBSkEwSzBVdklvblRjRjRXbkZQai1BbDhEQV84V1YxS0V6Zmk5XzNPdjZBeWFNby1xb181ZFNjYU5RcXZVa253a2V0TnNmUUpwZw?oc=5",
-          "published_at": "2026-09-11T07:32:39+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxORG1xVHBTY0Q1WXpDRkNLT2pUNDhNOUZoV0dwR1N2NEZRNzVnQzNNSmZib3JSWXhNZ2lrZDNIU1FPeXRKY3Y3MUlOcm1rSzNJdVI3VU5WUkNzSDhkQ2VwbVBiZmNoZzZOYlp1M0ZaaUs1OUtfaGoyck42am9lc0MwaVBQdWpocDJ0d0FNanU5ald2b2lUdjc2NDlYYXlDOGdyOFZ2MGNUdjRhb09nVVNqaFNWM0t3WUdCbEt4aWRDaGE3LXNfMVZTZDdVa2dwQkZPMVZBYzI1WUo3Q0FWN0tFV1dSSk9XYWQwcF9ueHJn0gHzAUFVX3lxTFBpVVRIeHg5S3lSZk"
+          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQUnA5MlJ4UVc1ZnVrXzBPUVR3VDZZWEtUMTNHZTFxSXo5YkN1QUgzVG1qNFRiRTBycmVWMVFCUzY2NnI3Rm92ek5oSUh1OHV5VHZpNjB5VnJxTGJiUk9PdjFVUW1Wa3czU3M1QmV0OXBOWVluU0h2bVA1YzJkZ1dYTWJfTG0yd3IxbXFBUWRVdm5wZkFuZEVPdHBWQS03MkdKeUlqREZ2TWw1dTNHOGYtd1YyUE4wX3BGckZqTXhlbHVhdWtxYVRJRDMzSS1JcFBrX1BwMjl5X0IxWDIzWTVCNkN2aVdGVUpCM0l3YUpxN1l2V3lzY0lsS0lPOXhjYXYzRWMzTWk3ONIBjAJBVV95cUxOWktFTlNNZGtVR2tXcFVMYkwtcW53WUNvbDJ4RmQzYS1vWGJGeFUxZ29QUjhUVmtFeE9Tb2poX0lLZFpIRWR5TGVXSzRaSjlLaEtEbVUyTV9GNGo3YUhITHFiOEpyLWJfNkNYM1FLMWpqOTB4bjJvWlhMbmE5Sm4yTUpCbDhfTjBrUkkyQzJMQVJtTGdnYkd4SUwzc01Wd3hwbDBEQW0xOFJmcnBNMDV5NzM4ZWk5b0duOUZ4UWRwbV9KdG4yZ1Z6Q3YyN1lZTVRRSl9kTkpVeEpTcUNsRi1UTndSNVpWU2xPMUw2Zi1MNjJUVDFrSDlrSnBWWk9MczF0MER3a3RWLVZBNG1G?oc=5",
+          "published_at": "2026-09-14T04:56:19+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxQUnA5MlJ4UVc1ZnVrXzBPUVR3VDZZWEtUMTNHZTFxSXo5YkN1QUgzVG1qNFRiRTBycmVWMVFCUzY2NnI3Rm92ek5oSUh1OHV5VHZpNjB5VnJxTGJiUk9PdjFVUW1Wa3czU3M1QmV0OXBOWVluU0h2bVA1YzJkZ1dYTWJfTG0yd3IxbXFBUWRVdm5wZkFuZEVPdHBWQS03MkdKeUlqREZ2TWw1dTNHOGYtd1YyUE4wX3BGckZqTXhlbHVhdWtxYVRJRDMzSS1JcFBrX1BwMjl5X0IxWDIzWTVCNkN2aVdGVUpCM0l3YUpxN1l2V3lzY0lsS0lPOXhjYXYzRWMzTW"
         },
         {
-          "title": "Buy, Sell Or Hold: Mazagon Dock, Cochin Shipyard, Dixon Tech, Suzlon Energy And Lodha Developers — Ask Profit",
-          "source": "NDTV Profit",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMEVpNVdYUFdYZGo2WW1fMDF6VlRCQ3FCVGR6NlFDTm5RTWxUbHJyREpPZUlHem1Ndnlid3BEVlNyeERSXzVNQ0RYb0NHUFg4cHNfRFdDenZ2bU1EZnB6Slh6SEdZcmVXazM1TzRqZXhidU1jdmlJUFZucXFxOUtpWnZtUjlrWWZWYVpSYmVpUENQSjExeUE1NVU1SVRSYTNzV2t3WGtKNVkzVW5fc1B4Z3U3UmJQbEhnel9OT0xPTzBzbkxJNEdBNVZ5X3FtSTRncmF4N2dQZHFnbnZoWWJN0gHnAUFVX3lxTFBKOUpkWU9taXYxeGZlRnY4aUY0WlZBVDlDMXNpR2Jxc0N5TVN4bVZKa1lSTllQMThoMG9YTjE1M1N4Q2h2YkhNRFRnZnItQ1ZwUFVQS1FHNEpTU1JMWkVpck0zdnZGMldQcWVudl9fU094OFNIaFNoUllYLUxTRm5OcFVNNFVpbnNaekJXUHZtaUg5R2FRaGItZnpkcW1NQVZCei1SdWFGdEpMQzFCN3BLQVZ4eUxrSjFjX0M4NHJhRVNwbVRCR1hPZDZoc3dSUnVOdG51LTZBUERhd20xd2ZDQldJNFZVZw?oc=5",
-          "published_at": "2026-09-13T14:52:19+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMEVpNVdYUFdYZGo2WW1fMDF6VlRCQ3FCVGR6NlFDTm5RTWxUbHJyREpPZUlHem1Ndnlid3BEVlNyeERSXzVNQ0RYb0NHUFg4cHNfRFdDenZ2bU1EZnB6Slh6SEdZcmVXazM1TzRqZXhidU1jdmlJUFZucXFxOUtpWnZtUjlrWWZWYVpSYmVpUENQSjExeUE1NVU1SVRSYTNzV2t3WGtKNVkzVW5fc1B4Z3U3UmJQbEhnel9OT0xPTzBzbkxJNEdBNVZ5X3FtSTRncmF4N2dQZHFnbnZoWWJN0gHnAUFVX3lxTFBKOUpkWU9taXYxeGZlRnY4aUY0WlZBVDlDMX"
+          "title": "Suzlon S144 sales cross 10 GW after Ayana Renewable Power order",
+          "source": "scanx.trade",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORUk0YlhxZ2ZmREZ1b19keXJ1WER1SEo0ZGVVSTlQcjRTU2tiOTVGY2g5V19kcHlZc3RRalhtLUxTMUNQMTJXMkdvWmRkTEZVT0NHNWZYcG1HZDJ4WEJEM1h4NmE5d25jd0txSUd2UXBLOWVnSlJuYndPRDgwZXNHdHhmWnZ0UXBOU04zSmo5dFRMUVZXd3FxTW1xNDJoTkx3MGFWXzNabENwNFBjMXlnQkJvQUpWTFU1NFVPTXlmTkM?oc=5",
+          "published_at": "2026-09-13T04:03:03+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxORUk0YlhxZ2ZmREZ1b19keXJ1WER1SEo0ZGVVSTlQcjRTU2tiOTVGY2g5V19kcHlZc3RRalhtLUxTMUNQMTJXMkdvWmRkTEZVT0NHNWZYcG1HZDJ4WEJEM1h4NmE5d25jd0txSUd2UXBLOWVnSlJuYndPRDgwZXNHdHhmWnZ0UXBOU04zSmo5dFRMUVZXd3FxTW1xNDJoTkx3MGFWXzNabENwNFBjMXlnQkJvQUpWTFU1NFVPTXlmTkM?oc=5\" target=\"_blank\">Suzlon S144 sales cross 10 GW after Ayana Renewable Power order</a>&"
         },
         {
           "title": "Better Renewable Energy Stock: Inox Wind vs Suzlon Energy",
@@ -702,11 +709,25 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPdXlGbFloQkNFQVlvZ1NjNVFQZUp4MUlUWWdTX1B1Y0RNU3QyajZUUnIyY0NWdkVDZTVXQW9QNEpYNHI5c1ZzcGRRU2lUd3dxOHlJek84YWxjeGxPbGdZd3c3WjZ5MGUxZEJBa1VpMzJ2eGRJZU12aUdxUVNPRFVXSWswTnVTWjBrMlNVSE52dEozMURRajQ3dkl4UEpvejY2X3dzX2ZmSUpjdEpxN2dZZjA1T0FtSzE2WmZza1F6YzRfakNv?oc=5\" target=\"_blank\">Better Renewable Energy Stock: Inox Wind vs Suzlon Energy</a>&n"
         },
         {
+          "title": "Suzlon share price down by 7% in one month - Will stock bounce back? Experts decode | Outlook",
+          "source": "Livemint",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxORG1xVHBTY0Q1WXpDRkNLT2pUNDhNOUZoV0dwR1N2NEZRNzVnQzNNSmZib3JSWXhNZ2lrZDNIU1FPeXRKY3Y3MUlOcm1rSzNJdVI3VU5WUkNzSDhkQ2VwbVBiZmNoZzZOYlp1M0ZaaUs1OUtfaGoyck42am9lc0MwaVBQdWpocDJ0d0FNanU5ald2b2lUdjc2NDlYYXlDOGdyOFZ2MGNUdjRhb09nVVNqaFNWM0t3WUdCbEt4aWRDaGE3LXNfMVZTZDdVa2dwQkZPMVZBYzI1WUo3Q0FWN0tFV1dSSk9XYWQwcF9ueHJn?oc=5",
+          "published_at": "2026-09-11T07:32:39+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxORG1xVHBTY0Q1WXpDRkNLT2pUNDhNOUZoV0dwR1N2NEZRNzVnQzNNSmZib3JSWXhNZ2lrZDNIU1FPeXRKY3Y3MUlOcm1rSzNJdVI3VU5WUkNzSDhkQ2VwbVBiZmNoZzZOYlp1M0ZaaUs1OUtfaGoyck42am9lc0MwaVBQdWpocDJ0d0FNanU5ald2b2lUdjc2NDlYYXlDOGdyOFZ2MGNUdjRhb09nVVNqaFNWM0t3WUdCbEt4aWRDaGE3LXNfMVZTZDdVa2dwQkZPMVZBYzI1WUo3Q0FWN0tFV1dSSk9XYWQwcF9ueHJn?oc=5\" target=\"_blank\">Suzlon "
+        },
+        {
           "title": "Suzlon Energy vs Tata Power vs SJVN: Which Power Stock Charged Up FII’s Portfolios In March Quarter?",
           "source": "Goodreturns",
           "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQd2lEai1Qb2ZtQ0NBSTNEZ2YzZlBDeG1iRHFITG9WalllMnhrWEJxakt1SmcyZTM2MDVUNl9OdUEyVkdiOWxtNVpfUlNVYXpNX3FnSjJlV2ZmcXJBVWJNMGdGVzQyXzVFeXhCTGw4S0h4WGNpV0hIVEJvOGZRbVMxTC1ZQUJkZjJzbjF4NEV0TWRpc1pmVTJBZnRuRFoxRXNoUmhHX2taSHZYa2hBVEhGY001QWVuOHgyTDZEemU2N2tzTlhkVUZEdkZwd202bkRHVmRBTVhueG5mbFk?oc=5",
           "published_at": "2026-09-11T07:00:00+00:00",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQd2lEai1Qb2ZtQ0NBSTNEZ2YzZlBDeG1iRHFITG9WalllMnhrWEJxakt1SmcyZTM2MDVUNl9OdUEyVkdiOWxtNVpfUlNVYXpNX3FnSjJlV2ZmcXJBVWJNMGdGVzQyXzVFeXhCTGw4S0h4WGNpV0hIVEJvOGZRbVMxTC1ZQUJkZjJzbjF4NEV0TWRpc1pmVTJBZnRuRFoxRXNoUmhHX2taSHZYa2hBVEhGY001QWVuOHgyTDZEemU2N2tzTlhkVUZEdkZwd202bkRHVmRBTVhueG5mbFk?oc=5\" target=\"_blank\">Suzlon Energy vs Tata Power vs S"
+        },
+        {
+          "title": "Buy, Sell Or Hold: Mazagon Dock, Cochin Shipyard, Dixon Tech, Suzlon Energy And Lodha Developers — Ask Profit",
+          "source": "NDTV Profit",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMEVpNVdYUFdYZGo2WW1fMDF6VlRCQ3FCVGR6NlFDTm5RTWxUbHJyREpPZUlHem1Ndnlid3BEVlNyeERSXzVNQ0RYb0NHUFg4cHNfRFdDenZ2bU1EZnB6Slh6SEdZcmVXazM1TzRqZXhidU1jdmlJUFZucXFxOUtpWnZtUjlrWWZWYVpSYmVpUENQSjExeUE1NVU1SVRSYTNzV2t3WGtKNVkzVW5fc1B4Z3U3UmJQbEhnel9OT0xPTzBzbkxJNEdBNVZ5X3FtSTRncmF4N2dQZHFnbnZoWWJN0gHnAUFVX3lxTFBKOUpkWU9taXYxeGZlRnY4aUY0WlZBVDlDMXNpR2Jxc0N5TVN4bVZKa1lSTllQMThoMG9YTjE1M1N4Q2h2YkhNRFRnZnItQ1ZwUFVQS1FHNEpTU1JMWkVpck0zdnZGMldQcWVudl9fU094OFNIaFNoUllYLUxTRm5OcFVNNFVpbnNaekJXUHZtaUg5R2FRaGItZnpkcW1NQVZCei1SdWFGdEpMQzFCN3BLQVZ4eUxrSjFjX0M4NHJhRVNwbVRCR1hPZDZoc3dSUnVOdG51LTZBUERhd20xd2ZDQldJNFZVZw?oc=5",
+          "published_at": "2026-09-13T14:52:19+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMEVpNVdYUFdYZGo2WW1fMDF6VlRCQ3FCVGR6NlFDTm5RTWxUbHJyREpPZUlHem1Ndnlid3BEVlNyeERSXzVNQ0RYb0NHUFg4cHNfRFdDenZ2bU1EZnB6Slh6SEdZcmVXazM1TzRqZXhidU1jdmlJUFZucXFxOUtpWnZtUjlrWWZWYVpSYmVpUENQSjExeUE1NVU1SVRSYTNzV2t3WGtKNVkzVW5fc1B4Z3U3UmJQbEhnel9OT0xPTzBzbkxJNEdBNVZ5X3FtSTRncmF4N2dQZHFnbnZoWWJN0gHnAUFVX3lxTFBKOUpkWU9taXYxeGZlRnY4aUY0WlZBVDlDMX"
         },
         {
           "title": "Suzlon Energy vs NTPC Green vs NHPC: Wind, Solar or Hydro? Which Energy Stock Deserves Spot In Your Portfolio?",
@@ -918,15 +939,7 @@
       "skip_catalysts": false,
       "bse_announcements": [],
       "nse_announcements": [],
-      "news": [
-        {
-          "title": "TARIL Q1FY27 revenue rises 8.1%; order book surges 26% to ₹6,630 crore",
-          "source": "scanx.trade",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZDRYUFZhZEtJWkcxTk1lS21KRGdrSTZTUElLS3RMYk9GV015SnhibEdxVWRsV2tDRXpSR3FUdEdkNjBPNU5McnpzNjY4UzJxR1dUbHdPaHJ0bmx2ZmZheWhJYl83SVlIN0poaE02TGthaFdXOEZRbDJlS3dOZWpQTU9zLTdUUFl4TzZHdW1sdkJBQkw3eVpzWVVtXzJ6bGhGal9PMU5CeUVlWVFyMUl4OGs2dFB0a3Z5d1daeUN6NVJWei1ZRjlxXzVXZUNselJyZVE?oc=5",
-          "published_at": "2026-09-13T05:04:28+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZDRYUFZhZEtJWkcxTk1lS21KRGdrSTZTUElLS3RMYk9GV015SnhibEdxVWRsV2tDRXpSR3FUdEdkNjBPNU5McnpzNjY4UzJxR1dUbHdPaHJ0bmx2ZmZheWhJYl83SVlIN0poaE02TGthaFdXOEZRbDJlS3dOZWpQTU9zLTdUUFl4TzZHdW1sdkJBQkw3eVpzWVVtXzJ6bGhGal9PMU5CeUVlWVFyMUl4OGs2dFB0a3Z5d1daeUN6NVJWei1ZRjlxXzVXZUNselJyZVE?oc=5\" target=\"_blank\">TARIL Q1FY27 revenue rises 8.1%; order book "
-        }
-      ],
+      "news": [],
       "events": [],
       "sebi_mentions": [],
       "price_action": {
@@ -1000,6 +1013,20 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUjFvOHlyeWRwSlRtSDNvZEFwMnM0c1p0d2p4U285dk9ieGFTZlZaSWFsSDNTSXZ0ckhldFNBR3VFME1NMklVSzkyZTBrMlp5OEt5aDM5SWFtLTRHZXJ1U1U2dlJDZGt2WHZYaWNFRV8tcjZPZ3ZOMTR1RHhyLXB5dmhReGRjbEdudzNuaUdtWjh3NWh1U3Rrb3lMWmtjemlhbmxUU2gya0JrNjNJWTlkY3RtOFhlSElNWkN1c1RjWHp3eTdxc0ZJemtPR1pheTNUbVRjUldybmTSAd4BQVVfeXFMUG9vQXZlNFRaSm92aFZ1OUlaX3JNRFVCVWxYV2RaVXQ0az"
         },
         {
+          "title": "ITC Eyes ₹20,000 Crore Revenue Target for Aashirvaad Brand",
+          "source": "Whalesbook",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPRlltaFRjWjJ6V2dTZTlmOEZRcGRPNzlfamo0UmQ3MXhWcHZqbWNBUlY5WFI5TWphMVYyMEpUdERWNkx0TE1obEVYS0VTXzE0Uzk0UXhnYjNmN2hTa1hid1dyaXo4ZS10Wmp1aG5ZMFpJZWdWbDBFM2tLd01NdGo4TzNrUkowczMyN0UzeWxXTF9fVmdWLTNtYmdCbFFkajg3U3YzQTNIVFZnb1Q1OUZPMndZNmVBSzdIOHNmeTZxZFM5bXEwMkV0NjRhcEFDMDZ0OE5CTFQ1Vy1XbFJ6QVJrZFdpcHNpdw?oc=5",
+          "published_at": "2026-09-13T06:09:40+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxPRlltaFRjWjJ6V2dTZTlmOEZRcGRPNzlfamo0UmQ3MXhWcHZqbWNBUlY5WFI5TWphMVYyMEpUdERWNkx0TE1obEVYS0VTXzE0Uzk0UXhnYjNmN2hTa1hid1dyaXo4ZS10Wmp1aG5ZMFpJZWdWbDBFM2tLd01NdGo4TzNrUkowczMyN0UzeWxXTF9fVmdWLTNtYmdCbFFkajg3U3YzQTNIVFZnb1Q1OUZPMndZNmVBSzdIOHNmeTZxZFM5bXEwMkV0NjRhcEFDMDZ0OE5CTFQ1Vy1XbFJ6QVJrZFdpcHNpdw?oc=5\" target=\"_blank\">ITC Eyes ₹20,000 "
+        },
+        {
+          "title": "How many companies can one cigarette company become? Ask ITC",
+          "source": "The Ken",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdWVOM05LQmtIZnZuZTZ4clFZSzdOblhxWkhlQVRwUHoyTjNaWUM2RGdaVW9GM2hrb1pSV2RUMnIwSUlTdDFNQ3NmZm5JZU5ub1pDYmtQMy1FX2k2aW82VWlfNFB6XzlXT2o2RmZ0V0ZGVWhlSDkyWl9jbE5SWnJQNGY3aUVPVFQxOUxJbjROTQ?oc=5",
+          "published_at": "2026-09-14T03:04:25+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQdWVOM05LQmtIZnZuZTZ4clFZSzdOblhxWkhlQVRwUHoyTjNaWUM2RGdaVW9GM2hrb1pSV2RUMnIwSUlTdDFNQ3NmZm5JZU5ub1pDYmtQMy1FX2k2aW82VWlfNFB6XzlXT2o2RmZ0V0ZGVWhlSDkyWl9jbE5SWnJQNGY3aUVPVFQxOUxJbjROTQ?oc=5\" target=\"_blank\">How many companies can one cigarette company become? Ask ITC</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Ken</font>"
+        },
+        {
           "title": "Cigarette Stock: Should ITC Ltd Split Its Business Into 1:2? What's Smoking In This FMCG Giant?",
           "source": "Goodreturns",
           "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObzV5S2lZbVZab3hrdVFMbDFGT2MtWkQ4QTQ2MGJ0T294Y1pQeDV5Ym5OZ0xSRGhJUVNjZEh1bkI3SXRnYk5keExFOVpocHNBeFdsMF9nS1ptSUJrSHdtTW95TjdRWVV6X2s1YUF1WFBVdW5xUVVNNWRRdG1DU2duRFBQa2dPcjdIX296YjQxV3BUenhFd1l3b2ZDOXhpMkRxTEN2TTFhckdTZC1WSGpQWE12aW4xaGxfZ1c1Y21WaHVhOTIwTDdTMXdEWGVxVFNERHc?oc=5",
@@ -1014,39 +1041,25 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE54ekEtS1BNTlF3VnN1bUg0YVpoTUVxdXc2THdfb19HMkw1czNrRDFaVHZpU2NraGVpYXlMZGJGamhhcTJsTjNLazJHMzltX3lxdlRySWVJM29Ob0Z1cmJpNHRfcDFfTzJj?oc=5\" target=\"_blank\">ITC HOTELS LIMITED Share Price - Live NSE: ITCHOTELS Stock Price & Chart</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Upstox</font>"
         },
         {
-          "title": "ITC wants Aashirvaad consumer spending to double to Rs 20,000 crore in 5 years",
-          "source": "Moneycontrol.com",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQc25CczdDQWNoTXFmeEtyNkhJM0hKUmZEZGF5ZUVWdWNyMjRWMGtRM1ZOZGxHdnl3aWYwamhDZTRBRXBwbUhuUzdXbEQ1aC1vVGhxNkxyQlhfYWtoN3ZXWFA3ZGNEQ1N1d1Bja1BCdVppTmZacW45Q0ZhV01LQ3RJaDZtSnR0VTJhWWRFQy1JS0NoZUQyYmRwTFNfbHJ6cnJXeUhzVnpoX2EtcTlhOHc2T0Q2RGxTVlhILTE2N1N4bExSbTR1UUE0ODFFdkhYQzBF0gHWAUFVX3lxTE41Ymt0WnhJaXFGdi13eWVNazZQUjlWQWVzYVZUMkFiRUdCSTVtU0o1SDdwVUM3b0o3cE9GLUtVWDhacWtQZ2tjcFd6cEJwWm5nRmc3Q1E1OFkwN2t5a19SQlFVR0lPdTNFNG5VS2JOUGRyNVNTVzZncTVYLWV6UHdRVzhpVGlFRnFHZWZiUDBRcThfUXNndDJxZFF3YUV5TG4tMGhHakpOSjNGcjAwWEl1TGFjZ0JGb2EyeWloRmpDSUdocEJSazZoTGhyd3RqSnNycXBKMWc?oc=5",
-          "published_at": "2026-09-13T08:44:25+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQc25CczdDQWNoTXFmeEtyNkhJM0hKUmZEZGF5ZUVWdWNyMjRWMGtRM1ZOZGxHdnl3aWYwamhDZTRBRXBwbUhuUzdXbEQ1aC1vVGhxNkxyQlhfYWtoN3ZXWFA3ZGNEQ1N1d1Bja1BCdVppTmZacW45Q0ZhV01LQ3RJaDZtSnR0VTJhWWRFQy1JS0NoZUQyYmRwTFNfbHJ6cnJXeUhzVnpoX2EtcTlhOHc2T0Q2RGxTVlhILTE2N1N4bExSbTR1UUE0ODFFdkhYQzBF0gHWAUFVX3lxTE41Ymt0WnhJaXFGdi13eWVNazZQUjlWQWVzYVZUMkFiRUdCSTVtU0o1SD"
-        },
-        {
-          "title": "Exclusive: Special Thali For Vladimir Putin Prepared By ITC Maurya During His Stay For BRICS 2026",
-          "source": "ndtv.com",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcGpZeHJHMmhKdDh5SFhqenVvWEg0eE9haEh4eFplbzdMYUQwNEFwV1BPTXhWVlVGaXREV0VrWUlUSE8ycjNxbU1CN1VLeVJybDdXczF5U2FVdmNrVzlZQ2ZtZlByektEYm8tMmNMVDF1bnRyU283QjQtLXIyUW5acW1jRmZMbTI0b2JXUVZTSjJadUM3TEhzMHh0M3hNaENmbkpFOHJfcTE0QWEzU1laLXJkc3lLU0tZU1pmVXhn0gHGAUFVX3lxTE14ZHQ3MDUxRjVOdU55NVlLbC1kVndRZWczQ2YzWElkNzI0YzBISzkwSGhNdENZTFNsQzRPMnZoRUkxcHltQmlHeWNkek1QR1ZZQWh4czdabUUxQmJRaTlHaUllUGdTaXZGS19uYlAzUEo2UmU2aGdNckhURHA1QzlXVC1jNkhJYTJGMENrRmpoQ0JaaVhBU3ROYlA4UmFaYWlpckxNYUM1emhuRGJmSXpJU0NjbVVpZ1JCT3ptR0owRTlCMnJKZw?oc=5",
-          "published_at": "2026-09-11T14:39:41+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPcGpZeHJHMmhKdDh5SFhqenVvWEg0eE9haEh4eFplbzdMYUQwNEFwV1BPTXhWVlVGaXREV0VrWUlUSE8ycjNxbU1CN1VLeVJybDdXczF5U2FVdmNrVzlZQ2ZtZlByektEYm8tMmNMVDF1bnRyU283QjQtLXIyUW5acW1jRmZMbTI0b2JXUVZTSjJadUM3TEhzMHh0M3hNaENmbkpFOHJfcTE0QWEzU1laLXJkc3lLU0tZU1pmVXhn0gHGAUFVX3lxTE14ZHQ3MDUxRjVOdU55NVlLbC1kVndRZWczQ2YzWElkNzI0YzBISzkwSGhNdENZTFNsQzRPMnZoRUkxcH"
-        },
-        {
-          "title": "ITC expects Aashirvaad consumer spend to double to ₹20,000 crore in five years",
-          "source": "Storyboard18",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPeHNIWERGdXZJVVZ4cDktR1hVWGhRS2tXVlJGV0lNS0E2SE0xWm5yRmxvMmFnV292a3FLdmpYdW0wNk1RcTg3UHZuN3hPYmFQNDVJRnRZSEhqMlctMmd0dFl6YkZQUFBqNGFsRk45WXlqNEhYQ0VLRE8yVktsSVE1ZmFlQ0xHekVtZXJNanFXZGNZNVJPbC1pSGhFX3pWVWpYaVJTOXMzTWN0bGlhZW02R2haQ2tsdzBVNHQwTThSMHhyMWUyaVRQRmN0VFpNTnZfZ3VaVG0zWk_SAd4BQVVfeXFMTjhQUGdyeXN2TDRrV0l1c3gycVRBMG1EZUJKNUlsQjZ5VHphcHZVX1Y0Y2czOTlEWkJaUDBNdDJpc3BETEhlMUREaGhxVGVvNGtTX3NTdUlKN293WWdmQTJKajNtTVNMakNXX2g2eVZDdWo3bDlFRE11UmxjejNFaEZBaGl5UWYyakk0QkZiOVRDS0NjQUliSG9lYzZjOGxjN0ppeHBfSDA0NS1sVmdIZXp6MXRjRkJKczU2cW5WblI0RG9pd3VWMTQ1bjZKUmRXLW5rc3ozMWhjdUJzTTZR?oc=5",
-          "published_at": "2026-09-13T10:31:02+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPeHNIWERGdXZJVVZ4cDktR1hVWGhRS2tXVlJGV0lNS0E2SE0xWm5yRmxvMmFnV292a3FLdmpYdW0wNk1RcTg3UHZuN3hPYmFQNDVJRnRZSEhqMlctMmd0dFl6YkZQUFBqNGFsRk45WXlqNEhYQ0VLRE8yVktsSVE1ZmFlQ0xHekVtZXJNanFXZGNZNVJPbC1pSGhFX3pWVWpYaVJTOXMzTWN0bGlhZW02R2haQ2tsdzBVNHQwTThSMHhyMWUyaVRQRmN0VFpNTnZfZ3VaVG0zWk_SAd4BQVVfeXFMTjhQUGdyeXN2TDRrV0l1c3gycVRBMG1EZUJKNUlsQjZ5VH"
-        },
-        {
-          "title": "ITC Federal Acquires Capgemini Government Solutions, Launching ITC Digital Solutions to Expand National Security and Digital Modernization Capabilities",
-          "source": "Business Wire",
-          "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPVHJLLUU0OUpLY3M2Mmo3UHpSSzlXb2FVNFQ3SEhSYlJpa3VRZUthODNpeDZ4R19kYjcwX19La0d4OTF1U19tdjBNNjN6ZHJraTJoeVNkRmdjZHF3SWJDR3dXdi11R00wdjdscVhSSWhIcW55VzEtb0Zva292eVFpcFRKQ3QtcHhLNXBFbTRORGw4Y1gza2xIRnRLMzJhdURuUDE2ZzIzN3A0bVVDalFxV0ZraGo2WU5EVEhLaXctUTQtSU92OUpPRmFqMWdJVnFOOWpicWJ6ZHB4YUR1VWt0REc2N2JiSFhtb2luMjA0N0tLdEVTTDhpZjJ0cXdsUDFkSWthN0Z2QlNQdzd1R1phOFNEQlQ4b25aMG51VEFGOHBhalZXS1ZqcGZDd0VGQlEz?oc=5",
-          "published_at": "2026-09-12T14:00:00+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAJBVV95cUxPVHJLLUU0OUpLY3M2Mmo3UHpSSzlXb2FVNFQ3SEhSYlJpa3VRZUthODNpeDZ4R19kYjcwX19La0d4OTF1U19tdjBNNjN6ZHJraTJoeVNkRmdjZHF3SWJDR3dXdi11R00wdjdscVhSSWhIcW55VzEtb0Zva292eVFpcFRKQ3QtcHhLNXBFbTRORGw4Y1gza2xIRnRLMzJhdURuUDE2ZzIzN3A0bVVDalFxV0ZraGo2WU5EVEhLaXctUTQtSU92OUpPRmFqMWdJVnFOOWpicWJ6ZHB4YUR1VWt0REc2N2JiSFhtb2luMjA0N0tLdEVTTDhpZjJ0cXdsUDFkSWthN0"
-        },
-        {
-          "title": "ITC on Canteen Services for Contract Workers Not Admissible: AAR Rules S. 17(5) Applies in Absence of Employee-Employer Relationship and Statutory Obligation [Read Order]",
+          "title": "GST Refund Cannot Be Denied on Ground of Ineligible ITC Without S. 73 or 74 Order Determining ITC Wrongly Availed or Utilised: GSTAT [Read Order]",
           "source": "Taxscan",
-          "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQZHY1THJidk1Za3JRQUVZWTE1Xy1NTXktVjhyWTNPY0FhUUxrLVBGLUtUQ19UQWQyT1VXNUotd3hWamRqdEhkUGpVOHB4MzRKM1hBYkd2VThlLS01ZmFFU0VFOHdGN3FDS3dWckNrZ2tvblZGR1k4bVpPd082NDZzLWtGaGRHcHcycEZWNFk0ZWRJQlludVNlbFdUVTJIZ0xKSXBGVXIteFIwVExwcW44ZGg4T0QxVmYyS21PZ1pienpTTzFpRU9HY0xHenZlVWstdzBGTG15Y3RPbm9JS0ZvUEUtNjVkLW5fUzE0Zk9ldHFTR3Mxelo1NnN0UHh5RnUyRWJMUnhYNVZmUEY4WFg4eE40NkVsbkVxUHVyeHNqSFRjZw?oc=5",
-          "published_at": "2026-09-13T05:53:45+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogJBVV95cUxQZHY1THJidk1Za3JRQUVZWTE1Xy1NTXktVjhyWTNPY0FhUUxrLVBGLUtUQ19UQWQyT1VXNUotd3hWamRqdEhkUGpVOHB4MzRKM1hBYkd2VThlLS01ZmFFU0VFOHdGN3FDS3dWckNrZ2tvblZGR1k4bVpPd082NDZzLWtGaGRHcHcycEZWNFk0ZWRJQlludVNlbFdUVTJIZ0xKSXBGVXIteFIwVExwcW44ZGg4T0QxVmYyS21PZ1pienpTTzFpRU9HY0xHenZlVWstdzBGTG15Y3RPbm9JS0ZvUEUtNjVkLW5fUzE0Zk9ldHFTR3Mxelo1NnN0UHh5RnUyRWJMUn"
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOUUExRWdJSHA2cXVMdWxoOFhQbkdWeGtwSVA5UnFoRXZUa1dUU3RFMHJWcHFHeHFrQnRidGNZVVkzWDZYdDFrX1gtb2tTLTRhMl9Ja0I5Y3luVk1DQ09pOUJxYVF3TzFPNk5pbFY0dVZ0UjRTdFJ6WXdtbnNVaE11dHZPbVNBMWZYN3ZwN0JsdDF2M3VfOFhKdVRENEktX2I5b0FkVzE4aVUzTXJYLWQtTWIzX1Y0TG55RGNsTUNIS2xNUlJnay1pblBEcG1aUXpKN2xnTHpJWlQxRzRiaUoyVXJCSVctTjBEM2lLSG95Ni1sWnlMS0hVbVI5YTljbDRnZVVhQ29UWXVwaFdocXlmbEJ3?oc=5",
+          "published_at": "2026-09-14T12:32:50+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxOUUExRWdJSHA2cXVMdWxoOFhQbkdWeGtwSVA5UnFoRXZUa1dUU3RFMHJWcHFHeHFrQnRidGNZVVkzWDZYdDFrX1gtb2tTLTRhMl9Ja0I5Y3luVk1DQ09pOUJxYVF3TzFPNk5pbFY0dVZ0UjRTdFJ6WXdtbnNVaE11dHZPbVNBMWZYN3ZwN0JsdDF2M3VfOFhKdVRENEktX2I5b0FkVzE4aVUzTXJYLWQtTWIzX1Y0TG55RGNsTUNIS2xNUlJnay1pblBEcG1aUXpKN2xnTHpJWlQxRzRiaUoyVXJCSVctTjBEM2lLSG95Ni1sWnlMS0hVbVI5YTljbDRnZVVhQ2"
+        },
+        {
+          "title": "ITC Federal to buy Capgemini's US federal subsidiary",
+          "source": "Washington Technology",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOb1paeDNEcHlwLTZORHB5M2lfamNUSWpIVUd0TDhQTEZsX3M2TGhqbTd3d2htcEd1azFDY2dLQUVvZG1HS04tQzRDdDdkNGdjRHI0ZEM4OGYyZ2JnZ3ByMmJ1UHJGT2lVMmhHMWVFeW9mcExzSU5ESGVVOG5tZHp6Tmxvc2xMSE1ac2NMYnlQUzdjSWV6SzBmLUtTTGlRRWdPNGR1Y1pVZExEM19UY1dwcWFqQnhya3E4eHhfU2ZDU0FQT2h0YXB4Y0J4cmJmRlU?oc=5",
+          "published_at": "2026-09-14T19:49:12+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOb1paeDNEcHlwLTZORHB5M2lfamNUSWpIVUd0TDhQTEZsX3M2TGhqbTd3d2htcEd1azFDY2dLQUVvZG1HS04tQzRDdDdkNGdjRHI0ZEM4OGYyZ2JnZ3ByMmJ1UHJGT2lVMmhHMWVFeW9mcExzSU5ESGVVOG5tZHp6Tmxvc2xMSE1ac2NMYnlQUzdjSWV6SzBmLUtTTGlRRWdPNGR1Y1pVZExEM19UY1dwcWFqQnhya3E4eHhfU2ZDU0FQT2h0YXB4Y0J4cmJmRlU?oc=5\" target=\"_blank\">ITC Federal to buy Capgemini's US federal subsid"
+        },
+        {
+          "title": "Putin at ITC Maurya, Xi at Taj Palace: Where BRICS leaders are staying in Delhi",
+          "source": "Moneycontrol.com",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSlVjV21pLUtvTUl3R0JkaU5OaTFLTzhWeDJ5WVZrUGRSdV9vbTBFc2V5T3VUd1BBTG1iMF82RXBwMVVjTFJKNEM0TGRORkEwMnJIV0JvMHJ0WUFCS3pnNk9MVGV3V1hjS2JHTUo1eFBVME9DdW92M0ZLMW45bUhxMUxKN0NFWV9zbWZnUGxtR2pEMmx5WVJaQzg2d1UyY0FGVDVIWXVHdEJkUFlHekFkTlg1YUJKOTR0anNUSGZNOWp1REFBXy1xSUhrc9IB0AFBVV95cUxQLXhTRGhYV3lPMUJWMlZwVEVrLWlnWV9nVkFBdnVNdUhFOUw4UUVQbWRHVGllakhKTUMyZlZUc2ZjMUJXbmVCaEJxVkRmSzVMRXROdnNFaW90SEhidkxibTU4NGpiUHo4cEp6cUFoWWJGT1pwdlBzNDVTWENJQTBNeXQ4dkRqd2l4N2R2UklRVUowellGQzNwTnJPa1IzVzNmeGpBU080U2JZeVlWZjJFVW9zeVVnNFc5VEJXNGM5algwVVRpWW9sSzVGdDdtdjlk?oc=5",
+          "published_at": "2026-09-12T07:48:24+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOSlVjV21pLUtvTUl3R0JkaU5OaTFLTzhWeDJ5WVZrUGRSdV9vbTBFc2V5T3VUd1BBTG1iMF82RXBwMVVjTFJKNEM0TGRORkEwMnJIV0JvMHJ0WUFCS3pnNk9MVGV3V1hjS2JHTUo1eFBVME9DdW92M0ZLMW45bUhxMUxKN0NFWV9zbWZnUGxtR2pEMmx5WVJaQzg2d1UyY0FGVDVIWXVHdEJkUFlHekFkTlg1YUJKOTR0anNUSGZNOWp1REFBXy1xSUhrc9IB0AFBVV95cUxQLXhTRGhYV3lPMUJWMlZwVEVrLWlnWV9nVkFBdnVNdUhFOUw4UUVQbWRHVGllak"
         }
       ],
       "events": [],
@@ -1104,12 +1117,6 @@
           "url": "https://www.sebi.gov.in/enforcement/orders/sep-2026/settlement-order-in-the-matter-of-pmc-projects-india-private-limited_104410.html",
           "published_at": "10 Sep, 2026 +0530",
           "summary": "Settlement Order in the matter of PMC Projects (India) Private Limited"
-        },
-        {
-          "title": "Settlement Order in respect of settlement applications filed under the National Spot Exchange Limited  (NSEL) Settlement Scheme, 2025",
-          "url": "https://www.sebi.gov.in/enforcement/orders/sep-2026/settlement-order-in-respect-of-settlement-applications-filed-under-the-national-spot-exchange-limited-nsel-settlement-scheme-2025_104431.html",
-          "published_at": "09 Sep, 2026 +0530",
-          "summary": "Settlement Order in respect of settlement applications filed under the National Spot Exchange Limited  (NSEL) Settlement Scheme, 2025"
         }
       ],
       "price_action": {
@@ -1238,12 +1245,6 @@
           "url": "https://www.sebi.gov.in/enforcement/orders/sep-2026/settlement-order-in-the-matter-of-pmc-projects-india-private-limited_104410.html",
           "published_at": "10 Sep, 2026 +0530",
           "summary": "Settlement Order in the matter of PMC Projects (India) Private Limited"
-        },
-        {
-          "title": "Settlement Order in respect of settlement applications filed under the National Spot Exchange Limited  (NSEL) Settlement Scheme, 2025",
-          "url": "https://www.sebi.gov.in/enforcement/orders/sep-2026/settlement-order-in-respect-of-settlement-applications-filed-under-the-national-spot-exchange-limited-nsel-settlement-scheme-2025_104431.html",
-          "published_at": "09 Sep, 2026 +0530",
-          "summary": "Settlement Order in respect of settlement applications filed under the National Spot Exchange Limited  (NSEL) Settlement Scheme, 2025"
         }
       ],
       "price_action": {
@@ -1516,12 +1517,6 @@
           "url": "https://www.sebi.gov.in/enforcement/orders/sep-2026/settlement-order-in-the-matter-of-pmc-projects-india-private-limited_104410.html",
           "published_at": "10 Sep, 2026 +0530",
           "summary": "Settlement Order in the matter of PMC Projects (India) Private Limited"
-        },
-        {
-          "title": "Settlement Order in respect of settlement applications filed under the National Spot Exchange Limited  (NSEL) Settlement Scheme, 2025",
-          "url": "https://www.sebi.gov.in/enforcement/orders/sep-2026/settlement-order-in-respect-of-settlement-applications-filed-under-the-national-spot-exchange-limited-nsel-settlement-scheme-2025_104431.html",
-          "published_at": "09 Sep, 2026 +0530",
-          "summary": "Settlement Order in respect of settlement applications filed under the National Spot Exchange Limited  (NSEL) Settlement Scheme, 2025"
         }
       ],
       "price_action": {
