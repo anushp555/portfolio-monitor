@@ -1,7 +1,7 @@
 {
   "report_date": "2026-10-02",
   "trading_day": "2026-10-01",
-  "generated_at": "2026-10-02T09:00:57.255017+05:30",
+  "generated_at": "2026-10-05T09:00:56.245860+05:30",
   "stocks": [
     {
       "symbol": "TMCV",
@@ -96,11 +96,18 @@
       ],
       "news": [
         {
-          "title": "Nifty extends slide to eighth straight week, longest in 25 years; TMPV, Maruti, M&M, Jio Financial among top drags - BusinessToday",
-          "source": "IndiaIPO",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOOHhmU01JLVlBZUhwNEtlcXd2bk44YkNWaTVOTFk4eGdGMkl1eS1LRFVFcFJqc0I4MENQa0FfMXY3dnIxS1UzYVZZblA3bEdsS1F0aWM2WHByTEVLMHJ1WWdjX1lNVUFhMnEyaUVuNFAyQkxYYmJuT2VXNUtTMkJiTkgybjZzemJkamx0ZERGTU4tMHlpMTdscnM0NGs0MjdITDFCRWtPVmZNNXBlQ0V1cXhFWVctNkVmTzBFb3dWZTFZTHYwWi10TWppWXFwWVd0TWpNNXUyMUd2ZkF1OFRJUHNLU2FFUUxNejZmeVJ1TQ?oc=5",
-          "published_at": "2026-10-01T17:49:50+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxOOHhmU01JLVlBZUhwNEtlcXd2bk44YkNWaTVOTFk4eGdGMkl1eS1LRFVFcFJqc0I4MENQa0FfMXY3dnIxS1UzYVZZblA3bEdsS1F0aWM2WHByTEVLMHJ1WWdjX1lNVUFhMnEyaUVuNFAyQkxYYmJuT2VXNUtTMkJiTkgybjZzemJkamx0ZERGTU4tMHlpMTdscnM0NGs0MjdITDFCRWtPVmZNNXBlQ0V1cXhFWVctNkVmTzBFb3dWZTFZTHYwWi10TWppWXFwWVd0TWpNNXUyMUd2ZkF1OFRJUHNLU2FFUUxNejZmeVJ1TQ?oc=5\" target=\"_blank\">Nifty"
+          "title": "Nifty extends slide to eighth straight week, longest in 25 years; TMPV, Maruti, M&M, Jio Financial among top drags",
+          "source": "Business Today",
+          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOYWYtTHNRSFBUeFJoc2tzZjFlSmk4R193dHh3dnJuUGJvNC1qcGVUWjQ5eTRDaDQ5MnYwTm1PSm04VzhGTi1zSkg5TFFZdkNRc2VSRWZ0aHJONllPWkhWMGVjUXctOGNXcTB2SnlfS2hBQ3pMeW4zTWFpZ0tSVENrQ3QyNlBzWHI3VllmTG5EQWo1elBIc0ZrdVpxNWxPYnBfM0dNUkxXNHA2SV83XzNtRmItNDZ4UjRQeEUxWWEweVV4SktkRnI5SWdKWFhnZW1SYjdVLWc5WmR2QkZZcEE4SHJlaHIzNW9wNWpVUmNtY0dJUURTcFBwVmp2NUM2eGdBLTV4dzU5Z9IBjAJBVV95cUxPblY1Q1Z0MjdyZU9MM2k3OEEwV2JITWFvSkdNdVNjdTBmRExrYTU4a3JUQ1F5R2RwZnhYT09VTDlZbkdqU2dKTzRFd05FU2pvX29sRW8zeWh4WU1uOHB6c2NmOGVMRVRsMDRlczRjUkk4cjV6NkdfTlNMZUtsRGdmMHIzVWY1Nk9xWmprcEV6SXJCZWRWMnNhb1lSNXZ3dGtpSkg3SFZXREtIWGJfbFN2eW8ycVkxMllZVHo5N2xOdWhtRUlWSzBrZ2hSNU9kblhhNzIydVI1bmI0NEpGcFZON1FSN2M5MnQ4eW9LeGdibHRwdjVNVk1rYTVNN1ZMbVd0YlM2SzNKT2cwLWZK?oc=5",
+          "published_at": "2026-10-01T11:04:18+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxOYWYtTHNRSFBUeFJoc2tzZjFlSmk4R193dHh3dnJuUGJvNC1qcGVUWjQ5eTRDaDQ5MnYwTm1PSm04VzhGTi1zSkg5TFFZdkNRc2VSRWZ0aHJONllPWkhWMGVjUXctOGNXcTB2SnlfS2hBQ3pMeW4zTWFpZ0tSVENrQ3QyNlBzWHI3VllmTG5EQWo1elBIc0ZrdVpxNWxPYnBfM0dNUkxXNHA2SV83XzNtRmItNDZ4UjRQeEUxWWEweVV4SktkRnI5SWdKWFhnZW1SYjdVLWc5WmR2QkZZcEE4SHJlaHIzNW9wNWpVUmNtY0dJUURTcFBwVmp2NUM2eGdBLTV4dz"
+        },
+        {
+          "title": "Tata Motors Passenger Vehicles (TMPV) Earnings: Sept. Sales Surge by 42.4% Despite Commodities Concerns",
+          "source": "Smartkarma",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQdkx4UkwySXR4VVpsNC1wd1R2UGstMmN1bnZLeWVyWEppU2ItNXBmcFdfNHVWdjNrZ3NQRU1pSDVtTTZ3ZFBrcHBrMFZrZ0NaRlVDX3pEenJlUEhBWEZXSS1zbDQycEhhbGs2Yl95elJYQUhfSFRFb0ZjLUJoZXFFS0lfOVYwRjhldlQ5ejFMQlRNdFJkTzEzVVFFMEVqNldoVjdJZkM5ZXdFTnVLV1h3cGZaVHNka190MUhkM0ZtZnJISVpsd2V0US1uYk5OaUtZR0ZQYjB0LTBibDNKci1fd211V1pXUWFGVWN5cw?oc=5",
+          "published_at": "2026-10-01T08:22:37+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQdkx4UkwySXR4VVpsNC1wd1R2UGstMmN1bnZLeWVyWEppU2ItNXBmcFdfNHVWdjNrZ3NQRU1pSDVtTTZ3ZFBrcHBrMFZrZ0NaRlVDX3pEenJlUEhBWEZXSS1zbDQycEhhbGs2Yl95elJYQUhfSFRFb0ZjLUJoZXFFS0lfOVYwRjhldlQ5ejFMQlRNdFJkTzEzVVFFMEVqNldoVjdJZkM5ZXdFTnVLV1h3cGZaVHNka190MUhkM0ZtZnJISVpsd2V0US1uYk5OaUtZR0ZQYjB0LTBibDNKci1fd211V1pXUWFGVWN5cw?oc=5\" target=\"_blank\">Tata Moto"
         },
         {
           "title": "CAFE III fuel efficiency norms: TMPV, M&M may emerge as key beneficiaries",
@@ -178,6 +185,14 @@
           "headline": "General Updates",
           "category": "Banks",
           "more_info": "ICICI Bank Limited has informed the Exchange about Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015",
+          "pdf_url": "https://nsearchives.nseindia.com/corporate/ICICI2022_02102026174507_NSEBSE_02102026.pdf",
+          "attached_at": "02-Oct-2026 17:47:37",
+          "source": "NSE"
+        },
+        {
+          "headline": "General Updates",
+          "category": "Banks",
+          "more_info": "ICICI Bank Limited has informed the Exchange about Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015",
           "pdf_url": "https://nsearchives.nseindia.com/corporate/ICICI2022_01102026170118_BSENSE01102926.pdf",
           "attached_at": "01-Oct-2026 17:02:41",
           "source": "NSE"
@@ -193,11 +208,32 @@
       ],
       "news": [
         {
-          "title": "ICICI Bank Limited (IBN) Stock Price, News, Quote & History",
+          "title": "Weekly Recap: 2.29 billion rupee tax notice and Elara top pick",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPa0x1RXdXNV92UTlxWnR2bWRvOWt4Uzd6R0FIRnBOV3lYSEVSQlVKbHZiVEg1ZHBvZi1YTEpFUEh3eDNpZTJNNDZOdUxVMG5uRHo3eXpWTVl0TE93UE56YUZUdDVrMlJXcDUzRnAzcDVFYU00VFlGc3JQWG9TSTlpQUotWGY3Z2xxVlc2ak1iT0kxY3R1QTFkR2FCUnc4dVZNYlZQS1hUNmxPb1dtclZTWFJrMXVsMmF6VFFyOWVFYk4?oc=5",
+          "published_at": "2026-10-05T01:00:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPa0x1RXdXNV92UTlxWnR2bWRvOWt4Uzd6R0FIRnBOV3lYSEVSQlVKbHZiVEg1ZHBvZi1YTEpFUEh3eDNpZTJNNDZOdUxVMG5uRHo3eXpWTVl0TE93UE56YUZUdDVrMlJXcDUzRnAzcDVFYU00VFlGc3JQWG9TSTlpQUotWGY3Z2xxVlc2ak1iT0kxY3R1QTFkR2FCUnc4dVZNYlZQS1hUNmxPb1dtclZTWFJrMXVsMmF6VFFyOWVFYk4?oc=5\" target=\"_blank\">Weekly Recap: 2.29 billion rupee tax notice and Elara top pick</a>&n"
+        },
+        {
+          "title": "ICICI Bank Limited (ICICIBANK.NS) Stock Price, News, Quote & History",
           "source": "Yahoo! Finance Canada",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8yYTd5anN5bjFIWTZrZU1LQmFCbHZ6MlNOeWl6SUwycGFLOVF2N0RldWNDd0tra1JyTHljSTAwdnl1cE9YY3lhN25nUGVtcnpf?oc=5",
-          "published_at": "2026-10-01T10:55:06+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE8yYTd5anN5bjFIWTZrZU1LQmFCbHZ6MlNOeWl6SUwycGFLOVF2N0RldWNDd0tra1JyTHljSTAwdnl1cE9YY3lhN25nUGVtcnpf?oc=5\" target=\"_blank\">ICICI Bank Limited (IBN) Stock Price, News, Quote & History</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo! Finance Canada</font>"
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXZUxfbnNTLTF6ZUFMRGdWeVM2WUZxdFFUaW96MmRSbkVsdVZ1dTlBUVdxazNoQmJPcjFxSHROMktfUmRLR2ZVUGhrbV9yT2hUM1BCeFVMZHF3d0pk?oc=5",
+          "published_at": "2026-10-01T04:17:33+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXZUxfbnNTLTF6ZUFMRGdWeVM2WUZxdFFUaW96MmRSbkVsdVZ1dTlBUVdxazNoQmJPcjFxSHROMktfUmRLR2ZVUGhrbV9yT2hUM1BCeFVMZHF3d0pk?oc=5\" target=\"_blank\">ICICI Bank Limited (ICICIBANK.NS) Stock Price, News, Quote & History</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo! Finance Canada</font>"
+        },
+        {
+          "title": "ICICI Bank ICICIBANK: Sidharatha Mishra Moves to ICICI Life CEO",
+          "source": "Kalkine India",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdU9xWlFNV0JHenM2Z3RHdlFESEJ0cmQ4b3M3ZW1INlJodmZGQmlfT0ViUlA4cUVIN055b0JMbmdxN1hMS0JWMXNVOVQxRGp3b3Rac211cjQ3Q1RXcVpBWl9kVlBQUHB0LTBwMTNERFNqbXIxQzdFRmZBOVphSjJKSkt5T1FnUWdxWGZRbW1YdXlRbmVvV3pCbnNsa0lKRENQREZzZXdkSEM1SGJCQUI1UkwxUUhKTXg3bmc?oc=5",
+          "published_at": "2026-10-02T12:17:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQdU9xWlFNV0JHenM2Z3RHdlFESEJ0cmQ4b3M3ZW1INlJodmZGQmlfT0ViUlA4cUVIN055b0JMbmdxN1hMS0JWMXNVOVQxRGp3b3Rac211cjQ3Q1RXcVpBWl9kVlBQUHB0LTBwMTNERFNqbXIxQzdFRmZBOVphSjJKSkt5T1FnUWdxWGZRbW1YdXlRbmVvV3pCbnNsa0lKRENQREZzZXdkSEM1SGJCQUI1UkwxUUhKTXg3bmc?oc=5\" target=\"_blank\">ICICI Bank ICICIBANK: Sidharatha Mishra Moves to ICICI Life CEO</a>&nbsp;&nb"
+        },
+        {
+          "title": "IBN6503144 Bond Profile: Coupon and Redemption",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JSzhpbWRxWW5DSWVlcTVBTXRkOVgtSFdTczVudHQza1dFN1dNdUUtTDFqdXV2bldvc3VnUU1mWGY5b2xxeTFrSXFxYlpSb01FRm1yaHRFTHY5UUNlaUVMNzlIT2dSd1RQcjdfWXZ3?oc=5",
+          "published_at": "2026-10-02T05:53:17+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1JSzhpbWRxWW5DSWVlcTVBTXRkOVgtSFdTczVudHQza1dFN1dNdUUtTDFqdXV2bldvc3VnUU1mWGY5b2xxeTFrSXFxYlpSb01FRm1yaHRFTHY5UUNlaUVMNzlIT2dSd1RQcjdfWXZ3?oc=5\" target=\"_blank\">IBN6503144 Bond Profile: Coupon and Redemption</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
         }
       ],
       "events": [],
@@ -266,11 +302,18 @@
       "nse_announcements": [],
       "news": [
         {
+          "title": "HDFC Life Insurance (NSEI:HDFCLIFE) - Stock Analysis",
+          "source": "Simply Wall Street",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbWIzeVVzYWM2SmNyNDVoZzFyRHdIMngzaEZlTlRSbGM3OWNKYXYwMlRMVHBjTHFMNk5qaHRpQ1F3MjJ4TmQyQVhGdGU0UDN2OVlnU29CaEc5b2ljNmxKT3FYbDJsRW4ycTk1ZDVEMU42UFhROU44enZtTGdNM2hfS3o5ZWRiUm9S?oc=5",
+          "published_at": "2026-10-01T13:58:21+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbWIzeVVzYWM2SmNyNDVoZzFyRHdIMngzaEZlTlRSbGM3OWNKYXYwMlRMVHBjTHFMNk5qaHRpQ1F3MjJ4TmQyQVhGdGU0UDN2OVlnU29CaEc5b2ljNmxKT3FYbDJsRW4ycTk1ZDVEMU42UFhROU44enZtTGdNM2hfS3o5ZWRiUm9S?oc=5\" target=\"_blank\">HDFC Life Insurance (NSEI:HDFCLIFE) - Stock Analysis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Simply Wall Street</font>"
+        },
+        {
           "title": "HDFC Life Insurance Share Price - Live NSE: HDFCLIFE Stock Price & Chart",
-          "source": "upstox.com",
+          "source": "Upstox",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9rbmpVWmJiOEVqYWFGbHNBdFhudURwc01vMGRrM3lYdFZYRkNlRTc2cThBbXNDZ3pFVDhjUVEzOGQ3ZVl0dGhmUG8zSWlJZGlHZE0yNURUTUFtN1ZzNXlQQ1ZXUkxpb3Bjd3dj?oc=5",
-          "published_at": "2026-10-01T14:17:31+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9rbmpVWmJiOEVqYWFGbHNBdFhudURwc01vMGRrM3lYdFZYRkNlRTc2cThBbXNDZ3pFVDhjUVEzOGQ3ZVl0dGhmUG8zSWlJZGlHZE0yNURUTUFtN1ZzNXlQQ1ZXUkxpb3Bjd3dj?oc=5\" target=\"_blank\">HDFC Life Insurance Share Price - Live NSE: HDFCLIFE Stock Price & Chart</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">upstox.com</font>"
+          "published_at": "2026-10-01T07:00:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9rbmpVWmJiOEVqYWFGbHNBdFhudURwc01vMGRrM3lYdFZYRkNlRTc2cThBbXNDZ3pFVDhjUVEzOGQ3ZVl0dGhmUG8zSWlJZGlHZE0yNURUTUFtN1ZzNXlQQ1ZXUkxpb3Bjd3dj?oc=5\" target=\"_blank\">HDFC Life Insurance Share Price - Live NSE: HDFCLIFE Stock Price & Chart</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Upstox</font>"
         }
       ],
       "events": [],
@@ -347,6 +390,27 @@
         }
       ],
       "news": [
+        {
+          "title": "Bandhan Bank Share Price - Live NSE: BANDHANBNK Stock Price & Chart",
+          "source": "Upstox",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96SXRuekpzdllWZzJjQjliS0Z5TUQwZUdGM1hYX0JWc1BDN0tYcHkxN0FCQ3cza3YxSEh3aDFOZ2FSZkcwU0djNU9reG5BSTk3cDVtU3NEeUpkZmdrUmw3ejFTNEpON1drNnpn?oc=5",
+          "published_at": "2026-10-01T07:00:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE96SXRuekpzdllWZzJjQjliS0Z5TUQwZUdGM1hYX0JWc1BDN0tYcHkxN0FCQ3cza3YxSEh3aDFOZ2FSZkcwU0djNU9reG5BSTk3cDVtU3NEeUpkZmdrUmw3ejFTNEpON1drNnpn?oc=5\" target=\"_blank\">Bandhan Bank Share Price - Live NSE: BANDHANBNK Stock Price & Chart</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Upstox</font>"
+        },
+        {
+          "title": "Bandhan Bank Limited (BANDHANBNK.NS) Stock Price, News, Quote & History",
+          "source": "Yahoo! Finance Canada",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9OVUJyUFRBa3RIeGVkYzdYa0lPU1BFSGZ1UTh3NmZZdzBhejhPQ1NwZG9FcTVZRzd1NXB3dk5ERXRBNi1KS252RWctb1ZPOWoyZzdDTjQteEUwMGoyd1E?oc=5",
+          "published_at": "2026-10-01T09:44:59+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9OVUJyUFRBa3RIeGVkYzdYa0lPU1BFSGZ1UTh3NmZZdzBhejhPQ1NwZG9FcTVZRzd1NXB3dk5ERXRBNi1KS252RWctb1ZPOWoyZzdDTjQteEUwMGoyd1E?oc=5\" target=\"_blank\">Bandhan Bank Limited (BANDHANBNK.NS) Stock Price, News, Quote & History</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo! Finance Canada</font>"
+        },
+        {
+          "title": "BANDHANBNK Outlook for the Week",
+          "source": "Equitypandit",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAtdWVxbVR1dk4xbFlhVUZPUGhlVmxaYTlMSWxFNXNqNXlMMWpWRF9lYzdUMGQ4NWdmdVQ3a0RFa2NjYmdHSnk2cmRXZ0tFV1hiMkdKRVBTU1pWUTRYVWE2aWRZajNyZ2NjR2NuUGx3?oc=5",
+          "published_at": "2026-10-01T07:00:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFAtdWVxbVR1dk4xbFlhVUZPUGhlVmxaYTlMSWxFNXNqNXlMMWpWRF9lYzdUMGQ4NWdmdVQ3a0RFa2NjYmdHSnk2cmRXZ0tFV1hiMkdKRVBTU1pWUTRYVWE2aWRZajNyZ2NjR2NuUGx3?oc=5\" target=\"_blank\">BANDHANBNK Outlook for the Week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Equitypandit</font>"
+        },
         {
           "title": "Bandhan Bank (BANDHANBNK) Share Price Falls in Second Straight Session",
           "source": "Univest",
@@ -428,7 +492,22 @@
           "source": "NSE"
         }
       ],
-      "news": [],
+      "news": [
+        {
+          "title": "IDFC First Bank (NSEI:IDFCFIRSTB) Stock Forecast & Analyst Predictions",
+          "source": "Simply Wall Street",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMWxaMWtENWJ2cnlXQ1F6Zndab2taWDJPdEY3WGRVQkNYS2hPeF9KOXpKbHhqSVJ6TFJQTngxMzBzTnd5Z3dBeXNCbmFuWEQ0N1BZbEcwSkJMT0NTcFE2V3lmZENfWHpGRDNGeUhha3dmektYUW1zUnZ0U24zQ0pob3NTcUVfeVk1bWc?oc=5",
+          "published_at": "2026-10-02T07:00:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOMWxaMWtENWJ2cnlXQ1F6Zndab2taWDJPdEY3WGRVQkNYS2hPeF9KOXpKbHhqSVJ6TFJQTngxMzBzTnd5Z3dBeXNCbmFuWEQ0N1BZbEcwSkJMT0NTcFE2V3lmZENfWHpGRDNGeUhha3dmektYUW1zUnZ0U24zQ0pob3NTcUVfeVk1bWc?oc=5\" target=\"_blank\">IDFC First Bank (NSEI:IDFCFIRSTB) Stock Forecast & Analyst Predictions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Simply Wall Street</font>"
+        },
+        {
+          "title": "IDFC First Bank Ltd Share Price Today,, IDFCFIRSTB Share Price NSE, BSE",
+          "source": "Business Today",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQc0g0SVR3bG1lZXNSVk1udUpLSEstNVFJalNJMHZjelpwdlllRmE4VDFyZ2FsOXJicmF6aXFma0JXTzFaZnViZDVXN3h6bFQzWWtfVlEzVVFwWUpkajFPdUZrcnRCTnJYLWRNei1faklTNmtPM3lYR0J4WVZnV3MzSktKeEpwOHlCcTFyZnpR?oc=5",
+          "published_at": "2026-10-01T07:00:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQc0g0SVR3bG1lZXNSVk1udUpLSEstNVFJalNJMHZjelpwdlllRmE4VDFyZ2FsOXJicmF6aXFma0JXTzFaZnViZDVXN3h6bFQzWWtfVlEzVVFwWUpkajFPdUZrcnRCTnJYLWRNei1faklTNmtPM3lYR0J4WVZnV3MzSktKeEpwOHlCcTFyZnpR?oc=5\" target=\"_blank\">IDFC First Bank Ltd Share Price Today,, IDFCFIRSTB Share Price NSE, BSE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Today</font>"
+        }
+      ],
       "events": [],
       "sebi_mentions": [],
       "price_action": {
@@ -536,11 +615,25 @@
       ],
       "news": [
         {
+          "title": "9CGCL2028 Bond Profile: Coupon and Redemption",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zU1U3OFdKLUFESzJRNmZ6aHhjMTF4bW9adlhwekRNWmF4enpPOERpVW1LcnppbURRU20tMXM0dHBPVjMyZUdDVzBma0h6WnlUOXY3VnhPYWJvN1NwdXVWVjNjUDFsUDRRT0E?oc=5",
+          "published_at": "2026-10-04T00:25:39+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE8zU1U3OFdKLUFESzJRNmZ6aHhjMTF4bW9adlhwekRNWmF4enpPOERpVW1LcnppbURRU20tMXM0dHBPVjMyZUdDVzBma0h6WnlUOXY3VnhPYWJvN1NwdXVWVjNjUDFsUDRRT0E?oc=5\" target=\"_blank\">9CGCL2028 Bond Profile: Coupon and Redemption</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+        },
+        {
           "title": "Capri Global Capital CGCL Commercial Paper Redemption Oct 2026",
           "source": "Kalkine India",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUWx1WGotemRlb25YYkY4R1NjUUItaVVyX0NtZzVRRlVzUmhvUG9wNm0wN2dnX1NXYWJPYlE5N3ctMF9jYkY2b3Q3cFEzbm81djVXWlNITUlRNDFRZXphYTJWUHdDRVFNRmMyMUNFV3NlQVdPVVBRdnR0cmdISmMtcWQ4S0hOa0pSNjlNYkxDY0NtQkZjbHgwc05OX05WRTVHM0xGYTBEM0dlZG9FRUh0ZkZFcHpIeHNQUFZJakl0emFueGM?oc=5",
           "published_at": "2026-10-01T07:19:00+00:00",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUWx1WGotemRlb25YYkY4R1NjUUItaVVyX0NtZzVRRlVzUmhvUG9wNm0wN2dnX1NXYWJPYlE5N3ctMF9jYkY2b3Q3cFEzbm81djVXWlNITUlRNDFRZXphYTJWUHdDRVFNRmMyMUNFV3NlQVdPVVBRdnR0cmdISmMtcWQ4S0hOa0pSNjlNYkxDY0NtQkZjbHgwc05OX05WRTVHM0xGYTBEM0dlZG9FRUh0ZkZFcHpIeHNQUFZJakl0emFueGM?oc=5\" target=\"_blank\">Capri Global Capital CGCL Commercial Paper Redemption Oct 2026</"
+        },
+        {
+          "title": "925CGCL28 Bond Profile: Coupon and Redemption",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5FWS1ySDFXWW12dXEtOHRjT2RUV0FfWEo5U3lkQ2o0QktucUZOWndiR2NsLXpsNFRTVjVKem9pVmVyaXhhZnp1SkVFc3ZWME9wdDVOUkVCSTlCQ3ktQ3pZMGo0Ny14ZWN3bXc?oc=5",
+          "published_at": "2026-10-03T03:31:59+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5FWS1ySDFXWW12dXEtOHRjT2RUV0FfWEo5U3lkQ2o0QktucUZOWndiR2NsLXpsNFRTVjVKem9pVmVyaXhhZnp1SkVFc3ZWME9wdDVOUkVCSTlCQ3ktQ3pZMGo0Ny14ZWN3bXc?oc=5\" target=\"_blank\">925CGCL28 Bond Profile: Coupon and Redemption</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
         }
       ],
       "events": [],
@@ -622,18 +715,25 @@
       "nse_announcements": [],
       "news": [
         {
+          "title": "Tata Power Share Price - Live NSE: TATAPOWER Stock Price & Chart",
+          "source": "Upstox",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UVUN0OGR1YVBaQW9KZGJRS25XcElwWU01Z3lqRUdOM2ZlOUx2d3RONV9NRW9GN2RWaWQyRktSdlBtSzgySUdFNDlUelQ4UUJmUjZzSGpObTNjeVVnUDZSSjJBVEtnVzg?oc=5",
+          "published_at": "2026-10-01T07:00:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UVUN0OGR1YVBaQW9KZGJRS25XcElwWU01Z3lqRUdOM2ZlOUx2d3RONV9NRW9GN2RWaWQyRktSdlBtSzgySUdFNDlUelQ4UUJmUjZzSGpObTNjeVVnUDZSSjJBVEtnVzg?oc=5\" target=\"_blank\">Tata Power Share Price - Live NSE: TATAPOWER Stock Price & Chart</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Upstox</font>"
+        },
+        {
+          "title": "Tata Power Company Ltd. (TATAPOWER) Share Price Near 52-Week Low as Stock Slips 3.23%",
+          "source": "Univest",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRV9SSUtEYzlfU0xmNHlKcWhnOU95Q2YzdVdGa3FNRUdYODlEakF5ZjB4OGFSeEZ5NW1UZGNaVGRQS0VMc2tMNEY1ckxhMkxHNEdNR09FY3MwRkFPNjF1TEJNc2xPSTV5dlM4VWxsYUxSX1lmQmV2Q2VGRlFXaFBVcC12VVV0NXZxbDVDTS1EU1ZLX1ZkVEE?oc=5",
+          "published_at": "2026-10-01T08:27:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPRV9SSUtEYzlfU0xmNHlKcWhnOU95Q2YzdVdGa3FNRUdYODlEakF5ZjB4OGFSeEZ5NW1UZGNaVGRQS0VMc2tMNEY1ckxhMkxHNEdNR09FY3MwRkFPNjF1TEJNc2xPSTV5dlM4VWxsYUxSX1lmQmV2Q2VGRlFXaFBVcC12VVV0NXZxbDVDTS1EU1ZLX1ZkVEE?oc=5\" target=\"_blank\">Tata Power Company Ltd. (TATAPOWER) Share Price Near 52-Week Low as Stock Slips 3.23%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">U"
+        },
+        {
           "title": "Tata Power Share Price update: sector and peer analysis",
           "source": "Univest",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPT1dZUy1YOHFfdGg3TWpxUHN4YnRtM2Mwak1hV3VIWEwwV180Z1gzbTRva1BtWERXVDRNNVk1NG80cDk0eDhiYXVBVzRmSWdsbXBMWGV4bHNwTXd5WWhGeHVSdkNfYWo1dmFUeW92c0lacGlPejNHbjJBQXJiMlJ4Qw?oc=5",
           "published_at": "2026-10-01T08:41:00+00:00",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPT1dZUy1YOHFfdGg3TWpxUHN4YnRtM2Mwak1hV3VIWEwwV180Z1gzbTRva1BtWERXVDRNNVk1NG80cDk0eDhiYXVBVzRmSWdsbXBMWGV4bHNwTXd5WWhGeHVSdkNfYWo1dmFUeW92c0lacGlPejNHbjJBQXJiMlJ4Qw?oc=5\" target=\"_blank\">Tata Power Share Price update: sector and peer analysis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Univest</font>"
-        },
-        {
-          "title": "Tata Power Share Price Today Near 52-Week Low, Valuation",
-          "source": "Univest",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRV9SSUtEYzlfU0xmNHlKcWhnOU95Q2YzdVdGa3FNRUdYODlEakF5ZjB4OGFSeEZ5NW1UZGNaVGRQS0VMc2tMNEY1ckxhMkxHNEdNR09FY3MwRkFPNjF1TEJNc2xPSTV5dlM4VWxsYUxSX1lmQmV2Q2VGRlFXaFBVcC12VVV0NXZxbDVDTS1EU1ZLX1ZkVEE?oc=5",
-          "published_at": "2026-10-01T08:27:00+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPRV9SSUtEYzlfU0xmNHlKcWhnOU95Q2YzdVdGa3FNRUdYODlEakF5ZjB4OGFSeEZ5NW1UZGNaVGRQS0VMc2tMNEY1ckxhMkxHNEdNR09FY3MwRkFPNjF1TEJNc2xPSTV5dlM4VWxsYUxSX1lmQmV2Q2VGRlFXaFBVcC12VVV0NXZxbDVDTS1EU1ZLX1ZkVEE?oc=5\" target=\"_blank\">Tata Power Share Price Today Near 52-Week Low, Valuation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Univest</font>"
         }
       ],
       "events": [],
@@ -727,6 +827,13 @@
       "nse_announcements": [],
       "news": [
         {
+          "title": "Where Could Suzlon Energy Share Price Potentially Be in the Next 5 Years?",
+          "source": "Equitymaster",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQ3l2a0hkRzcyR1BkMlU0ZkUxaURUZE5meWthbGZuTC1MdTNGNWFjQnJ4Z2kwblI3THRWdzZsZTlEOWd4VXlUMHFMNDJIN3RBNzhWZE9DeWlXYUp5Z2pDbzVWVGRlb2N1SVI2X2QyMUgtM3R1Z3F3ZUttNHRRVDhxSW9acm9qa2lwQ3ZyRFUzQ3ZXdUtLZVZOckd1UGhGWU9PakhRMUJ5Yk8ycUd3dVY1NjNaR05vckFxanBwSjVtdGltZ2RyRXA1Q2dvMlVqN09teHNXR00yUjdTZw?oc=5",
+          "published_at": "2026-10-02T20:30:18+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQ3l2a0hkRzcyR1BkMlU0ZkUxaURUZE5meWthbGZuTC1MdTNGNWFjQnJ4Z2kwblI3THRWdzZsZTlEOWd4VXlUMHFMNDJIN3RBNzhWZE9DeWlXYUp5Z2pDbzVWVGRlb2N1SVI2X2QyMUgtM3R1Z3F3ZUttNHRRVDhxSW9acm9qa2lwQ3ZyRFUzQ3ZXdUtLZVZOckd1UGhGWU9PakhRMUJ5Yk8ycUd3dVY1NjNaR05vckFxanBwSjVtdGltZ2RyRXA1Q2dvMlVqN09teHNXR00yUjdTZw?oc=5\" target=\"_blank\">Where Could Suzlon Energy Share P"
+        },
+        {
           "title": "Suzlon Energy vs IREDA: Which Is A Better Renewable Energy Stock? MCap, Roe, Dividend Comparison",
           "source": "Goodreturns",
           "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNX1lIQ0YwbmpFX2VIS2pXTnk1eHRIYkRsX3hpN1hoTTF3SW5XYlRsOUgycHU2d3pxLUVBZlIxX3RxMnNnYWUtdzVDeGs3RXFPRWNvMWlVcXZQTXF5U3UyUkhVSXBzMjY2OHhtaG9yWDl2TmY4MHJUcjhHTG1ONmxQX1JJT1BCRl90OVIxUHVPMmtGY2JCS1libTBhdmdDeTI0alBULTZaTnBRbHgzR2plRDlZOGV6WHBMSnR6NUVwZVRlejdjSGdSNDdNd05mNWlwSUxr?oc=5",
@@ -734,11 +841,11 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNX1lIQ0YwbmpFX2VIS2pXTnk1eHRIYkRsX3hpN1hoTTF3SW5XYlRsOUgycHU2d3pxLUVBZlIxX3RxMnNnYWUtdzVDeGs3RXFPRWNvMWlVcXZQTXF5U3UyUkhVSXBzMjY2OHhtaG9yWDl2TmY4MHJUcjhHTG1ONmxQX1JJT1BCRl90OVIxUHVPMmtGY2JCS1libTBhdmdDeTI0alBULTZaTnBRbHgzR2plRDlZOGV6WHBMSnR6NUVwZVRlejdjSGdSNDdNd05mNWlwSUxr?oc=5\" target=\"_blank\">Suzlon Energy vs IREDA: Which Is A Better R"
         },
         {
-          "title": "Where Could Suzlon Energy Share Price Potentially Be in the Next 5 Years?",
-          "source": "Equitymaster",
-          "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNaDBfVWR1anR3Tmh5WU85RVk4eWRQc0NvdUxseVN2RFBMb3lUeHNMX3B1MU01Y1dLR2VGU1kySTNWX1RSWGlnMVN5bHlSLWdNLTlDdlhab2NkNVZpS2kySjBaNHdyQS1weklZYV82dDUwcDdEaUxPbkQ5bUNHaDNXM0pob0tMZk1Rdl9qVkpZakZEZEp5di1nUWFpYnRCVGtyVHFndk1saTVVcmxGck5NRjBEUzc2TE5QTzBkMm5wNTRyOFFxUHA5SzQ3TjVfT18zQk0xWUpfX0dCYU5VNFFOU3dyV2EzOXdaei1kOEFReVJUMXNDaWZ0Y0VwQU9ZM1NUWE5NeGxTdi1HU1dFNEtQVWJCTnZPMmo4LXJTMkZnekJxbmhlUVVCblcyX2tsMl9tT0xiRVJrUmFudldHM2pRUVUwbUczRXFqRE1vQzJvZ19QUQ?oc=5",
-          "published_at": "2026-10-02T00:30:01+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gJBVV95cUxNaDBfVWR1anR3Tmh5WU85RVk4eWRQc0NvdUxseVN2RFBMb3lUeHNMX3B1MU01Y1dLR2VGU1kySTNWX1RSWGlnMVN5bHlSLWdNLTlDdlhab2NkNVZpS2kySjBaNHdyQS1weklZYV82dDUwcDdEaUxPbkQ5bUNHaDNXM0pob0tMZk1Rdl9qVkpZakZEZEp5di1nUWFpYnRCVGtyVHFndk1saTVVcmxGck5NRjBEUzc2TE5QTzBkMm5wNTRyOFFxUHA5SzQ3TjVfT18zQk0xWUpfX0dCYU5VNFFOU3dyV2EzOXdaei1kOEFReVJUMXNDaWZ0Y0VwQU9ZM1NUWE5NeG"
+          "title": "Suzlon Energy to attend Maybank conference on July 7",
+          "source": "scanx.trade",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObjZOMDNZRWFMV05ZRjN4ekhNeGpNYkw0eG94ZW9QcnFnbzRoYjFaamhVMlBvMFlyVF9fX3NPRnZ4OTUyTzFjbVlwVHRTX0pwZkxCSEVyRm9wQzVIdzdzakRIMlhXbUlJTGFObXc2eEZ1bkJaMG5JaHNFUWE5cDB5VDBLbDVrajN1TnRpTzkzTnZHU1BxNG4wajE4eWxzT3QteXNqUEFOQVZhWGh0UGYw?oc=5",
+          "published_at": "2026-10-04T02:37:53+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxObjZOMDNZRWFMV05ZRjN4ekhNeGpNYkw0eG94ZW9QcnFnbzRoYjFaamhVMlBvMFlyVF9fX3NPRnZ4OTUyTzFjbVlwVHRTX0pwZkxCSEVyRm9wQzVIdzdzakRIMlhXbUlJTGFObXc2eEZ1bkJaMG5JaHNFUWE5cDB5VDBLbDVrajN1TnRpTzkzTnZHU1BxNG4wajE4eWxzT3QteXNqUEFOQVZhWGh0UGYw?oc=5\" target=\"_blank\">Suzlon Energy to attend Maybank conference on July 7</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">s"
         },
         {
           "title": "Suzlon Energy Share Price near 52-week low, key analysis",
@@ -746,6 +853,27 @@
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMjd6dU5mM1FJeEtoQ0ltVGZWb2dPajVlNXRpVF9zZ0U3ZnBvU0hHZFIzWUhEZmt3cFVSOEk0anVQcVpDdHpMeTRKWXU0aE5JMi1RY0twN0UzWkp5eGtXNUFfRFdQbFAwZ1BpaldET0w3dFhucHA0eFRMclNWZjU5TWVHX2tiLWFyVjVncFJzNA?oc=5",
           "published_at": "2026-10-01T07:26:00+00:00",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNMjd6dU5mM1FJeEtoQ0ltVGZWb2dPajVlNXRpVF9zZ0U3ZnBvU0hHZFIzWUhEZmt3cFVSOEk0anVQcVpDdHpMeTRKWXU0aE5JMi1RY0twN0UzWkp5eGtXNUFfRFdQbFAwZ1BpaldET0w3dFhucHA0eFRMclNWZjU5TWVHX2tiLWFyVjVncFJzNA?oc=5\" target=\"_blank\">Suzlon Energy Share Price near 52-week low, key analysis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Univest</font>"
+        },
+        {
+          "title": "Suzlon, KPIT Tech, RIL, IRFC, HDFC Bank, Infy: 56% Nifty500 stocks in bear grip amid market sell-off",
+          "source": "Business Today",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNVTZEZzVOUjZYcWd2NXd6UlFTWWtJMlNmT3p3X212MkhnTDE3NWt4N29acGgxZm9PTVg2c1c0Vm43ZVZ5VENOYVRCbmNwNzVWV0tGNDBVNWl6T2tPTDE1cnlRZ21XdllVSXN2LV84c2Q0alVLYThCNEw5LVRPWHlLUnAxV2xWZEZJb1lyZ2tsZGE0OVY2aTZsMzk1UmJILWRFTW5nNUEzTzlaY3prd0lXRldqQy02b24wV2czSWF2ajVBOEZiQlM3ejBoemJXeTFNU2liVWRSZWhVdzJJWDVOQTVmNHFlb2RNUUhzS1FrOHl0YXPSAfgBQVVfeXFMT3pxcTN1ODdDYXY5OGhqN0MySk1YLW5HMmVXX0swV1NxeEJITkk3LVEzVnBMcmJmRGlaOTB2WUNOMmhtUkZtcEdQVVRXZTZXT1pNTGJKMzV1Q1EyUnQ3blVKaW1sLWdtVlJjYTZnTWhHTGRrVTZKckxwbkRBSWRiZWstMnNqQlRjWVZlYmxlZFhscDFFcDNUcTJGOFF4amFMOEVmc01fdVplM2o2d01Obm9sbXZLOEhScFJLcEk4YXBNeHhEM2VuX1FMUGZuUVF2bjZoUVlIa3Bha3pVbk1JT1htdXlSX0xGOVB3LWR5TDB0eTZvd1NNMjM?oc=5",
+          "published_at": "2026-10-02T06:33:58+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxNVTZEZzVOUjZYcWd2NXd6UlFTWWtJMlNmT3p3X212MkhnTDE3NWt4N29acGgxZm9PTVg2c1c0Vm43ZVZ5VENOYVRCbmNwNzVWV0tGNDBVNWl6T2tPTDE1cnlRZ21XdllVSXN2LV84c2Q0alVLYThCNEw5LVRPWHlLUnAxV2xWZEZJb1lyZ2tsZGE0OVY2aTZsMzk1UmJILWRFTW5nNUEzTzlaY3prd0lXRldqQy02b24wV2czSWF2ajVBOEZiQlM3ejBoemJXeTFNU2liVWRSZWhVdzJJWDVOQTVmNHFlb2RNUUhzS1FrOHl0YXPSAfgBQVVfeXFMT3pxcTN1OD"
+        },
+        {
+          "title": "Suzlon Energy net profit falls 6% in Q1FY27 despite record deliveries",
+          "source": "scanx.trade",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSjl6d3dIbERIOGpkZEctVUxLT2ZzNUhTUWExeFlZZnRlQlJlaDR4Y1ExSi0yUjRabkJhazdBUFEtbW5GdE9kQXJyREZ3ZnlMMC05b21BRWl4YWlSa29paC1wNDZaQ1BIZlcxTTlsRHNMMGVGbWRiMnNuM1REZnJVLUVDRmpodUNlZnRCVERCc1VsZXVoYzd5N0FRY2lFTFJsODBzeVV5N2NBRTJXUGk2RUt2b0R2YXJKVG5XTnVTQUx6SkUwWjNN?oc=5",
+          "published_at": "2026-10-04T03:32:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNSjl6d3dIbERIOGpkZEctVUxLT2ZzNUhTUWExeFlZZnRlQlJlaDR4Y1ExSi0yUjRabkJhazdBUFEtbW5GdE9kQXJyREZ3ZnlMMC05b21BRWl4YWlSa29paC1wNDZaQ1BIZlcxTTlsRHNMMGVGbWRiMnNuM1REZnJVLUVDRmpodUNlZnRCVERCc1VsZXVoYzd5N0FRY2lFTFJsODBzeVV5N2NBRTJXUGk2RUt2b0R2YXJKVG5XTnVTQUx6SkUwWjNN?oc=5\" target=\"_blank\">Suzlon Energy net profit falls 6% in Q1FY27 despite record "
+        },
+        {
+          "title": "Suzlon Energy vs NTPC Green vs NHPC: Wind, Solar or Hydro? Which Energy Stock Deserves Spot In Your Portfolio?",
+          "source": "Goodreturns",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdS1KbFJzS09KU1pQYm1qYU5ZTVctdVhyak84Zjd5dzFkcVBNdWpwbGhjLW9ac2RNRHRyRENhNU1temdpSFBUOFFveEVseVZ1aXJlZkZabjhJSm1qbDRrdW1OSlRzSWQyUmYtZEVlQmlpWGdXeVhOemcwM3VMOXpMWlU2VXRZdnV6bG1aYjBpajBSM1NhNWxxYXk2b1F0VTcwV2hDQTlsWnpFeGV6TzdJUTI3X3kxdHNlX0VmYWZHbEk5SjJnNHlhVA?oc=5",
+          "published_at": "2026-10-02T15:07:03+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdS1KbFJzS09KU1pQYm1qYU5ZTVctdVhyak84Zjd5dzFkcVBNdWpwbGhjLW9ac2RNRHRyRENhNU1temdpSFBUOFFveEVseVZ1aXJlZkZabjhJSm1qbDRrdW1OSlRzSWQyUmYtZEVlQmlpWGdXeVhOemcwM3VMOXpMWlU2VXRZdnV6bG1aYjBpajBSM1NhNWxxYXk2b1F0VTcwV2hDQTlsWnpFeGV6TzdJUTI3X3kxdHNlX0VmYWZHbEk5SjJnNHlhVA?oc=5\" target=\"_blank\">Suzlon Energy vs NTPC Green vs NHPC: Wind, Solar or Hydro"
         }
       ],
       "events": [],
@@ -830,6 +958,20 @@
       ],
       "news": [
         {
+          "title": "IREDA share price falls from ₹310 to ₹111 | Govt decision on top management; what exchange filing said",
+          "source": "livemint.com",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMHlPb1JRLWRYcWNWVHd0NFJydUY2akZITHBSSFJ3amdYcFRuYV9HLWZtTkVGQ2c2NFQ2WkFSWDJuaGFRN2NoRUUwUm5lTWJ1T2dyc1VrQXdvdDhIeHBVaXBPMWpyc1pONk9GSVBOa2t0NUNvd2EtX1dpWWZZLUtpSndKTk1ZUVd2S3pleWR6aDEyNVdnX0hkaGw3eXdDbmkxbzl5Nlo0Q3YyZW81Xzlyd0dnbEZUQlQ2dFdVcm5NYXhWdWo3STY1LW5XalQ0bXl2QlAwbGkxQkdBUnJQRGRnQk9mdElWUm9xQXJhWmN3QjdRVkgzMXpvSGhxa9IBgAJBVV95cUxPMnRMUUU5WWZfQ2wwY0NDRnRTc1E0S3JNYWM4U0JXc1YtY3I1T29DWTBsYWNjcTlDYWxxSUNvLWFmVDVvRDBkeHE0M2tGZnNpVGhacXdKNGVfUi1QTHZDakxBcWVoTHN2ODdna1ZwUkxib0FPSkRWNmpGVGM2eFkzMGpNT283SjUtLWFhLThOd3ZlNmE3SElkbUZBVFNkUmVRYlpPTWdxOWtOVExxRHpMTXNPMFlmUHZVQW5yWFFiR0Zwc09weElsWFREa0dVVjJ1SDNncnotVXZQRnVPb3FWX0V1dWJTYzR0WHBRN1gxYUZCbkRXRGpva1MxZzMxNGI0?oc=5",
+          "published_at": "2026-10-02T10:36:19+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMHlPb1JRLWRYcWNWVHd0NFJydUY2akZITHBSSFJ3amdYcFRuYV9HLWZtTkVGQ2c2NFQ2WkFSWDJuaGFRN2NoRUUwUm5lTWJ1T2dyc1VrQXdvdDhIeHBVaXBPMWpyc1pONk9GSVBOa2t0NUNvd2EtX1dpWWZZLUtpSndKTk1ZUVd2S3pleWR6aDEyNVdnX0hkaGw3eXdDbmkxbzl5Nlo0Q3YyZW81Xzlyd0dnbEZUQlQ2dFdVcm5NYXhWdWo3STY1LW5XalQ0bXl2QlAwbGkxQkdBUnJQRGRnQk9mdElWUm9xQXJhWmN3QjdRVkgzMXpvSGhxa9IBgAJBVV95cU"
+        },
+        {
+          "title": "IREDA Extends Dr. Bijay Kumar Mohanty’s Additional CMD Charge for 3 Months",
+          "source": "Indianmasterminds",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcUNlaHRCZS1xV3hSTjlTaTE2ZHEtaC1Zc0NiZDBWZUpsZm5zYlQtbEUyNTFsUy16VWxSM2NGd1loSmtKWU10Q2xHUVR4UUxOYUw2ZGhoWUhuTEZGa3RjY09LbGw3UkltNDY1SnVneWRKZ1VLTlptUmRCTlFRWTA2ODNPc1VNVFhrb0UyTTJqQTdIMWpvdDNtSVkzdkUzamlJSEE?oc=5",
+          "published_at": "2026-10-02T09:44:32+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNcUNlaHRCZS1xV3hSTjlTaTE2ZHEtaC1Zc0NiZDBWZUpsZm5zYlQtbEUyNTFsUy16VWxSM2NGd1loSmtKWU10Q2xHUVR4UUxOYUw2ZGhoWUhuTEZGa3RjY09LbGw3UkltNDY1SnVneWRKZ1VLTlptUmRCTlFRWTA2ODNPc1VNVFhrb0UyTTJqQTdIMWpvdDNtSVkzdkUzamlJSEE?oc=5\" target=\"_blank\">IREDA Extends Dr. Bijay Kumar Mohanty’s Additional CMD Charge for 3 Months</a>&nbsp;&nbsp;<font color=\"#6f6f"
+        },
+        {
           "title": "Suzlon Energy vs IREDA: Which Is A Better Renewable Energy Stock? MCap, Roe, Dividend Comparison",
           "source": "Goodreturns",
           "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNX1lIQ0YwbmpFX2VIS2pXTnk1eHRIYkRsX3hpN1hoTTF3SW5XYlRsOUgycHU2d3pxLUVBZlIxX3RxMnNnYWUtdzVDeGs3RXFPRWNvMWlVcXZQTXF5U3UyUkhVSXBzMjY2OHhtaG9yWDl2TmY4MHJUcjhHTG1ONmxQX1JJT1BCRl90OVIxUHVPMmtGY2JCS1libTBhdmdDeTI0alBULTZaTnBRbHgzR2plRDlZOGV6WHBMSnR6NUVwZVRlejdjSGdSNDdNd05mNWlwSUxr?oc=5",
@@ -844,6 +986,13 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPRTJfUGlkVUhoWGItc0VNbHBRenJBYzB2eVBfWldHS2I4M3ZleUFYdUFTV2dGb0RKSjBGNDJMSEVsUzZoU3BkUnUtN1YyV05pSHVVdzRQVmJRa0ZlSzQ0NVI1cTFLWHJGUk9Yb3RUa1k0eHRTRGJXeThaZjhncU43MWhWUVZvdXJzWUpPY05CLWxKdVhuQ2NiNFlEZENSc1I1?oc=5\" target=\"_blank\">IREDA Share Price Falls 2.46% on Price Action</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Univest</font>"
         },
         {
+          "title": "Bijay Kumar Mohanty gets extension in addl. charge as IREDA CMD",
+          "source": "whispersinthecorridors.net",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTVRNV1V6dG1kRVA4Y3A5UEFxNW9menVYYnJmeGhjU2JWZUdRZU5ESEJFa1hyNm5KdExPbVFwMElHZV91QXhLcnBTUTFjdDBac1RjaXFwRG85aXJ5TzM2ZW4yaGJHLWVORTRKN3Z5Q3I3UV8zQVViNE56UWtXVXFOUUpKbnJEYlFCcDJNRjBwVUR4YXhOdi1VR1ZLUHc2T25wZ1E1eQ?oc=5",
+          "published_at": "2026-10-03T09:28:41+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOTVRNV1V6dG1kRVA4Y3A5UEFxNW9menVYYnJmeGhjU2JWZUdRZU5ESEJFa1hyNm5KdExPbVFwMElHZV91QXhLcnBTUTFjdDBac1RjaXFwRG85aXJ5TzM2ZW4yaGJHLWVORTRKN3Z5Q3I3UV8zQVViNE56UWtXVXFOUUpKbnJEYlFCcDJNRjBwVUR4YXhOdi1VR1ZLUHc2T25wZ1E1eQ?oc=5\" target=\"_blank\">Bijay Kumar Mohanty gets extension in addl. charge as IREDA CMD</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">whis"
+        },
+        {
           "title": "IREDA extends CMD additional charge to Dr. Mohanty for 3 months",
           "source": "scanx.trade",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOblpUM1Fqd2k0NnZoUTlVSDVCV2xuUHRtZ20zMVFFS3VVbUFRT3duYkh2dmVYR1lCZmdsbFcyQXkxQnFuZmNtOHpnZnJfN3dVdW4zbVZ4NVgxYUZkakZKV3Nzd1ZlQkY2c2RZU1FqLTJLb0pxamFCWlhCb25ZaGpUcFVabW9tTl9udnVOSTN4V1l3V0hjQWpKMXMtbnJYcjhTX1Q4Y3ZqZjZEQVNOaEF2aTZR?oc=5",
@@ -851,11 +1000,18 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOblpUM1Fqd2k0NnZoUTlVSDVCV2xuUHRtZ20zMVFFS3VVbUFRT3duYkh2dmVYR1lCZmdsbFcyQXkxQnFuZmNtOHpnZnJfN3dVdW4zbVZ4NVgxYUZkakZKV3Nzd1ZlQkY2c2RZU1FqLTJLb0pxamFCWlhCb25ZaGpUcFVabW9tTl9udnVOSTN4V1l3V0hjQWpKMXMtbnJYcjhTX1Q4Y3ZqZjZEQVNOaEF2aTZR?oc=5\" target=\"_blank\">IREDA extends CMD additional charge to Dr. Mohanty for 3 months</a>&nbsp;&nbsp;<font co"
         },
         {
-          "title": "Ireda Welch Obituary",
-          "source": "thestarpress.com",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95TlZWSWVFYTNFQVhBM3dNcVhZYTNoZlZERS1PSjZIeEQ4cm1KMWF5WDNxck5XV1Z6SUNFZEFYaU1GYmRYcjI2SmxSZDVEa2NXS0NtUDJzTGFYSEhJUFVJbA?oc=5",
-          "published_at": "2026-10-01T21:15:30+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE95TlZWSWVFYTNFQVhBM3dNcVhZYTNoZlZERS1PSjZIeEQ4cm1KMWF5WDNxck5XV1Z6SUNFZEFYaU1GYmRYcjI2SmxSZDVEa2NXS0NtUDJzTGFYSEhJUFVJbA?oc=5\" target=\"_blank\">Ireda Welch Obituary</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thestarpress.com</font>"
+          "title": "Indian Renewable Energy Development Agency Ltd. Share Price Live Today",
+          "source": "CNBC TV18",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeFZseUNhZlU3bzZEclZVRzdmb0pJdTVGTU5mTWVuaklBdEtYeU9waGo2RWNsbVZNTXN4RnpkT1hnRkRSUTBvanNubXJwZUFUR3JESHpFXzJ4Q2tyc1dMNl9xQy01d3RsRk5MZzR2dE9oRjc0WllwWW1BbTkzR1R1QmctRDc1Rm5XbVgtWC1YNmVIeXg1d2w1M0RJU3lvYnhfeWNQWE5HZkw?oc=5",
+          "published_at": "2026-10-01T10:29:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeFZseUNhZlU3bzZEclZVRzdmb0pJdTVGTU5mTWVuaklBdEtYeU9waGo2RWNsbVZNTXN4RnpkT1hnRkRSUTBvanNubXJwZUFUR3JESHpFXzJ4Q2tyc1dMNl9xQy01d3RsRk5MZzR2dE9oRjc0WllwWW1BbTkzR1R1QmctRDc1Rm5XbVgtWC1YNmVIeXg1d2w1M0RJU3lvYnhfeWNQWE5HZkw?oc=5\" target=\"_blank\">Indian Renewable Energy Development Agency Ltd. Share Price Live Today</a>&nbsp;&nbsp;<font color=\"#"
+        },
+        {
+          "title": "Dividend Delight! THIS Navratna PSU To Pay 6% Dividend; Stock Up 4%: How To Get Eligible Before Record Date?",
+          "source": "Goodreturns",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVGlGc3hxekxqUkkxb19hV2tmQmZVVzFySE5yaExDQWxESHNidkFfR2JydzNCclVFNjVMbzBTVlVYSW1UaEtMcTJFTUdqT0hNUFI2aTJCWWVXNVFXS1c0Z1BxeGh4TWNFajVzMEM5RmR4REVKUjhha3l4a0RVeHEwMnZGYzNZeUV5SHJvYmw1UFEzeTlETUtYekpFb0tsMmduWDcwVjZIcmJ1ejBqT0pYLXBqZllqSGFiSHFONEVkLU1RalBXZC1ZQkFvcS1nOEVYZjhLV2FXSQ?oc=5",
+          "published_at": "2026-10-03T15:16:22+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVGlGc3hxekxqUkkxb19hV2tmQmZVVzFySE5yaExDQWxESHNidkFfR2JydzNCclVFNjVMbzBTVlVYSW1UaEtMcTJFTUdqT0hNUFI2aTJCWWVXNVFXS1c0Z1BxeGh4TWNFajVzMEM5RmR4REVKUjhha3l4a0RVeHEwMnZGYzNZeUV5SHJvYmw1UFEzeTlETUtYekpFb0tsMmduWDcwVjZIcmJ1ejBqT0pYLXBqZllqSGFiSHFONEVkLU1RalBXZC1ZQkFvcS1nOEVYZjhLV2FXSQ?oc=5\" target=\"_blank\">Dividend Delight! THIS Navratna PSU T"
         }
       ],
       "events": [],
@@ -922,7 +1078,15 @@
       "skip_catalysts": false,
       "bse_announcements": [],
       "nse_announcements": [],
-      "news": [],
+      "news": [
+        {
+          "title": "Sterling and Wilson Renewable Energy Closes Trading Window Ahead of Q2 Results",
+          "source": "The Globe and Mail",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOWmRYb1A3eEljVFJsaVhxOGNkalhpWGpWa2MtR2lSVTlGWldScWdldTM3TWF1eUpUWTJvX2xmRUtnZmtoeXYzRFVzUWxnSEJ3TFRYUGE5dVhDY0JDQi1VclRkcHF5Nk52d2VVVmt5bVZqcV9oXzNIYzh2WFRWT1RhWVg3UndLU2R0Q2c4RHJHcEtjQk9pX2VZODkyS0RwNGk3NWNfOWJXSGFVNHlVQjRxVnVCYUlQU3NCN241VjNTWVpHZkFNejdUMk9MWUVoaXJVSzQxaUJvUHRHRWtZZlVQMFNDYTA4NWgxaUU2cThxRFY?oc=5",
+          "published_at": "2026-10-01T06:48:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxOWmRYb1A3eEljVFJsaVhxOGNkalhpWGpWa2MtR2lSVTlGWldScWdldTM3TWF1eUpUWTJvX2xmRUtnZmtoeXYzRFVzUWxnSEJ3TFRYUGE5dVhDY0JDQi1VclRkcHF5Nk52d2VVVmt5bVZqcV9oXzNIYzh2WFRWT1RhWVg3UndLU2R0Q2c4RHJHcEtjQk9pX2VZODkyS0RwNGk3NWNfOWJXSGFVNHlVQjRxVnVCYUlQU3NCN241VjNTWVpHZkFNejdUMk9MWUVoaXJVSzQxaUJvUHRHRWtZZlVQMFNDYTA4NWgxaUU2cThxRFY?oc=5\" target=\"_blank\">Ster"
+        }
+      ],
       "events": [],
       "sebi_mentions": [],
       "price_action": {
@@ -986,14 +1150,66 @@
       "notes": null,
       "skip_catalysts": false,
       "bse_announcements": [],
-      "nse_announcements": [],
+      "nse_announcements": [
+        {
+          "headline": "Bagging/Receiving of orders/contracts",
+          "category": null,
+          "more_info": "Transformers And Rectifiers (India) Limited has informed the Exchange about Bagging/Receiving of orders/contracts",
+          "pdf_url": "https://nsearchives.nseindia.com/corporate/TRIL_02102026163021_IntimationofOrder02102026GETCO.pdf",
+          "attached_at": "02-Oct-2026 16:31:13",
+          "source": "NSE"
+        },
+        {
+          "headline": "Bagging/Receiving of orders/contracts",
+          "category": null,
+          "more_info": "Transformers And Rectifiers (India) Limited has informed the Exchange about Bagging/Receiving of orders/contracts",
+          "pdf_url": "https://nsearchives.nseindia.com/corporate/TRIL_02102026105327_IntimationofOrder02102026.pdf",
+          "attached_at": "02-Oct-2026 10:54:30",
+          "source": "NSE"
+        }
+      ],
       "news": [
         {
-          "title": "Lemon Tree, JK Cement, TARIL shares spurt amid spike in volumes; check full list",
-          "source": "upstox.com",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZ1duQ2sxMU9saHFvN1hJUTBNQVBhemQ1MDBLOC01amZSTG15ZThHWWdidUFyc1Q0cGF2b1htZkR5RXpmUFp4Z3YwTlV2cFJCNG9WaEN6MlFLbk91NXQ3c3RYYy1rY3hBM2ZyMThubHpTMVFtMmZHdS12TDVXVm9fWEtjQV9KQ3JZV1pDQWM1SVJQaF9VbUotNUxUVE1FQlAxV2NYdElQRGpNOXRzM2huUVpYM0xuZFJtemVpNEUyT2swY2hWMUY1UzFPZXplaGd4Q0E?oc=5",
-          "published_at": "2026-10-01T07:59:22+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZ1duQ2sxMU9saHFvN1hJUTBNQVBhemQ1MDBLOC01amZSTG15ZThHWWdidUFyc1Q0cGF2b1htZkR5RXpmUFp4Z3YwTlV2cFJCNG9WaEN6MlFLbk91NXQ3c3RYYy1rY3hBM2ZyMThubHpTMVFtMmZHdS12TDVXVm9fWEtjQV9KQ3JZV1pDQWM1SVJQaF9VbUotNUxUVE1FQlAxV2NYdElQRGpNOXRzM2huUVpYM0xuZFJtemVpNEUyT2swY2hWMUY1UzFPZXplaGd4Q0E?oc=5\" target=\"_blank\">Lemon Tree, JK Cement, TARIL shares spurt am"
+          "title": "TARIL bags large transformer orders from DVC and GETCO",
+          "source": "Power Peak Digest",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBXUWQteGI2UHo0ZDR2ZElWUTI0a2dPYzd4a0l0S2RwanlLYTNBNTEyMGIyUi0zdHVfMzhaOUF3V2RHVHdsU2pMTC1zdmtObW4zd1ZOelJ5WWF6R1ZibzlUVTNIVUtSWlA2UU9jc2RDSHJuM2xfTGprb2plYw?oc=5",
+          "published_at": "2026-10-04T19:03:11+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFBXUWQteGI2UHo0ZDR2ZElWUTI0a2dPYzd4a0l0S2RwanlLYTNBNTEyMGIyUi0zdHVfMzhaOUF3V2RHVHdsU2pMTC1zdmtObW4zd1ZOelJ5WWF6R1ZibzlUVTNIVUtSWlA2UU9jc2RDSHJuM2xfTGprb2plYw?oc=5\" target=\"_blank\">TARIL bags large transformer orders from DVC and GETCO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Power Peak Digest</font>"
+        },
+        {
+          "title": "TRANS & RECTI. LTD Share Price - Live NSE: TARIL Stock Price & Chart",
+          "source": "Upstox",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Ic29qUG1XUUJFRURQMzlMQjNZNEhubnpLNVB2Sm9IS2VLWmZMa3dVb3EyYU1sV2Mxa1FkTEsyY1luVkVlTlMyYVFVM1F1TWxXRUExRnRrTmZDUTQ0T3R0OWxGd1U?oc=5",
+          "published_at": "2026-10-01T07:00:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Ic29qUG1XUUJFRURQMzlMQjNZNEhubnpLNVB2Sm9IS2VLWmZMa3dVb3EyYU1sV2Mxa1FkTEsyY1luVkVlTlMyYVFVM1F1TWxXRUExRnRrTmZDUTQ0T3R0OWxGd1U?oc=5\" target=\"_blank\">TRANS & RECTI. LTD Share Price - Live NSE: TARIL Stock Price & Chart</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Upstox</font>"
+        },
+        {
+          "title": "Transformers and Rectifiers (India) Limited (TARIL.BO) Stock Price, News, Quote & History",
+          "source": "Yahoo! Finance Canada",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9wZk82RUlEUWNROWxoRjZGLXdIVE9EVVl6TC1mbXNqQ3ZIZUFWUzNPMmI1THNlU0ljbjByTXVrSjJnY1hic283QUE5M01oMWdYSHZkcDc5NA?oc=5",
+          "published_at": "2026-10-01T10:23:28+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9wZk82RUlEUWNROWxoRjZGLXdIVE9EVVl6TC1mbXNqQ3ZIZUFWUzNPMmI1THNlU0ljbjByTXVrSjJnY1hic283QUE5M01oMWdYSHZkcDc5NA?oc=5\" target=\"_blank\">Transformers and Rectifiers (India) Limited (TARIL.BO) Stock Price, News, Quote & History</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo! Finance Canada</font>"
+        },
+        {
+          "title": "TARIL wins DVC order for 500 MVA and 200 MVA transformers",
+          "source": "manufacturingtodayindia.com",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOY3ZWTmVEYjhPZ2QtbC1YOHcwcFNWU3JJWUE4Q3dhRnFMMEFjYVRjb2tDaU9xRXhjU3FMWXJnYS1Da2FhWGdBYXRpRkNGai1RTmVacXlxVndEZVNrMUJMcF9HTm84UmE5VldRTnhnZnNKRl9oN1p1bTVmYzB6SDVhQVFiMnZrT2l6el9ZQ2FLUFd6UzV3enU3ZzJXRmhqZw?oc=5",
+          "published_at": "2026-10-02T13:45:21+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOY3ZWTmVEYjhPZ2QtbC1YOHcwcFNWU3JJWUE4Q3dhRnFMMEFjYVRjb2tDaU9xRXhjU3FMWXJnYS1Da2FhWGdBYXRpRkNGai1RTmVacXlxVndEZVNrMUJMcF9HTm84UmE5VldRTnhnZnNKRl9oN1p1bTVmYzB6SDVhQVFiMnZrT2l6el9ZQ2FLUFd6UzV3enU3ZzJXRmhqZw?oc=5\" target=\"_blank\">TARIL wins DVC order for 500 MVA and 200 MVA transformers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">manufacturingtoday"
+        },
+        {
+          "title": "TARIL Bags DVC Order for 500 MVA and 200 MVA Auto Transformers",
+          "source": "Energetica India Magazine",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObEtCNFJZS21KUE5rLS1uTDZUMGlfWG9WUU55cnA1NUE0WXNVUjNiYTBFVVoyRlg0M2NtTHFEcV9KbXlBOUpzY2FPZzF5MTI5a29Ebm9qaTJBNzY3ejJ6ZnNQOFdWWWNBTDJpd3E3dngxX1J1RTdOdEp2QTFTdkpnby0wQ1g1UnZKTm9taE9iZ3JqTy1sYlFLUno5MXFHcmszX3c?oc=5",
+          "published_at": "2026-10-03T05:39:54+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxObEtCNFJZS21KUE5rLS1uTDZUMGlfWG9WUU55cnA1NUE0WXNVUjNiYTBFVVoyRlg0M2NtTHFEcV9KbXlBOUpzY2FPZzF5MTI5a29Ebm9qaTJBNzY3ejJ6ZnNQOFdWWWNBTDJpd3E3dngxX1J1RTdOdEp2QTFTdkpnby0wQ1g1UnZKTm9taE9iZ3JqTy1sYlFLUno5MXFHcmszX3c?oc=5\" target=\"_blank\">TARIL Bags DVC Order for 500 MVA and 200 MVA Auto Transformers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Energeti"
+        },
+        {
+          "title": "TARIL bags large DVC order for 500 MVA, 200 MVA transformers",
+          "source": "energy.economictimes.indiatimes.com",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZnhSRnhDdURmZU5wa19abnBOUGVDcllmNVh5UnBscGM1MTdsWU44NHQzd0c2cEJENDBId0E5X3FOV0s0X3lVVUR1M2M5XzJBTGZzZU14N0h2S1cxdk1oNUM4QmM5U2VtZWs4Sk5MT19sWXFYeW9DZENhc1VHV2NMSFV2RlNWLVZieGwzVHpoaURrbTNyTmFCckM2eGRrWE9DRW5XRXZzOVV4M194anpEWEN3dmcyLU5jNHZuZUE4U1VSQdIBxwFBVV95cUxOanVEQzhLenpEZ29pMVdCMFJGazZEZGdOaEd6SjhkVmt5QjhjRFN4WGxFQVVFNUlUVFFzUFFrVWl0X0lqeHkyZ2p5dWw3M2lUSW5JN3duRDRDSl9zQ25ETkVCOWt5ZERzRXc4dmdmX081RVB0T3gtTVhEdUdrcGFGOGdEMlNYcW10TjczY2RIMmlJMzJnOERQQ2s4ZjJ4UUR6OEtkY053U3R5T1JmT2JJbFJWYzByMTJhSHlWLTJHUUYxTVRQV3ZR?oc=5",
+          "published_at": "2026-10-02T09:50:56+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZnhSRnhDdURmZU5wa19abnBOUGVDcllmNVh5UnBscGM1MTdsWU44NHQzd0c2cEJENDBId0E5X3FOV0s0X3lVVUR1M2M5XzJBTGZzZU14N0h2S1cxdk1oNUM4QmM5U2VtZWs4Sk5MT19sWXFYeW9DZENhc1VHV2NMSFV2RlNWLVZieGwzVHpoaURrbTNyTmFCckM2eGRrWE9DRW5XRXZzOVV4M194anpEWEN3dmcyLU5jNHZuZUE4U1VSQdIBxwFBVV95cUxOanVEQzhLenpEZ29pMVdCMFJGazZEZGdOaEd6SjhkVmt5QjhjRFN4WGxFQVVFNUlUVFFzUFFrVW"
         },
         {
           "title": "Multibagger power stock Transformers & Rectifiers share price jumps 10% after PM-DHARA push - Can the rally continue?",
@@ -1003,11 +1219,11 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxNM1NGUG92M1VYVnhlem9VQ3RjLXhxR1FHSzNGR3F6OUZHNEpPZkJPR1MzRHByTF9FMHRnQWh3TGxSYXpQT1doZkFmRzhnMFNadlB4X0JPZDBGdXdaaloybzVvTU9jaFowNGhwdFBLLW9QeURlUGJFWmdocVRMdFBKcXFMRVZtc1NxamljTzc5RXZ0REFYM3QwZEI0cXBncUVOUjdEazVkbVpRVFN0Ry1HWEdfdDBwUVFLcjdNcnFCSVJDNktzOXA0U0xmQmJ3VDdKTzVNbllqRU5qd09SNGpwV1Ywb1VVX1VNV0YtdjBXa2dsUk0zMlV6Ym1aNXI?oc=5\" targ"
         },
         {
-          "title": "TARIL, Adani Energy, Exide Industries jump up to 10% after PM-DHARA boost: What’s driving the rally",
-          "source": "upstox.com",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVkljSnJSYS11dlRRRzdlS1BWRkVJMDE2eEJzd2tJaE9IWGNHNlh5TFhjNV8tRnJQMmhUS0p1dG0ySy0tVVFDN2FEcFQwVmJaYnVUWGx4Um1qVTAzZzVRMUJyOUIzSmxJNUtlYVdRanRuNTctaG9FT3huaHdMZlZPRC1nQzE5VnFub3BNNWYyOFFxcnNadWFTTXJBd2NOSnd2ZFkxNmxVelp6dTNvY1JxZDBteWl4ZEdobm9XWmozM2ppZm1IVTJKeklmNTRXMXVSRnNQYUUtNlpVZkZOdlI0LWUyZHM4SDQ5eVhlMzJn?oc=5",
-          "published_at": "2026-10-01T03:20:44+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVkljSnJSYS11dlRRRzdlS1BWRkVJMDE2eEJzd2tJaE9IWGNHNlh5TFhjNV8tRnJQMmhUS0p1dG0ySy0tVVFDN2FEcFQwVmJaYnVUWGx4Um1qVTAzZzVRMUJyOUIzSmxJNUtlYVdRanRuNTctaG9FT3huaHdMZlZPRC1nQzE5VnFub3BNNWYyOFFxcnNadWFTTXJBd2NOSnd2ZFkxNmxVelp6dTNvY1JxZDBteWl4ZEdobm9XWmozM2ppZm1IVTJKeklmNTRXMXVSRnNQYUUtNlpVZkZOdlI0LWUyZHM4SDQ5eVhlMzJn?oc=5\" target=\"_blank\">TARIL, "
+          "title": "TARIL Q2 2026 Earnings: ₹9.07 EPS and 23.74% Revenue Growth Drive 5.15% Stock Gain - Dividend Increase Stocks",
+          "source": "siam.in",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPM2Z5VzdxZG9sUHhYVUFLUTN0SmhRSllZVlFzRjBhTUlCV3N3eU4ycF8xb29IUTJjMUYzelRMQ0JSc3dKRU84Ni1Ma2h0S1NtMkJ2d2ZZQklyM3FnWm9CdVdPZzVza0U5UnkwQk9WNEYwT1RTUzliVnB4OUk5ZDA1SlVkLXZQRjh6cm42dGhUWUNoNk5sU1dRejJ2OHM4RWtJU3RFSERWWF9pdVdmbUdHTnUyQUF0dVJqanc?oc=5",
+          "published_at": "2026-10-02T08:40:05+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPM2Z5VzdxZG9sUHhYVUFLUTN0SmhRSllZVlFzRjBhTUlCV3N3eU4ycF8xb29IUTJjMUYzelRMQ0JSc3dKRU84Ni1Ma2h0S1NtMkJ2d2ZZQklyM3FnWm9CdVdPZzVza0U5UnkwQk9WNEYwT1RTUzliVnB4OUk5ZDA1SlVkLXZQRjh6cm42dGhUWUNoNk5sU1dRejJ2OHM4RWtJU3RFSERWWF9pdVdmbUdHTnUyQUF0dVJqanc?oc=5\" target=\"_blank\">TARIL Q2 2026 Earnings: ₹9.07 EPS and 23.74% Revenue Growth Drive 5.15% Stoc"
         }
       ],
       "events": [],
@@ -1076,60 +1292,60 @@
       "nse_announcements": [],
       "news": [
         {
-          "title": "Cigarette Stock: Should ITC Ltd Split Its Business Into 1:2? What's Smoking In This FMCG Giant?",
+          "title": "Weekly Recap: Nomura keeps ITC top pick and cigarette EBIT, volumes fall",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUlhreVhrblVCMnN5NFBJSk1BdmdPaHg0UDU5bEtsZFFqZ1VDVmZILXN0NElGRXJlSFF3ZEVtM3ZaN3Bya04tNHM3NXJSZzV0alY5TmtLSEFrRGRkaHZ4VTFpX2lwTl9xbmZsQmxxUHhlLVoyN3JMQndTa1BUdjZVT3lrdDJ3aUFNRUkxSlZWeWRnS3BZOFd0UnJFd211SnFtaVJaWkdtNHhCNjlkZkcxOFRxUzJQYlFKRDNpLWFXVW9BSU9GTmNFbENiYUI?oc=5",
+          "published_at": "2026-10-05T01:00:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOUlhreVhrblVCMnN5NFBJSk1BdmdPaHg0UDU5bEtsZFFqZ1VDVmZILXN0NElGRXJlSFF3ZEVtM3ZaN3Bya04tNHM3NXJSZzV0alY5TmtLSEFrRGRkaHZ4VTFpX2lwTl9xbmZsQmxxUHhlLVoyN3JMQndTa1BUdjZVT3lrdDJ3aUFNRUkxSlZWeWRnS3BZOFd0UnJFd211SnFtaVJaWkdtNHhCNjlkZkcxOFRxUzJQYlFKRDNpLWFXVW9BSU9GTmNFbENiYUI?oc=5\" target=\"_blank\">Weekly Recap: Nomura keeps ITC top pick and cigarett"
+        },
+        {
+          "title": "Hotel Stock BLOCK DEAL: FMGC Giant ITC-Backed ITC Hotels Stock Nears Day's High Despite GQG's Stake Sale; BUY?",
           "source": "Goodreturns",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObzV5S2lZbVZab3hrdVFMbDFGT2MtWkQ4QTQ2MGJ0T294Y1pQeDV5Ym5OZ0xSRGhJUVNjZEh1bkI3SXRnYk5keExFOVpocHNBeFdsMF9nS1ptSUJrSHdtTW95TjdRWVV6X2s1YUF1WFBVdW5xUVVNNWRRdG1DU2duRFBQa2dPcjdIX296YjQxV3BUenhFd1l3b2ZDOXhpMkRxTEN2TTFhckdTZC1WSGpQWE12aW4xaGxfZ1c1Y21WaHVhOTIwTDdTMXdEWGVxVFNERHc?oc=5",
-          "published_at": "2026-10-01T09:28:45+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxObzV5S2lZbVZab3hrdVFMbDFGT2MtWkQ4QTQ2MGJ0T294Y1pQeDV5Ym5OZ0xSRGhJUVNjZEh1bkI3SXRnYk5keExFOVpocHNBeFdsMF9nS1ptSUJrSHdtTW95TjdRWVV6X2s1YUF1WFBVdW5xUVVNNWRRdG1DU2duRFBQa2dPcjdIX296YjQxV3BUenhFd1l3b2ZDOXhpMkRxTEN2TTFhckdTZC1WSGpQWE12aW4xaGxfZ1c1Y21WaHVhOTIwTDdTMXdEWGVxVFNERHc?oc=5\" target=\"_blank\">Cigarette Stock: Should ITC Ltd Split Its Bu"
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRXA1RGZzRV9CcEJiOHNmZkN0aEZEZGFwUGc4TDhNbF9yQ1VRTXIyMU5JOVRyZ3dRa3E3c2dMWl9PY3JzRTNRRFRHRm4wTE04WVdlVTYtZ1dPMVVIRFFvNE1DaFNjTDFRREdtUC1pcXVuSWhmVE41Q2tNWnZ1U1NzR2x4TUh4cFFaNE5WN0w3ZlJsV0hYVTFrRE5ubTAzeDBMdEZSa3FYMlEwQWxqOGx5TklUUlJFa2NEQjQ3RG1IS1JBU2RwSVhyWjlMd2hzNndrQ1FtQWNUZ1NZTGVW?oc=5",
+          "published_at": "2026-10-04T16:33:20+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRXA1RGZzRV9CcEJiOHNmZkN0aEZEZGFwUGc4TDhNbF9yQ1VRTXIyMU5JOVRyZ3dRa3E3c2dMWl9PY3JzRTNRRFRHRm4wTE04WVdlVTYtZ1dPMVVIRFFvNE1DaFNjTDFRREdtUC1pcXVuSWhmVE41Q2tNWnZ1U1NzR2x4TUh4cFFaNE5WN0w3ZlJsV0hYVTFrRE5ubTAzeDBMdEZSa3FYMlEwQWxqOGx5TklUUlJFa2NEQjQ3RG1IS1JBU2RwSVhyWjlMd2hzNndrQ1FtQWNUZ1NZTGVW?oc=5\" target=\"_blank\">Hotel Stock BLOCK DEAL: FMGC Gi"
         },
         {
-          "title": "ITC closes trading window. ITC stock is down 29.42 percent year to date - ad-hoc-news.de",
-          "source": "Google News",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU1U4di1tQUpqTloweHlTWmdyNHMyNktRbHJLU3Fha3R1a0Q1UkpBTVJnT1NVLWNMeDJJYmhxbHFwZXN2SUdOTzI4WUx4akRjcTFMSmpYZFI4LXZVMXpqaW8wVDVQSndBS1lXNHVyR3ktbWJsOHhkZkRXUzU0Y2t1ZTRrQ282b1psREM0YURLNTc3bGpfMlFVVllWdHo1UmxwTi02ZVFrWGRYNEtrRllUYmVQQjlIWlRqLXBqNV9IUkhLNE9mcDVwOQ?oc=5",
-          "published_at": "2026-10-02T03:07:33+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU1U4di1tQUpqTloweHlTWmdyNHMyNktRbHJLU3Fha3R1a0Q1UkpBTVJnT1NVLWNMeDJJYmhxbHFwZXN2SUdOTzI4WUx4akRjcTFMSmpYZFI4LXZVMXpqaW8wVDVQSndBS1lXNHVyR3ktbWJsOHhkZkRXUzU0Y2t1ZTRrQ282b1psREM0YURLNTc3bGpfMlFVVllWdHo1UmxwTi02ZVFrWGRYNEtrRllUYmVQQjlIWlRqLXBqNV9IUkhLNE9mcDVwOQ?oc=5\" target=\"_blank\">ITC closes trading window. ITC stock is down 29.42 percen"
+          "title": "GST Council meeting on October 7: Arrest powers, ITC, prosecution threshold proposals on agenda - report",
+          "source": "timesofindia.indiatimes.com",
+          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOQmd6R25vYkZUbGZ2YzBJSmNiZERxa0N6ZWoyWGpnTW5DUzZVOWRzTmdoVy1rMUZIWk9fdEtLTUFVWXp1cnlvdUtwS3I2OVNneGdsMGdJa0I5Tkl2Q2hBLVllTWNqbFBMZ2d6UDdhNXdDY2xseDJlREYzcjI1MGFYSzBYWFVDMXQya3g2MTdONjkxdkVGbFNjTUdnVzlqUHZMWVIwa0w5MGNJaDU3dXdtbWJJNmVtYTJNUnBWYkRNNXY1eEktQ29UUF84Q2ZJQ3dGanRSU2VhcnVtYTJKNHRhRFJEWDZ6ZjhSQWozeWtPbHJ0eUdfZzFPMTJIaFA5MXBGSHFzak82S2o1TnVHQUJQS3RtY9IBmAJBVV95cUxPQUZocXp0UVA3dmNHb1BpZEpBbGFxQ2FWN1VjQWEtLV91bnhiM3EwUGctUEt2cTY3VEhjUUd4bFpCTXp6TzZVQTA2b3V2TVN3ak54YTBLX25YUjVLbkNJQzVBNk9NcDItSVl6eXhVY1IwS1NPbjFrTWFxZTV3X1dqOHMxRk90aFptdXdRWHF1OWdOQ3hHMUxqYVkxOXdkSngyaHZuX1lVV2NacThMT3dvRExpT2JYRjQzNDVxV2dYNmk2SXJQdl9QcWxZcU9NLWkxT1ZPTy11UTc4WWlpMmR5b3dWRGJMdGJmMjEtTDBEcW1oQ3A5MEs3TU9ZRjJwWHpfSTR4TXAxY3N4SFF3bnNMS1lFc01Ua1ZL?oc=5",
+          "published_at": "2026-10-04T17:54:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwJBVV95cUxOQmd6R25vYkZUbGZ2YzBJSmNiZERxa0N6ZWoyWGpnTW5DUzZVOWRzTmdoVy1rMUZIWk9fdEtLTUFVWXp1cnlvdUtwS3I2OVNneGdsMGdJa0I5Tkl2Q2hBLVllTWNqbFBMZ2d6UDdhNXdDY2xseDJlREYzcjI1MGFYSzBYWFVDMXQya3g2MTdONjkxdkVGbFNjTUdnVzlqUHZMWVIwa0w5MGNJaDU3dXdtbWJJNmVtYTJNUnBWYkRNNXY1eEktQ29UUF84Q2ZJQ3dGanRSU2VhcnVtYTJKNHRhRFJEWDZ6ZjhSQWozeWtPbHJ0eUdfZzFPMTJIaFA5MXBGSHFzak"
         },
         {
-          "title": "GST Council meeting on October 7 may consider ITC relief proposals",
-          "source": "BusinessLine",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUFFQMURLYXo3cmczbkMxNGh2aXB5TVUtMnFqMHBTWjlDLWE3NUZCOTNBdmpPMmtzTVdtaTVkWm53SGF0UFpaTnpQaHFhWHpYeXZ6Vl94b0c1YU5icHBzVkJlRUpzUWlVYkVRczFzTEU3S2RMbzNmMG8wRlhFNHhOakY5dWlQRVRCQ0RveENpMzRqR1YtQTFLa2tvaC1wcjhnalYwdTFzTUJFUDkteG0zQ1l3SXhVeDlieHNraUpFeVFrMlVWUUYyY2g3Y9IB0gFBVV95cUxPaTdSVGtPaTFUSzVxbWlzV3RvZGxEc01yTUxTT2c2V09kNXNxTmhwVTdkYy1XSElodldydnpmdEpZbkcxYWw5YkNRdUJvSjRFNG53MXpoY21MR1MzbFdiVjRnZXVab2U4SDYwSmNoVUlHSjl3WDJsX1ZCX3g0aWlaU2pLUzc2aDQtMnZwR1g1cl9hcy1EMmlWUHczMTk5RDJOYzNTS1RRQTFQNXllRHg4VURrNXU1ZnZxRWRKeFRTX3F5SF8zbG1HVGpRUlFQYUhqNHc?oc=5",
-          "published_at": "2026-10-01T15:03:49+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQUFFQMURLYXo3cmczbkMxNGh2aXB5TVUtMnFqMHBTWjlDLWE3NUZCOTNBdmpPMmtzTVdtaTVkWm53SGF0UFpaTnpQaHFhWHpYeXZ6Vl94b0c1YU5icHBzVkJlRUpzUWlVYkVRczFzTEU3S2RMbzNmMG8wRlhFNHhOakY5dWlQRVRCQ0RveENpMzRqR1YtQTFLa2tvaC1wcjhnalYwdTFzTUJFUDkteG0zQ1l3SXhVeDlieHNraUpFeVFrMlVWUUYyY2g3Y9IB0gFBVV95cUxPaTdSVGtPaTFUSzVxbWlzV3RvZGxEc01yTUxTT2c2V09kNXNxTmhwVTdkYy1XSE"
+          "title": "ITC HOTELS LIMITED Share Price - Live NSE: ITCHOTELS Stock Price & Chart",
+          "source": "Upstox",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54ekEtS1BNTlF3VnN1bUg0YVpoTUVxdXc2THdfb19HMkw1czNrRDFaVHZpU2NraGVpYXlMZGJGamhhcTJsTjNLazJHMzltX3lxdlRySWVJM29Ob0Z1cmJpNHRfcDFfTzJj?oc=5",
+          "published_at": "2026-10-01T07:00:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE54ekEtS1BNTlF3VnN1bUg0YVpoTUVxdXc2THdfb19HMkw1czNrRDFaVHZpU2NraGVpYXlMZGJGamhhcTJsTjNLazJHMzltX3lxdlRySWVJM29Ob0Z1cmJpNHRfcDFfTzJj?oc=5\" target=\"_blank\">ITC HOTELS LIMITED Share Price - Live NSE: ITCHOTELS Stock Price & Chart</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Upstox</font>"
         },
         {
-          "title": "ITC employee, pillion rider die as water tanker rams into bike in Gurgaon",
-          "source": "The Times of India",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVXVtNUhacjNEcGtOZ1hicWVZb2N3VWhLT09CMWlneXZ5aWlnU1QwUWU2Uko1T1BkdjIxOXRTMmlINl9wSzljN3RIdU5YdktSTm56SzlmcFlWTl9SOW9kUjl5bzhTSzNobDJfbEFVRTN4aFM3Q2ZxOEo0SklUckc5NnRlYUZZWkE5RFFaelJSNWNPQVItNlU3Q0dHNHR0eHFUb2lmOWg0TUV4aU1pME03TF9LQVdka1h1Q1ZKMDJSUE1tVFRoZGRwdEdhYm9jNjBuTmlFdWpoU0hFUld2UzMxN9IB5gFBVV95cUxNNkVScU03a21YYW5oWDgyTWlkQm1falRPN0w1d1h4VHhLWFhBblBaSjVOOWVmUzhEeG1iRzI2Ni01VEZ5U01TRmsxcnU5S2tSY3N0MzJlN29iOUVEcmk0bnBnR2VVTXNwU0cxRDZDcXFjUm05dnRNajZabG5Bb3Ita1p3b05qSEJRVzk2WjUzRFdfREN0VkZqUnJfU2lDeU9FSHIxNVJWS1pGci03UVh2TlBnOUJCN0ViblhMZVVZQmVsaE5yODh4Q0Rjems0N1BkT3dqVEhra050TzJUb2txal8wY241dw?oc=5",
-          "published_at": "2026-10-01T18:06:00+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVXVtNUhacjNEcGtOZ1hicWVZb2N3VWhLT09CMWlneXZ5aWlnU1QwUWU2Uko1T1BkdjIxOXRTMmlINl9wSzljN3RIdU5YdktSTm56SzlmcFlWTl9SOW9kUjl5bzhTSzNobDJfbEFVRTN4aFM3Q2ZxOEo0SklUckc5NnRlYUZZWkE5RFFaelJSNWNPQVItNlU3Q0dHNHR0eHFUb2lmOWg0TUV4aU1pME03TF9LQVdka1h1Q1ZKMDJSUE1tVFRoZGRwdEdhYm9jNjBuTmlFdWpoU0hFUld2UzMxN9IB5gFBVV95cUxNNkVScU03a21YYW5oWDgyTWlkQm1falRPN0"
+          "title": "GST 2.0: Arrest Powers, ITC Protection, Easier Registration Among Reforms On GST Council Agenda",
+          "source": "news18.com",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNc1RueFZxQzY2eW4wWVpnSVVuVnlzTS1lMVhMRzhTaUdSZDhnUmFESGxtcEduYk5RejM1aVB5T0tNWHNqVUtMSnFKTnR5QUJQcUlqSnktRmpENHhGX055endkbVdkSDlNSzZ6WmRWQ19vZjhQb3o3NTMtWVpJQ19sckdwMFkwSGs4V1hVd21FRGlUSUs2N0NBdWxvY2Z6Qy1ZLUdfN0xtZTRYZEFPUzJPVDVqVVhRSGstZUxPN1pDUEQxSHN0NkppSU1LOFlJa3lYWGh6ME5yM1lUeTljYzNJ0gHkAUFVX3lxTE5uT3c3bFpOSWYzSUdnUkZWUzU3T05iY0J3REpqdWxzb1VYUEJ0RnZpX0R1TlJIR1lzRmQwY21wSGZWcXFiQ1R3aVRUM2FjTnJ0b3JGRnNzYTByc25yM2VzOVF6dXNxWk9RNlVWb0RIX2M0eTk1MkRtcUdiSkNuVVdPTWZQVHdqWVNYN2pEY0ZjeDkwaG5zbXM5T3NmN1l5WXZTV0pBSVE1UEU5ejZzeWYtRzZOMFBUVXhpY0lLQ3RLekdreDZ0Y0h1c2xGRXpnUlN0TFhieW4wcEdxMllWX1RDOTdVaw?oc=5",
+          "published_at": "2026-10-05T02:39:06+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNc1RueFZxQzY2eW4wWVpnSVVuVnlzTS1lMVhMRzhTaUdSZDhnUmFESGxtcEduYk5RejM1aVB5T0tNWHNqVUtMSnFKTnR5QUJQcUlqSnktRmpENHhGX055endkbVdkSDlNSzZ6WmRWQ19vZjhQb3o3NTMtWVpJQ19sckdwMFkwSGs4V1hVd21FRGlUSUs2N0NBdWxvY2Z6Qy1ZLUdfN0xtZTRYZEFPUzJPVDVqVVhRSGstZUxPN1pDUEQxSHN0NkppSU1LOFlJa3lYWGh6ME5yM1lUeTljYzNJ0gHkAUFVX3lxTE5uT3c3bFpOSWYzSUdnUkZWUzU3T05iY0J3RE"
         },
         {
-          "title": "Savour the Spirit of the Season at ITC Sonar",
-          "source": "HospiBuz",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNS2pza0hVMlBaY05WTURMVTdfQmR6czB1OWlwS29SUWdha1l3b1lITDg2VllyZmk3RUNBdHgyN0hvTVJmbTBXWFo1TDNhY1NGZGtwT056eUp6dW5GNWpmdF9VNlBORUtoblB2SDRnSm9GYXlDbjlGYzQyQkRsV3E1c0F0YW9OUjZOM3lzVzE2OGpHdTNCOHhuVXNZOTPSAZwBQVVfeXFMTUtqc2tIVTJQWmNOVk1ETFU3X0JkenMwdTlpcEtvUlFnYWtZd29ZSEw4NlZZcmZpN0VDQXR4MjdIb01SZm0wV1haNUwzYWNTRmRrcE9OenlKenVuRjVqZnRfVTZQTkVLaG5Qdkg0Z0pvRmF5Q245RmM0MkJEbFdxNXNBdGFvTlI2TjN5c1cxNjhqR3UzQjh4blVzWTkz?oc=5",
-          "published_at": "2026-10-01T12:39:30+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNS2pza0hVMlBaY05WTURMVTdfQmR6czB1OWlwS29SUWdha1l3b1lITDg2VllyZmk3RUNBdHgyN0hvTVJmbTBXWFo1TDNhY1NGZGtwT056eUp6dW5GNWpmdF9VNlBORUtoblB2SDRnSm9GYXlDbjlGYzQyQkRsV3E1c0F0YW9OUjZOM3lzVzE2OGpHdTNCOHhuVXNZOTPSAZwBQVVfeXFMTUtqc2tIVTJQWmNOVk1ETFU3X0JkenMwdTlpcEtvUlFnYWtZd29ZSEw4NlZZcmZpN0VDQXR4MjdIb01SZm0wV1haNUwzYWNTRmRrcE9OenlKenVuRjVqZnRfVTZQTk"
+          "title": "Employers May Claim ITC on Employee Insurance GST",
+          "source": "Rediff MoneyWiz",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWTJRVnNqZjBMVHBTNW9Hdkc3V0wxSHlWdHprbG95M2Zzd1MweW9VSk9vMGd2Y25XbURQWkgtOWV2RWdRcF9vbi1KNkRhUlJGa19HdVcxeS1pY3ZMajlqdVZ2aTM2TGNVY05FQVYzWW1uY3I3bGxLTVZmeGFBTE5FYTBfYnlQdldZSWlsUkRqN293Y01nOEpvem5XWHhJYmFvMnUw0gGoAUFVX3lxTFBQTk9QemVyM09qWF8xbS1mYVFpbllJX3psSzQyTFZVdGpsNTlLUkxRNl9yamtGMmxDZ0Vta3lDaVJXYWFpWmRGRTI3YWFCY1BMaUJVbkgyYUlCd1MtTDJoRlNvVDNrSEw4cW95YnV3NTJTWDB4czJmbzJ4dVE2UkJSMVpwcmdPRDFhczU1Qkk5TWZYZ2hxa2NPUFVaamsyOXJ6QkJkRHVDTQ?oc=5",
+          "published_at": "2026-10-04T14:02:28+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOWTJRVnNqZjBMVHBTNW9Hdkc3V0wxSHlWdHprbG95M2Zzd1MweW9VSk9vMGd2Y25XbURQWkgtOWV2RWdRcF9vbi1KNkRhUlJGa19HdVcxeS1pY3ZMajlqdVZ2aTM2TGNVY05FQVYzWW1uY3I3bGxLTVZmeGFBTE5FYTBfYnlQdldZSWlsUkRqN293Y01nOEpvem5XWHhJYmFvMnUw0gGoAUFVX3lxTFBQTk9QemVyM09qWF8xbS1mYVFpbllJX3psSzQyTFZVdGpsNTlLUkxRNl9yamtGMmxDZ0Vta3lDaVJXYWFpWmRGRTI3YWFCY1BMaUJVbkgyYUlCd1MtTD"
         },
         {
-          "title": "Wrongful ITC Availment Alone Cannot Justify Tax Evasion Proceedings: Kolkata GSTAT",
-          "source": "LiveLawBiz",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVWhIWWlNUXFwOWhIOGFETWt3YW16VE5iMmFSam0tMi1XZ0ZXR2hXRmhBelRtU3JvTGxvdk9QZjFfMU1rR1QxaHZITjBzbjVzbEdlWEExal96YzBwNEt3OTJ0UTVGaTB4TTgyVnF2ellLYUFlREdlTm1XenZHREpoQlJNTnNoT1dDN0hGZTdsZTFiNk5SUVVBaDEwUDk5dm9qbDlTZl94OXI2RVlrLUxrUG9FX05hLXVJZFhkY1NoSdIBxAFBVV95cUxQZFFqcC1LbkROYjRXcWNpeDdLZC05WDgxZzRYQ2EtTVBydjItRUktNWN6X0NPbWk5WFJLbUpLRkdKbWx1WUZDMkg3eEloR25ORlBoNUpMR3d1RlBLWlZzQmxsVm9mblJiSmxZT1NrRnM5X0FNTExyN2RXcFFseUVndTlCVHBZQ3Jac3JtNnN1M1A3dTFPM29uMHRLMU42Nk9kamFqR3YwZlRORUVfZFZrQ0RWRXBkM3hoTll0RFRfWi1SSEdf?oc=5",
-          "published_at": "2026-10-01T11:04:05+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPVWhIWWlNUXFwOWhIOGFETWt3YW16VE5iMmFSam0tMi1XZ0ZXR2hXRmhBelRtU3JvTGxvdk9QZjFfMU1rR1QxaHZITjBzbjVzbEdlWEExal96YzBwNEt3OTJ0UTVGaTB4TTgyVnF2ellLYUFlREdlTm1XenZHREpoQlJNTnNoT1dDN0hGZTdsZTFiNk5SUVVBaDEwUDk5dm9qbDlTZl94OXI2RVlrLUxrUG9FX05hLXVJZFhkY1NoSdIBxAFBVV95cUxQZFFqcC1LbkROYjRXcWNpeDdLZC05WDgxZzRYQ2EtTVBydjItRUktNWN6X0NPbWk5WFJLbUpLRkdKbW"
+          "title": "Dividend jackpot shares: Coal India, Wipro, ITC, BPCL or ONGC? Which large cap stock has the highest yield? Data details",
+          "source": "livemint.com",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOUUVCLURiLWRzMmNCZ1B2dWNRaDNCamgtMkMwZDlFQmZuYUdDY2hpbkhOdGpfQ1NrWmx4R1NRUmxDNWdYR29adEl6WjV2clAtRkFPcDJDNE1LZktFSVU0ZENESnk0T0dMVXdEWEFjRG5TQmZNYzEwZFNSaGowM19pU21pQjRKczdBeXFMcFRZSk15VVNici12V0dlWnozSnBjaUYtcDl4M182R3lpRTFHMkJMZkV2eGV6Y3RjV0hmc1E0eUUxbHBGbWd0TG96cFpaOF9MLVh4YmE3ZmluMnZsY1dsSEhvUGotcllwNUF6QjBjTW9FRkVOaEVKQ29na0dpemJZWkVlN1dJc25XR0VNLXpB0gGXAkFVX3lxTE01cmdSNXNuWW5kVEhFY0RBVExHZENMb3c1Z3hEYmk4NFZ6alB2REE4WUEyVXZoaFRfRW5LdjB0ajZIOTBkRDdadnNUNVZhSjRkVUFnQlprTTM4X1M1XzFEclV5ZTkyWE14WEw0WGVJSjd0WkRmMGxsLVVGOWRJU1FrNVUyenpWUV9ubjFIQjMzaC1DSlBWeko0R0tGZVZBYUEyaWU0TGhtWnNkcFlNY3dVd25TeUFMcDEzbmpqVV9kbUJqMWRxRFpIQlRqUnJPY2hfT240VUlrYXJESlFPSXpZNFE4bjZnRVp1aVJydjM1UGRhSVo4ZjNuRDhwQU1NdFJyNnNRRURvOGxIYS1sbXZYRGxJRzdaaw?oc=5",
+          "published_at": "2026-10-02T14:18:43+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxOUUVCLURiLWRzMmNCZ1B2dWNRaDNCamgtMkMwZDlFQmZuYUdDY2hpbkhOdGpfQ1NrWmx4R1NRUmxDNWdYR29adEl6WjV2clAtRkFPcDJDNE1LZktFSVU0ZENESnk0T0dMVXdEWEFjRG5TQmZNYzEwZFNSaGowM19pU21pQjRKczdBeXFMcFRZSk15VVNici12V0dlWnozSnBjaUYtcDl4M182R3lpRTFHMkJMZkV2eGV6Y3RjV0hmc1E0eUUxbHBGbWd0TG96cFpaOF9MLVh4YmE3ZmluMnZsY1dsSEhvUGotcllwNUF6QjBjTW9FRkVOaEVKQ29na0dpemJZWk"
         },
         {
-          "title": "Long Weekend Escapes at ITC Royal Bengal and ITC Sonar",
-          "source": "HospiBuz",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQl90NHc1dFdxdzV2SG1lQVZOZUFucXp4djBXZjhSQ1MzZGZzNzgwLTNvUHdrRHNjSXBqNzhOZFpjZ0dZWXpqcWVob1p6MzZjZTF6MXc1cFJXdjV1WEZZZ0R3SXhCTXRyWkktVmtNaGlsYUUxYzdnWFQ3a3pveG1TdmNpMDMtUnBGRlVsRkNRMURseHI1aFZNbFdxMHItdW5pczhuVUxmYlFvUdIBqgFBVV95cUxQQl90NHc1dFdxdzV2SG1lQVZOZUFucXp4djBXZjhSQ1MzZGZzNzgwLTNvUHdrRHNjSXBqNzhOZFpjZ0dZWXpqcWVob1p6MzZjZTF6MXc1cFJXdjV1WEZZZ0R3SXhCTXRyWkktVmtNaGlsYUUxYzdnWFQ3a3pveG1TdmNpMDMtUnBGRlVsRkNRMURseHI1aFZNbFdxMHItdW5pczhuVUxmYlFvUQ?oc=5",
-          "published_at": "2026-10-01T07:19:45+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQl90NHc1dFdxdzV2SG1lQVZOZUFucXp4djBXZjhSQ1MzZGZzNzgwLTNvUHdrRHNjSXBqNzhOZFpjZ0dZWXpqcWVob1p6MzZjZTF6MXc1cFJXdjV1WEZZZ0R3SXhCTXRyWkktVmtNaGlsYUUxYzdnWFQ3a3pveG1TdmNpMDMtUnBGRlVsRkNRMURseHI1aFZNbFdxMHItdW5pczhuVUxmYlFvUdIBqgFBVV95cUxQQl90NHc1dFdxdzV2SG1lQVZOZUFucXp4djBXZjhSQ1MzZGZzNzgwLTNvUHdrRHNjSXBqNzhOZFpjZ0dZWXpqcWVob1p6MzZjZTF6MXc1cF"
-        },
-        {
-          "title": "Nomura names Marico, Tata Consumer, ITC top picks as monsoon deficit raises rural demand concerns",
-          "source": "Moneycontrol.com",
-          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxObzZTZHpTVHZNcEJITjZKMmFsUHFqcGVYRkcwZDFwRHZtUm14VWRvckxLdEQ2UjJwU01UUVR4anQwdU5DS3Q3b2tERC1DNGtabDJXTUtIWWktc1RmTVdBck91NXUtNDBFZTZPZDBOcHNxZV9nM2V4ay1MWWhhY0Q3czhhazZEVHRYTUMwWWt3RVdVRlR3cldyTXhaSjBzQ1RKX3k4WlU1eTJxZUxPc1hvdzdQdGp3R1ltTzdUWm9mbkFFUTBDcW5nTmtlbzlmclptcUwtZ3MwQTZzbVMtUFJQcG9UbE5wRGM3TTY2dlItYmXSAfYBQVVfeXFMTUhJc29DeWRlZFR0V21Qa3hROFY0clcyalJ3ancyM3ZQYVROQzhaeTgtYUZVNG5JcFlEVjlVN2FPS21TWlg4VERuc28zb3FKeElVSHhZZW8wTVVtTzY1eTNGNGFaWFBuWTQ1US1xTl9hWm5CRWlwc2RMU2s0OHZ5MGpfdFoyZ1Q4M0FxSXg4Q0dmay0zYWtBdFFrREdnckFOMUtmZVVzSkdfNXJoQlEzYm1mZFByZ0dOZFB1WlVfdmhSVVZuWGZsYVdmVjhiOVdJeDBLc2kwcTNEbnZXQm9sLWkxZzNnb2ZZYXNLdkkzeFF2Z1pCMTdB?oc=5",
-          "published_at": "2026-10-01T07:05:21+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxObzZTZHpTVHZNcEJITjZKMmFsUHFqcGVYRkcwZDFwRHZtUm14VWRvckxLdEQ2UjJwU01UUVR4anQwdU5DS3Q3b2tERC1DNGtabDJXTUtIWWktc1RmTVdBck91NXUtNDBFZTZPZDBOcHNxZV9nM2V4ay1MWWhhY0Q3czhhazZEVHRYTUMwWWt3RVdVRlR3cldyTXhaSjBzQ1RKX3k4WlU1eTJxZUxPc1hvdzdQdGp3R1ltTzdUWm9mbkFFUTBDcW5nTmtlbzlmclptcUwtZ3MwQTZzbVMtUFJQcG9UbE5wRGM3TTY2dlItYmXSAfYBQVVfeXFMTUhJc29DeWRlZF"
+          "title": "The Royal Afghan marks 40 years at ITC Windsor",
+          "source": "BW Hotelier",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONzFicmgyRXFfWlA1eU1nNkU0OGZfNVJjWVpaeEk2Z05vdHRjOERSUjQwVFRrUl9MaWx6R09OVE5FYUE1V1U4ZWRBVEtITmk3dWdxVE1uS0QySjk4RlY1U2Z0blJvRThqMmxBcDg3b1V0SklLdkc2VHUxVlhOUlNYUHhkLXV6R1hXNFEyNW1Tc1lkUQ?oc=5",
+          "published_at": "2026-10-03T18:58:41+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxONzFicmgyRXFfWlA1eU1nNkU0OGZfNVJjWVpaeEk2Z05vdHRjOERSUjQwVFRrUl9MaWx6R09OVE5FYUE1V1U4ZWRBVEtITmk3dWdxVE1uS0QySjk4RlY1U2Z0blJvRThqMmxBcDg3b1V0SklLdkc2VHUxVlhOUlNYUHhkLXV6R1hXNFEyNW1Tc1lkUQ?oc=5\" target=\"_blank\">The Royal Afghan marks 40 years at ITC Windsor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BW Hotelier</font>"
         }
       ],
       "events": [],
@@ -1233,7 +1449,15 @@
       "skip_catalysts": false,
       "bse_announcements": [],
       "nse_announcements": [],
-      "news": [],
+      "news": [
+        {
+          "title": "ITC HOTELS LIMITED Share Price - Live NSE: ITCHOTELS Stock Price & Chart",
+          "source": "Upstox",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54ekEtS1BNTlF3VnN1bUg0YVpoTUVxdXc2THdfb19HMkw1czNrRDFaVHZpU2NraGVpYXlMZGJGamhhcTJsTjNLazJHMzltX3lxdlRySWVJM29Ob0Z1cmJpNHRfcDFfTzJj?oc=5",
+          "published_at": "2026-10-01T07:00:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE54ekEtS1BNTlF3VnN1bUg0YVpoTUVxdXc2THdfb19HMkw1czNrRDFaVHZpU2NraGVpYXlMZGJGamhhcTJsTjNLazJHMzltX3lxdlRySWVJM29Ob0Z1cmJpNHRfcDFfTzJj?oc=5\" target=\"_blank\">ITC HOTELS LIMITED Share Price - Live NSE: ITCHOTELS Stock Price & Chart</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Upstox</font>"
+        }
+      ],
       "events": [],
       "sebi_mentions": [
         {
@@ -1337,18 +1561,18 @@
       "nse_announcements": [],
       "news": [
         {
-          "title": "Lemon Tree Hotels (NSE:LEMONTREE) Opens 65-Room Keys Prima Property in Darjeeling",
-          "source": "Kalkine India",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRlV1Q2RLNWRWcDZxb2VIdURMd1B1UTFYYWt4V1NSZE9ZWTQ3YXVIWEFmTU9fcUJ5OVhKWVlTeEluQ21yUEJ4VUxCNE5jdlZLdXRsLWZlYnI1Y193MTlidXkyN0l5RXh2TkJNUTNLUHphTW02RkdnZkhCZ3pBZmR4TmhUUm9pdWMtR1NaZlFvOXgtVGU4NEdMdGc1RlZDMS1HTU1hcXl0Zm5YZF8wRjZHSjRPX2ItcFBiaXRV?oc=5",
-          "published_at": "2026-10-01T15:06:00+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRlV1Q2RLNWRWcDZxb2VIdURMd1B1UTFYYWt4V1NSZE9ZWTQ3YXVIWEFmTU9fcUJ5OVhKWVlTeEluQ21yUEJ4VUxCNE5jdlZLdXRsLWZlYnI1Y193MTlidXkyN0l5RXh2TkJNUTNLUHphTW02RkdnZkhCZ3pBZmR4TmhUUm9pdWMtR1NaZlFvOXgtVGU4NEdMdGc1RlZDMS1HTU1hcXl0Zm5YZF8wRjZHSjRPX2ItcFBiaXRV?oc=5\" target=\"_blank\">Lemon Tree Hotels (NSE:LEMONTREE) Opens 65-Room Keys Prima Property in Darj"
-        },
-        {
           "title": "Lemon Tree Hotels Share Price gains on Darjeeling opening",
           "source": "Univest",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPM2lyek40NklLcFZPY2ZSSlVVZm0yT0xMcEg1bDU1UEdnc3I4RHZaSE5LXzZ1SFJMbFVLdjg2Y1p6MWJRT0h6eXlYZnRnN2F0RE5IVkhxRWdIZU5oRGtjOHlBVW8yWE44d1pKdWZHZFJGSWR1MG8yb0xmX2ZHVk1NTGxzMUQ?oc=5",
           "published_at": "2026-10-01T05:25:00+00:00",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPM2lyek40NklLcFZPY2ZSSlVVZm0yT0xMcEg1bDU1UEdnc3I4RHZaSE5LXzZ1SFJMbFVLdjg2Y1p6MWJRT0h6eXlYZnRnN2F0RE5IVkhxRWdIZU5oRGtjOHlBVW8yWE44d1pKdWZHZFJGSWR1MG8yb0xmX2ZHVk1NTGxzMUQ?oc=5\" target=\"_blank\">Lemon Tree Hotels Share Price gains on Darjeeling opening</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Univest</font>"
+        },
+        {
+          "title": "Lemon Tree Hotels (NSE:LEMONTREE) Opens 65-Room Keys Prima Property in Darjeeling",
+          "source": "Kalkine India",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRlV1Q2RLNWRWcDZxb2VIdURMd1B1UTFYYWt4V1NSZE9ZWTQ3YXVIWEFmTU9fcUJ5OVhKWVlTeEluQ21yUEJ4VUxCNE5jdlZLdXRsLWZlYnI1Y193MTlidXkyN0l5RXh2TkJNUTNLUHphTW02RkdnZkhCZ3pBZmR4TmhUUm9pdWMtR1NaZlFvOXgtVGU4NEdMdGc1RlZDMS1HTU1hcXl0Zm5YZF8wRjZHSjRPX2ItcFBiaXRV?oc=5",
+          "published_at": "2026-10-01T15:06:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRlV1Q2RLNWRWcDZxb2VIdURMd1B1UTFYYWt4V1NSZE9ZWTQ3YXVIWEFmTU9fcUJ5OVhKWVlTeEluQ21yUEJ4VUxCNE5jdlZLdXRsLWZlYnI1Y193MTlidXkyN0l5RXh2TkJNUTNLUHphTW02RkdnZkhCZ3pBZmR4TmhUUm9pdWMtR1NaZlFvOXgtVGU4NEdMdGc1RlZDMS1HTU1hcXl0Zm5YZF8wRjZHSjRPX2ItcFBiaXRV?oc=5\" target=\"_blank\">Lemon Tree Hotels (NSE:LEMONTREE) Opens 65-Room Keys Prima Property in Darj"
         }
       ],
       "events": [],
@@ -1431,9 +1655,9 @@
         "open": 150.7,
         "high": 151.0,
         "low": 149.0,
-        "close": NaN,
+        "close": 150.49,
         "prev_close": 151.48,
-        "change_pct": NaN,
+        "change_pct": -0.65,
         "gap_pct": -0.51,
         "intraday_range_pct": 1.32,
         "volume": 397198,
@@ -1469,7 +1693,7 @@
           151.61,
           151.15,
           151.48,
-          NaN
+          150.49
         ]
       },
       "analysis": {
