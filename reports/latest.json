@@ -1,7 +1,7 @@
 {
   "report_date": "2026-10-20",
   "trading_day": "2026-10-19",
-  "generated_at": "2026-10-20T09:00:57.773987+05:30",
+  "generated_at": "2026-10-21T09:01:03.769762+05:30",
   "stocks": [
     {
       "symbol": "TMCV",
@@ -158,11 +158,11 @@
       "nse_announcements": [],
       "news": [
         {
-          "title": "ICICI Bank Limited (ICICIBANK.NS) Stock Price, News, Quote & History",
-          "source": "Yahoo! Finance Canada",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXZUxfbnNTLTF6ZUFMRGdWeVM2WUZxdFFUaW96MmRSbkVsdVZ1dTlBUVdxazNoQmJPcjFxSHROMktfUmRLR2ZVUGhrbV9yT2hUM1BCeFVMZHF3d0pk?oc=5",
-          "published_at": "2026-10-19T07:00:38+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXZUxfbnNTLTF6ZUFMRGdWeVM2WUZxdFFUaW96MmRSbkVsdVZ1dTlBUVdxazNoQmJPcjFxSHROMktfUmRLR2ZVUGhrbV9yT2hUM1BCeFVMZHF3d0pk?oc=5\" target=\"_blank\">ICICI Bank Limited (ICICIBANK.NS) Stock Price, News, Quote & History</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo! Finance Canada</font>"
+          "title": "ICICI Bank Limited (ICICIBANK.NS) stock price, news, quote and history",
+          "source": "Yahoo Finance UK",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE95MGkwMmVZNUp0YUZEeXlmVkZaeGFZcFhfMHpBVHZydU5ZOXhiQ29OY3Rac0VRWF80ZDNwTDYyTXRzdDF1bDZqNFU3RUdET0Nmd29oSjZ0TExtOUF3?oc=5",
+          "published_at": "2026-10-19T06:29:23+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE95MGkwMmVZNUp0YUZEeXlmVkZaeGFZcFhfMHpBVHZydU5ZOXhiQ29OY3Rac0VRWF80ZDNwTDYyTXRzdDF1bDZqNFU3RUdET0Nmd29oSjZ0TExtOUF3?oc=5\" target=\"_blank\">ICICI Bank Limited (ICICIBANK.NS) stock price, news, quote and history</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance UK</font>"
         },
         {
           "title": "ICICI Bank Limited Stock 12‑Month Price Target Raised to INR 1778.52, Implies 27% Upside",
@@ -337,8 +337,23 @@
       "skip_catalysts": false,
       "bse_announcements": [],
       "nse_announcements": [],
-      "news": [],
-      "events": [],
+      "news": [
+        {
+          "title": "Bandhan Bank Share Price decline: fundamentals and peers",
+          "source": "Univest",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBqNkw2LXZ2cjdEX25UMzJONXFZdmNRRkJwaV80UDRmSnlTcTg2ZkV0OEZYZllnakpOVlpHM1pHbzZfYkVoM2tRTHpUSnVuVjdSajNQR3NEcDFTR2xOUEVYZ25JX3I5cEpnN2d6bUdCOXIyTlZaVFZJUQ?oc=5",
+          "published_at": "2026-10-20T07:49:34+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBqNkw2LXZ2cjdEX25UMzJONXFZdmNRRkJwaV80UDRmSnlTcTg2ZkV0OEZYZllnakpOVlpHM1pHbzZfYkVoM2tRTHpUSnVuVjdSajNQR3NEcDFTR2xOUEVYZ25JX3I5cEpnN2d6bUdCOXIyTlZaVFZJUQ?oc=5\" target=\"_blank\">Bandhan Bank Share Price decline: fundamentals and peers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Univest</font>"
+        }
+      ],
+      "events": [
+        {
+          "subject": null,
+          "purpose": "Financial Results",
+          "date": "28-Oct-2026",
+          "details": "To consider and approve the Unaudited Financial Results of the Bank, for the Quarter and Half-Year ended September 30, 2026."
+        }
+      ],
       "sebi_mentions": [],
       "price_action": {
         "date": "2026-10-19",
@@ -673,6 +688,20 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1jWUw4WHZHa1lFNEZfWS1rVFNqNW1rbHdPU0JfRXprOG9EalMxU0R4RFQ1QTFhX2RSblAyNGVNdDJzZURJYThKUnpUQVR5bTRuMkE?oc=5\" target=\"_blank\">Suzlon at the FT Energy Transition Summit 2026 | Good Energies for Good</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Suzlon</font>"
         },
         {
+          "title": "Suzlon Energy: From multibagger rally to a sharp correction; where's the retail favourite stock headed?",
+          "source": "Business Today",
+          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNbmtodlR3ZTV0Y0Nwb1hRU2lvWlk0UkZhejRRdW1WdGRuemdXaXF3eDlmWDNjTUV0ZVpwbDh4QWRleEpRTkdIVVFpREJGZ0gta2ZMVDJEdV81QTh0Q1I5cU11RFhFcG45RkFUUHpSZlpKNkIwSnRSLXgtTHljR21hcFJ5NUU5MDUwdk8zSzJhZTgzb1d3cWprUnowSGNkYmtmMEV1dUVyVjJiNF9JdV9Vb0h6TF8xRWkzekhabi1HM05EX29rbFlKM0dSaFFvSXF5eVlIR1YySFhIWk1NTVdnaTdhMDc5ZU5MR2w2QTltZ2dlVlhkU1dQc0dEd2p4a0dRWkNwS0F2S3nSAY4CQVVfeXFMTXgwMWlBZ2x4OVI1Z01HOFdsdG5YTTdNb01qN2xZVnRwcmQwMGFQNTB3MGg0ZDZ0QjlBTWs0SWd4QkN0SzRnTjZxQXlGM2NBWVQzc0FtN3pQemhCWHFPZnpFMmJlMUJ3Vk1seEttOEh5Z1E1T0JNcG5HbS01c0JqaHUxamNaTzBkT0IzREZVdHVqd2ROWDR4c2gwYXdZbHhQaDdOTTZNT1p5SzBkcVl3aTFiYnRNYUlRWlJZTk53Rkx4cWZFWFRzdGYyeTE3UHpGTjA5N0hoVXNORVI1cV9Nb2E0TzcxeWlhTkVadENMcWI3N3RnRDdtSmhPNmpmSUlpN1FweWNJSlh5UHU4MmJn?oc=5",
+          "published_at": "2026-10-21T03:18:15+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxNbmtodlR3ZTV0Y0Nwb1hRU2lvWlk0UkZhejRRdW1WdGRuemdXaXF3eDlmWDNjTUV0ZVpwbDh4QWRleEpRTkdIVVFpREJGZ0gta2ZMVDJEdV81QTh0Q1I5cU11RFhFcG45RkFUUHpSZlpKNkIwSnRSLXgtTHljR21hcFJ5NUU5MDUwdk8zSzJhZTgzb1d3cWprUnowSGNkYmtmMEV1dUVyVjJiNF9JdV9Vb0h6TF8xRWkzekhabi1HM05EX29rbFlKM0dSaFFvSXF5eVlIR1YySFhIWk1NTVdnaTdhMDc5ZU5MR2w2QTltZ2dlVlhkU1dQc0dEd2p4a0dRWkNwS0"
+        },
+        {
+          "title": "Tata Elxsi, KPIT, Suzlon Lead Midcap Gainers",
+          "source": "Kalkine India",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNnlvMkdVMU5jQUdHZVRNaWtGZE01NEpDTG9BY1VySHRaVlRrVmhkOVdSMnItUm1YaDVIaHVwM2ZDVWtUR0pJaXVJVWIxVXY3cXk4czY0N19TUXFDR2JQMGItdEprS2JnaW1iNUFmN2FHT3JnZFU1RjBrMkMtTjBkU0ZzTzRIdVhrMGhOa2E5blRXdF9ZWnJfUm5WNmtQcWk3WUpIcWRQRHN1VVpOYTRuQ21OZDFXUGZtTllBT2plVm0tczBfUEdZ?oc=5",
+          "published_at": "2026-10-19T09:12:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQNnlvMkdVMU5jQUdHZVRNaWtGZE01NEpDTG9BY1VySHRaVlRrVmhkOVdSMnItUm1YaDVIaHVwM2ZDVWtUR0pJaXVJVWIxVXY3cXk4czY0N19TUXFDR2JQMGItdEprS2JnaW1iNUFmN2FHT3JnZFU1RjBrMkMtTjBkU0ZzTzRIdVhrMGhOa2E5blRXdF9ZWnJfUm5WNmtQcWk3WUpIcWRQRHN1VVpOYTRuQ21OZDFXUGZtTllBT2plVm0tczBfUEdZ?oc=5\" target=\"_blank\">Tata Elxsi, KPIT, Suzlon Lead Midcap Gainers</a>&nbsp;&nbsp"
+        },
+        {
           "title": "Suzlon shares crash over 20% in six months but experts predict a strong rebound - here's why | Target price, stop-loss",
           "source": "Livemint",
           "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOaC1mUlFyOUNSRV9ZZFZ1Q0hXTGlKaVJvd0FHQjI1b1pBRk1xNlhDYXgyY0kybmJ3YklRVWg3OEtoVHBtSUdDTEJsbnNHNHlPaWNNM2ZjLUVNeWJJOEJlNlQ2Qlg5WUdjVGc4RHBvc3A4ck94MGpXVC1HZ2NYYkxDeFpKT19iUlZzY2NVQ0paTmE0YkVUWnNscXlGN21Obl9KeUhud19uODhpQWlscDV3Z21WQzJ4OG44S1lqSmZyajYyMXBaYi10NEVNTHFKdS1EOVJzTXl1NUlvc2hEaEstTzdxY1U1MHU4dS1hRkljWlBjLUQwNnBRLXBUalZwSWxqNGdGTXRlQUc5M1F5YWJv0gGUAkFVX3lxTE1fMERsdk9TaThoWnZzejYzcHJ2VGllT1k2OXkxS1BJV0hBTEFNellrNzRENmczWHU5Yy1JQlkxZldGYzU5RmZQd2N2c1RSaEktZzZBNmJxWG5DOE92b1NURkZtY04yeFBKVFZHWXZ3UFkzZDhhVGpGZjRPUzhZck94WjNuVnlDN1RQM2dFLWY5R1U2UU1TLVBDb3pPbXVWTTZDQkZHWWZEVHRXTmRqSS1NMEZnVldKYVRRMzgwUUV4VVlXUWdRc3J6RlFUa3JoRGNRdjJtMTNJamhfVXFnMk5ybTI3ZjdVWHFvbXExWlpMODNoaEM4X1M2RkxlVVZvSFRSdDBCWnpIa2JMWDVUem56SEpaVA?oc=5",
@@ -786,6 +815,20 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUTM4SGcwck1HandTV05JMm5mQmdhZGp6Um94bXhHd3M5c1Z6Ti16VnNNcTlnSURLOERCc0s2SUowRkNtcEQ0TTFSWUxlSjczYUlxeEdZM2NLWXRkbUhxNzdmNXBvQ0Q5M1ZHSVBBMTFHWXFOaDlJTGVPZUZRQ3dmUnRYeU40VkZYMjk0T3FWX1YwSzE0M19vWWhlazB0QUt3RnJ3aVp4SmRtSXF6VUFJbjh4cTAyb3BDMXJTdS12c3ZHaDFTakNrNl91TThVWXBU?oc=5\" target=\"_blank\">IREDA: Reports ₹891 Crore Profit on ₹98,047 Cro"
         },
         {
+          "title": "Top stocks to watch today: Eternal, Reliance Industries, IREDA, RailTel shares in focus on Wed, 21 Oct | Full list",
+          "source": "Livemint",
+          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNWjJ2a1VUQUFNUUhPdXE1MUNMRVV1UlpYbFRuRGdnS3d6MDByYkJYbnBqa2duc0kySDQ2dzl6Sk9UMmpmYTQ0NzFuYWxuT0ZySmJVUGQ5WVhad2hVbkdGTUJJc2oyOGNVSUJnbWdudmpUdjhKV1dBMnFzWVFpRU16aFRPY3BOWnNmYmhkQldWX05aVDcxRmh0NFcwa1pRVWxNd3pObWhfSGtEQng3bFdSLVFSam1kS2F3bmpVNUpETkNWUkIzMTREZ0UyWUNiRDBGaE1EZllFUGd1QkhRLWV2d1NDY0Ewb3ZBVDBGUlNFZklYWmxiVDhmeWkxbTBXZlhsOFhiOWRaNXLSAY4CQVVfeXFMT1hNdlAxTFQ4NUQwWnNTVm9RY19nSE12WDBVc0VDUGNnTkcwbmFkNGJsQ01VR1JRVGM4djJlV1VRdkJZbXlUUkZuZ1BuV2xnUHdJN3A0OEwzV0VzbjZ0b2tzOFVkbm5SMFRMWkxpZC05U2NiRzhkY2I1YnBlNUZ6U3NRSTF5dEtCeVFtRG1uMDNMQ1JJRlVucHpfcFhYdThMTUZlWnNrS0VZcFRmT1d2blZlcEU5dHZGcWNTU2E1T0VEZ0o1QlUtX0NjOFJEaWtJTENnZUtnVlhRWHNld0VMbGRoZi1BWkU5X3RZdy1UQkVWYmtTOHlpSFBWLWdOMFA3SDVSSjFvUlE4TUs5WnRR?oc=5",
+          "published_at": "2026-10-21T01:55:58+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxNWjJ2a1VUQUFNUUhPdXE1MUNMRVV1UlpYbFRuRGdnS3d6MDByYkJYbnBqa2duc0kySDQ2dzl6Sk9UMmpmYTQ0NzFuYWxuT0ZySmJVUGQ5WVhad2hVbkdGTUJJc2oyOGNVSUJnbWdudmpUdjhKV1dBMnFzWVFpRU16aFRPY3BOWnNmYmhkQldWX05aVDcxRmh0NFcwa1pRVWxNd3pObWhfSGtEQng3bFdSLVFSam1kS2F3bmpVNUpETkNWUkIzMTREZ0UyWUNiRDBGaE1EZllFUGd1QkhRLWV2d1NDY0Ewb3ZBVDBGUlNFZklYWmxiVDhmeWkxbTBXZlhsOFhiOW"
+        },
+        {
+          "title": "Stocks in news: Reliance Industries, Eternal, IREDA, Yes Bank, Trent and Hindustan Zinc",
+          "source": "The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNOG9LWThRRVlPYWRudE9Id0l3YlYyUld6WjJSYnJwT2RaclVHQ3dDXzBNLUZDMUM3MDVLX1piV0dzQ0ttU1BaTmlIOEZKUVlJOHlYR1dTX19BQlhEa0xIVXZtSnNkOU1KdlhGSVNfVGFXeGJvQnJCU1lJWVRaQUFzS05LNVlFX2Rhb3NkNlQtUnNjVTVWZGtRQVA2cWlLY0VjY0ExVHdRclExdldYQUtIckY1cmJ6MlNaUVl1OGlIVDVsVV9sTVFiVHdUZVM0VTczcXBpT3Nzb2drcklkYlQtdjlKSG85X1Y0d24xWtIB8gFBVV95cUxNd0RDUElTdm5mcEU1SEtibEhFelRaNmgtcHM0UmRoY0tfT3F4ZmRuWmQyQUNaaGpSQWJYcGNJOHdzampCSnJtSTZvb0M3Z1NERGpKb2JjMHExYk1tcHRBa21rcWVZbW94RXY4UmljdVNoWWxUd0lPWUtGTzZ6dXRZamZaZjVUbmNPNGZfZ3NGRzlQSEdVUmtTX3VsZnF1TlYybnBtSmRsMWZlVGpIUGdWV0lCTFFwRmRZd0FHTHgtR2d1TjVGcXc3S0pBWFRpXzFpZDNscnRDSVMwaUZiY1o0TUhKdll1RU9WUFg4ODFndktodw?oc=5",
+          "published_at": "2026-10-21T00:30:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxNOG9LWThRRVlPYWRudE9Id0l3YlYyUld6WjJSYnJwT2RaclVHQ3dDXzBNLUZDMUM3MDVLX1piV0dzQ0ttU1BaTmlIOEZKUVlJOHlYR1dTX19BQlhEa0xIVXZtSnNkOU1KdlhGSVNfVGFXeGJvQnJCU1lJWVRaQUFzS05LNVlFX2Rhb3NkNlQtUnNjVTVWZGtRQVA2cWlLY0VjY0ExVHdRclExdldYQUtIckY1cmJ6MlNaUVl1OGlIVDVsVV9sTVFiVHdUZVM0VTczcXBpT3Nzb2drcklkYlQtdjlKSG85X1Y0d24xWtIB8gFBVV95cUxNd0RDUElTdm5mcEU1SE"
+        },
+        {
           "title": "IREDA Q2 Results: Operating profit rises 17%, bad loans ease",
           "source": "CNBC TV18",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOTFOek44ZUhFWDVKSlhkWndtNHVlMjJ2WDNWSmR3R2dzSVVsWmF6SG0wSElNS0NPY2JKTjJJc09ucWthSEJkNnR2UHg5YktzNF9XQ3Nvb1VDNTliWTA1VmRhQWJlaWJYcER0cWRNcGc1RVBkVUdZRHZfemtaSEZGUW5GRUt3NjN5LWRxWXRqNmNCRWtrUkhxc3QwYzlXaFBaLXZ4NlU2TVZyQkJaOGQyYU9FdXBfSFJOZDlDb1I4Y2rSAcYBQVVfeXFMT2Zsb20zSExrYnUzNEh2dDFsTGdoOUxZNUYxdzNEQU40SzNEUVBMUGtVTUNzcl8xNGJZYjJjY0RrR3dmeWhjTElFYlFycGFRUE1OX1hkaTNBNXc2dWU2bXdvQjFkQjl5eUR0QldsRElBOUt0Y1lleE50MldIUFRIY3Y0eXp6QWg5Rno3Rm8yZjAwcUhYam4xVWVfdkYtM2RGOXkwWEcwRmVnWnJGVmFlSkp6N2tkNllrbXhGNGJQX0NiOFRFaW5B?oc=5",
@@ -793,46 +836,32 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOTFOek44ZUhFWDVKSlhkWndtNHVlMjJ2WDNWSmR3R2dzSVVsWmF6SG0wSElNS0NPY2JKTjJJc09ucWthSEJkNnR2UHg5YktzNF9XQ3Nvb1VDNTliWTA1VmRhQWJlaWJYcER0cWRNcGc1RVBkVUdZRHZfemtaSEZGUW5GRUt3NjN5LWRxWXRqNmNCRWtrUkhxc3QwYzlXaFBaLXZ4NlU2TVZyQkJaOGQyYU9FdXBfSFJOZDlDb1I4Y2rSAcYBQVVfeXFMT2Zsb20zSExrYnUzNEh2dDFsTGdoOUxZNUYxdzNEQU40SzNEUVBMUGtVTUNzcl8xNGJZYjJjY0RrR3"
         },
         {
-          "title": "IREDA Reports Q2 Revenue of ₹2,340 Crore Versus ₹2,060 Crore YoY",
-          "source": "Sahi",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORmpPV0tPTGNkWHI1ZkdUekg2aHZqMkZXWU9qZjJVWHkzQnlINmF4UVY3YU5MZDlIeHhEdFROYUVJTVNqTVU4Ynp1TEoyZGlUMmRIUTk3WFlRYlFQUldPZ0k1MldMdWRqNktYaEpfTy1KaVI2N254c1pPdkV2azBvMFRreHc4M2hKWm4taEtFdDlDQQ?oc=5",
-          "published_at": "2026-10-19T14:28:22+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxORmpPV0tPTGNkWHI1ZkdUekg2aHZqMkZXWU9qZjJVWHkzQnlINmF4UVY3YU5MZDlIeHhEdFROYUVJTVNqTVU4Ynp1TEoyZGlUMmRIUTk3WFlRYlFQUldPZ0k1MldMdWRqNktYaEpfTy1KaVI2N254c1pPdkV2azBvMFRreHc4M2hKWm4taEtFdDlDQQ?oc=5\" target=\"_blank\">IREDA Reports Q2 Revenue of ₹2,340 Crore Versus ₹2,060 Crore YoY</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sahi</font>"
-        },
-        {
-          "title": "IREDA Q2 results 2026 today: PSU stock falls 28% in a year | Should you buy, sell or hold ahead of Q2 earnings FY27?",
-          "source": "Livemint",
-          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQSXZCTC1NN0hOYXgxNWJSTy1UNWJrY3lCSWpmYnF6Ykw4RlVxQlJHQkpuZ3ByM3hwR0V5VWpIVUtoekIzelNkaGFaN1h6akdqWXVlbTZJX2gxQ3llQzdrM1ZwbExTRm45Mk5TcU1JWWk1dURmYkhENWRWT2NuWk5EZGhDRVpxU2s5NTJiTEo3UWducGlFLUtKbjNlbm91djNRc3JIUV96dTFJZUZ0MmNSa3NxVE1GRUpWVVF4TXNEaHFoYTEzWC1HbEVTU2tjOEhRQXZLdnkxczBzLTBLazVNMG5hY2dMVzJtT1BUX0g4eknSAfYBQVVfeXFMT2xkZlQxeS1xZnA5dXM3YU53M2hvb0pWT0lvd0h5VldOTzdhMFRhN3UyNkFPZzNTX1p0M3Qxby1iUmRrR1pfTTB2WG5tZGk4UEQ3MGV5MEU4eVRHWGZNcGdvdXFYRWt0dHgzbWpZcXVhYUYwU05na2ota0otZzVzZm1GRkZ0V2kybXN1TW1RT0xlTDVxTnU2cnZJeWlQbVFMTEptN1A4elBsZmQwUUtScFc1ZDQwaUlfQndEVUZkb0pzanp6QW12NmkxYmdDMF9vUjNnMHowVWxwcmNEVzRfa3VBT1dFQlpUTWJ1ZGNGaFBwTFNHUHhR?oc=5",
-          "published_at": "2026-10-19T03:13:04+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxQSXZCTC1NN0hOYXgxNWJSTy1UNWJrY3lCSWpmYnF6Ykw4RlVxQlJHQkpuZ3ByM3hwR0V5VWpIVUtoekIzelNkaGFaN1h6akdqWXVlbTZJX2gxQ3llQzdrM1ZwbExTRm45Mk5TcU1JWWk1dURmYkhENWRWT2NuWk5EZGhDRVpxU2s5NTJiTEo3UWducGlFLUtKbjNlbm91djNRc3JIUV96dTFJZUZ0MmNSa3NxVE1GRUpWVVF4TXNEaHFoYTEzWC1HbEVTU2tjOEhRQXZLdnkxczBzLTBLazVNMG5hY2dMVzJtT1BUX0g4eknSAfYBQVVfeXFMT2xkZlQxeS1xZn"
-        },
-        {
-          "title": "IREDA Q2 Results: Net Profit rises marginally to Rs 552 crore as expenses rise",
-          "source": "Zee Business",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUi1ESnNOVUhmZmh4QjNZeUFKem16dzh4Y0F6TUJWTkllVU1IMU1JR0Y2TmF5MjJEeU80OW1nTnJwV2pxZ2R2ZEJYVGEwZ3F6STdFeXZWODRZMjhfTDVQVUgzQklHVVhZZkpXQzh0Z2NnbnpHWm9iU0NnbWN1cDA1c2djSjJycDZGT1ZFUXEtVTJ2RERCcFhUekNESjBCUFJTVzhtZmxndUY2cFlmYTVEUFlhcmI5eHZ2TXRWYzR4WWhzQQ?oc=5",
-          "published_at": "2026-10-19T14:55:11+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUi1ESnNOVUhmZmh4QjNZeUFKem16dzh4Y0F6TUJWTkllVU1IMU1JR0Y2TmF5MjJEeU80OW1nTnJwV2pxZ2R2ZEJYVGEwZ3F6STdFeXZWODRZMjhfTDVQVUgzQklHVVhZZkpXQzh0Z2NnbnpHWm9iU0NnbWN1cDA1c2djSjJycDZGT1ZFUXEtVTJ2RERCcFhUekNESjBCUFJTVzhtZmxndUY2cFlmYTVEUFlhcmI5eHZ2TXRWYzR4WWhzQQ?oc=5\" target=\"_blank\">IREDA Q2 Results: Net Profit rises marginally to Rs 552 crore as "
-        },
-        {
-          "title": "Ireda Q2 net profit edges up at ₹554 crore, loan disbursements rise 31%",
+          "title": "Stocks to watch: Eternal, Hindustan Zinc, YES Bank, Bajaj Fin, IREDA, LTTS",
           "source": "Business Standard",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMldwRWpfay1aLXUwemtjWE1kVEw0Y1AyblBCUTU2SGlaZGtvYk9OOTBKcTk5NTV3bTAxajV3WXplR0FWVG5kUWNHRFhwYUNFR293Y214ZmNKWlpDSE1nWGpMUmZIRlo1bGhPV0NKaWpLUUlGSFkyb2UtelFJUzFxSVZubmx2RXVtd3J0d1M0M1dyQjRVR09ENXRiTHRuVEw1VzNtbGZxaFlUaDZLZ2NXSlp4ZzVPUjNqTzFmc2d6emhqdWkxREFpMk1FRm1GZDY0MXlKYTJXSFh5N1RXUmFpcm9PLXHSAeoBQVVfeXFMTnlUbVdfNUszcDJUT2FhNWdiQjVZUlA3dXFqb04zdXVQYWJKeXNkOFFHOTUwc012MTZhY2drX29WN29hN2VvMldSNjN6NDJtV19TLXBvNFlfdjU5RHNKUEhVdW1tQjJlREpVSXUwUVdSb1FIZ084NFktbUw2anIyNW91LWNyZHNfeERURzB5ckNMVVcyNHYyQlVPQThzcjZ5cVJITzNKeHY2bm1vVGRrZ05kTzhFVFpmUVpCeWhZQVMxRThqdGhqTXRpb2h3Nm82bGNuTW92b2RxbXZTVWthU1Naa1ZTZHAxdEZB?oc=5",
-          "published_at": "2026-10-19T16:42:06+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMldwRWpfay1aLXUwemtjWE1kVEw0Y1AyblBCUTU2SGlaZGtvYk9OOTBKcTk5NTV3bTAxajV3WXplR0FWVG5kUWNHRFhwYUNFR293Y214ZmNKWlpDSE1nWGpMUmZIRlo1bGhPV0NKaWpLUUlGSFkyb2UtelFJUzFxSVZubmx2RXVtd3J0d1M0M1dyQjRVR09ENXRiTHRuVEw1VzNtbGZxaFlUaDZLZ2NXSlp4ZzVPUjNqTzFmc2d6emhqdWkxREFpMk1FRm1GZDY0MXlKYTJXSFh5N1RXUmFpcm9PLXHSAeoBQVVfeXFMTnlUbVdfNUszcDJUT2FhNWdiQjVZUl"
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYjExV1BfOVZ6ekJIYmtSalZPWFF4eXU4eUJPM0QyTURpUHFQMi1qbmdXZjBmcUltRXdWZzBQdEQtcWZhMUZlVGwwbFpzMjY3RzZBRXFHcXI0MEpDWUc4ZnRBaVRzR0YzdEY0dGpmVGdKZlFWOGdfelhhOHp5V2pQRUlVTHpGcXlNdEJnNU4zNlVVOERWVXFWdG9kRm9qMWdSb2dnX1BFNzEzX01wRmgtNjJ2RUJzYlZqNVFGdk84U1Vsc2U1ZlF2ZEU4aFk2WWho0gHWAUFVX3lxTE1RMXU3Rk9Db3JxRVc3SUxIbV9fNlkydDNDbjY1bkJvVjg4a2ZaZzJldTdMbmxSQVdVVTVwZ201OUZ2a3NVcWRQV2hWdEZsVTBGNEwtWGFNRWlhdlhGV2N2dDI4Y3NPMXY1dkgydzNLNS1ZODF3bzIxN3hvNjNtRW9sOE93TXRtdy1xY0FCTlhybUJXSGkzUEczY3MzN1ZxbWZzelExYU8yRUlzWUtjRG9sRXVjeWUyaEFGYS1WLVRaYmQ2bVp6M2N5ZTM4dFB0QTJXbGJ4ZkE?oc=5",
+          "published_at": "2026-10-21T02:41:40+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYjExV1BfOVZ6ekJIYmtSalZPWFF4eXU4eUJPM0QyTURpUHFQMi1qbmdXZjBmcUltRXdWZzBQdEQtcWZhMUZlVGwwbFpzMjY3RzZBRXFHcXI0MEpDWUc4ZnRBaVRzR0YzdEY0dGpmVGdKZlFWOGdfelhhOHp5V2pQRUlVTHpGcXlNdEJnNU4zNlVVOERWVXFWdG9kRm9qMWdSb2dnX1BFNzEzX01wRmgtNjJ2RUJzYlZqNVFGdk84U1Vsc2U1ZlF2ZEU4aFk2WWho0gHWAUFVX3lxTE1RMXU3Rk9Db3JxRVc3SUxIbV9fNlkydDNDbjY1bkJvVjg4a2ZaZzJldT"
         },
         {
-          "title": "Ireda net profit grows to `554 cr in Sept qtr",
-          "source": "MillenniumPost",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeENKalhWc3ljUmVKY3l6akVVRUpZVnUyakFUM3Nmb2N5ek9ERW9OcXozNF9KR20tejBfRGhuaHMtS2Q4UFFfMGRoeW10OHlFNlhicEtqRlJjNXVuaTBIaFMtdnZra1FkbHpXMG1QZ0pIbVNERGtaYTZldk5xZl9sN3h6cm92QWhiX2ZkRkZSVEY4YjFj0gGaAUFVX3lxTE9teXFhc0xEdkR5Q3lGVklDSkRZa01jbWVlNkgwaWlSa1Y1VWx1UWQyZERQeVU4MkduMmp4OW1CX0tNeFRhSjVxMS1pRU9KdHZQeFRadkhDd2ZyaUtOME51SmlWNzdoWncwNVhHWnNoTjRhX2YwRzVxNFpvOW1mekNsckIzS0U4OHdLWkFuS2YtbE9Pa1dhUllBYlE?oc=5",
-          "published_at": "2026-10-19T18:37:14+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOeENKalhWc3ljUmVKY3l6akVVRUpZVnUyakFUM3Nmb2N5ek9ERW9OcXozNF9KR20tejBfRGhuaHMtS2Q4UFFfMGRoeW10OHlFNlhicEtqRlJjNXVuaTBIaFMtdnZra1FkbHpXMG1QZ0pIbVNERGtaYTZldk5xZl9sN3h6cm92QWhiX2ZkRkZSVEY4YjFj0gGaAUFVX3lxTE9teXFhc0xEdkR5Q3lGVklDSkRZa01jbWVlNkgwaWlSa1Y1VWx1UWQyZERQeVU4MkduMmp4OW1CX0tNeFRhSjVxMS1pRU9KdHZQeFRadkhDd2ZyaUtOME51SmlWNzdoWncwNVhHWn"
+          "title": "GIFT Nifty up 116 points; RIL, HD Fire, Infosys, Hind Zinc, IREDA, Adani among top stocks in focus",
+          "source": "Business Today",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQTWE2MFlpOUVVQVA5Q2lRQS10WE5Ld3R3WldKLThXUGFnc2xjUGVWWGVlcC1IQzVBVnlZb2NmS3lEWVFDZlo0TEo5VkJaZmFTaTRlZTBiVEFXUlljWGNtd3NrZ29aLVFGOExsTVdSXzJIZmtTSGtUeHR5ckh1UW94SnVnVnVvRnc3c3BQTXZYUHZ5Y2tidGJ6RmF6bGRUM0hiUnZrUEI3aXlFWmFxaHJsVnVvaU5MQWU5UERsa0N4N3FCc1R4UzIyUW82RDRSOUctYVJPZzYtUDFuWVBjd0p3dzZ4QWlpajB6VlF5RS1YRWRSaVg4Q2xjNEtPeFlvUdIBgwJBVV95cUxQakFheC1iSnlKbE9sWk1OYVEwV3V3R01RR0RfV2NoQ05IMElFU2hCRnhUeE92b2liVjJ4SkFmS0dadktqTm5fRlhZQmFfZWtSeFhXU0ZGcGtYNWpjRTFMQmQydkF0SlBvcHYzdlVpNzRXODdOQW9aSzNHa2lBMEVheFA1Z3JhRGZELWlsMWZjSDVzVlZzTS10bVQyZVpQMVhDR2JQeEQydlhPWER5b0pscDFxM3lQNkF3a1B2WE1pY05rbkhWMWloYjNxRzlZRWdZNzAzVzJsODEwTG8zT2VTT2xZcnh1R0tXem5qaG42akxzTEo5RXdlNEFOdTFEeTRYY19z?oc=5",
+          "published_at": "2026-10-21T02:58:34+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxQTWE2MFlpOUVVQVA5Q2lRQS10WE5Ld3R3WldKLThXUGFnc2xjUGVWWGVlcC1IQzVBVnlZb2NmS3lEWVFDZlo0TEo5VkJaZmFTaTRlZTBiVEFXUlljWGNtd3NrZ29aLVFGOExsTVdSXzJIZmtTSGtUeHR5ckh1UW94SnVnVnVvRnc3c3BQTXZYUHZ5Y2tidGJ6RmF6bGRUM0hiUnZrUEI3aXlFWmFxaHJsVnVvaU5MQWU5UERsa0N4N3FCc1R4UzIyUW82RDRSOUctYVJPZzYtUDFuWVBjd0p3dzZ4QWlpajB6VlF5RS1YRWRSaVg4Q2xjNEtPeFlvUdIBgwJBVV"
         },
         {
-          "title": "IREDA Q2 PAT rises 1% to Rs 554 crore, loan disbursements jump 31%",
-          "source": "PSU Watch",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUjZKeDB6UjBCbEtqZVc0cFI5V2lEVlgyb3J5c3VZSkp0WWZZMWlSUUNmX0NKem5YR1ZoaUhXV2dLWlEySHBObkdKYTdUOVNmYlhEcWU3ZjlwS0xFZllBU2Vpb0cyU0lUN09PUmVzZFBRcUpwcmJpTk8xcWRUWFk1d2k2ODEtc3A5M21Pc29haTlfZ3NBVy1PakpLQlbSAaoBQVVfeXFMT0hGUHJPMnViUTh3VHZ2ckJrZWs5cWlFOTh4aVdJUVlJN0FEYjhvdHM5bVZKU0FXbTd3Z1pvbEFOYkFqOU5UVE5fT2ZiSjUySmtiMk5OUm5OakVJcjdMQXRlYnlnTmdrVGdTMmlzY3lnT3lIZDNMWVlCZml3RjQ5dUw1QW9IU2NtUE5YcUxiRWJBTW5fdkM2NVpfcFJNV1YwT1NSOEN0Nk9rUFE?oc=5",
-          "published_at": "2026-10-19T15:43:46+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNUjZKeDB6UjBCbEtqZVc0cFI5V2lEVlgyb3J5c3VZSkp0WWZZMWlSUUNmX0NKem5YR1ZoaUhXV2dLWlEySHBObkdKYTdUOVNmYlhEcWU3ZjlwS0xFZllBU2Vpb0cyU0lUN09PUmVzZFBRcUpwcmJpTk8xcWRUWFk1d2k2ODEtc3A5M21Pc29haTlfZ3NBVy1PakpLQlbSAaoBQVVfeXFMT0hGUHJPMnViUTh3VHZ2ckJrZWs5cWlFOTh4aVdJUVlJN0FEYjhvdHM5bVZKU0FXbTd3Z1pvbEFOYkFqOU5UVE5fT2ZiSjUySmtiMk5OUm5OakVJcjdMQXRlYnlnTm"
+          "title": "Bajaj Finance vs IREDA vs Reliance's Jio Financial: Top financial stock to buy after Q2 results 2026 for best returns?",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNaUxPY3c0OUpPVlZRUldZRmdkdmp4WDZtQzFIUTM3d2dYWkFSQjdiaGlsOHU2S0ZsRGMwMVRFMHphdm50b1Z5T0otazR6Tko5dGV6UV80WWJneWdNdWFGYkRYNWtaNDBKYkpXTS1CR2dVakhpaWdVdjZEd0s2Z0R3MG82Vmk3REtHUEtvWHQ2cVJ2QTk2UlEySzBFMERUbTFfX3NtN1JIcHZCYjA2NWZnUW9xbHVYWm9WSU1TclZRTXlpRVVxbTJBRWJMUlpDRDMtMmxQSjZnT2txVlhWaXJQVHpoVkNUTHZlODBZRjRnb1F6Y2pZVkhucVp0d2VrYnNkeXRr?oc=5",
+          "published_at": "2026-10-20T15:35:48+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxNaUxPY3c0OUpPVlZRUldZRmdkdmp4WDZtQzFIUTM3d2dYWkFSQjdiaGlsOHU2S0ZsRGMwMVRFMHphdm50b1Z5T0otazR6Tko5dGV6UV80WWJneWdNdWFGYkRYNWtaNDBKYkpXTS1CR2dVakhpaWdVdjZEd0s2Z0R3MG82Vmk3REtHUEtvWHQ2cVJ2QTk2UlEySzBFMERUbTFfX3NtN1JIcHZCYjA2NWZnUW9xbHVYWm9WSU1TclZRTXlpRVVxbTJBRWJMUlpDRDMtMmxQSjZnT2txVlhWaXJQVHpoVkNUTHZlODBZRjRnb1F6Y2pZVkhucVp0d2VrYnNkeXRr?o"
+        },
+        {
+          "title": "Ireda net profit grows to ₹554 cr in September quarter",
+          "source": "ET EnergyWorld",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNem1PQ1BSSzhUN0Z1ajhSOGJiOFI1RzlnLUxkWURrYmVpa01MNVg5WDZuRlVLSG1GbHVKZlk5RGhwYUs4MjRTWGRmZ3NhWEk1LTNJbkFTS2Fvd01UZi0wa0wwSVBGX2RiczlKSnRpU3ZBSnhjOFZsRTBpazRiOHpqVjJCWDM1eUROVkw5d2hqUVlzS2ROWmlsX0RXU3BRNHhad2JKVXVxcWFlNWVhWXlfcUpYR0hLRGxWX2N6cmpYVdIBxAFBVV95cUxPdVpwTm1qS1ZxM1VTaGozS3Y1VXFhZUNzS29DbHQzR0dESGxuQU4yMXhlUkJYTHJpTXpMVWg2dHEyVmVodXRXcEV0d0I2bi0zRXZxOXFzZ1FUY3NJbDdWS0x0TEt2MXJJbU9rd3ZiUk04RlJfUDE0eGxZMGs0RFp3bk04dXAwc2V5eWhsSHJfZUlPM2NZM3RoTUIyQWRSUWx3dWdremMzTWkyQjZXVDhfVGVRSUFsa3drcDZnVTJXeEFZd2do?oc=5",
+          "published_at": "2026-10-20T04:30:40+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNem1PQ1BSSzhUN0Z1ajhSOGJiOFI1RzlnLUxkWURrYmVpa01MNVg5WDZuRlVLSG1GbHVKZlk5RGhwYUs4MjRTWGRmZ3NhWEk1LTNJbkFTS2Fvd01UZi0wa0wwSVBGX2RiczlKSnRpU3ZBSnhjOFZsRTBpazRiOHpqVjJCWDM1eUROVkw5d2hqUVlzS2ROWmlsX0RXU3BRNHhad2JKVXVxcWFlNWVhWXlfcUpYR0hLRGxWX2N6cmpYVdIBxAFBVV95cUxPdVpwTm1qS1ZxM1VTaGozS3Y1VXFhZUNzS29DbHQzR0dESGxuQU4yMXhlUkJYTHJpTXpMVWg2dHEyVm"
         }
       ],
       "events": [
@@ -938,12 +967,12 @@
         "open": 164.7,
         "high": 164.7,
         "low": 159.4,
-        "close": NaN,
+        "close": 160.21,
         "prev_close": 165.47,
-        "change_pct": NaN,
+        "change_pct": -3.18,
         "gap_pct": -0.47,
         "intraday_range_pct": 3.2,
-        "volume": 849949,
+        "volume": 851856,
         "avg_volume_20d": 1308617,
         "volume_ratio": 0.65,
         "sparkline": [
@@ -976,7 +1005,7 @@
           171.74,
           174.96,
           165.47,
-          NaN
+          160.21
         ]
       },
       "analysis": {
@@ -995,23 +1024,8 @@
       "skip_catalysts": false,
       "bse_announcements": [],
       "nse_announcements": [],
-      "news": [
-        {
-          "title": "TARIL Plans UK Transformer Push, But Factory Hinges on Demand",
-          "source": "Urban Acres",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSTVqTzU1YWlqY0s1S1NLSUlkNmNXa1NZa0Qya1RTT3NUYml1UDJGcjB3VmNsV0lKcXpQMEo1ZzBORGZvemNTTFdDMUJITVZvUHdjSDlfa1lOVGwxeC1DUzBIZjFQc1gxajJ0aDl6Mm92NmRYV1g3akppMzlKaUtSLWtwRkV1QzFKX1pj?oc=5",
-          "published_at": "2026-10-19T03:54:34+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSTVqTzU1YWlqY0s1S1NLSUlkNmNXa1NZa0Qya1RTT3NUYml1UDJGcjB3VmNsV0lKcXpQMEo1ZzBORGZvemNTTFdDMUJITVZvUHdjSDlfa1lOVGwxeC1DUzBIZjFQc1gxajJ0aDl6Mm92NmRYV1g3akppMzlKaUtSLWtwRkV1QzFKX1pj?oc=5\" target=\"_blank\">TARIL Plans UK Transformer Push, But Factory Hinges on Demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urban Acres</font>"
-        }
-      ],
-      "events": [
-        {
-          "subject": null,
-          "purpose": "Financial Results/Other business matters",
-          "date": "13-Oct-2026",
-          "details": "To consider and approve the financial results for the period ended September 30, 2026 and other business matters"
-        }
-      ],
+      "news": [],
+      "events": [],
       "sebi_mentions": [],
       "price_action": {
         "date": "2026-10-19",
@@ -1077,6 +1091,20 @@
       "nse_announcements": [],
       "news": [
         {
+          "title": "UP STF arrests Jaipur man in fake ITC scam case",
+          "source": "The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQLWhBY2RkNEN4czM2RGhJckhzWFFoSGpyWFB6Q3Y5TXZzLVI1clM5SUc1dDRkdlRKS2dyU0NSWEZJdk05ZlhUd3g1ZHJzVjU0Z1BIWUZEbXlNYU5zaGlsU0NoMHFvanY5TlFTa2tZeExIanN4RlZ2TWFoLWdfdER1eWFsSUR3V3VmMHJLelNiX05qQ1hRcURCWFlFanR3NUtXRW5kZGZCa2I0YS0taHlHaWNVVkZ3QVk5dGc2akhB0gHDAUFVX3lxTE01c1ZzR2poZ1JScEVOTV94YlQ4a2IteEhsbUFVNkgxVDJVM0JReUtDWDdkTTVmVHBzZHhoTXBqVFVUU3pDdXhkMi16bW9CQ3AwcmNPSGlnbmlLRkJ5RjdmZEFXR2paTFJxUEVxOW1wS2JfQ0JncDdGdGJZOENyS0gxWDI4THdMck9CZXZRaWVyR1hvSXlzZ2xScVFPZTBEWk1ScUx0OU5BWFd1cWlpOWJOb1BRdnNzRllTWmNHVG1FcG5VYw?oc=5",
+          "published_at": "2026-10-20T16:47:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQLWhBY2RkNEN4czM2RGhJckhzWFFoSGpyWFB6Q3Y5TXZzLVI1clM5SUc1dDRkdlRKS2dyU0NSWEZJdk05ZlhUd3g1ZHJzVjU0Z1BIWUZEbXlNYU5zaGlsU0NoMHFvanY5TlFTa2tZeExIanN4RlZ2TWFoLWdfdER1eWFsSUR3V3VmMHJLelNiX05qQ1hRcURCWFlFanR3NUtXRW5kZGZCa2I0YS0taHlHaWNVVkZ3QVk5dGc2akhB0gHDAUFVX3lxTE01c1ZzR2poZ1JScEVOTV94YlQ4a2IteEhsbUFVNkgxVDJVM0JReUtDWDdkTTVmVHBzZHhoTXBqVFVUU3"
+        },
+        {
+          "title": "WTO-ITC visit to Mogadishu supports Somalia's preparations for next phase of WTO accession",
+          "source": "World Trade Organization",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8yRGhXN3pjYVdhZFl1Z3ByMmtDRlhaS3lGRl8tbXFmYjJEREdtcmoxZFl0ZTMzMnNicjBsMncxR1hlXzFlSjFQNlFqbGtMRHp2WVpUYU1IY3RiczFWM1BrakFRbmIxb2FYTER2eHgwT0o3dWc?oc=5",
+          "published_at": "2026-10-20T15:35:22+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE8yRGhXN3pjYVdhZFl1Z3ByMmtDRlhaS3lGRl8tbXFmYjJEREdtcmoxZFl0ZTMzMnNicjBsMncxR1hlXzFlSjFQNlFqbGtMRHp2WVpUYU1IY3RiczFWM1BrakFRbmIxb2FYTER2eHgwT0o3dWc?oc=5\" target=\"_blank\">WTO-ITC visit to Mogadishu supports Somalia's preparations for next phase of WTO accession</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">World Trade Organization</font>"
+        },
+        {
           "title": "ITC Faces H2 Margin Squeeze As Palm Oil And Sugar Prices Rise",
           "source": "Sahi",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQmdiMkt5RXlQYWVnaEhidGhOcU13anI1SVNCS0VTSXdXUnRJMy1veEVJUVBpemVFUk0zOUttZ0pWSld4eUVRTXpWb29lbXc0ZTdUVl9ieTh2emIxZ0MxNGNtcmVsc0pfMmJUVVRKRUlsbUFGZlFjdzhIM1V0Si1peTJNMTYxUFhvWmpHWl8xYXM?oc=5",
@@ -1084,18 +1112,11 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPQmdiMkt5RXlQYWVnaEhidGhOcU13anI1SVNCS0VTSXdXUnRJMy1veEVJUVBpemVFUk0zOUttZ0pWSld4eUVRTXpWb29lbXc0ZTdUVl9ieTh2emIxZ0MxNGNtcmVsc0pfMmJUVVRKRUlsbUFGZlFjdzhIM1V0Si1peTJNMTYxUFhvWmpHWl8xYXM?oc=5\" target=\"_blank\">ITC Faces H2 Margin Squeeze As Palm Oil And Sugar Prices Rise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sahi</font>"
         },
         {
-          "title": "ITC schedules November 2 results for ITC stock - ad-hoc-news.de",
+          "title": "ITC scheduled September results. ICICI Direct set INR 341 target for ITC stock - ad-hoc-news.de",
           "source": "Google News",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSkNTVC1mNFNsTE5pWHRHUXNZTTlSUkFSX0dHdnZKVUN2NVBvZkU3U1VWOHc1VW9CNk8tVjFrcmphRjRsRGl4ejBDYTR2WFczWUFaZllJUS1UTTB3NG9hM25XUERIUDIyZzExS0o1SXpfWHBpSUw3bldvV3VzSFQ4TTg4MGU4Q25lQldJYjFqM2xJVG9QVk9OdFo4bFZmZFQtaTdPR0lBWF9PNVp1R1E?oc=5",
-          "published_at": "2026-10-19T07:07:58+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNSkNTVC1mNFNsTE5pWHRHUXNZTTlSUkFSX0dHdnZKVUN2NVBvZkU3U1VWOHc1VW9CNk8tVjFrcmphRjRsRGl4ejBDYTR2WFczWUFaZllJUS1UTTB3NG9hM25XUERIUDIyZzExS0o1SXpfWHBpSUw3bldvV3VzSFQ4TTg4MGU4Q25lQldJYjFqM2xJVG9QVk9OdFo4bFZmZFQtaTdPR0lBWF9PNVp1R1E?oc=5\" target=\"_blank\">ITC schedules November 2 results for ITC stock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ad-hoc-n"
-        },
-        {
-          "title": "Saraswati Saree Depot hit with ₹32.09 lakh CGST penalty over IPO ITC",
-          "source": "scanx.trade",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX2Vhd01PX3RZSkRPMEV3Vm1GUTFUeG4tamNrcjdTSlFxNkdzMUtVLUdjTTJKa1cxYU1BZ2R1dTNuV3JaQXVnZXVaZFN3NE5QVEw0alE0VTJ3aUFlb2pvU3JZTDZCejVsU0lrbEtoLUtCTHZGbjdrMG5XYTBzczh0RGhaYU5hYl9GV2VlY0k4bUZhTzVqUGZLQmgwSDJWR25XSl9fcDRhX3VYaFBjOW5LWVdpV3k?oc=5",
-          "published_at": "2026-10-19T15:45:21+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQX2Vhd01PX3RZSkRPMEV3Vm1GUTFUeG4tamNrcjdTSlFxNkdzMUtVLUdjTTJKa1cxYU1BZ2R1dTNuV3JaQXVnZXVaZFN3NE5QVEw0alE0VTJ3aUFlb2pvU3JZTDZCejVsU0lrbEtoLUtCTHZGbjdrMG5XYTBzczh0RGhaYU5hYl9GV2VlY0k4bUZhTzVqUGZLQmgwSDJWR25XSl9fcDRhX3VYaFBjOW5LWVdpV3k?oc=5\" target=\"_blank\">Saraswati Saree Depot hit with ₹32.09 lakh CGST penalty over IPO ITC</a>&nbsp;&nbsp;"
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTjVhQXBUSkQ1V3o5VjNJcVdzUUZSVExFR2hFTFFvbkVwaXZjTXBiTWJrTmw1UE0zVTYtRU9IZk9lWFI0cTJXVlFlbDdMVlBTODBYU0ZNS1ZTWno5bGtEdzU1Z3dWN3Joa2RKdXJ2STBDeW1ubUFyQlJvQm5YYTNLV3BNdkstWE15LTJUak9wNWRQeS13amlFaHhnTjlNX0lxY0RsSndpalpFNkdFQmxkYmtNZ3dTMGcxUjl2N0prM0dmTWJEOHZiblRMR1EyUE1Tai0xTl9sMA?oc=5",
+          "published_at": "2026-10-20T09:10:30+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTjVhQXBUSkQ1V3o5VjNJcVdzUUZSVExFR2hFTFFvbkVwaXZjTXBiTWJrTmw1UE0zVTYtRU9IZk9lWFI0cTJXVlFlbDdMVlBTODBYU0ZNS1ZTWno5bGtEdzU1Z3dWN3Joa2RKdXJ2STBDeW1ubUFyQlJvQm5YYTNLV3BNdkstWE15LTJUak9wNWRQeS13amlFaHhnTjlNX0lxY0RsSndpalpFNkdFQmxkYmtNZ3dTMGcxUjl2N0prM0dmTWJEOHZiblRMR1EyUE1Tai0xTl9sMA?oc=5\" target=\"_blank\">ITC scheduled September results. ICIC"
         },
         {
           "title": "Weekly Recap: Cigarette gross revenue +74% and Q2 FY27 earnings drop",
@@ -1105,25 +1126,25 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNUWI5dGR5RHpUeE9wSnlCaElkYmE0d1ZFUVNYWmJyWFpIV09SSVQ3czk0M3BqRUlQR21KbnRLTXZYX09RMlZGbC1PZ21sNk5VazFmb3FXUlBaMVh6QVJhaGNwNGlvWmdtYlhDaEg4ekkyN3BEX0JmRnB0R3N3QnAzVlNoZFl2czdPODdJaTdDWWhHRkRHOERHb2I0S3ZPdURVd1ZmZXNlRzhJalBtZnh2Q1N5RGNRMVZ5cTdmWEJ1TnVwQVZ1Tmc?oc=5\" target=\"_blank\">Weekly Recap: Cigarette gross revenue +74% and Q2 FY27 earni"
         },
         {
+          "title": "ITC stock: ITC sets November 2 results date. ITC stock trades 3.02 percent above its 52-week low - ad-hoc-news.de",
+          "source": "Google News",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQU2VBTEZySjE0S0V4MFNBQUhpZkpxZ2drZVBhTUhSSElCRHZFOUVkUWJXVTEzT3Q1cEVjQ1lRcGxFd193T1MzeUJGZnA5M3R5VnVFSER5RVJmTFBpNUtUdEZVcjNKN0FWOHZWR1FUaVM3X3AyY1NtNHRFM2JPLVpCbld5d3QtUmUtSU10d2lZa0RKbHd4SWg2MmRKdDRYUkdEanB6UVBrZFF6bzJnUXBnOU4wTUhrS01ZYmIyMFEwNzZIR3RDcW1RWkJOYXdVbzFGc2VBbW5lVEt6cDZZalhsZkU3emN2b3V3X0praUJB?oc=5",
+          "published_at": "2026-10-19T15:32:02+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxQU2VBTEZySjE0S0V4MFNBQUhpZkpxZ2drZVBhTUhSSElCRHZFOUVkUWJXVTEzT3Q1cEVjQ1lRcGxFd193T1MzeUJGZnA5M3R5VnVFSER5RVJmTFBpNUtUdEZVcjNKN0FWOHZWR1FUaVM3X3AyY1NtNHRFM2JPLVpCbld5d3QtUmUtSU10d2lZa0RKbHd4SWg2MmRKdDRYUkdEanB6UVBrZFF6bzJnUXBnOU4wTUhrS01ZYmIyMFEwNzZIR3RDcW1RWkJOYXdVbzFGc2VBbW5lVEt6cDZZalhsZkU3emN2b3V3X0praUJB?oc=5\" target=\"_blank\">ITC sto"
+        },
+        {
+          "title": "ITC schedules November 2 results for ITC stock - ad-hoc-news.de",
+          "source": "Google News",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSkNTVC1mNFNsTE5pWHRHUXNZTTlSUkFSX0dHdnZKVUN2NVBvZkU3U1VWOHc1VW9CNk8tVjFrcmphRjRsRGl4ejBDYTR2WFczWUFaZllJUS1UTTB3NG9hM25XUERIUDIyZzExS0o1SXpfWHBpSUw3bldvV3VzSFQ4TTg4MGU4Q25lQldJYjFqM2xJVG9QVk9OdFo4bFZmZFQtaTdPR0lBWF9PNVp1R1E?oc=5",
+          "published_at": "2026-10-19T07:07:58+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNSkNTVC1mNFNsTE5pWHRHUXNZTTlSUkFSX0dHdnZKVUN2NVBvZkU3U1VWOHc1VW9CNk8tVjFrcmphRjRsRGl4ejBDYTR2WFczWUFaZllJUS1UTTB3NG9hM25XUERIUDIyZzExS0o1SXpfWHBpSUw3bldvV3VzSFQ4TTg4MGU4Q25lQldJYjFqM2xJVG9QVk9OdFo4bFZmZFQtaTdPR0lBWF9PNVp1R1E?oc=5\" target=\"_blank\">ITC schedules November 2 results for ITC stock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ad-hoc-n"
+        },
+        {
           "title": "Mere GSTR-3B, GSTR-2A Mismatch and Wrong ITC Head Cannot Justify Section 74 Proceedings: GSTAT",
           "source": "Taxscan",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTzE5TkRWVEtlZ1RjUVNGT1Uxb1UtXzM4LVhaOHNmSXpIYTlJbmVOR09kU25lUU5CZVNlZ2xYSnFLaElmdDl0RHNVSHpTOUNmNFYteUtVbEVGRkJkQUVJaEdnY01wYzRaZEl4cUl2eWc5MHA5OEw5aGUtVGREZ2hTS09IZ3EzYlM4OG5HYi1PckJYUXVMdk5iZGttdTQ1cVF2LXVHa2pBWWtOdjlpd3BoZkhpYkUzcm9rTlM0?oc=5",
           "published_at": "2026-10-19T04:51:00+00:00",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTzE5TkRWVEtlZ1RjUVNGT1Uxb1UtXzM4LVhaOHNmSXpIYTlJbmVOR09kU25lUU5CZVNlZ2xYSnFLaElmdDl0RHNVSHpTOUNmNFYteUtVbEVGRkJkQUVJaEdnY01wYzRaZEl4cUl2eWc5MHA5OEw5aGUtVGREZ2hTS09IZ3EzYlM4OG5HYi1PckJYUXVMdk5iZGttdTQ1cVF2LXVHa2pBWWtOdjlpd3BoZkhpYkUzcm9rTlM0?oc=5\" target=\"_blank\">Mere GSTR-3B, GSTR-2A Mismatch and Wrong ITC Head Cannot Justify Section 74"
-        },
-        {
-          "title": "Commercial Credit Note does not warrant ITC Reversal by Recipient for non-payment beyond 180 Days",
-          "source": "A2Z Taxcorp LLP",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZHdSNHoxX2kwWkRGMzZMOWd0YVVpRVp5cHBTcmxQQkMyYl9ZcTJwUTZDc1M2TlR2dG80b21wUERJQUNiU2RNdXY0SUpVSk9fX0VBMVA4VVJxVGpPWUc4TzMtM0lQSU9KNG1lNEZmUjNhMXFjWXFMdmJKMUlya0dDMHdXcHFiVzNuM2xEbUtVYmdmRDhBWmZKX0xXMXZkWGdVRzJ5YzdqdjdFWjRFZDUxTnQ4UlpQMnctZ2hRUnh3?oc=5",
-          "published_at": "2026-10-19T05:28:30+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNZHdSNHoxX2kwWkRGMzZMOWd0YVVpRVp5cHBTcmxQQkMyYl9ZcTJwUTZDc1M2TlR2dG80b21wUERJQUNiU2RNdXY0SUpVSk9fX0VBMVA4VVJxVGpPWUc4TzMtM0lQSU9KNG1lNEZmUjNhMXFjWXFMdmJKMUlya0dDMHdXcHFiVzNuM2xEbUtVYmdmRDhBWmZKX0xXMXZkWGdVRzJ5YzdqdjdFWjRFZDUxTnQ4UlpQMnctZ2hRUnh3?oc=5\" target=\"_blank\">Commercial Credit Note does not warrant ITC Reversal by Recipient for n"
-        },
-        {
-          "title": "American Sheep Industry Makes Its Case Against Lamb Imports at Historic ITC Hearing",
-          "source": "Western Ag Network",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTk1CVVRJMW9wQU5JVkh4V3lqY3ZCZmJVYUsxVjJ6NC16cFc4ekh2cGg2QUJFOUpxRnd3QkJ0YkJoanJ3eEI2WEtnTnBTTDVldzQ4X3I3NXRoTWRPWE1LbXBibEFRNXhnYmFMUTQ2TDJnQy13NUlZNmhIODh0M3cweUd2TE1XdmFCVGE5cWY0cTZJVFdOdjR0YUMwZDQ0STBZQXp6dnZsd1doc2Yxc3RnVzJn?oc=5",
-          "published_at": "2026-10-19T12:43:51+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQTk1CVVRJMW9wQU5JVkh4V3lqY3ZCZmJVYUsxVjJ6NC16cFc4ekh2cGg2QUJFOUpxRnd3QkJ0YkJoanJ3eEI2WEtnTnBTTDVldzQ4X3I3NXRoTWRPWE1LbXBibEFRNXhnYmFMUTQ2TDJnQy13NUlZNmhIODh0M3cweUd2TE1XdmFCVGE5cWY0cTZJVFdOdjR0YUMwZDQ0STBZQXp6dnZsd1doc2Yxc3RnVzJn?oc=5\" target=\"_blank\">American Sheep Industry Makes Its Case Against Lamb Imports at Historic ITC Hearing</a>"
         }
       ],
       "events": [],
@@ -1227,7 +1248,15 @@
       "skip_catalysts": false,
       "bse_announcements": [],
       "nse_announcements": [],
-      "news": [],
+      "news": [
+        {
+          "title": "ITC Hotels Share Price Today: Price Fall and Sector Context",
+          "source": "Univest",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9PaFNnOTlQVjE5Wmw2blNNLVZiVW9EWkg1OFdEU1pZaDBpSVJqV29UMG5OQU9GaTlrX2xONWVaTEtfYmYyUTZ3X0szVUM5bXIyZ05mc2lyd1VrMUEzNzR1SzJPMUh2X2w0N2czUW55c28zNDN4VEE?oc=5",
+          "published_at": "2026-10-19T11:28:06+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9PaFNnOTlQVjE5Wmw2blNNLVZiVW9EWkg1OFdEU1pZaDBpSVJqV29UMG5OQU9GaTlrX2xONWVaTEtfYmYyUTZ3X0szVUM5bXIyZ05mc2lyd1VrMUEzNzR1SzJPMUh2X2w0N2czUW55c28zNDN4VEE?oc=5\" target=\"_blank\">ITC Hotels Share Price Today: Price Fall and Sector Context</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Univest</font>"
+        }
+      ],
       "events": [
         {
           "subject": null,
@@ -1436,9 +1465,9 @@
         "open": 154.05,
         "high": 154.55,
         "low": 151.0,
-        "close": NaN,
+        "close": 151.3,
         "prev_close": 153.64,
-        "change_pct": NaN,
+        "change_pct": -1.52,
         "gap_pct": 0.27,
         "intraday_range_pct": 2.31,
         "volume": 179307,
@@ -1474,7 +1503,7 @@
           151.6,
           154.75,
           153.64,
-          NaN
+          151.3
         ]
       },
       "analysis": {
@@ -1538,9 +1567,9 @@
         "open": 708.05,
         "high": 712.45,
         "low": 692.1,
-        "close": NaN,
+        "close": 700.2,
         "prev_close": 708.05,
-        "change_pct": NaN,
+        "change_pct": -1.11,
         "gap_pct": 0.0,
         "intraday_range_pct": 2.87,
         "volume": 256249,
@@ -1576,7 +1605,7 @@
           729.4,
           692.25,
           708.05,
-          NaN
+          700.2
         ]
       },
       "analysis": {
