@@ -1,0 +1,1752 @@
+{
+  "report_date": "2026-10-29",
+  "trading_day": "2026-10-28",
+  "generated_at": "2026-10-29T09:01:00.402567+05:30",
+  "stocks": [
+    {
+      "symbol": "TMCV",
+      "name": "Tata Motors Limited",
+      "sector": "Commercial Vehicles",
+      "notes": "Post-demerger CV business (trucks, buses, Iveco). Yahoo uses TMCV; NSE uses TATAMOTORS.",
+      "skip_catalysts": false,
+      "bse_announcements": [],
+      "nse_announcements": [],
+      "news": [
+        {
+          "title": "Tata Motors (NSEI:TMCV) - Stock Analysis",
+          "source": "Simply Wall Street",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5VRThFak5HYjIwQXlKSWlXZ3lpOGxhWkpMOWxUN3g0UDFxOGVrdC1oTTFrM3g1aHlzWW1iT0Z1TGMxa293T3hxNDdPWG81YVFXSDNKY09JT2hRVnhqUVdsVTg3WTRHdmU0bkEzeU90dThKVDJBN0V4bTZ1WFV5Zw?oc=5",
+          "published_at": "2026-10-28T08:08:37+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5VRThFak5HYjIwQXlKSWlXZ3lpOGxhWkpMOWxUN3g0UDFxOGVrdC1oTTFrM3g1aHlzWW1iT0Z1TGMxa293T3hxNDdPWG81YVFXSDNKY09JT2hRVnhqUVdsVTg3WTRHdmU0bkEzeU90dThKVDJBN0V4bTZ1WFV5Zw?oc=5\" target=\"_blank\">Tata Motors (NSEI:TMCV) - Stock Analysis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Simply Wall Street</font>"
+        }
+      ],
+      "events": [
+        {
+          "subject": null,
+          "purpose": "Financial Results",
+          "date": "23-Oct-2026",
+          "details": "To consider and approve the financial results for the second quarter and half year ended September 30, 2026"
+        }
+      ],
+      "sebi_mentions": [],
+      "price_action": {
+        "date": "2026-10-28",
+        "open": 399.55,
+        "high": 408.25,
+        "low": 396.45,
+        "close": 399.7,
+        "prev_close": 399.2,
+        "change_pct": 0.13,
+        "gap_pct": 0.09,
+        "intraday_range_pct": 2.96,
+        "volume": 5683299,
+        "avg_volume_20d": 5996136,
+        "volume_ratio": 0.95,
+        "sparkline": [
+          427.15,
+          424.25,
+          436.1,
+          442.9,
+          444.5,
+          440.1,
+          450.2,
+          437.15,
+          441.5,
+          432.95,
+          430.15,
+          421.65,
+          415.5,
+          426.8,
+          433.8,
+          427.9,
+          413.2,
+          410.3,
+          404.5,
+          416.95,
+          415.25,
+          422.8,
+          421.05,
+          418.75,
+          417.5,
+          414.25,
+          396.0,
+          384.05,
+          399.2,
+          399.7
+        ]
+      },
+      "analysis": {
+        "classification": "no_signal",
+        "primary_catalyst": null,
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
+        "flags": []
+      }
+    },
+    {
+      "symbol": "TMPV",
+      "name": "Tata Motors Passenger Vehicles Limited",
+      "sector": "Passenger Vehicles",
+      "notes": "Post-demerger PV business (cars, EVs, JLR).",
+      "skip_catalysts": false,
+      "bse_announcements": [],
+      "nse_announcements": [],
+      "news": [],
+      "events": [],
+      "sebi_mentions": [],
+      "price_action": {
+        "date": "2026-10-28",
+        "open": 261.95,
+        "high": 266.5,
+        "low": 259.1,
+        "close": 263.6,
+        "prev_close": 261.2,
+        "change_pct": 0.92,
+        "gap_pct": 0.29,
+        "intraday_range_pct": 2.83,
+        "volume": 7572956,
+        "avg_volume_20d": 9696882,
+        "volume_ratio": 0.78,
+        "sparkline": [
+          303.6,
+          301.0,
+          314.5,
+          303.8,
+          301.65,
+          300.05,
+          300.5,
+          295.0,
+          290.45,
+          281.75,
+          280.95,
+          283.5,
+          279.4,
+          288.65,
+          285.8,
+          283.0,
+          273.0,
+          279.9,
+          284.45,
+          285.85,
+          283.8,
+          287.05,
+          286.85,
+          278.0,
+          275.7,
+          270.0,
+          264.6,
+          263.7,
+          261.2,
+          263.6
+        ]
+      },
+      "analysis": {
+        "classification": "no_signal",
+        "primary_catalyst": null,
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
+        "flags": []
+      }
+    },
+    {
+      "symbol": "ICICIBANK",
+      "name": "ICICI Bank Limited",
+      "sector": "Banking",
+      "notes": null,
+      "skip_catalysts": false,
+      "bse_announcements": [],
+      "nse_announcements": [],
+      "news": [],
+      "events": [],
+      "sebi_mentions": [
+        {
+          "title": "SEBI Order for Compliance Notice of Attachment of Bank/Post office Account for Recovery Certificate No.7137 of 2023 against Karan Subhashchandra Ravde in the matter of India Infraspace Limited",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/sebi-order-for-compliance-notice-of-attachment-of-bank-post-office-account-for-recovery-certificate-no-7137-of-2023-against-karan-subhashchandra-ravde-in-the-matter-of-india-infraspace-limited_105379.html",
+          "published_at": "22 Oct, 2026 +0530",
+          "summary": "SEBI Order for Compliance Notice of Attachment of Bank/Post office Account for Recovery Certificate No.7137 of 2023 against Karan Subhashchandra Ravde in the matter of India Infraspace Limited"
+        }
+      ],
+      "price_action": {
+        "date": "2026-10-28",
+        "open": 1379.5,
+        "high": 1381.9,
+        "low": 1361.4,
+        "close": 1377.6,
+        "prev_close": 1386.9,
+        "change_pct": -0.67,
+        "gap_pct": -0.53,
+        "intraday_range_pct": 1.48,
+        "volume": 9519327,
+        "avg_volume_20d": 12748625,
+        "volume_ratio": 0.75,
+        "sparkline": [
+          1350.4,
+          1358.8,
+          1347.6,
+          1338.9,
+          1345.0,
+          1339.6,
+          1340.0,
+          1334.5,
+          1326.8,
+          1302.0,
+          1292.2,
+          1321.7,
+          1310.6,
+          1332.0,
+          1342.8,
+          1357.5,
+          1349.0,
+          1355.0,
+          1340.0,
+          1360.2,
+          1338.6,
+          1389.4,
+          1397.0,
+          1381.0,
+          1385.0,
+          1398.5,
+          1394.2,
+          1403.0,
+          1386.9,
+          1377.6
+        ]
+      },
+      "analysis": {
+        "classification": "no_signal",
+        "primary_catalyst": null,
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
+        "flags": []
+      }
+    },
+    {
+      "symbol": "HDFCLIFE",
+      "name": "HDFC Life Insurance Company Limited",
+      "sector": "Insurance",
+      "notes": "Assumed \"HDFC Live\" was HDFC Life. Tell me if you meant HDFC Bank.",
+      "skip_catalysts": false,
+      "bse_announcements": [],
+      "nse_announcements": [
+        {
+          "headline": "Copy of Newspaper Publication",
+          "category": null,
+          "more_info": "HDFC Life Insurance Company Limited has informed the Exchange about Copy of Newspaper Publication",
+          "pdf_url": "https://nsearchives.nseindia.com/corporate/HDFCLIFE2_28102026182626_CAfinal2810.pdf",
+          "attached_at": "28-Oct-2026 18:26:39",
+          "source": "NSE"
+        }
+      ],
+      "news": [],
+      "events": [],
+      "sebi_mentions": [
+        {
+          "title": "SEBI Order for Compliance - General Remittance Order dated 26.10.2026 in Recovery Certificate No. 8511 of 2025 issued against Add Life Pharma Ltd in the matter of Add Life Pharma Ltd.",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/sebi-order-for-compliance-general-remittance-order-dated-26-10-2026-in-recovery-certificate-no-8511-of-2025-issued-against-add-life-pharma-ltd-in-the-matter-of-add-life-pharma-ltd-_105439.html",
+          "published_at": "26 Oct, 2026 +0530",
+          "summary": "SEBI Order for Compliance - General Remittance Order dated 26.10.2026 in Recovery Certificate No. 8511 of 2025 issued against Add Life Pharma Ltd in the matter of Add Life Pharma Ltd."
+        }
+      ],
+      "price_action": {
+        "date": "2026-10-28",
+        "open": 513.65,
+        "high": 519.15,
+        "low": 508.05,
+        "close": 514.1,
+        "prev_close": 513.6,
+        "change_pct": 0.1,
+        "gap_pct": 0.01,
+        "intraday_range_pct": 2.16,
+        "volume": 2493960,
+        "avg_volume_20d": 3020735,
+        "volume_ratio": 0.83,
+        "sparkline": [
+          516.1,
+          530.2,
+          557.0,
+          550.95,
+          559.4,
+          559.2,
+          561.5,
+          526.9,
+          531.0,
+          531.6,
+          523.55,
+          521.2,
+          534.2,
+          531.0,
+          543.95,
+          546.05,
+          544.5,
+          556.65,
+          559.25,
+          560.0,
+          544.05,
+          550.55,
+          553.0,
+          545.5,
+          539.65,
+          528.35,
+          523.75,
+          519.0,
+          513.6,
+          514.1
+        ]
+      },
+      "analysis": {
+        "classification": "no_signal",
+        "primary_catalyst": null,
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
+        "flags": []
+      }
+    },
+    {
+      "symbol": "BANDHANBNK",
+      "name": "Bandhan Bank Limited",
+      "sector": "Banking",
+      "notes": null,
+      "skip_catalysts": false,
+      "bse_announcements": [],
+      "nse_announcements": [
+        {
+          "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "category": null,
+          "more_info": "Audio Recordings of the Press Conference and the Earnings Call on the Unaudited Financial Results for the quarter (Q2) and half-year ended September 30, 2026.",
+          "pdf_url": "https://nsearchives.nseindia.com/corporate/BANDHANBNK_28102026201418_SE_Disclosure_Earnings_Call_Audio_Recording_Q2_281026_sd.pdf",
+          "attached_at": "28-Oct-2026 20:15:46",
+          "source": "NSE"
+        },
+        {
+          "headline": "ESOP/ESOS/ESPS",
+          "category": null,
+          "more_info": "Bandhan Bank Limited has informed the Exchange regarding Grant of 3298871  Options.",
+          "pdf_url": "https://nsearchives.nseindia.com/corporate/BANDHANBNK_28102026191439_SE_Disclosure_GrantofESOPs_Board_28102026_sd.pdf",
+          "attached_at": "28-Oct-2026 19:17:27",
+          "source": "NSE"
+        },
+        {
+          "headline": "Investor Presentation",
+          "category": null,
+          "more_info": "Bandhan Bank Limited has informed the Exchange about Investor Presentation",
+          "pdf_url": "https://nsearchives.nseindia.com/corporate/BANDHANBNK_28102026161705_SE_Disclosure_Investor_PPT_Q2_28102026_sd.pdf",
+          "attached_at": "28-Oct-2026 16:18:27",
+          "source": "NSE"
+        },
+        {
+          "headline": "Outcome of Board Meeting",
+          "category": null,
+          "more_info": "Bandhan Bank Limited has submitted to the Exchange, the Unaudited Financial Results for the quarter and half-year ended September 30, 2026, along with Press Release.",
+          "pdf_url": "https://nsearchives.nseindia.com/corporate/BANDHANBNK_28102026160525_SE_Disclosure_BM_Outcome_UFR_PressRelease_281026_sd.pdf",
+          "attached_at": "28-Oct-2026 16:05:59",
+          "source": "NSE"
+        }
+      ],
+      "news": [
+        {
+          "title": "BANDHANBNK: Loan growth and profitability strengthened as deposits mobilized and EEB stabilized",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOczZGdlVQRVpiZ2hoQ2h1cDg2WXpxclRWWjdvQ2NpMjEzM0ZVNVo1NEpwMUhrYjMwSEVsV1R1UnJQYU9tNUs3QlZ3NlRtYm9pVkdhQmFhZzVhMmpWNG5hbVBNVU9qRkpsZ0V4T0lOck1hTGlpREo0WmhSajBXV1pVVGZNUnJmWnppbjNWRUlmdGlYMzJ5M1RxdWNGd0RGUDB2M1UybHQ3cGNuTmpmN2w5cGVQRk5mcFItVzZWd3Vybl9FNjIzUGpRSU5naFZxVUFtMXZJVjFfbDByQVRQTzVwU2tWck9qQV9jTVZ3RVpyTlJ4WW5Zc3ZoeWxJQ1lHUXg2SEtQY19nOHJCTmxCZlE?oc=5",
+          "published_at": "2026-10-28T22:41:42+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxOczZGdlVQRVpiZ2hoQ2h1cDg2WXpxclRWWjdvQ2NpMjEzM0ZVNVo1NEpwMUhrYjMwSEVsV1R1UnJQYU9tNUs3QlZ3NlRtYm9pVkdhQmFhZzVhMmpWNG5hbVBNVU9qRkpsZ0V4T0lOck1hTGlpREo0WmhSajBXV1pVVGZNUnJmWnppbjNWRUlmdGlYMzJ5M1RxdWNGd0RGUDB2M1UybHQ3cGNuTmpmN2w5cGVQRk5mcFItVzZWd3Vybl9FNjIzUGpRSU5naFZxVUFtMXZJVjFfbDByQVRQTzVwU2tWck9qQV9jTVZ3RVpyTlJ4WW5Zc3ZoeWxJQ1lHUXg2SEtQY1"
+        },
+        {
+          "title": "Bandhan Bank (NSE:BANDHANBNK) Q2FY27 Results: Advances, Asset Quality and Profitability",
+          "source": "Kalkine India",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPb29qbzZuMW1rUEVJRnlJV2NzcTc2bHplc3BqNTU3elg5eWZsVk4xMFAwWlhVMzVXYVhNODJQN1VoeklfVEt5T2pPbEJBaG1IdWdjeExKTklDLXVsNU1PR0czX2tOSnVXaU0xa2p1aHFWTllLbVVwdkNnMDVKQ0FQTUdZeTRucVlfbEtBX21wTXRIeHlwaTAyb01YRDFZQXRFX2tFT3pTdjFBdEFvb0ptZk9PREwyUDVoMlhDeUgzdm02c2pacTlrNUIzN2tWbndocDh3?oc=5",
+          "published_at": "2026-10-28T17:48:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPb29qbzZuMW1rUEVJRnlJV2NzcTc2bHplc3BqNTU3elg5eWZsVk4xMFAwWlhVMzVXYVhNODJQN1VoeklfVEt5T2pPbEJBaG1IdWdjeExKTklDLXVsNU1PR0czX2tOSnVXaU0xa2p1aHFWTllLbVVwdkNnMDVKQ0FQTUdZeTRucVlfbEtBX21wTXRIeHlwaTAyb01YRDFZQXRFX2tFT3pTdjFBdEFvb0ptZk9PREwyUDVoMlhDeUgzdm02c2pacTlrNUIzN2tWbndocDh3?oc=5\" target=\"_blank\">Bandhan Bank (NSE:BANDHANBNK) Q2FY27 Result"
+        },
+        {
+          "title": "BANDHANBNK: PAT rose to Rs.622 crore as income grew and asset quality improved",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQVFlfc2xjX1JXandUNnlwa052MTluRDRSX2V4UzV4THRuaGh4WW53b3ZCcWQ0RW1HZFpOOU5mSXJ1dXFuZ0Q4ZDFLVVV0REd5Q2NTckU2b3VfVjFLeEFKckNrSmZ0SURPWkJ6SkhDbXM5WU9yNUdtRjJhRjJqWTZZZHNKY1V1NXp2Zk9Qc042OFRrRXRVU3puQmI1U1VwT0RpbXZrWGE1S1ltN2R5eXRMdVV4QnBBU1FXNm5kbzBiYlRSaDk5c1pFbnpRZi0zN3JYcjUwamhqcnhBZkR4amh5eW4xX1NxbHJyRHJzVzhCMldNZw?oc=5",
+          "published_at": "2026-10-28T10:39:09+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxQVFlfc2xjX1JXandUNnlwa052MTluRDRSX2V4UzV4THRuaGh4WW53b3ZCcWQ0RW1HZFpOOU5mSXJ1dXFuZ0Q4ZDFLVVV0REd5Q2NTckU2b3VfVjFLeEFKckNrSmZ0SURPWkJ6SkhDbXM5WU9yNUdtRjJhRjJqWTZZZHNKY1V1NXp2Zk9Qc042OFRrRXRVU3puQmI1U1VwT0RpbXZrWGE1S1ltN2R5eXRMdVV4QnBBU1FXNm5kbzBiYlRSaDk5c1pFbnpRZi0zN3JYcjUwamhqcnhBZkR4amh5eW4xX1NxbHJyRHJzVzhCMldNZw?oc=5\" target=\"_blank\">B"
+        },
+        {
+          "title": "BANDHANBNK: Q2FY27 PAT rose to ₹6.2bn as asset quality improved and advances grew 13.1% YoY",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQbXQ2NGo4dTVLMWFxYTlzNHRVOUtHdVRETVVDQnBWOXJnUnI0N0JPc19OcVNTV01JbWR6eUxXckNBVUFrUTZ1OEsydEplRWdrNVR1UXhuOHBBOGdCMktjdG1NZkVUemVBVl9kUVFPaU9Nb2hMSlhRS3JuNDU2OGx2SXZ5M0lqaVdaX2xkTk1yMTdFRkJxakFlYUNLeklQSllNVFRERDdFRlZNS2ZfNHF5NXM4UjVNSEg5YmV5QmZVMzJfZVlUdHZNXzJxR1cwOGVSUGVwb01WOENyQTRpSF9ZcXMxTXpVQlk1NWprMGt6V3FudWVPaHBkQXJvTDNGRWUy?oc=5",
+          "published_at": "2026-10-28T10:54:06+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxQbXQ2NGo4dTVLMWFxYTlzNHRVOUtHdVRETVVDQnBWOXJnUnI0N0JPc19OcVNTV01JbWR6eUxXckNBVUFrUTZ1OEsydEplRWdrNVR1UXhuOHBBOGdCMktjdG1NZkVUemVBVl9kUVFPaU9Nb2hMSlhRS3JuNDU2OGx2SXZ5M0lqaVdaX2xkTk1yMTdFRkJxakFlYUNLeklQSllNVFRERDdFRlZNS2ZfNHF5NXM4UjVNSEg5YmV5QmZVMzJfZVlUdHZNXzJxR1cwOGVSUGVwb01WOENyQTRpSF9ZcXMxTXpVQlk1NWprMGt6V3FudWVPaHBkQXJvTDNGRWUy?oc=5\""
+        },
+        {
+          "title": "BANDHANBNK: Profitability recovered as diversified growth and stronger deposits supported FY27 targets",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOWDBYOFpLOUF4T3NMWjFyQ1g5WklidDNna1otM0ljaU41eG1Oa3VYOExQSGRQNEVPdEMwLVJfejBpTVQ0azNLRWhuRGNDS0JJVVhmRkxYVjNqV0lXSE1QSXc4ZmF2MHl4QUtpYU54S1MxS09uU2haQ2lBc0l0ejVma0xqYUY3WWhRSDVvWmdFTmFVSTVHMlhNem5iVDR6ZWpQUnNOcmE3RFRZSUZnSkFUNzdOVk1yUWhJVElrcWdIME1jVzNoZWNCVlNDbjkyTEhpMUpLRGJKVDRlX3hNMVFVUnh1YjRlY1VxV3RUR3p3VWVRMlhQbXVYSEhMLW4ySkVtQWhrdXg3TzhhdXZ3M1kzd3dPMDh1dVU?oc=5",
+          "published_at": "2026-10-28T14:39:50+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwJBVV95cUxOWDBYOFpLOUF4T3NMWjFyQ1g5WklidDNna1otM0ljaU41eG1Oa3VYOExQSGRQNEVPdEMwLVJfejBpTVQ0azNLRWhuRGNDS0JJVVhmRkxYVjNqV0lXSE1QSXc4ZmF2MHl4QUtpYU54S1MxS09uU2haQ2lBc0l0ejVma0xqYUY3WWhRSDVvWmdFTmFVSTVHMlhNem5iVDR6ZWpQUnNOcmE3RFRZSUZnSkFUNzdOVk1yUWhJVElrcWdIME1jVzNoZWNCVlNDbjkyTEhpMUpLRGJKVDRlX3hNMVFVUnh1YjRlY1VxV3RUR3p3VWVRMlhQbXVYSEhMLW4ySkVtQWhrdX"
+        },
+        {
+          "title": "Bandhan Bank Limited (BANDHANBNK) share price — eduinvesting",
+          "source": "Howl.Link",
+          "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5qaW52MGNpc09rZmlXdjFQUERmeW4tQTdwUHFBdVdVUjJUWUJZMnhVb0FWbGR5SWV0cWNJ?oc=5",
+          "published_at": "2026-10-28T13:22:42+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiO0FVX3lxTE5qaW52MGNpc09rZmlXdjFQUERmeW4tQTdwUHFBdVdVUjJUWUJZMnhVb0FWbGR5SWV0cWNJ?oc=5\" target=\"_blank\">Bandhan Bank Limited (BANDHANBNK) share price — eduinvesting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Howl.Link</font>"
+        }
+      ],
+      "events": [
+        {
+          "subject": null,
+          "purpose": "Financial Results",
+          "date": "28-Oct-2026",
+          "details": "To consider and approve the Unaudited Financial Results of the Bank, for the Quarter and Half-Year ended September 30, 2026."
+        }
+      ],
+      "sebi_mentions": [
+        {
+          "title": "SEBI Order for Compliance Notice of Attachment of Bank/Post office Account for Recovery Certificate No.7137 of 2023 against Karan Subhashchandra Ravde in the matter of India Infraspace Limited",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/sebi-order-for-compliance-notice-of-attachment-of-bank-post-office-account-for-recovery-certificate-no-7137-of-2023-against-karan-subhashchandra-ravde-in-the-matter-of-india-infraspace-limited_105379.html",
+          "published_at": "22 Oct, 2026 +0530",
+          "summary": "SEBI Order for Compliance Notice of Attachment of Bank/Post office Account for Recovery Certificate No.7137 of 2023 against Karan Subhashchandra Ravde in the matter of India Infraspace Limited"
+        }
+      ],
+      "price_action": {
+        "date": "2026-10-28",
+        "open": 152.0,
+        "high": 156.98,
+        "low": 150.89,
+        "close": 155.36,
+        "prev_close": 151.91,
+        "change_pct": 2.27,
+        "gap_pct": 0.06,
+        "intraday_range_pct": 4.01,
+        "volume": 8709758,
+        "avg_volume_20d": 12751998,
+        "volume_ratio": 0.68,
+        "sparkline": [
+          172.45,
+          172.5,
+          171.5,
+          175.0,
+          179.0,
+          184.7,
+          191.38,
+          182.9,
+          187.7,
+          181.0,
+          185.31,
+          178.23,
+          176.0,
+          168.27,
+          164.15,
+          162.99,
+          155.54,
+          157.0,
+          157.5,
+          172.0,
+          168.58,
+          170.34,
+          167.5,
+          163.8,
+          159.1,
+          158.44,
+          149.89,
+          150.86,
+          151.91,
+          155.36
+        ]
+      },
+      "analysis": {
+        "classification": "no_signal",
+        "primary_catalyst": null,
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
+        "flags": []
+      }
+    },
+    {
+      "symbol": "IDFCFIRSTB",
+      "name": "IDFC First Bank Limited",
+      "sector": "Banking",
+      "notes": null,
+      "skip_catalysts": false,
+      "bse_announcements": [],
+      "nse_announcements": [],
+      "news": [],
+      "events": [
+        {
+          "subject": null,
+          "purpose": "Financial Results",
+          "date": "24-Oct-2026",
+          "details": "To consider and approve the financial results for the quarter and half year ended September 30, 2026"
+        }
+      ],
+      "sebi_mentions": [],
+      "price_action": {
+        "date": "2026-10-28",
+        "open": 71.5,
+        "high": 73.53,
+        "low": 71.45,
+        "close": 73.53,
+        "prev_close": 71.36,
+        "change_pct": 3.04,
+        "gap_pct": 0.2,
+        "intraday_range_pct": 2.91,
+        "volume": 19449369,
+        "avg_volume_20d": 18319767,
+        "volume_ratio": 1.06,
+        "sparkline": [
+          84.8,
+          85.01,
+          86.33,
+          85.92,
+          85.8,
+          85.37,
+          87.9,
+          83.76,
+          83.8,
+          80.55,
+          79.46,
+          81.44,
+          80.39,
+          82.22,
+          81.56,
+          79.54,
+          78.46,
+          79.52,
+          79.44,
+          78.83,
+          78.74,
+          79.07,
+          78.08,
+          76.33,
+          75.06,
+          74.89,
+          72.3,
+          71.74,
+          71.36,
+          73.53
+        ]
+      },
+      "analysis": {
+        "classification": "no_signal",
+        "primary_catalyst": null,
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
+        "flags": []
+      }
+    },
+    {
+      "symbol": "CGCL",
+      "name": "Capri Global Capital Limited",
+      "sector": "NBFC",
+      "notes": null,
+      "skip_catalysts": false,
+      "bse_announcements": [],
+      "nse_announcements": [
+        {
+          "headline": "Updates",
+          "category": null,
+          "more_info": "Capri Global Capital Limited has informed the Exchange regarding 'Certificate for Payment of Interest (BSE Listed)'.",
+          "pdf_url": "https://nsearchives.nseindia.com/corporate/CGCL_28102026174631_Interest_Payment_Certificate_28102026.pdf",
+          "attached_at": "28-Oct-2026 17:46:40",
+          "source": "NSE"
+        },
+        {
+          "headline": "Investor Presentation",
+          "category": null,
+          "more_info": "Capri Global Capital Limited has informed the Exchange about Investor Presentation",
+          "pdf_url": "https://nsearchives.nseindia.com/corporate/CGCL_28102026172313_CL_Investor_Presentation_27102026.pdf",
+          "attached_at": "28-Oct-2026 17:23:25",
+          "source": "NSE"
+        },
+        {
+          "headline": "Press Release",
+          "category": null,
+          "more_info": "Capri Global Capital Limited has informed the Exchange regarding a press release dated October 28, 2026, titled \"Press Release   Unaudited Standalone and Consolidated financial results of the Company for the quarter and half year ended September 30, 2026\".",
+          "pdf_url": "https://nsearchives.nseindia.com/corporate/CGCL_28102026171804_Intimation_Press_ReleaseFinResults.pdf",
+          "attached_at": "28-Oct-2026 17:18:12",
+          "source": "NSE"
+        }
+      ],
+      "news": [
+        {
+          "title": "CGCL: AUM grew 62% and PAT 77% YoY as FY28 growth plans target ₹650 bn",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZ2xOZ2xuQkhoR1ZxRjhyaDlNQjZQZjRUSU9RZHZMNjNnSWExTnRtMTJ3cXoxWF8teVJuZGduOWZhN2J3VkFSOHFkNEpuLS1sM1Y4bDVnd2QxN25DMktwX1gyMVF4N0tGUDNpaklQdUktT1Y0SV9QMjVxT2hIQTlfcGVhV2tha2RBM1Z3R2VSbFBkUk9IWGsyQlJkR0pqYmFJUzRaWFp4dTJjTDltZkZTYzdEUnI1aWFHQVY0dF8wd2FNUy1jaTBXMGJmY1JLZDVsVl85dXpmT2xFcDZKWUZXSUd5RQ?oc=5",
+          "published_at": "2026-10-28T11:59:44+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZ2xOZ2xuQkhoR1ZxRjhyaDlNQjZQZjRUSU9RZHZMNjNnSWExTnRtMTJ3cXoxWF8teVJuZGduOWZhN2J3VkFSOHFkNEpuLS1sM1Y4bDVnd2QxN25DMktwX1gyMVF4N0tGUDNpaklQdUktT1Y0SV9QMjVxT2hIQTlfcGVhV2tha2RBM1Z3R2VSbFBkUk9IWGsyQlJkR0pqYmFJUzRaWFp4dTJjTDltZkZTYzdEUnI1aWFHQVY0dF8wd2FNUy1jaTBXMGJmY1JLZDVsVl85dXpmT2xFcDZKWUZXSUd5RQ?oc=5\" target=\"_blank\">CGCL: AUM grew 62% an"
+        },
+        {
+          "title": "Capri Global Capital CGCL 2QFY27 Results: PAT Up 77% YoY",
+          "source": "Kalkine India",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONHh1UlBJdGlhR2djU3E0eC1PM0xwb25hbVliUlNPOWRYYktObWtUU3lXelpqZHpqdmhnMm1uSzhlR2Z0ajZBRHN5QlkzQXhXdmhBN3lXSHBXTmo4T3JSWjBNa1h4V1Y0MEZ0SEVQcGZqQjVxX0VTMTllQ2Qtc0xNQkpYTXFUS3pUeXFBaXRSWi1zZ3I0d3RUTkJiTjdCOXNYWVAyWDlTOEU3NFJWYmhPM005cl90dC04dGRlcUJn?oc=5",
+          "published_at": "2026-10-28T11:48:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxONHh1UlBJdGlhR2djU3E0eC1PM0xwb25hbVliUlNPOWRYYktObWtUU3lXelpqZHpqdmhnMm1uSzhlR2Z0ajZBRHN5QlkzQXhXdmhBN3lXSHBXTmo4T3JSWjBNa1h4V1Y0MEZ0SEVQcGZqQjVxX0VTMTllQ2Qtc0xNQkpYTXFUS3pUeXFBaXRSWi1zZ3I0d3RUTkJiTjdCOXNYWVAyWDlTOEU3NFJWYmhPM005cl90dC04dGRlcUJn?oc=5\" target=\"_blank\">Capri Global Capital CGCL 2QFY27 Results: PAT Up 77% YoY</a>&nbsp;&nbsp"
+        },
+        {
+          "title": "Capri Global Capital Limited announces 2QFY27 Results",
+          "source": "EquityBulls",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOem4xU2lPa0hyWWpzcmhJbnFmV2ZrWVRPNHJrd0NJMWNsQjVRVmUtSDZQODlBcEV1MXJpRlFBcVhCT29vQTc1VWc3YVJqVElyUDJ5aWN2RzNBM1NpRDhEZmIzUENRcTI5TzI2QW5IMGh6andKVWxyb2FCRDVCQXppVWpQcWU2YWE2MjViMENPTXhJTVpNU2llbw?oc=5",
+          "published_at": "2026-10-28T13:50:18+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOem4xU2lPa0hyWWpzcmhJbnFmV2ZrWVRPNHJrd0NJMWNsQjVRVmUtSDZQODlBcEV1MXJpRlFBcVhCT29vQTc1VWc3YVJqVElyUDJ5aWN2RzNBM1NpRDhEZmIzUENRcTI5TzI2QW5IMGh6andKVWxyb2FCRDVCQXppVWpQcWU2YWE2MjViMENPTXhJTVpNU2llbw?oc=5\" target=\"_blank\">Capri Global Capital Limited announces 2QFY27 Results</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EquityBulls</font>"
+        },
+        {
+          "title": "Capri Global Capital (NSE:CGCL) Board Outcome: NCD Proceeds Use and USD 300 Million Notes",
+          "source": "Kalkine India",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNR0MzdEpNemF4M2FQYnN4aWFxcWZETEs4N3JzMjVnaExxczJfRmdlTlU2WEo4anNBMHZiTFZXWVRRM1B1WUVGOUMtZkxPM0ZTeDM2bFpmTnFCVkxzZlFvbXN6QWVJZS15SEllTXY2Qk03aURHMHEtYmlNMXExOHRVdDNxTmlNbVNwSHN0NzFpdUJ6VGgzX1N2V0h4Q1pwaW9VRlVuR2pfX3lOZTh6WERwLW80WHJFVkFXZXlKSE5nRGtzYVU4ZE5pNDlaNmYwNjlXU3NsR2M1c1dnWkxBb1owRDBvaHh0eTNVSHhCaGNn?oc=5",
+          "published_at": "2026-10-28T07:01:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxNR0MzdEpNemF4M2FQYnN4aWFxcWZETEs4N3JzMjVnaExxczJfRmdlTlU2WEo4anNBMHZiTFZXWVRRM1B1WUVGOUMtZkxPM0ZTeDM2bFpmTnFCVkxzZlFvbXN6QWVJZS15SEllTXY2Qk03aURHMHEtYmlNMXExOHRVdDNxTmlNbVNwSHN0NzFpdUJ6VGgzX1N2V0h4Q1pwaW9VRlVuR2pfX3lOZTh6WERwLW80WHJFVkFXZXlKSE5nRGtzYVU4ZE5pNDlaNmYwNjlXU3NsR2M1c1dnWkxBb1owRDBvaHh0eTNVSHhCaGNn?oc=5\" target=\"_blank\">Capri G"
+        }
+      ],
+      "events": [
+        {
+          "subject": null,
+          "purpose": "Financial Results",
+          "date": "27-Oct-2026",
+          "details": "To consider and approve the financial results for the period ended September 30, 2026"
+        }
+      ],
+      "sebi_mentions": [],
+      "price_action": {
+        "date": "2026-10-28",
+        "open": 238.0,
+        "high": 242.4,
+        "low": 231.0,
+        "close": NaN,
+        "prev_close": 234.25,
+        "change_pct": NaN,
+        "gap_pct": 1.6,
+        "intraday_range_pct": 4.87,
+        "volume": 8982562,
+        "avg_volume_20d": 5306846,
+        "volume_ratio": 1.69,
+        "sparkline": [
+          255.1,
+          256.65,
+          262.35,
+          270.65,
+          268.85,
+          267.05,
+          268.6,
+          259.4,
+          253.7,
+          248.9,
+          246.9,
+          247.45,
+          249.23,
+          247.06,
+          246.88,
+          250.74,
+          241.54,
+          241.82,
+          241.02,
+          248.9,
+          247.91,
+          247.15,
+          247.56,
+          243.69,
+          238.54,
+          237.17,
+          235.84,
+          231.05,
+          234.25,
+          NaN
+        ]
+      },
+      "analysis": {
+        "classification": "no_signal",
+        "primary_catalyst": null,
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
+        "flags": []
+      }
+    },
+    {
+      "symbol": "TATAPOWER",
+      "name": "Tata Power Company Limited",
+      "sector": "Power",
+      "notes": null,
+      "skip_catalysts": false,
+      "bse_announcements": [],
+      "nse_announcements": [],
+      "news": [],
+      "events": [],
+      "sebi_mentions": [],
+      "price_action": {
+        "date": "2026-10-28",
+        "open": 339.1,
+        "high": 340.85,
+        "low": 334.3,
+        "close": 335.0,
+        "prev_close": 339.1,
+        "change_pct": -1.21,
+        "gap_pct": 0.0,
+        "intraday_range_pct": 1.93,
+        "volume": 2324748,
+        "avg_volume_20d": 4773418,
+        "volume_ratio": 0.49,
+        "sparkline": [
+          363.0,
+          360.4,
+          369.0,
+          374.8,
+          367.15,
+          367.0,
+          369.0,
+          363.45,
+          367.5,
+          361.9,
+          359.0,
+          359.0,
+          350.15,
+          351.5,
+          351.65,
+          345.15,
+          335.65,
+          342.15,
+          343.7,
+          345.0,
+          353.0,
+          349.8,
+          353.85,
+          352.25,
+          352.0,
+          353.5,
+          348.1,
+          338.5,
+          339.1,
+          335.0
+        ]
+      },
+      "analysis": {
+        "classification": "no_signal",
+        "primary_catalyst": null,
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
+        "flags": []
+      }
+    },
+    {
+      "symbol": "SUZLON",
+      "name": "Suzlon Energy Limited",
+      "sector": "Renewable Energy",
+      "notes": null,
+      "skip_catalysts": false,
+      "bse_announcements": [],
+      "nse_announcements": [
+        {
+          "headline": "Credit Rating",
+          "category": "Electrical Equipment",
+          "more_info": "Suzlon Energy Limited has informed the Exchange about Credit Rating",
+          "pdf_url": "https://nsearchives.nseindia.com/corporate/SUZLON1_28102026093056_Suzlon28102026.pdf",
+          "attached_at": "28-Oct-2026 09:31:53",
+          "source": "NSE"
+        }
+      ],
+      "news": [
+        {
+          "title": "Stocks To Watch Today: IndiGo, Suzlon Energy, Trent, Coal India, Meesho Among Others",
+          "source": "NDTV Profit",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUnhzZzBDNDQ4bk9VV2otNWFLMTRSSUw3VGl2ODFWV3ZNUTFYc0ZUalN0VlB3a2prVzI5aHhDd0hMeWp6TnBPbXBuZFF2UXZOMkptN3JFTkYwX3RZTmZwejVoSUNKUFRXWXBMMENCYjFjNVJzaVhpRUd0QnJ4RnFnY2RIcUlzY0puVmV5Q2o1YzlsZHczd2tmdTdCVS1UQ3RQU2VyMUtuWmZFMnJCUXhWTXpHX2xuSndhZDNv0gHDAUFVX3lxTE5pOG94WHNTVEJMQzFxZDdsZVF4R3dSRTNSTXFwZW4zaUJNQTJmRlR5M2VsaFRzTXV4ZHdwQzNJdEVzMUlaVERZUTBNTmhGUVEteHpFa2Yzd0NzYVc4UjhHcDZYNzF1bWtuOGlwMmJ0T2cyVFBJUVFPNG5ONFpnNVpwQ29ZZ3lIaUFtNHRZbURCSDc5NjcwQ2JiVXYyVGRIXzFTM0xYYW9TRlBuTHEtbUFHYnh0UnVXTFB6MjNNS0YzbzJqbw?oc=5",
+          "published_at": "2026-10-29T02:51:01+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUnhzZzBDNDQ4bk9VV2otNWFLMTRSSUw3VGl2ODFWV3ZNUTFYc0ZUalN0VlB3a2prVzI5aHhDd0hMeWp6TnBPbXBuZFF2UXZOMkptN3JFTkYwX3RZTmZwejVoSUNKUFRXWXBMMENCYjFjNVJzaVhpRUd0QnJ4RnFnY2RIcUlzY0puVmV5Q2o1YzlsZHczd2tmdTdCVS1UQ3RQU2VyMUtuWmZFMnJCUXhWTXpHX2xuSndhZDNv0gHDAUFVX3lxTE5pOG94WHNTVEJMQzFxZDdsZVF4R3dSRTNSTXFwZW4zaUJNQTJmRlR5M2VsaFRzTXV4ZHdwQzNJdEVzMUlaVE"
+        },
+        {
+          "title": "Stocks in news: Jio Platforms, RIL, Hero MotoCorp, Meesho, TVS Motor, Vedanta Aluminium and Suzlon Energy",
+          "source": "The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPZ0lVWkNuYU82cG05NnVOVURUSjV3M3czbXpXVGxHWFhjeWlhZlFLWGd2R25FbUVmcU5uVGpxNDQxbVhxSVdkVjNPcnkxZGdld3V6UmUzV0s2MDJ3aGNXc0JRNEVOTFVvSlJ4bXQ5WDlsYndNZ2NaVzVFVzNtSHZUel9tS2ozRkVUenpTbXczLTdtdFotR250SjVELS11NVRuOVVZaTRocVZIeGpDQjdGTDU1bXNKYktGNmFsSjg1YV8xVHVQbmR5N2V3eWN1ZUJGRXduTzlpMUx2VjdBdWJiQk5vUHVnbWZMTkU0b1R5eDNVNkpydHo0bzRUaFVNYUlOdlBB0gGIAkFVX3lxTE11VmdRc0Z6TzJSNE1HWlNZbFNMdDBiTmRHUm1qWWhUOG5SWVp4enVSQUh0c0wxNkMwWGdUU0F0eHoxOTRFWFF1bW1VaVJadlhLNkdiNHBxSWxGX0tzdGNXcHB1QUVWN0xaRHN2WHl2alp6MUFPLVAtdENJd0NFMHdER2JoMkhrOC1vbm05NldwS1dZNk12bVhPMTZ0d2lNSC1hN3ZWT1Btb09mV1V3eFdpWldFakc1OXZfSVY5ellhX3BQOUdTZ3NZNl80OWxyU3B5NWVnakZCM29BSjhuVVE0TXRMYWFPeDlzalFiWVpkZVdNT3hnZldxWmlvX3c0MnZhakIyV2JmZA?oc=5",
+          "published_at": "2026-10-29T00:30:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxPZ0lVWkNuYU82cG05NnVOVURUSjV3M3czbXpXVGxHWFhjeWlhZlFLWGd2R25FbUVmcU5uVGpxNDQxbVhxSVdkVjNPcnkxZGdld3V6UmUzV0s2MDJ3aGNXc0JRNEVOTFVvSlJ4bXQ5WDlsYndNZ2NaVzVFVzNtSHZUel9tS2ozRkVUenpTbXczLTdtdFotR250SjVELS11NVRuOVVZaTRocVZIeGpDQjdGTDU1bXNKYktGNmFsSjg1YV8xVHVQbmR5N2V3eWN1ZUJGRXduTzlpMUx2VjdBdWJiQk5vUHVnbWZMTkU0b1R5eDNVNkpydHo0bzRUaFVNYUlOdlBB0g"
+        },
+        {
+          "title": "Q2 results, Oct 29: Coal India, IndiGo, Asian Paints, Vedanta Power, Trent, Ambuja Cements, Suzlon Energy, others to post earnings",
+          "source": "Upstox",
+          "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPNkUwMUdMQ0JaajU0TFB6WDdZSnFJM2RSbXZjdlhlRURzX2g5QVRTQzZqUFJqQzNUdm9IS2ZSTUlTMnFFSm1pUlFuTjlNVGJ2R09IRnFrbWpDaExqdmZWUjlkSDJSNE1IWjc1MlVwdEQyZFRjbkhXdGJaOHpwLVFMeGIyZHVrMzBBdm9CTHhJbHlKbEpZX2ltWVZDZmJtSi1QM2VpOVFnX0RjVUpRU3FSQjZJU1hQRklaSWJ0SHF5UVljamJOZHFERHZ5TFFZWW5kMXpOcTA4MVVlVnJoMlVtNHhWVnhHTkZ3V2hSSF85dWFkdFY3eDlwTXNXLUpzRk1tOWF0QVQ5ek90Vzhncm1j?oc=5",
+          "published_at": "2026-10-29T02:53:26+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxPNkUwMUdMQ0JaajU0TFB6WDdZSnFJM2RSbXZjdlhlRURzX2g5QVRTQzZqUFJqQzNUdm9IS2ZSTUlTMnFFSm1pUlFuTjlNVGJ2R09IRnFrbWpDaExqdmZWUjlkSDJSNE1IWjc1MlVwdEQyZFRjbkhXdGJaOHpwLVFMeGIyZHVrMzBBdm9CTHhJbHlKbEpZX2ltWVZDZmJtSi1QM2VpOVFnX0RjVUpRU3FSQjZJU1hQRklaSWJ0SHF5UVljamJOZHFERHZ5TFFZWW5kMXpOcTA4MVVlVnJoMlVtNHhWVnhHTkZ3V2hSSF85dWFkdFY3eDlwTXNXLUpzRk1tOWF0QV"
+        },
+        {
+          "title": "GIFT Nifty down 95 pts; Hero Moto, Dr Reddys, ACME Solar, Titagarh, Suzlon among top stocks in focus",
+          "source": "Business Today",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPRlJsV01qcWdIT1RueTN3amhSby1aS2I4VGlQYnZHWXI2RWRmZ1dYeHJ3ZzdkR0pRRGNxUzBOejZBWnRDdUYzZ1A4UGZUNTdXLV82aUc3amt5MkRnc3IyOVp0My03UGJka3Q2c1hqS2pqVFFRWk1BZFVla2stVFZjWHdZUm1JcFZPcVU0WmtjT2dxenNTaVA0YW5lQ29NQmhwY2ZSX3NGSEw4U2VJUHhOZjFqSFJxdC15RmFzMWNuMmFQQk0wQUNRaHpyNi1DMHBtVWF6QWwwemxhMU9OSk5kREVJbWp6Y0FTNHI3aHBTMXdOZWY2SEdrSk1xcmpTa01Bd1HSAYcCQVVfeXFMT1R6YW5GZkYtTHJmbXlhRnlQb3o5UGF5YkpJNHVFcEJUR2ZPNUFqVHRDY3JPTlA1ZE5rLVVJVldOQXk5QkNWOGFPaThsV21hcUIwbkZhaGdsU2RJcE91bGVyaDRpTi0xLUs4a2dUNGVmLXpidFkwcXJ1cmJmRjl0eGw0bFAtTzdmUmZQMUlscE5yMTZFVGNXSjMwazY4UlNRbkNILUlYdnpncWRPWnRJTHJCTW1LekNWRHp1MmhLT2VYOHVSYTlndENZWHlvN1BYUmpXUng0TlpEWFJvTkdPb1NvTkE5cjg0ZURvVEZlTUhEU0RhRDFhZWR0T3VueUF2bzI0YXZsTzQ?oc=5",
+          "published_at": "2026-10-29T03:10:12+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxPRlJsV01qcWdIT1RueTN3amhSby1aS2I4VGlQYnZHWXI2RWRmZ1dYeHJ3ZzdkR0pRRGNxUzBOejZBWnRDdUYzZ1A4UGZUNTdXLV82aUc3amt5MkRnc3IyOVp0My03UGJka3Q2c1hqS2pqVFFRWk1BZFVla2stVFZjWHdZUm1JcFZPcVU0WmtjT2dxenNTaVA0YW5lQ29NQmhwY2ZSX3NGSEw4U2VJUHhOZjFqSFJxdC15RmFzMWNuMmFQQk0wQUNRaHpyNi1DMHBtVWF6QWwwemxhMU9OSk5kREVJbWp6Y0FTNHI3aHBTMXdOZWY2SEdrSk1xcmpTa01Bd1HSAY"
+        },
+        {
+          "title": "Suzlon Energy - MFs raise stake for 3 straight quarters in 5 mid-cap stocks; shares gain up to 75% YTD",
+          "source": "The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQRTF2cFdJTTZGd21vMUVaSXMxZ3UxS3pCSDZBUjBZb0pMLUdrTlNZZml2bDhBM0tQOGF4aWJ3LV8tWEJrYkxHeHZSei1RdnoxQzdEUDhaODg1SEtsMHNfTUZyYllqcUs5WVlpV2hmVHRrdlhvUXgwbmFrYUhiRHBnbDZGLUtTa0d4WU1kdWxoSnRHdW9aaXRRUDByYS01SVJveDVQMXR0OHpkenRPelRfRnB2bjhfa19RMFFuc1pfcVUtc2pBNDRfRUFQM2tJc2JvcGNpUjl5MzlOVEhmbk9VOFBKc3dMZXNRVWlGUjdDei1zUTFaRDFSZS1fLWxSWmM?oc=5",
+          "published_at": "2026-10-28T11:23:50+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxQRTF2cFdJTTZGd21vMUVaSXMxZ3UxS3pCSDZBUjBZb0pMLUdrTlNZZml2bDhBM0tQOGF4aWJ3LV8tWEJrYkxHeHZSei1RdnoxQzdEUDhaODg1SEtsMHNfTUZyYllqcUs5WVlpV2hmVHRrdlhvUXgwbmFrYUhiRHBnbDZGLUtTa0d4WU1kdWxoSnRHdW9aaXRRUDByYS01SVJveDVQMXR0OHpkenRPelRfRnB2bjhfa19RMFFuc1pfcVUtc2pBNDRfRUFQM2tJc2JvcGNpUjl5MzlOVEhmbk9VOFBKc3dMZXNRVWlGUjdDei1zUTFaRDFSZS1fLWxSWmM?oc=5\" "
+        }
+      ],
+      "events": [
+        {
+          "subject": null,
+          "purpose": "Financial Results",
+          "date": "29-Oct-2026",
+          "details": "To consider and approve the financial results for the period ended September 30, 2026"
+        }
+      ],
+      "sebi_mentions": [],
+      "price_action": {
+        "date": "2026-10-28",
+        "open": 37.15,
+        "high": 37.69,
+        "low": 36.73,
+        "close": 37.3,
+        "prev_close": 36.92,
+        "change_pct": 1.03,
+        "gap_pct": 0.62,
+        "intraday_range_pct": 2.6,
+        "volume": 78299957,
+        "avg_volume_20d": 72231498,
+        "volume_ratio": 1.08,
+        "sparkline": [
+          42.9,
+          42.15,
+          42.54,
+          43.14,
+          43.34,
+          43.0,
+          42.39,
+          40.74,
+          40.8,
+          39.66,
+          39.5,
+          39.49,
+          38.91,
+          38.92,
+          39.16,
+          38.34,
+          36.43,
+          37.6,
+          39.57,
+          40.19,
+          40.8,
+          40.95,
+          42.0,
+          40.38,
+          39.4,
+          38.57,
+          37.4,
+          37.12,
+          36.92,
+          37.3
+        ]
+      },
+      "analysis": {
+        "classification": "no_signal",
+        "primary_catalyst": null,
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
+        "flags": []
+      }
+    },
+    {
+      "symbol": "IREDA",
+      "name": "Indian Renewable Energy Development Agency Limited",
+      "sector": "Renewable Energy Finance",
+      "notes": null,
+      "skip_catalysts": false,
+      "bse_announcements": [],
+      "nse_announcements": [],
+      "news": [
+        {
+          "title": "IREDA Releases Vigilance Journal ‘Pahal’ During VAW 2026",
+          "source": "PSU Connect",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeG1wSFZTcGdqSVNNOEd3RlBTNUlVYXlpRXRHTi1HU1dNTEtzZ0xwUzlwNkEyZS1UdW1ZOUxWNEJMWlZsNmxoQWFxeXAwNnpueEh2UGpfWWY0QmctNllVT1c5SjgxSnFfM3IwRDl6d2ZHTXQ2R1pnNy1YTjhRRlllMGJWME9nUEZsczRBbFJfVzVUdW8?oc=5",
+          "published_at": "2026-10-28T09:11:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQeG1wSFZTcGdqSVNNOEd3RlBTNUlVYXlpRXRHTi1HU1dNTEtzZ0xwUzlwNkEyZS1UdW1ZOUxWNEJMWlZsNmxoQWFxeXAwNnpueEh2UGpfWWY0QmctNllVT1c5SjgxSnFfM3IwRDl6d2ZHTXQ2R1pnNy1YTjhRRlllMGJWME9nUEZsczRBbFJfVzVUdW8?oc=5\" target=\"_blank\">IREDA Releases Vigilance Journal ‘Pahal’ During VAW 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PSU Connect</font>"
+        }
+      ],
+      "events": [],
+      "sebi_mentions": [],
+      "price_action": {
+        "date": "2026-10-28",
+        "open": 99.7,
+        "high": 101.2,
+        "low": 98.9,
+        "close": 100.59,
+        "prev_close": 99.7,
+        "change_pct": 0.89,
+        "gap_pct": 0.0,
+        "intraday_range_pct": 2.31,
+        "volume": 4290360,
+        "avg_volume_20d": 5656104,
+        "volume_ratio": 0.76,
+        "sparkline": [
+          109.0,
+          108.4,
+          108.99,
+          114.32,
+          111.0,
+          110.25,
+          111.0,
+          110.11,
+          113.22,
+          114.82,
+          111.0,
+          111.68,
+          111.0,
+          109.0,
+          109.0,
+          107.33,
+          103.8,
+          104.4,
+          104.6,
+          108.39,
+          108.47,
+          108.26,
+          108.8,
+          106.54,
+          103.6,
+          102.61,
+          100.27,
+          101.87,
+          99.7,
+          100.59
+        ]
+      },
+      "analysis": {
+        "classification": "no_signal",
+        "primary_catalyst": null,
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
+        "flags": []
+      }
+    },
+    {
+      "symbol": "SWSOLAR",
+      "name": "Sterling and Wilson Renewable Energy Limited",
+      "sector": "Solar EPC",
+      "notes": null,
+      "skip_catalysts": false,
+      "bse_announcements": [],
+      "nse_announcements": [],
+      "news": [],
+      "events": [],
+      "sebi_mentions": [],
+      "price_action": {
+        "date": "2026-10-28",
+        "open": 142.41,
+        "high": 146.92,
+        "low": 140.71,
+        "close": 144.13,
+        "prev_close": 142.41,
+        "change_pct": 1.21,
+        "gap_pct": 0.0,
+        "intraday_range_pct": 4.36,
+        "volume": 1482178,
+        "avg_volume_20d": 1169114,
+        "volume_ratio": 1.27,
+        "sparkline": [
+          174.3,
+          177.94,
+          179.22,
+          176.06,
+          173.27,
+          178.42,
+          180.76,
+          177.34,
+          176.65,
+          170.74,
+          171.08,
+          171.18,
+          164.82,
+          163.72,
+          172.54,
+          168.11,
+          160.09,
+          162.12,
+          167.77,
+          168.53,
+          171.74,
+          174.96,
+          165.47,
+          160.21,
+          152.44,
+          148.43,
+          142.13,
+          139.62,
+          142.41,
+          144.13
+        ]
+      },
+      "analysis": {
+        "classification": "no_signal",
+        "primary_catalyst": null,
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
+        "flags": []
+      }
+    },
+    {
+      "symbol": "TARIL",
+      "name": "Transformers and Rectifiers (India) Limited",
+      "sector": "Heavy Electrical Equipment",
+      "notes": null,
+      "skip_catalysts": false,
+      "bse_announcements": [],
+      "nse_announcements": [],
+      "news": [
+        {
+          "title": "Trans & Recti Share Price - Live NSE: TARIL Stock Price & Chart",
+          "source": "Upstox",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Ic29qUG1XUUJFRURQMzlMQjNZNEhubnpLNVB2Sm9IS2VLWmZMa3dVb3EyYU1sV2Mxa1FkTEsyY1luVkVlTlMyYVFVM1F1TWxXRUExRnRrTmZDUTQ0T3R0OWxGd1U?oc=5",
+          "published_at": "2026-10-28T00:26:31+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Ic29qUG1XUUJFRURQMzlMQjNZNEhubnpLNVB2Sm9IS2VLWmZMa3dVb3EyYU1sV2Mxa1FkTEsyY1luVkVlTlMyYVFVM1F1TWxXRUExRnRrTmZDUTQ0T3R0OWxGd1U?oc=5\" target=\"_blank\">Trans & Recti Share Price - Live NSE: TARIL Stock Price & Chart</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Upstox</font>"
+        },
+        {
+          "title": "Diwali Stock Picks 2026: Syrma SGS, Jindal Steel, TARIL, GE Vernova and more",
+          "source": "Business Today",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeU1WbTNVbHhkTHJRTV95ZWY2ZkplMVNoOW95Y1dYbWVNOHpnLVZGT0t4dTBvdWJjMEdYalVKdWN4bWZfNFZncFR5eVhCY0lHQjdYVmpiMVd5TXN6RS1fVTNlWTdxNnZpWk53MTdZNnppcHZLODRmTG1ibjExZE1WVS04ZzJwN1lBWmV5YzlZOTBndVozcmcwSFA2SGtMVWYzR0ZSYjZmY3k3UTRFVE1zRHFGTlJGMkg1anRGMmc4dWV4dlFEVkpYV29SNlU1UlZoZnBjTW0ySdIB3AFBVV95cUxOVWRuQmw1SjZtYXRPT1hEQmNTalFOZ2xUX0RYUURkWkZpcjNDeEhqeHlpQXZ2ZXdZelpBSDFGVDc5YXgwZ3g3YU5jZEFPTGpwZ1o2c291RzhITU1qRXpxcFhOQWkzZnE4MUloSV9PNXFZWXg0NmIzdl9OeDNiQUFNeFd0ZWhGXzFpY2Iyc1ZfVHNKcVVMWWtBcXFyUlVhRnNCVkZjY2Qzdm1nZE53dHRsUjZIazlELTU3UVlreTRIZDEzbFJOY3RIT0c0eUZTMHVHbVh6cG9lT21RbmM1?oc=5",
+          "published_at": "2026-10-28T07:11:37+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeU1WbTNVbHhkTHJRTV95ZWY2ZkplMVNoOW95Y1dYbWVNOHpnLVZGT0t4dTBvdWJjMEdYalVKdWN4bWZfNFZncFR5eVhCY0lHQjdYVmpiMVd5TXN6RS1fVTNlWTdxNnZpWk53MTdZNnppcHZLODRmTG1ibjExZE1WVS04ZzJwN1lBWmV5YzlZOTBndVozcmcwSFA2SGtMVWYzR0ZSYjZmY3k3UTRFVE1zRHFGTlJGMkg1anRGMmc4dWV4dlFEVkpYV29SNlU1UlZoZnBjTW0ySdIB3AFBVV95cUxOVWRuQmw1SjZtYXRPT1hEQmNTalFOZ2xUX0RYUURkWkZpcj"
+        },
+        {
+          "title": "TARIL to invest Rs 12.5 billion in three manufacturing plants in Gujarat",
+          "source": "Powerline Magazine",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQzBaR1pXTzZQcFRlN2NiY3F0N09zYXltZGJYdjZMWVdxWF9Sd1hKdUJ0MEdjTm9GNWVBMGdueVBxUzlZNGpUUm5FeFdORjRCazc2VlNvTDVTWFpFa2pMSFFDS0xzenVtVDMzQ29ZVjFBWlczRXlEeE92UDdmNkx1MG84YUhjbUVuQU03dldHbmxUMzg0aEpzd3VLZnEya21xVkhqQl94dXh3Q29Vanc4?oc=5",
+          "published_at": "2026-10-28T05:21:17+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPQzBaR1pXTzZQcFRlN2NiY3F0N09zYXltZGJYdjZMWVdxWF9Sd1hKdUJ0MEdjTm9GNWVBMGdueVBxUzlZNGpUUm5FeFdORjRCazc2VlNvTDVTWFpFa2pMSFFDS0xzenVtVDMzQ29ZVjFBWlczRXlEeE92UDdmNkx1MG84YUhjbUVuQU03dldHbmxUMzg0aEpzd3VLZnEya21xVkhqQl94dXh3Q29Vanc4?oc=5\" target=\"_blank\">TARIL to invest Rs 12.5 billion in three manufacturing plants in Gujarat</a>&nbsp;&nbsp;<fo"
+        }
+      ],
+      "events": [],
+      "sebi_mentions": [],
+      "price_action": {
+        "date": "2026-10-28",
+        "open": 314.0,
+        "high": 320.0,
+        "low": 310.1,
+        "close": NaN,
+        "prev_close": 314.3,
+        "change_pct": NaN,
+        "gap_pct": -0.1,
+        "intraday_range_pct": 3.15,
+        "volume": 2103854,
+        "avg_volume_20d": 9978571,
+        "volume_ratio": 0.21,
+        "sparkline": [
+          277.95,
+          277.1,
+          276.0,
+          279.85,
+          278.25,
+          280.75,
+          289.0,
+          280.4,
+          277.65,
+          270.45,
+          272.85,
+          270.1,
+          280.8,
+          285.45,
+          283.65,
+          289.15,
+          282.75,
+          290.65,
+          294.8,
+          304.0,
+          349.5,
+          333.45,
+          329.1,
+          326.1,
+          320.35,
+          314.5,
+          303.9,
+          299.7,
+          314.3,
+          NaN
+        ]
+      },
+      "analysis": {
+        "classification": "no_signal",
+        "primary_catalyst": null,
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
+        "flags": []
+      }
+    },
+    {
+      "symbol": "ITC",
+      "name": "ITC Limited",
+      "sector": "FMCG",
+      "notes": null,
+      "skip_catalysts": false,
+      "bse_announcements": [],
+      "nse_announcements": [],
+      "news": [
+        {
+          "title": "ITC Wants Aashirvaad To Be More Than Atta In Your Kitchen",
+          "source": "The Core",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMmhta2hhNW0yNVhUQjZHTTdyelhUSWZUZlJELWdEeEdLY0I0enVXeDVJb2F1eWN5Z3BndE9SQmhySHgtSVNxZ1ctVU0wTUtMajZDM2ZEdGF5ekkzdHRqVVRHMnUzV1lQY0hWd1hJSEd3QlZ1NEVHdldjM1RMS0s2bnFnLVNfWjluU0s4?oc=5",
+          "published_at": "2026-10-29T00:30:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMmhta2hhNW0yNVhUQjZHTTdyelhUSWZUZlJELWdEeEdLY0I0enVXeDVJb2F1eWN5Z3BndE9SQmhySHgtSVNxZ1ctVU0wTUtMajZDM2ZEdGF5ekkzdHRqVVRHMnUzV1lQY0hWd1hJSEd3QlZ1NEVHdldjM1RMS0s2bnFnLVNfWjluU0s4?oc=5\" target=\"_blank\">ITC Wants Aashirvaad To Be More Than Atta In Your Kitchen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Core</font>"
+        },
+        {
+          "title": "ITC Brings Mementos to Maharashtra",
+          "source": "THP News",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZmpqdFAzcXZKUy00ZGdqVzJ6Sm54M1lEUGFyYWtJM19pckl5OU5lOWxfMHJRN291MEkxS2xybWtpNWFOSnRQbkJiU2VRR0xscm1vVmJMQ3A3NzJNNjdNalRLZ0lBT3VQWGIyY2JWN3RxMnpVUEptT1pNNmhQTkJXVmo2SEhWTWc?oc=5",
+          "published_at": "2026-10-28T14:02:36+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOZmpqdFAzcXZKUy00ZGdqVzJ6Sm54M1lEUGFyYWtJM19pckl5OU5lOWxfMHJRN291MEkxS2xybWtpNWFOSnRQbkJiU2VRR0xscm1vVmJMQ3A3NzJNNjdNalRLZ0lBT3VQWGIyY2JWN3RxMnpVUEptT1pNNmhQTkJXVmo2SEhWTWc?oc=5\" target=\"_blank\">ITC Brings Mementos to Maharashtra</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">THP News</font>"
+        },
+        {
+          "title": "India’s CGST Amendment Rules 2026: Registration, Cancellation, ITC & Refund",
+          "source": "India Briefing",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUFJwZGREMDdfYk8tYzdteFlDODNaRlNHemtBaTRMZXplVzV4ekJNbU9sbWhRYmFLckNQZ0VCeUlTS0U3eDlRaWVCVE1ZdlNJRW03VWhJN1VKYVlteC1Tc3M5T1RELTZfZEZ1RTdKTjA4bEVNV05hbnpia0RiZFUwak1SenhBMnJVVlhrR2FWNHZrTmMzV3I3eFlGRlNCVU9S?oc=5",
+          "published_at": "2026-10-28T12:40:49+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNUFJwZGREMDdfYk8tYzdteFlDODNaRlNHemtBaTRMZXplVzV4ekJNbU9sbWhRYmFLckNQZ0VCeUlTS0U3eDlRaWVCVE1ZdlNJRW03VWhJN1VKYVlteC1Tc3M5T1RELTZfZEZ1RTdKTjA4bEVNV05hbnpia0RiZFUwak1SenhBMnJVVlhrR2FWNHZrTmMzV3I3eFlGRlNCVU9S?oc=5\" target=\"_blank\">India’s CGST Amendment Rules 2026: Registration, Cancellation, ITC & Refund</a>&nbsp;&nbsp;<font color=\"#6f6f6f"
+        },
+        {
+          "title": "CBIC Explains 50% GST ITC Rules for Banks, FIs and NBFCs U/S 17(4) of CGST Act",
+          "source": "SAG Infotech Official Tax Blog",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOG56Qzl3eXZfQnc3cVZBb2k4alFJREMtdzlXa2VpbDVmX3ZQRWNrX0J5eFEtd21lQnVQTkVuX09XR1FXWThmVDlrb0NGbEVQU05CVEVDRFlPVm1Hb1N5ZXNDRkdfUmxjNUpIUTRPLWVJdURqVlZmUy0tM05JeUY3Q0xXZjc3cXh5MVhjaHZyTkJ3QQ?oc=5",
+          "published_at": "2026-10-28T10:09:17+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQOG56Qzl3eXZfQnc3cVZBb2k4alFJREMtdzlXa2VpbDVmX3ZQRWNrX0J5eFEtd21lQnVQTkVuX09XR1FXWThmVDlrb0NGbEVQU05CVEVDRFlPVm1Hb1N5ZXNDRkdfUmxjNUpIUTRPLWVJdURqVlZmUy0tM05JeUY3Q0xXZjc3cXh5MVhjaHZyTkJ3QQ?oc=5\" target=\"_blank\">CBIC Explains 50% GST ITC Rules for Banks, FIs and NBFCs U/S 17(4) of CGST Act</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SAG Infotech "
+        },
+        {
+          "title": "WelcomHotel by ITC Hotels, Jim Corbett Announces New Elevation",
+          "source": "https://safariindia.com/",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5IUXFCYjhfOGZXemc2UU9BR01xWVR4Y0J0ZEg3WUFBd3B5bVNHbVF2eEFqeVR6eFFYYmhRamVCRXlMUXVLTHRRdF9VSDlJTUNMdktZbmpSUEJlTGZUeERSSTNfaXNsUVA0MnptbE5nQmlpSHpGVzJNVFRZMGk?oc=5",
+          "published_at": "2026-10-28T08:42:38+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5IUXFCYjhfOGZXemc2UU9BR01xWVR4Y0J0ZEg3WUFBd3B5bVNHbVF2eEFqeVR6eFFYYmhRamVCRXlMUXVLTHRRdF9VSDlJTUNMdktZbmpSUEJlTGZUeERSSTNfaXNsUVA0MnptbE5nQmlpSHpGVzJNVFRZMGk?oc=5\" target=\"_blank\">WelcomHotel by ITC Hotels, Jim Corbett Announces New Elevation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">https://safariindia.com/</font>"
+        },
+        {
+          "title": "Services rate notification amended: ITC in the same line of business allowed for 5% hotel accommodation, restaurant and outdoor catering services; 5% option for passenger transport and renting of electrically operated vehicles; delivery services through/for e-",
+          "source": "A2Z Taxcorp LLP",
+          "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPUllUZFlXSWVadWZBNXlwTjRsVmhuckNsdXU0ZzBvbk9mSk5hMWU3T1prNDB2SndPa19aLWpOZ2xLRTNLMjFiNDNyS2tXTGxGZ0k3NDd4S1ljdHN0OHRYdVZodDVORkZrY2l2d2Q1ZUFlS1hYbVN5MVB0Q0p0N2p5N3RoZ2N2cU9rblBVdkQtRmQ0UGVhSjd3ek5nNXdfbl9UY2stak1nZTNCRjgxZ0xNbi1EZ1FyM0RxOXItMVFZMzM3ZFlpZ3pYWl9aUTdhS0JNS29OWUsyU1VxOXNITFpIWEZBNVlaSC1wYWpXWjBrM2YwS2ZnYkVZWGRWdFVnY0ZXblpKZGRfNDZlZFB2MkwweWJOczRMTEd3dm5fYVpjNktPZ1IwYWlyRFJ4WFVra1lVc2JNUEZtNzFOTk5rTERmR1Rrdw?oc=5",
+          "published_at": "2026-10-28T16:58:33+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwJBVV95cUxPUllUZFlXSWVadWZBNXlwTjRsVmhuckNsdXU0ZzBvbk9mSk5hMWU3T1prNDB2SndPa19aLWpOZ2xLRTNLMjFiNDNyS2tXTGxGZ0k3NDd4S1ljdHN0OHRYdVZodDVORkZrY2l2d2Q1ZUFlS1hYbVN5MVB0Q0p0N2p5N3RoZ2N2cU9rblBVdkQtRmQ0UGVhSjd3ek5nNXdfbl9UY2stak1nZTNCRjgxZ0xNbi1EZ1FyM0RxOXItMVFZMzM3ZFlpZ3pYWl9aUTdhS0JNS29OWUsyU1VxOXNITFpIWEZBNVlaSC1wYWpXWjBrM2YwS2ZnYkVZWGRWdFVnY0ZXblpKZG"
+        },
+        {
+          "title": "HDFC Bank, ITC, HDFC Life, Nestle, Britannia, TaMo PV hit 52-week lows",
+          "source": "Business Standard",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUlBRN3hYa1RJQVU5ajRWaHVEQ3ZHdnA0bFl0Qzhub3A2U1JvU2lhUW1ZT2RScHlwcHNPekRHaS0xb1hXNUZuU3BfdGQyRTRHWVhaWXh0emdydnozeGliOFFCa2NESkpXTjJjNDJibUI0b1NwOHUzZGhKX1ctbjZnbjlKa0dKWkZQUWJJYzZBeGYxaThRanZTTmRYY1NkZm54ZjVsS01uMDJMOGx2dkJYS016RVJZN3JBbzBya3ZWUk5RT1BPSHVWNFI1R0zSAdIBQVVfeXFMTXVtZ0huaFN6aUEtSm90Q2FMWl9aSDFDaDVRZnZKQlliSkNQNXIza1hfeFRvN1gtYVRFMVhYRkFsRnhPVDF4UGlLb3dmQUp3OF90TkhlUjd6WXFwZHY1eWllMmIxaGhoZXZMODd1TGRNamp4Y0t0V3RkRnZsNnQ0U195Wmp3djl1a1VkZGxmX1ZMOEFNVUNrRmNiX3hTcS1LRGp4bDhiX0YwVWV0cmhBMzNaT0d3NUo5OTM1dXNPcW1qb2VtQms2SUdVX0tUSkVNVzV3?oc=5",
+          "published_at": "2026-10-28T07:38:21+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOUlBRN3hYa1RJQVU5ajRWaHVEQ3ZHdnA0bFl0Qzhub3A2U1JvU2lhUW1ZT2RScHlwcHNPekRHaS0xb1hXNUZuU3BfdGQyRTRHWVhaWXh0emdydnozeGliOFFCa2NESkpXTjJjNDJibUI0b1NwOHUzZGhKX1ctbjZnbjlKa0dKWkZQUWJJYzZBeGYxaThRanZTTmRYY1NkZm54ZjVsS01uMDJMOGx2dkJYS016RVJZN3JBbzBya3ZWUk5RT1BPSHVWNFI1R0zSAdIBQVVfeXFMTXVtZ0huaFN6aUEtSm90Q2FMWl9aSDFDaDVRZnZKQlliSkNQNXIza1hfeFRvN1"
+        },
+        {
+          "title": "ITC Hotels reports 51.4% rise in second-quarter consolidated net profit",
+          "source": "Prop News Time",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUXAwd2ZUd1lVb29vSEYxay1YQ0lzX211ekdVWFNkanRaOGRQYkdqLVdmNHVoZnd5RkFtb2o0UHlibFJZNmkyQzJSOUYzcGI5OXFSQjdvZ3NoVC11QVVWSzBMTUt6S3VfcUx6LXlmR2hHVmVFUTM2M21rZjlSTGdWN2lGR0t1LVNqSGlPa3lTZ2NkMFVvMVdUbDEyNFFmc0l4SjRNZU1vNWxPZHJmcE53bEw1VW1jbjJ6S25PcS00OVE?oc=5",
+          "published_at": "2026-10-28T07:48:32+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUXAwd2ZUd1lVb29vSEYxay1YQ0lzX211ekdVWFNkanRaOGRQYkdqLVdmNHVoZnd5RkFtb2o0UHlibFJZNmkyQzJSOUYzcGI5OXFSQjdvZ3NoVC11QVVWSzBMTUt6S3VfcUx6LXlmR2hHVmVFUTM2M21rZjlSTGdWN2lGR0t1LVNqSGlPa3lTZ2NkMFVvMVdUbDEyNFFmc0l4SjRNZU1vNWxPZHJmcE53bEw1VW1jbjJ6S25PcS00OVE?oc=5\" target=\"_blank\">ITC Hotels reports 51.4% rise in second-quarter consolidated net pro"
+        }
+      ],
+      "events": [
+        {
+          "subject": null,
+          "purpose": "Financial Results",
+          "date": "02-Nov-2026",
+          "details": "To consider and approve the financial results for the period ended September 30, 2026"
+        }
+      ],
+      "sebi_mentions": [
+        {
+          "title": "Adjudication Order in the matter of Swaraj Shares and Securities Private Limited",
+          "url": "https://www.sebi.gov.in/enforcement/orders/oct-2026/adjudication-order-in-the-matter-of-swaraj-shares-and-securities-private-limited_105474.html",
+          "published_at": "28 Oct, 2026 +0530",
+          "summary": "Adjudication Order in the matter of Swaraj Shares and Securities Private Limited"
+        },
+        {
+          "title": "Order in the matter of role of Axis Capital Limited in providing guarantee to the NCDs of Sojo Infotel Pvt. Ltd.",
+          "url": "https://www.sebi.gov.in/enforcement/orders/oct-2026/order-in-the-matter-of-role-of-axis-capital-limited-in-providing-guarantee-to-the-ncds-of-sojo-infotel-pvt-ltd-_105464.html",
+          "published_at": "28 Oct, 2026 +0530",
+          "summary": "Order in the matter of role of Axis Capital Limited in providing guarantee to the NCDs of Sojo Infotel Pvt. Ltd."
+        },
+        {
+          "title": "SEBI Order for Compliance - Release Order for Recovery Certificate No. 8484 of 2024 against NARENDRABHAI AMIN (PAN- AMGPA3864Q) in the matter of M/s Austral Coke and Projects Limited - II",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/sebi-order-for-compliance-release-order-for-recovery-certificate-no-8484-of-2024-against-narendrabhai-amin-pan-amgpa3864q-in-the-matter-of-m-s-austral-coke-and-projects-limited-ii_105441.html",
+          "published_at": "26 Oct, 2026 +0530",
+          "summary": "SEBI Order for Compliance - Release Order for Recovery Certificate No. 8484 of 2024 against NARENDRABHAI AMIN (PAN- AMGPA3864Q) in the matter of M/s Austral Coke and Projects Limited - II"
+        },
+        {
+          "title": "SEBI Order for Compliance – Completion Order for Recovery Certificate No. 8484 of 2024 against NARENDRABHAI AMIN (PAN- AMGPA3864Q) in the matter of M/s Austral Coke and Projects Limited - II",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/sebi-order-for-compliance-completion-order-for-recovery-certificate-no-8484-of-2024-against-narendrabhai-amin-pan-amgpa3864q-in-the-matter-of-m-s-austral-coke-and-projects-limited-ii_105437.html",
+          "published_at": "26 Oct, 2026 +0530",
+          "summary": "SEBI Order for Compliance – Completion Order for Recovery Certificate No. 8484 of 2024 against NARENDRABHAI AMIN (PAN- AMGPA3864Q) in the matter of M/s Austral Coke and Projects Limited - II"
+        },
+        {
+          "title": "Order in the matter of Avadhut Sathe Trading Academy Private Limited",
+          "url": "https://www.sebi.gov.in/enforcement/orders/oct-2026/order-in-the-matter-of-avadhut-sathe-trading-academy-private-limited_105413.html",
+          "published_at": "23 Oct, 2026 +0530",
+          "summary": "Order in the matter of Avadhut Sathe Trading Academy Private Limited"
+        },
+        {
+          "title": "Certificate No. RC9307 of 2026 Notice of Demand in respect of Sri Salasar Suppliers Pvt. Ltd. (PAN: AADCS8457R) in the matter of Decillion Finance Limited",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/certificate-no-rc9307-of-2026-notice-of-demand-in-respect-of-sri-salasar-suppliers-pvt-ltd-pan-aadcs8457r-in-the-matter-of-decillion-finance-limited_105388.html",
+          "published_at": "22 Oct, 2026 +0530",
+          "summary": "Certificate No. RC9307 of 2026 Notice of Demand in respect of Sri Salasar Suppliers Pvt. Ltd. (PAN: AADCS8457R) in the matter of Decillion Finance Limited"
+        },
+        {
+          "title": "Release Order - Certificate No. RC842 of 2015 in respect of Mr. Jyotiranjan Panda (PAN: BEAPP0928K) in the matter of Magnox Infraprojects Limited",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/release-order-certificate-no-rc842-of-2015-in-respect-of-mr-jyotiranjan-panda-pan-beapp0928k-in-the-matter-of-magnox-infraprojects-limited_105386.html",
+          "published_at": "22 Oct, 2026 +0530",
+          "summary": "Release Order - Certificate No. RC842 of 2015 in respect of Mr. Jyotiranjan Panda (PAN: BEAPP0928K) in the matter of Magnox Infraprojects Limited"
+        },
+        {
+          "title": "SEBI Order for Compliance - General Remittance Order dated 22.10.2026 in Recovery Certificate No. 3883 of 2021 issued against Arrow Asia Stock Broking Limited  in the matter of Kausambi Vanijya Ltd. (now known as Golden Bull Research and Growth Ltd)",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/sebi-order-for-compliance-general-remittance-order-dated-22-10-2026-in-recovery-certificate-no-3883-of-2021-issued-against-arrow-asia-stock-broking-limited-in-the-matter-of-kausambi-vanijya-ltd-_105384.html",
+          "published_at": "22 Oct, 2026 +0530",
+          "summary": "SEBI Order for Compliance - General Remittance Order dated 22.10.2026 in Recovery Certificate No. 3883 of 2021 issued against Arrow Asia Stock Broking Limited  in the matter of Kausambi Vanijya Ltd. (now known as Golden Bull Research and Growth Ltd)"
+        },
+        {
+          "title": "SEBI Order for Compliance Notice of Attachment Demat Account and Mutual Fund Folio(S) for Recovery Certificate No.7137 of 2023 against Karan Subhashchandra Ravde in the matter of India Infraspace Limited",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/sebi-order-for-compliance-notice-of-attachment-demat-account-and-mutual-fund-folio-s-for-recovery-certificate-no-7137-of-2023-against-karan-subhashchandra-ravde-in-the-matter-of-india-infraspace-limi-_105382.html",
+          "published_at": "22 Oct, 2026 +0530",
+          "summary": "SEBI Order for Compliance Notice of Attachment Demat Account and Mutual Fund Folio(S) for Recovery Certificate No.7137 of 2023 against Karan Subhashchandra Ravde in the matter of India Infraspace Limited"
+        },
+        {
+          "title": "SEBI Order for Compliance Notice of Attachment of Bank/Post office Account for Recovery Certificate No.7137 of 2023 against Karan Subhashchandra Ravde in the matter of India Infraspace Limited",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/sebi-order-for-compliance-notice-of-attachment-of-bank-post-office-account-for-recovery-certificate-no-7137-of-2023-against-karan-subhashchandra-ravde-in-the-matter-of-india-infraspace-limited_105379.html",
+          "published_at": "22 Oct, 2026 +0530",
+          "summary": "SEBI Order for Compliance Notice of Attachment of Bank/Post office Account for Recovery Certificate No.7137 of 2023 against Karan Subhashchandra Ravde in the matter of India Infraspace Limited"
+        },
+        {
+          "title": "General Remittance Order under Recovery Certificate No. 9290 of 2026 dated 22.10.2026 issued against Harsha Ishvarbhai Solanki (PAN: DCXPS3726R), Khushbu Arjunbhai Padhiyar (PAN: EBFPP6804K), Nitaben Babulal Khalas (PAN: BZVPK9515P), Nimeshkumar Baldevbhai Parmar (PAN: CDUPP7466C), Taraben Kirankumar Padhiyar (PAN: CXSPP4797A), Ravi Dipakbhai Barupal (PAN: AOBPB8419F), Rakeshbhai Kishanbhai Pandya (PAN: CUMPP3101K), Jayesh Ganpatlal Pansal (PAN: AWUPP5121F), Rajaniben Jayeshbhai Pansal (PAN: FPTPP7859P), Bhavika Prakash Rathod (PAN: BPDPR8645R), Rita Arvindbhai Rangi (PAN: DYHPR5253J), Badamilal Banshilal Garg (PAN: AWVPG2759F), Lataben Narotambhai Rangi (PAN: AYRPR7467F), Navin Shankarlal Tank (PAN: AFJPT4067J), Vishnu Shantibhai Parmar (PAN: CDHPP8536J), Komal Vaghaji Chauhan (PAN: BHYPC1780R), Dayaben Marvadi (PAN: DCEPM0246P), B B Commercial Ltd (PAN: AABCB4535B), Bhargaviben Shamalbhai Raval (PAN: ATEPR0799N), Prakash Chunilal Mudethiya (PAN: AUOPM4259K) and Ramnath Sharma (PAN: IBYPS8699E) in the matter of trading activity in the scrip of ANI Integrated Services Limited",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/general-remittance-order-under-recovery-certificate-no-9290-of-2026-dated-22-10-2026-issued-against-harsha-ishvarbhai-solanki-pan-dcxps3726r-khushbu-arjunbhai-padhiyar-pan-ebfpp6804k-nitaben-_105371.html",
+          "published_at": "22 Oct, 2026 +0530",
+          "summary": "General Remittance Order under Recovery Certificate No. 9290 of 2026 dated 22.10.2026 issued against Harsha Ishvarbhai Solanki (PAN: DCXPS3726R), Khushbu Arjunbhai Padhiyar (PAN: EBFPP6804K), Nitaben Babulal Khalas (PAN: BZVPK9515P), Nimeshkumar Baldevbhai Parmar (PAN: CDUPP7466C), Taraben Kirankumar Padhiyar (PAN: CXSPP4797A), Ravi Dipakbhai Barupal (PAN: AOBPB8419F), Rakeshbhai Kishanbhai Pandya (PAN: CUMPP3101K), Jayesh Ganpatlal Pansal (PAN: AWUPP5121F), Rajaniben Jayeshbhai Pansal (PAN: FPT"
+        },
+        {
+          "title": "Notice of Demand dated October 21, 2026 against Subair P (PAN: BDBPP7195N) in the matter of M/s Inditrade Capital Limited (formerly known as M/s JRG Securities Ltd.) under RC No. 9306 of 2026",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-demand-dated-october-21-2026-against-subair-p-pan-bdbpp7195n-in-the-matter-of-m-s-inditrade-capital-limited-formerly-known-as-m-s-jrg-securities-ltd-under-rc-no-9306-of-2026_105398.html",
+          "published_at": "21 Oct, 2026 +0530",
+          "summary": "Notice of Demand dated October 21, 2026 against Subair P (PAN: BDBPP7195N) in the matter of M/s Inditrade Capital Limited (formerly known as M/s JRG Securities Ltd.) under RC No. 9306 of 2026"
+        },
+        {
+          "title": "Completion of Recovery Certificate No. 6665 of 2023 dated June 13, 2023 issued to Shubhang Exports Ltd. [Defaulter] (PAN: AAJCS1526R) in the matter of Sulabh Engineers & Services Limited.",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/completion-of-recovery-certificate-no-6665-of-2023-dated-june-13-2023-issued-to-shubhang-exports-ltd-defaulter-pan-aajcs1526r-in-the-matter-of-sulabh-engineers-and-services-limited-_105335.html",
+          "published_at": "19 Oct, 2026 +0530",
+          "summary": "Completion of Recovery Certificate No. 6665 of 2023 dated June 13, 2023 issued to Shubhang Exports Ltd. [Defaulter] (PAN: AAJCS1526R) in the matter of Sulabh Engineers & Services Limited."
+        }
+      ],
+      "price_action": {
+        "date": "2026-10-28",
+        "open": 257.1,
+        "high": 259.5,
+        "low": 252.8,
+        "close": 259.5,
+        "prev_close": 260.0,
+        "change_pct": -0.19,
+        "gap_pct": -1.12,
+        "intraday_range_pct": 2.58,
+        "volume": 15160025,
+        "avg_volume_20d": 22512920,
+        "volume_ratio": 0.67,
+        "sparkline": [
+          258.0,
+          264.15,
+          266.2,
+          262.3,
+          267.0,
+          265.8,
+          270.15,
+          268.0,
+          269.0,
+          265.2,
+          265.1,
+          262.75,
+          255.9,
+          268.9,
+          266.7,
+          265.7,
+          255.0,
+          266.0,
+          257.9,
+          261.0,
+          261.5,
+          263.9,
+          263.5,
+          260.8,
+          262.0,
+          258.9,
+          257.9,
+          260.5,
+          260.0,
+          259.5
+        ]
+      },
+      "analysis": {
+        "classification": "no_signal",
+        "primary_catalyst": null,
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
+        "flags": []
+      }
+    },
+    {
+      "symbol": "ITCHOTELS",
+      "name": "ITC Hotels Limited",
+      "sector": "Hospitality",
+      "notes": "Demerged from ITC, listed Jan 2025.",
+      "skip_catalysts": false,
+      "bse_announcements": [],
+      "nse_announcements": [],
+      "news": [
+        {
+          "title": "ITC Hotels Limited Just Beat Revenue Estimates By 8.2%",
+          "source": "Simply Wall St",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWkhUUjVkX1lreW9mT3RYODk0Q0tzTXdiWHVvSnJDMmxIaFdDWDFsbjZhcGhXVUhjX0hmWG5Jajl4elBIbElxdmFrazlTU1dNOXU1RTZuS3g1TmNzSDBFQTV2NE54MFBhT2t1eHM2OWJTemJnVUhKa0dBOER0S3NST1poVnZ4TGF0OVc3ZU5HcEdtcG9YakVVVENlZmVzb2ZyTzUwY19XcndKakJCUFJxNkhZYi1hZzAxWl9DX3Q3a2VmSVBTWjlZVUNodUJJcUZObHh1a0JR0gHbAUFVX3lxTE1MSzc3bjVQUkpTRlE1THpSUHlMNFViV05KUXVZeWt3amR6RDR4MjFOamZWU2Nmd1lVbWZoM29LNnNFWTgwRGU3eUVpaTFTUlNTaG4tN3lWMDV3Uk9SUmJNTmpuWThDejI4cHhrUl94UFVqUFhOaTJrYm1KTjFUZzVULVFpY0NMbGxMdHZfWjBiSGdQSFBOUDgwZk1sa3F4OWNubGNYVkVwSkhpWmxNUWZBU2h4RXlVQjJjR3hYQnUwUDVQMzFyZHpzeXZtdFBVY2g1bGVzLTE1eDFCYw?oc=5",
+          "published_at": "2026-10-29T00:55:20+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWkhUUjVkX1lreW9mT3RYODk0Q0tzTXdiWHVvSnJDMmxIaFdDWDFsbjZhcGhXVUhjX0hmWG5Jajl4elBIbElxdmFrazlTU1dNOXU1RTZuS3g1TmNzSDBFQTV2NE54MFBhT2t1eHM2OWJTemJnVUhKa0dBOER0S3NST1poVnZ4TGF0OVc3ZU5HcEdtcG9YakVVVENlZmVzb2ZyTzUwY19XcndKakJCUFJxNkhZYi1hZzAxWl9DX3Q3a2VmSVBTWjlZVUNodUJJcUZObHh1a0JR0gHbAUFVX3lxTE1MSzc3bjVQUkpTRlE1THpSUHlMNFViV05KUXVZeWt3amR6RD"
+        }
+      ],
+      "events": [
+        {
+          "subject": null,
+          "purpose": "Financial Results",
+          "date": "26-Oct-2026",
+          "details": "To consider and approve the financial results for the period ended September 30, 2026"
+        }
+      ],
+      "sebi_mentions": [
+        {
+          "title": "Adjudication Order in the matter of Swaraj Shares and Securities Private Limited",
+          "url": "https://www.sebi.gov.in/enforcement/orders/oct-2026/adjudication-order-in-the-matter-of-swaraj-shares-and-securities-private-limited_105474.html",
+          "published_at": "28 Oct, 2026 +0530",
+          "summary": "Adjudication Order in the matter of Swaraj Shares and Securities Private Limited"
+        },
+        {
+          "title": "Order in the matter of role of Axis Capital Limited in providing guarantee to the NCDs of Sojo Infotel Pvt. Ltd.",
+          "url": "https://www.sebi.gov.in/enforcement/orders/oct-2026/order-in-the-matter-of-role-of-axis-capital-limited-in-providing-guarantee-to-the-ncds-of-sojo-infotel-pvt-ltd-_105464.html",
+          "published_at": "28 Oct, 2026 +0530",
+          "summary": "Order in the matter of role of Axis Capital Limited in providing guarantee to the NCDs of Sojo Infotel Pvt. Ltd."
+        },
+        {
+          "title": "SEBI Order for Compliance - Release Order for Recovery Certificate No. 8484 of 2024 against NARENDRABHAI AMIN (PAN- AMGPA3864Q) in the matter of M/s Austral Coke and Projects Limited - II",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/sebi-order-for-compliance-release-order-for-recovery-certificate-no-8484-of-2024-against-narendrabhai-amin-pan-amgpa3864q-in-the-matter-of-m-s-austral-coke-and-projects-limited-ii_105441.html",
+          "published_at": "26 Oct, 2026 +0530",
+          "summary": "SEBI Order for Compliance - Release Order for Recovery Certificate No. 8484 of 2024 against NARENDRABHAI AMIN (PAN- AMGPA3864Q) in the matter of M/s Austral Coke and Projects Limited - II"
+        },
+        {
+          "title": "SEBI Order for Compliance – Completion Order for Recovery Certificate No. 8484 of 2024 against NARENDRABHAI AMIN (PAN- AMGPA3864Q) in the matter of M/s Austral Coke and Projects Limited - II",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/sebi-order-for-compliance-completion-order-for-recovery-certificate-no-8484-of-2024-against-narendrabhai-amin-pan-amgpa3864q-in-the-matter-of-m-s-austral-coke-and-projects-limited-ii_105437.html",
+          "published_at": "26 Oct, 2026 +0530",
+          "summary": "SEBI Order for Compliance – Completion Order for Recovery Certificate No. 8484 of 2024 against NARENDRABHAI AMIN (PAN- AMGPA3864Q) in the matter of M/s Austral Coke and Projects Limited - II"
+        },
+        {
+          "title": "Order in the matter of Avadhut Sathe Trading Academy Private Limited",
+          "url": "https://www.sebi.gov.in/enforcement/orders/oct-2026/order-in-the-matter-of-avadhut-sathe-trading-academy-private-limited_105413.html",
+          "published_at": "23 Oct, 2026 +0530",
+          "summary": "Order in the matter of Avadhut Sathe Trading Academy Private Limited"
+        },
+        {
+          "title": "Certificate No. RC9307 of 2026 Notice of Demand in respect of Sri Salasar Suppliers Pvt. Ltd. (PAN: AADCS8457R) in the matter of Decillion Finance Limited",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/certificate-no-rc9307-of-2026-notice-of-demand-in-respect-of-sri-salasar-suppliers-pvt-ltd-pan-aadcs8457r-in-the-matter-of-decillion-finance-limited_105388.html",
+          "published_at": "22 Oct, 2026 +0530",
+          "summary": "Certificate No. RC9307 of 2026 Notice of Demand in respect of Sri Salasar Suppliers Pvt. Ltd. (PAN: AADCS8457R) in the matter of Decillion Finance Limited"
+        },
+        {
+          "title": "Release Order - Certificate No. RC842 of 2015 in respect of Mr. Jyotiranjan Panda (PAN: BEAPP0928K) in the matter of Magnox Infraprojects Limited",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/release-order-certificate-no-rc842-of-2015-in-respect-of-mr-jyotiranjan-panda-pan-beapp0928k-in-the-matter-of-magnox-infraprojects-limited_105386.html",
+          "published_at": "22 Oct, 2026 +0530",
+          "summary": "Release Order - Certificate No. RC842 of 2015 in respect of Mr. Jyotiranjan Panda (PAN: BEAPP0928K) in the matter of Magnox Infraprojects Limited"
+        },
+        {
+          "title": "SEBI Order for Compliance - General Remittance Order dated 22.10.2026 in Recovery Certificate No. 3883 of 2021 issued against Arrow Asia Stock Broking Limited  in the matter of Kausambi Vanijya Ltd. (now known as Golden Bull Research and Growth Ltd)",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/sebi-order-for-compliance-general-remittance-order-dated-22-10-2026-in-recovery-certificate-no-3883-of-2021-issued-against-arrow-asia-stock-broking-limited-in-the-matter-of-kausambi-vanijya-ltd-_105384.html",
+          "published_at": "22 Oct, 2026 +0530",
+          "summary": "SEBI Order for Compliance - General Remittance Order dated 22.10.2026 in Recovery Certificate No. 3883 of 2021 issued against Arrow Asia Stock Broking Limited  in the matter of Kausambi Vanijya Ltd. (now known as Golden Bull Research and Growth Ltd)"
+        },
+        {
+          "title": "SEBI Order for Compliance Notice of Attachment Demat Account and Mutual Fund Folio(S) for Recovery Certificate No.7137 of 2023 against Karan Subhashchandra Ravde in the matter of India Infraspace Limited",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/sebi-order-for-compliance-notice-of-attachment-demat-account-and-mutual-fund-folio-s-for-recovery-certificate-no-7137-of-2023-against-karan-subhashchandra-ravde-in-the-matter-of-india-infraspace-limi-_105382.html",
+          "published_at": "22 Oct, 2026 +0530",
+          "summary": "SEBI Order for Compliance Notice of Attachment Demat Account and Mutual Fund Folio(S) for Recovery Certificate No.7137 of 2023 against Karan Subhashchandra Ravde in the matter of India Infraspace Limited"
+        },
+        {
+          "title": "SEBI Order for Compliance Notice of Attachment of Bank/Post office Account for Recovery Certificate No.7137 of 2023 against Karan Subhashchandra Ravde in the matter of India Infraspace Limited",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/sebi-order-for-compliance-notice-of-attachment-of-bank-post-office-account-for-recovery-certificate-no-7137-of-2023-against-karan-subhashchandra-ravde-in-the-matter-of-india-infraspace-limited_105379.html",
+          "published_at": "22 Oct, 2026 +0530",
+          "summary": "SEBI Order for Compliance Notice of Attachment of Bank/Post office Account for Recovery Certificate No.7137 of 2023 against Karan Subhashchandra Ravde in the matter of India Infraspace Limited"
+        },
+        {
+          "title": "General Remittance Order under Recovery Certificate No. 9290 of 2026 dated 22.10.2026 issued against Harsha Ishvarbhai Solanki (PAN: DCXPS3726R), Khushbu Arjunbhai Padhiyar (PAN: EBFPP6804K), Nitaben Babulal Khalas (PAN: BZVPK9515P), Nimeshkumar Baldevbhai Parmar (PAN: CDUPP7466C), Taraben Kirankumar Padhiyar (PAN: CXSPP4797A), Ravi Dipakbhai Barupal (PAN: AOBPB8419F), Rakeshbhai Kishanbhai Pandya (PAN: CUMPP3101K), Jayesh Ganpatlal Pansal (PAN: AWUPP5121F), Rajaniben Jayeshbhai Pansal (PAN: FPTPP7859P), Bhavika Prakash Rathod (PAN: BPDPR8645R), Rita Arvindbhai Rangi (PAN: DYHPR5253J), Badamilal Banshilal Garg (PAN: AWVPG2759F), Lataben Narotambhai Rangi (PAN: AYRPR7467F), Navin Shankarlal Tank (PAN: AFJPT4067J), Vishnu Shantibhai Parmar (PAN: CDHPP8536J), Komal Vaghaji Chauhan (PAN: BHYPC1780R), Dayaben Marvadi (PAN: DCEPM0246P), B B Commercial Ltd (PAN: AABCB4535B), Bhargaviben Shamalbhai Raval (PAN: ATEPR0799N), Prakash Chunilal Mudethiya (PAN: AUOPM4259K) and Ramnath Sharma (PAN: IBYPS8699E) in the matter of trading activity in the scrip of ANI Integrated Services Limited",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/general-remittance-order-under-recovery-certificate-no-9290-of-2026-dated-22-10-2026-issued-against-harsha-ishvarbhai-solanki-pan-dcxps3726r-khushbu-arjunbhai-padhiyar-pan-ebfpp6804k-nitaben-_105371.html",
+          "published_at": "22 Oct, 2026 +0530",
+          "summary": "General Remittance Order under Recovery Certificate No. 9290 of 2026 dated 22.10.2026 issued against Harsha Ishvarbhai Solanki (PAN: DCXPS3726R), Khushbu Arjunbhai Padhiyar (PAN: EBFPP6804K), Nitaben Babulal Khalas (PAN: BZVPK9515P), Nimeshkumar Baldevbhai Parmar (PAN: CDUPP7466C), Taraben Kirankumar Padhiyar (PAN: CXSPP4797A), Ravi Dipakbhai Barupal (PAN: AOBPB8419F), Rakeshbhai Kishanbhai Pandya (PAN: CUMPP3101K), Jayesh Ganpatlal Pansal (PAN: AWUPP5121F), Rajaniben Jayeshbhai Pansal (PAN: FPT"
+        },
+        {
+          "title": "Notice of Demand dated October 21, 2026 against Subair P (PAN: BDBPP7195N) in the matter of M/s Inditrade Capital Limited (formerly known as M/s JRG Securities Ltd.) under RC No. 9306 of 2026",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-demand-dated-october-21-2026-against-subair-p-pan-bdbpp7195n-in-the-matter-of-m-s-inditrade-capital-limited-formerly-known-as-m-s-jrg-securities-ltd-under-rc-no-9306-of-2026_105398.html",
+          "published_at": "21 Oct, 2026 +0530",
+          "summary": "Notice of Demand dated October 21, 2026 against Subair P (PAN: BDBPP7195N) in the matter of M/s Inditrade Capital Limited (formerly known as M/s JRG Securities Ltd.) under RC No. 9306 of 2026"
+        },
+        {
+          "title": "Completion of Recovery Certificate No. 6665 of 2023 dated June 13, 2023 issued to Shubhang Exports Ltd. [Defaulter] (PAN: AAJCS1526R) in the matter of Sulabh Engineers & Services Limited.",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/completion-of-recovery-certificate-no-6665-of-2023-dated-june-13-2023-issued-to-shubhang-exports-ltd-defaulter-pan-aajcs1526r-in-the-matter-of-sulabh-engineers-and-services-limited-_105335.html",
+          "published_at": "19 Oct, 2026 +0530",
+          "summary": "Completion of Recovery Certificate No. 6665 of 2023 dated June 13, 2023 issued to Shubhang Exports Ltd. [Defaulter] (PAN: AAJCS1526R) in the matter of Sulabh Engineers & Services Limited."
+        }
+      ],
+      "price_action": {
+        "date": "2026-10-28",
+        "open": 167.0,
+        "high": 168.1,
+        "low": 163.05,
+        "close": 165.1,
+        "prev_close": 166.3,
+        "change_pct": -0.72,
+        "gap_pct": 0.42,
+        "intraday_range_pct": 3.04,
+        "volume": 2948967,
+        "avg_volume_20d": 3556189,
+        "volume_ratio": 0.83,
+        "sparkline": [
+          152.22,
+          153.39,
+          154.33,
+          158.8,
+          155.86,
+          158.6,
+          161.23,
+          164.01,
+          161.9,
+          158.57,
+          160.53,
+          164.13,
+          158.51,
+          158.96,
+          160.21,
+          159.17,
+          154.63,
+          154.52,
+          153.91,
+          155.87,
+          156.87,
+          158.68,
+          162.48,
+          158.5,
+          156.18,
+          161.83,
+          156.25,
+          164.31,
+          166.3,
+          165.1
+        ]
+      },
+      "analysis": {
+        "classification": "no_signal",
+        "primary_catalyst": null,
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
+        "flags": []
+      }
+    },
+    {
+      "symbol": "LEMONTREE",
+      "name": "Lemon Tree Hotels Limited",
+      "sector": "Hospitality",
+      "notes": null,
+      "skip_catalysts": false,
+      "bse_announcements": [],
+      "nse_announcements": [],
+      "news": [
+        {
+          "title": "Lemon Tree Hotels (NSE:LEMONTREE) Signs Licence Agreement for 76-Room Lemon Tree Hotel in Sirhind, Punjab",
+          "source": "Kalkine India",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQM3dDSHVrc09sYWMwN2xhMmJjTmUyaVNtTGZKNWZhWEk2N250RVh6VWJ2Y0h2a2ItZVJGZjVrQlEwUnFTeWUtd09SOW9sY0xlYXhJNEpaMTktY3pFYWVCVlBialVXbmV6b1pWR082eU9RYk1NMTNwaHQxWFc2cUc0ODFUMlV5Q1BRc0JBMDFlaEYxT09GM2ZQNlVNbV9xamdyclRJd2w4bzQxOUJ4ZGhkZTBlZkczVjlTcUxiUktyek9zcThpMEF5UEhXTVRIc01vQ1l1dmQtSEtGdw?oc=5",
+          "published_at": "2026-10-28T07:12:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQM3dDSHVrc09sYWMwN2xhMmJjTmUyaVNtTGZKNWZhWEk2N250RVh6VWJ2Y0h2a2ItZVJGZjVrQlEwUnFTeWUtd09SOW9sY0xlYXhJNEpaMTktY3pFYWVCVlBialVXbmV6b1pWR082eU9RYk1NMTNwaHQxWFc2cUc0ODFUMlV5Q1BRc0JBMDFlaEYxT09GM2ZQNlVNbV9xamdyclRJd2w4bzQxOUJ4ZGhkZTBlZkczVjlTcUxiUktyek9zcThpMEF5UEhXTVRIc01vQ1l1dmQtSEtGdw?oc=5\" target=\"_blank\">Lemon Tree Hotels (NSE:LEMONTREE)"
+        }
+      ],
+      "events": [],
+      "sebi_mentions": [],
+      "price_action": {
+        "date": "2026-10-28",
+        "open": 106.5,
+        "high": 108.6,
+        "low": 104.35,
+        "close": NaN,
+        "prev_close": 106.53,
+        "change_pct": NaN,
+        "gap_pct": -0.03,
+        "intraday_range_pct": 3.99,
+        "volume": 8644080,
+        "avg_volume_20d": 4667066,
+        "volume_ratio": 1.85,
+        "sparkline": [
+          102.58,
+          103.26,
+          104.06,
+          106.47,
+          105.99,
+          107.51,
+          107.92,
+          106.72,
+          106.15,
+          103.82,
+          104.17,
+          104.25,
+          107.67,
+          107.86,
+          110.12,
+          112.52,
+          110.05,
+          110.43,
+          110.69,
+          111.86,
+          111.46,
+          112.5,
+          113.42,
+          111.67,
+          109.82,
+          110.95,
+          108.94,
+          110.14,
+          106.53,
+          NaN
+        ]
+      },
+      "analysis": {
+        "classification": "no_signal",
+        "primary_catalyst": null,
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
+        "flags": []
+      }
+    },
+    {
+      "symbol": "FINPIPE",
+      "name": "Finolex Industries Limited",
+      "sector": "Plastics / Pipes",
+      "notes": null,
+      "skip_catalysts": false,
+      "bse_announcements": [],
+      "nse_announcements": [
+        {
+          "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "category": "Plastic And Plastic Products",
+          "more_info": "Finolex Industries Limited has informed the Exchange about Schedule of meet",
+          "pdf_url": "https://nsearchives.nseindia.com/corporate/FINPIPE2_28102026114310_Conference_call_intimations.pdf",
+          "attached_at": "28-Oct-2026 11:43:29",
+          "source": "NSE"
+        }
+      ],
+      "news": [],
+      "events": [
+        {
+          "subject": null,
+          "purpose": "Financial Results",
+          "date": "30-Oct-2026",
+          "details": "To consider and approve the Un-audited (Standalone and Consolidated) Financial Results of the Company for the Quarter and Half Year ended September 30, 2026"
+        }
+      ],
+      "sebi_mentions": [],
+      "price_action": {
+        "date": "2026-10-28",
+        "open": 141.01,
+        "high": 142.96,
+        "low": 140.1,
+        "close": 141.24,
+        "prev_close": 141.45,
+        "change_pct": -0.15,
+        "gap_pct": -0.31,
+        "intraday_range_pct": 2.02,
+        "volume": 373014,
+        "avg_volume_20d": 398416,
+        "volume_ratio": 0.94,
+        "sparkline": [
+          151.33,
+          151.05,
+          154.43,
+          154.63,
+          152.16,
+          152.94,
+          154.16,
+          154.04,
+          154.16,
+          151.61,
+          151.15,
+          151.48,
+          150.49,
+          149.31,
+          154.72,
+          153.91,
+          149.76,
+          151.16,
+          151.58,
+          151.34,
+          151.6,
+          154.75,
+          153.64,
+          151.3,
+          147.92,
+          148.03,
+          142.4,
+          141.91,
+          141.45,
+          141.24
+        ]
+      },
+      "analysis": {
+        "classification": "no_signal",
+        "primary_catalyst": null,
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
+        "flags": []
+      }
+    },
+    {
+      "symbol": "EBGNG",
+      "name": "GNG Electronics Limited",
+      "sector": "Electronics Refurbishing",
+      "notes": "Listed Jul-2025. NSE symbol is EBGNG (not GNG).",
+      "skip_catalysts": false,
+      "bse_announcements": [],
+      "nse_announcements": [],
+      "news": [],
+      "events": [],
+      "sebi_mentions": [
+        {
+          "title": "Adjudication Order in the matter of Swaraj Shares and Securities Private Limited",
+          "url": "https://www.sebi.gov.in/enforcement/orders/oct-2026/adjudication-order-in-the-matter-of-swaraj-shares-and-securities-private-limited_105474.html",
+          "published_at": "28 Oct, 2026 +0530",
+          "summary": "Adjudication Order in the matter of Swaraj Shares and Securities Private Limited"
+        },
+        {
+          "title": "Order in the matter of role of Axis Capital Limited in providing guarantee to the NCDs of Sojo Infotel Pvt. Ltd.",
+          "url": "https://www.sebi.gov.in/enforcement/orders/oct-2026/order-in-the-matter-of-role-of-axis-capital-limited-in-providing-guarantee-to-the-ncds-of-sojo-infotel-pvt-ltd-_105464.html",
+          "published_at": "28 Oct, 2026 +0530",
+          "summary": "Order in the matter of role of Axis Capital Limited in providing guarantee to the NCDs of Sojo Infotel Pvt. Ltd."
+        },
+        {
+          "title": "SEBI Order for Compliance - Release Order for Recovery Certificate No. 8484 of 2024 against NARENDRABHAI AMIN (PAN- AMGPA3864Q) in the matter of M/s Austral Coke and Projects Limited - II",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/sebi-order-for-compliance-release-order-for-recovery-certificate-no-8484-of-2024-against-narendrabhai-amin-pan-amgpa3864q-in-the-matter-of-m-s-austral-coke-and-projects-limited-ii_105441.html",
+          "published_at": "26 Oct, 2026 +0530",
+          "summary": "SEBI Order for Compliance - Release Order for Recovery Certificate No. 8484 of 2024 against NARENDRABHAI AMIN (PAN- AMGPA3864Q) in the matter of M/s Austral Coke and Projects Limited - II"
+        },
+        {
+          "title": "SEBI Order for Compliance – Completion Order for Recovery Certificate No. 8484 of 2024 against NARENDRABHAI AMIN (PAN- AMGPA3864Q) in the matter of M/s Austral Coke and Projects Limited - II",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/sebi-order-for-compliance-completion-order-for-recovery-certificate-no-8484-of-2024-against-narendrabhai-amin-pan-amgpa3864q-in-the-matter-of-m-s-austral-coke-and-projects-limited-ii_105437.html",
+          "published_at": "26 Oct, 2026 +0530",
+          "summary": "SEBI Order for Compliance – Completion Order for Recovery Certificate No. 8484 of 2024 against NARENDRABHAI AMIN (PAN- AMGPA3864Q) in the matter of M/s Austral Coke and Projects Limited - II"
+        },
+        {
+          "title": "Order in the matter of Avadhut Sathe Trading Academy Private Limited",
+          "url": "https://www.sebi.gov.in/enforcement/orders/oct-2026/order-in-the-matter-of-avadhut-sathe-trading-academy-private-limited_105413.html",
+          "published_at": "23 Oct, 2026 +0530",
+          "summary": "Order in the matter of Avadhut Sathe Trading Academy Private Limited"
+        },
+        {
+          "title": "Certificate No. RC9307 of 2026 Notice of Demand in respect of Sri Salasar Suppliers Pvt. Ltd. (PAN: AADCS8457R) in the matter of Decillion Finance Limited",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/certificate-no-rc9307-of-2026-notice-of-demand-in-respect-of-sri-salasar-suppliers-pvt-ltd-pan-aadcs8457r-in-the-matter-of-decillion-finance-limited_105388.html",
+          "published_at": "22 Oct, 2026 +0530",
+          "summary": "Certificate No. RC9307 of 2026 Notice of Demand in respect of Sri Salasar Suppliers Pvt. Ltd. (PAN: AADCS8457R) in the matter of Decillion Finance Limited"
+        },
+        {
+          "title": "Release Order - Certificate No. RC842 of 2015 in respect of Mr. Jyotiranjan Panda (PAN: BEAPP0928K) in the matter of Magnox Infraprojects Limited",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/release-order-certificate-no-rc842-of-2015-in-respect-of-mr-jyotiranjan-panda-pan-beapp0928k-in-the-matter-of-magnox-infraprojects-limited_105386.html",
+          "published_at": "22 Oct, 2026 +0530",
+          "summary": "Release Order - Certificate No. RC842 of 2015 in respect of Mr. Jyotiranjan Panda (PAN: BEAPP0928K) in the matter of Magnox Infraprojects Limited"
+        },
+        {
+          "title": "SEBI Order for Compliance - General Remittance Order dated 22.10.2026 in Recovery Certificate No. 3883 of 2021 issued against Arrow Asia Stock Broking Limited  in the matter of Kausambi Vanijya Ltd. (now known as Golden Bull Research and Growth Ltd)",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/sebi-order-for-compliance-general-remittance-order-dated-22-10-2026-in-recovery-certificate-no-3883-of-2021-issued-against-arrow-asia-stock-broking-limited-in-the-matter-of-kausambi-vanijya-ltd-_105384.html",
+          "published_at": "22 Oct, 2026 +0530",
+          "summary": "SEBI Order for Compliance - General Remittance Order dated 22.10.2026 in Recovery Certificate No. 3883 of 2021 issued against Arrow Asia Stock Broking Limited  in the matter of Kausambi Vanijya Ltd. (now known as Golden Bull Research and Growth Ltd)"
+        },
+        {
+          "title": "SEBI Order for Compliance Notice of Attachment Demat Account and Mutual Fund Folio(S) for Recovery Certificate No.7137 of 2023 against Karan Subhashchandra Ravde in the matter of India Infraspace Limited",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/sebi-order-for-compliance-notice-of-attachment-demat-account-and-mutual-fund-folio-s-for-recovery-certificate-no-7137-of-2023-against-karan-subhashchandra-ravde-in-the-matter-of-india-infraspace-limi-_105382.html",
+          "published_at": "22 Oct, 2026 +0530",
+          "summary": "SEBI Order for Compliance Notice of Attachment Demat Account and Mutual Fund Folio(S) for Recovery Certificate No.7137 of 2023 against Karan Subhashchandra Ravde in the matter of India Infraspace Limited"
+        },
+        {
+          "title": "SEBI Order for Compliance Notice of Attachment of Bank/Post office Account for Recovery Certificate No.7137 of 2023 against Karan Subhashchandra Ravde in the matter of India Infraspace Limited",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/sebi-order-for-compliance-notice-of-attachment-of-bank-post-office-account-for-recovery-certificate-no-7137-of-2023-against-karan-subhashchandra-ravde-in-the-matter-of-india-infraspace-limited_105379.html",
+          "published_at": "22 Oct, 2026 +0530",
+          "summary": "SEBI Order for Compliance Notice of Attachment of Bank/Post office Account for Recovery Certificate No.7137 of 2023 against Karan Subhashchandra Ravde in the matter of India Infraspace Limited"
+        },
+        {
+          "title": "General Remittance Order under Recovery Certificate No. 9290 of 2026 dated 22.10.2026 issued against Harsha Ishvarbhai Solanki (PAN: DCXPS3726R), Khushbu Arjunbhai Padhiyar (PAN: EBFPP6804K), Nitaben Babulal Khalas (PAN: BZVPK9515P), Nimeshkumar Baldevbhai Parmar (PAN: CDUPP7466C), Taraben Kirankumar Padhiyar (PAN: CXSPP4797A), Ravi Dipakbhai Barupal (PAN: AOBPB8419F), Rakeshbhai Kishanbhai Pandya (PAN: CUMPP3101K), Jayesh Ganpatlal Pansal (PAN: AWUPP5121F), Rajaniben Jayeshbhai Pansal (PAN: FPTPP7859P), Bhavika Prakash Rathod (PAN: BPDPR8645R), Rita Arvindbhai Rangi (PAN: DYHPR5253J), Badamilal Banshilal Garg (PAN: AWVPG2759F), Lataben Narotambhai Rangi (PAN: AYRPR7467F), Navin Shankarlal Tank (PAN: AFJPT4067J), Vishnu Shantibhai Parmar (PAN: CDHPP8536J), Komal Vaghaji Chauhan (PAN: BHYPC1780R), Dayaben Marvadi (PAN: DCEPM0246P), B B Commercial Ltd (PAN: AABCB4535B), Bhargaviben Shamalbhai Raval (PAN: ATEPR0799N), Prakash Chunilal Mudethiya (PAN: AUOPM4259K) and Ramnath Sharma (PAN: IBYPS8699E) in the matter of trading activity in the scrip of ANI Integrated Services Limited",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/general-remittance-order-under-recovery-certificate-no-9290-of-2026-dated-22-10-2026-issued-against-harsha-ishvarbhai-solanki-pan-dcxps3726r-khushbu-arjunbhai-padhiyar-pan-ebfpp6804k-nitaben-_105371.html",
+          "published_at": "22 Oct, 2026 +0530",
+          "summary": "General Remittance Order under Recovery Certificate No. 9290 of 2026 dated 22.10.2026 issued against Harsha Ishvarbhai Solanki (PAN: DCXPS3726R), Khushbu Arjunbhai Padhiyar (PAN: EBFPP6804K), Nitaben Babulal Khalas (PAN: BZVPK9515P), Nimeshkumar Baldevbhai Parmar (PAN: CDUPP7466C), Taraben Kirankumar Padhiyar (PAN: CXSPP4797A), Ravi Dipakbhai Barupal (PAN: AOBPB8419F), Rakeshbhai Kishanbhai Pandya (PAN: CUMPP3101K), Jayesh Ganpatlal Pansal (PAN: AWUPP5121F), Rajaniben Jayeshbhai Pansal (PAN: FPT"
+        },
+        {
+          "title": "Notice of Demand dated October 21, 2026 against Subair P (PAN: BDBPP7195N) in the matter of M/s Inditrade Capital Limited (formerly known as M/s JRG Securities Ltd.) under RC No. 9306 of 2026",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-demand-dated-october-21-2026-against-subair-p-pan-bdbpp7195n-in-the-matter-of-m-s-inditrade-capital-limited-formerly-known-as-m-s-jrg-securities-ltd-under-rc-no-9306-of-2026_105398.html",
+          "published_at": "21 Oct, 2026 +0530",
+          "summary": "Notice of Demand dated October 21, 2026 against Subair P (PAN: BDBPP7195N) in the matter of M/s Inditrade Capital Limited (formerly known as M/s JRG Securities Ltd.) under RC No. 9306 of 2026"
+        },
+        {
+          "title": "Completion of Recovery Certificate No. 6665 of 2023 dated June 13, 2023 issued to Shubhang Exports Ltd. [Defaulter] (PAN: AAJCS1526R) in the matter of Sulabh Engineers & Services Limited.",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/completion-of-recovery-certificate-no-6665-of-2023-dated-june-13-2023-issued-to-shubhang-exports-ltd-defaulter-pan-aajcs1526r-in-the-matter-of-sulabh-engineers-and-services-limited-_105335.html",
+          "published_at": "19 Oct, 2026 +0530",
+          "summary": "Completion of Recovery Certificate No. 6665 of 2023 dated June 13, 2023 issued to Shubhang Exports Ltd. [Defaulter] (PAN: AAJCS1526R) in the matter of Sulabh Engineers & Services Limited."
+        }
+      ],
+      "price_action": {
+        "date": "2026-10-28",
+        "open": 725.9,
+        "high": 732.55,
+        "low": 712.0,
+        "close": NaN,
+        "prev_close": 720.1,
+        "change_pct": NaN,
+        "gap_pct": 0.81,
+        "intraday_range_pct": 2.85,
+        "volume": 282677,
+        "avg_volume_20d": 789452,
+        "volume_ratio": 0.36,
+        "sparkline": [
+          671.45,
+          645.55,
+          661.65,
+          703.05,
+          690.45,
+          692.3,
+          715.15,
+          676.65,
+          669.0,
+          672.15,
+          674.8,
+          686.75,
+          704.7,
+          695.45,
+          685.15,
+          731.35,
+          692.15,
+          685.5,
+          698.25,
+          698.2,
+          729.4,
+          692.25,
+          708.05,
+          700.2,
+          670.4,
+          673.75,
+          682.5,
+          708.6,
+          720.1,
+          NaN
+        ]
+      },
+      "analysis": {
+        "classification": "no_signal",
+        "primary_catalyst": null,
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
+        "flags": []
+      }
+    },
+    {
+      "symbol": "SGBJUN31I",
+      "name": "Sovereign Gold Bond 2.50% June 2031 Series I",
+      "sector": "Sovereign Gold Bond",
+      "notes": "Tracks gold spot. No filings/earnings — price-only display.",
+      "skip_catalysts": true,
+      "bse_announcements": [],
+      "nse_announcements": [],
+      "news": [],
+      "events": [],
+      "sebi_mentions": [],
+      "price_action": {
+        "error": "insufficient_data"
+      },
+      "analysis": {
+        "classification": "price_only",
+        "primary_catalyst": null,
+        "analysis": "Price-tracking instrument (SGB/ETF). No catalyst correlation performed.",
+        "confidence": "high",
+        "flags": []
+      }
+    }
+  ]
+}
