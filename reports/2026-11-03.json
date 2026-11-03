@@ -1,0 +1,1593 @@
+{
+  "report_date": "2026-11-03",
+  "trading_day": "2026-11-02",
+  "generated_at": "2026-11-03T09:01:11.836490+05:30",
+  "stocks": [
+    {
+      "symbol": "TMCV",
+      "name": "Tata Motors Limited",
+      "sector": "Commercial Vehicles",
+      "notes": "Post-demerger CV business (trucks, buses, Iveco). Yahoo uses TMCV; NSE uses TATAMOTORS.",
+      "skip_catalysts": false,
+      "bse_announcements": [],
+      "nse_announcements": [],
+      "news": [],
+      "events": [],
+      "sebi_mentions": [],
+      "price_action": {
+        "date": "2026-11-02",
+        "open": 396.35,
+        "high": 409.75,
+        "low": 393.4,
+        "close": 401.4,
+        "prev_close": 396.35,
+        "change_pct": 1.27,
+        "gap_pct": 0.0,
+        "intraday_range_pct": 4.13,
+        "volume": 7436091,
+        "avg_volume_20d": 5901308,
+        "volume_ratio": 1.26,
+        "sparkline": [
+          442.9,
+          444.5,
+          440.1,
+          450.2,
+          437.15,
+          441.5,
+          432.95,
+          430.15,
+          421.65,
+          415.5,
+          426.8,
+          433.8,
+          427.9,
+          413.2,
+          410.3,
+          404.5,
+          416.95,
+          415.25,
+          422.8,
+          421.05,
+          418.75,
+          417.5,
+          414.25,
+          396.0,
+          384.05,
+          399.2,
+          399.7,
+          400.3,
+          396.35,
+          401.4
+        ]
+      },
+      "analysis": {
+        "classification": "no_signal",
+        "primary_catalyst": null,
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
+        "flags": []
+      }
+    },
+    {
+      "symbol": "TMPV",
+      "name": "Tata Motors Passenger Vehicles Limited",
+      "sector": "Passenger Vehicles",
+      "notes": "Post-demerger PV business (cars, EVs, JLR).",
+      "skip_catalysts": false,
+      "bse_announcements": [],
+      "nse_announcements": [],
+      "news": [],
+      "events": [],
+      "sebi_mentions": [],
+      "price_action": {
+        "date": "2026-11-02",
+        "open": 267.0,
+        "high": 274.0,
+        "low": 267.0,
+        "close": 272.4,
+        "prev_close": 265.4,
+        "change_pct": 2.64,
+        "gap_pct": 0.6,
+        "intraday_range_pct": 2.64,
+        "volume": 7287896,
+        "avg_volume_20d": 8351676,
+        "volume_ratio": 0.87,
+        "sparkline": [
+          303.8,
+          301.65,
+          300.05,
+          300.5,
+          295.0,
+          290.45,
+          281.75,
+          280.95,
+          283.5,
+          279.4,
+          288.65,
+          285.8,
+          283.0,
+          273.0,
+          279.9,
+          284.45,
+          285.85,
+          283.8,
+          287.05,
+          286.85,
+          278.0,
+          275.7,
+          270.0,
+          264.6,
+          263.7,
+          261.2,
+          263.6,
+          266.0,
+          265.4,
+          272.4
+        ]
+      },
+      "analysis": {
+        "classification": "no_signal",
+        "primary_catalyst": null,
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
+        "flags": []
+      }
+    },
+    {
+      "symbol": "ICICIBANK",
+      "name": "ICICI Bank Limited",
+      "sector": "Banking",
+      "notes": null,
+      "skip_catalysts": false,
+      "bse_announcements": [],
+      "nse_announcements": [],
+      "news": [
+        {
+          "title": "Weekly Recap: ICICIBANK deposits slowdown and API breach $2M transfers",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTmlpUlhTM0l6am9mRGhfc1lrOVVWRUc0QWFnXzRMYkgxb1EzZzdNUlh0ZlJubzhydnZqQV9PZXREWDB1MWFiWjdWeWhDbGZhRmlKYlRydlA4VllZX1g2NWlCejNnLXlCZmlmelJRT05UX2gxMU1RNlZ6b3pOT2hjY3kyM0RZWFRhOVBTMGZmQzZRV0pfYUpLaGh1ZFdWVnhlaXlOUVdYblo5VFdWeW15MVdoN0I2UTAxYzNERzVIQU96Mkhha211alBR?oc=5",
+          "published_at": "2026-11-02T01:00:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOTmlpUlhTM0l6am9mRGhfc1lrOVVWRUc0QWFnXzRMYkgxb1EzZzdNUlh0ZlJubzhydnZqQV9PZXREWDB1MWFiWjdWeWhDbGZhRmlKYlRydlA4VllZX1g2NWlCejNnLXlCZmlmelJRT05UX2gxMU1RNlZ6b3pOT2hjY3kyM0RZWFRhOVBTMGZmQzZRV0pfYUpLaGh1ZFdWVnhlaXlOUVdYblo5VFdWeW15MVdoN0I2UTAxYzNERzVIQU96Mkhha211alBR?oc=5\" target=\"_blank\">Weekly Recap: ICICIBANK deposits slowdown and API breac"
+        },
+        {
+          "title": "ICICI Bank Limited (IBN) Options Chain - Yahoo Finance",
+          "source": "Yahoo! Finance Canada",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMW5teE5kaTh4TTVfYTJLdVpPS3JSWTc0cDMzMmJ5UDE0SXNYdU5wQ0hscDZEellHSlk4bFNfOVNlV1EyalBXY0NWNTAtNlJVb2ZKb1NRZWdXdTJTanJoYXQxQWs2RTlfYUtrZ21lUWJXaDZTX2I5U3RHQVp5eHdFWXpvNC14Ujl4d29xV01fZzc?oc=5",
+          "published_at": "2026-11-02T08:15:28+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPMW5teE5kaTh4TTVfYTJLdVpPS3JSWTc0cDMzMmJ5UDE0SXNYdU5wQ0hscDZEellHSlk4bFNfOVNlV1EyalBXY0NWNTAtNlJVb2ZKb1NRZWdXdTJTanJoYXQxQWs2RTlfYUtrZ21lUWJXaDZTX2I5U3RHQVp5eHdFWXpvNC14Ujl4d29xV01fZzc?oc=5\" target=\"_blank\">ICICI Bank Limited (IBN) Options Chain - Yahoo Finance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo! Finance Canada</font>"
+        }
+      ],
+      "events": [],
+      "sebi_mentions": [
+        {
+          "title": "Notices of Attachment of Bank and Post Office accounts and Demat Accounts and mutual Fund Folios with AP Nos. 15863 and 15864 of 2026 dated October 30, 2026 against Jalaj Agrawal (PAN: AUDPA0226H) in the matter of market manipulation using social media in the scrip of Moksh Ornaments Limited under RC No. 9304 of 2026",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notices-of-attachment-of-bank-and-post-office-accounts-and-demat-accounts-and-mutual-fund-folios-with-ap-nos-15863-and-15864-of-2026-dated-october-30-2026-against-jalaj-agrawal-pan-audpa0226h-in-_105538.html",
+          "published_at": "30 Oct, 2026 +0530",
+          "summary": "Notices of Attachment of Bank and Post Office accounts and Demat Accounts and mutual Fund Folios with AP Nos. 15863 and 15864 of 2026 dated October 30, 2026 against Jalaj Agrawal (PAN: AUDPA0226H) in the matter of market manipulation using social media in the scrip of Moksh Ornaments Limited under RC No. 9304 of 2026"
+        }
+      ],
+      "price_action": {
+        "date": "2026-11-02",
+        "open": 1398.2,
+        "high": 1402.0,
+        "low": 1375.2,
+        "close": 1387.4,
+        "prev_close": 1398.0,
+        "change_pct": -0.76,
+        "gap_pct": 0.01,
+        "intraday_range_pct": 1.92,
+        "volume": 9043608,
+        "avg_volume_20d": 12566731,
+        "volume_ratio": 0.72,
+        "sparkline": [
+          1338.9,
+          1345.0,
+          1339.6,
+          1340.0,
+          1334.5,
+          1326.8,
+          1302.0,
+          1292.2,
+          1321.7,
+          1310.6,
+          1332.0,
+          1342.8,
+          1357.5,
+          1349.0,
+          1355.0,
+          1340.0,
+          1360.2,
+          1338.6,
+          1389.4,
+          1397.0,
+          1381.0,
+          1385.0,
+          1398.5,
+          1394.2,
+          1403.0,
+          1386.9,
+          1377.6,
+          1386.6,
+          1398.0,
+          1387.4
+        ]
+      },
+      "analysis": {
+        "classification": "no_signal",
+        "primary_catalyst": null,
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
+        "flags": []
+      }
+    },
+    {
+      "symbol": "HDFCLIFE",
+      "name": "HDFC Life Insurance Company Limited",
+      "sector": "Insurance",
+      "notes": "Assumed \"HDFC Live\" was HDFC Life. Tell me if you meant HDFC Bank.",
+      "skip_catalysts": false,
+      "bse_announcements": [],
+      "nse_announcements": [],
+      "news": [
+        {
+          "title": "HDFCLIFE FUTURES Price Chart — BSE:HDLFF2027",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1sbzdyN0J1cVNMTHNuR0ozZUU2QVlvdExxVk90ZDZqT05IS1ZwczBobHZiNU1rdmpRbk5acERmZEg5QVpLU2tVdld0TDhlYTJnblZJT0FDd0RER3B5ekxN?oc=5",
+          "published_at": "2026-11-02T20:53:58+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1sbzdyN0J1cVNMTHNuR0ozZUU2QVlvdExxVk90ZDZqT05IS1ZwczBobHZiNU1rdmpRbk5acERmZEg5QVpLU2tVdld0TDhlYTJnblZJT0FDd0RER3B5ekxN?oc=5\" target=\"_blank\">HDFCLIFE FUTURES Price Chart — BSE:HDLFF2027</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+        },
+        {
+          "title": "HDLFF2027 Latest News and Headlines",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5qVkdYeTVMdHRadnVCczFrSDNIMWpWLVdScWVXdUUxbldjTEFwMHhraGZxeERqT0Y5X1JHeUMyamJSRGJZQ09Gd2hDcDQxODdBc3AxY3FDT3RrWU1RZWFpdm9IYUx6M3RyUkMzV3FJS2EyN0hQT2pKdklQNA?oc=5",
+          "published_at": "2026-11-02T20:18:33+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5qVkdYeTVMdHRadnVCczFrSDNIMWpWLVdScWVXdUUxbldjTEFwMHhraGZxeERqT0Y5X1JHeUMyamJSRGJZQ09Gd2hDcDQxODdBc3AxY3FDT3RrWU1RZWFpdm9IYUx6M3RyUkMzV3FJS2EyN0hQT2pKdklQNA?oc=5\" target=\"_blank\">HDLFF2027 Latest News and Headlines</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+        }
+      ],
+      "events": [],
+      "sebi_mentions": [],
+      "price_action": {
+        "date": "2026-11-02",
+        "open": 524.8,
+        "high": 529.6,
+        "low": 518.7,
+        "close": 522.25,
+        "prev_close": 524.9,
+        "change_pct": -0.5,
+        "gap_pct": -0.02,
+        "intraday_range_pct": 2.08,
+        "volume": 891127,
+        "avg_volume_20d": 2607211,
+        "volume_ratio": 0.34,
+        "sparkline": [
+          550.95,
+          559.4,
+          559.2,
+          561.5,
+          526.9,
+          531.0,
+          531.6,
+          523.55,
+          521.2,
+          534.2,
+          531.0,
+          543.95,
+          546.05,
+          544.5,
+          556.65,
+          559.25,
+          560.0,
+          544.05,
+          550.55,
+          553.0,
+          545.5,
+          539.65,
+          528.35,
+          523.75,
+          519.0,
+          513.6,
+          514.1,
+          517.0,
+          524.9,
+          522.25
+        ]
+      },
+      "analysis": {
+        "classification": "no_signal",
+        "primary_catalyst": null,
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
+        "flags": []
+      }
+    },
+    {
+      "symbol": "BANDHANBNK",
+      "name": "Bandhan Bank Limited",
+      "sector": "Banking",
+      "notes": null,
+      "skip_catalysts": false,
+      "bse_announcements": [],
+      "nse_announcements": [],
+      "news": [
+        {
+          "title": "Bandhan Bank Limited (BANDHANBNK.NS) Seasonal returns chart - Yahoo Finance",
+          "source": "Yahoo Finance Singapore",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE80enJXTmhRQmE5aTNNd05IclJ1SHZYT1ZobUM4d2hKX0xHMjRnX1l4MW82QUNIcFpDU0VYVGpEZk9Bamx4ZzZKUzg2UDd4U0FLWXFiWWk4TGREWkNOS25vZ3RhTlNTODlrZjh1Vl9n?oc=5",
+          "published_at": "2026-11-02T16:06:02+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE80enJXTmhRQmE5aTNNd05IclJ1SHZYT1ZobUM4d2hKX0xHMjRnX1l4MW82QUNIcFpDU0VYVGpEZk9Bamx4ZzZKUzg2UDd4U0FLWXFiWWk4TGREWkNOS25vZ3RhTlNTODlrZjh1Vl9n?oc=5\" target=\"_blank\">Bandhan Bank Limited (BANDHANBNK.NS) Seasonal returns chart - Yahoo Finance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance Singapore</font>"
+        }
+      ],
+      "events": [
+        {
+          "subject": null,
+          "purpose": "Financial Results",
+          "date": "28-Oct-2026",
+          "details": "To consider and approve the Unaudited Financial Results of the Bank, for the Quarter and Half-Year ended September 30, 2026."
+        }
+      ],
+      "sebi_mentions": [
+        {
+          "title": "Notices of Attachment of Bank and Post Office accounts and Demat Accounts and mutual Fund Folios with AP Nos. 15863 and 15864 of 2026 dated October 30, 2026 against Jalaj Agrawal (PAN: AUDPA0226H) in the matter of market manipulation using social media in the scrip of Moksh Ornaments Limited under RC No. 9304 of 2026",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notices-of-attachment-of-bank-and-post-office-accounts-and-demat-accounts-and-mutual-fund-folios-with-ap-nos-15863-and-15864-of-2026-dated-october-30-2026-against-jalaj-agrawal-pan-audpa0226h-in-_105538.html",
+          "published_at": "30 Oct, 2026 +0530",
+          "summary": "Notices of Attachment of Bank and Post Office accounts and Demat Accounts and mutual Fund Folios with AP Nos. 15863 and 15864 of 2026 dated October 30, 2026 against Jalaj Agrawal (PAN: AUDPA0226H) in the matter of market manipulation using social media in the scrip of Moksh Ornaments Limited under RC No. 9304 of 2026"
+        }
+      ],
+      "price_action": {
+        "date": "2026-11-02",
+        "open": 154.55,
+        "high": 157.12,
+        "low": 154.16,
+        "close": 155.25,
+        "prev_close": 154.33,
+        "change_pct": 0.6,
+        "gap_pct": 0.14,
+        "intraday_range_pct": 1.92,
+        "volume": 4640350,
+        "avg_volume_20d": 13149173,
+        "volume_ratio": 0.35,
+        "sparkline": [
+          175.0,
+          179.0,
+          184.7,
+          191.38,
+          182.9,
+          187.7,
+          181.0,
+          185.31,
+          178.23,
+          176.0,
+          168.27,
+          164.15,
+          162.99,
+          155.54,
+          157.0,
+          157.5,
+          172.0,
+          168.58,
+          170.34,
+          167.5,
+          163.8,
+          159.1,
+          158.44,
+          149.89,
+          150.86,
+          151.91,
+          155.36,
+          161.84,
+          154.33,
+          155.25
+        ]
+      },
+      "analysis": {
+        "classification": "no_signal",
+        "primary_catalyst": null,
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
+        "flags": []
+      }
+    },
+    {
+      "symbol": "IDFCFIRSTB",
+      "name": "IDFC First Bank Limited",
+      "sector": "Banking",
+      "notes": null,
+      "skip_catalysts": false,
+      "bse_announcements": [],
+      "nse_announcements": [],
+      "news": [],
+      "events": [],
+      "sebi_mentions": [],
+      "price_action": {
+        "date": "2026-11-02",
+        "open": 72.0,
+        "high": 73.95,
+        "low": 71.9,
+        "close": 73.63,
+        "prev_close": 72.0,
+        "change_pct": 2.26,
+        "gap_pct": 0.0,
+        "intraday_range_pct": 2.85,
+        "volume": 11473091,
+        "avg_volume_20d": 17452730,
+        "volume_ratio": 0.66,
+        "sparkline": [
+          85.92,
+          85.8,
+          85.37,
+          87.9,
+          83.76,
+          83.8,
+          80.55,
+          79.46,
+          81.44,
+          80.39,
+          82.22,
+          81.56,
+          79.54,
+          78.46,
+          79.52,
+          79.44,
+          78.83,
+          78.74,
+          79.07,
+          78.08,
+          76.33,
+          75.06,
+          74.89,
+          72.3,
+          71.74,
+          71.36,
+          73.53,
+          73.38,
+          72.0,
+          73.63
+        ]
+      },
+      "analysis": {
+        "classification": "no_signal",
+        "primary_catalyst": null,
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
+        "flags": []
+      }
+    },
+    {
+      "symbol": "CGCL",
+      "name": "Capri Global Capital Limited",
+      "sector": "NBFC",
+      "notes": null,
+      "skip_catalysts": false,
+      "bse_announcements": [],
+      "nse_announcements": [
+        {
+          "headline": "Updates",
+          "category": null,
+          "more_info": "Capri Global Capital Limited has informed the Exchange regarding 'Redemption of Commercial Paper (BSE Listed)'.",
+          "pdf_url": "https://nsearchives.nseindia.com/corporate/CGCL_02112026153322_CP_Redemption_November2_2026.pdf",
+          "attached_at": "02-Nov-2026 15:33:37",
+          "source": "NSE"
+        }
+      ],
+      "news": [],
+      "events": [
+        {
+          "subject": null,
+          "purpose": "Financial Results",
+          "date": "27-Oct-2026",
+          "details": "To consider and approve the financial results for the period ended September 30, 2026"
+        }
+      ],
+      "sebi_mentions": [],
+      "price_action": {
+        "date": "2026-11-02",
+        "open": 230.23,
+        "high": 235.6,
+        "low": 225.55,
+        "close": NaN,
+        "prev_close": 230.24,
+        "change_pct": NaN,
+        "gap_pct": -0.0,
+        "intraday_range_pct": 4.37,
+        "volume": 9101229,
+        "avg_volume_20d": 6205221,
+        "volume_ratio": 1.47,
+        "sparkline": [
+          270.65,
+          268.85,
+          267.05,
+          268.6,
+          259.4,
+          253.7,
+          248.9,
+          246.9,
+          247.45,
+          249.23,
+          247.06,
+          246.88,
+          250.74,
+          241.54,
+          241.82,
+          241.02,
+          248.9,
+          247.91,
+          247.15,
+          247.56,
+          243.69,
+          238.54,
+          237.17,
+          235.84,
+          231.05,
+          234.25,
+          231.66,
+          231.61,
+          230.24,
+          NaN
+        ]
+      },
+      "analysis": {
+        "classification": "no_signal",
+        "primary_catalyst": null,
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
+        "flags": []
+      }
+    },
+    {
+      "symbol": "TATAPOWER",
+      "name": "Tata Power Company Limited",
+      "sector": "Power",
+      "notes": null,
+      "skip_catalysts": false,
+      "bse_announcements": [],
+      "nse_announcements": [
+        {
+          "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "category": "Power",
+          "more_info": "Tata Power Company Limited has informed the Exchange about Schedule of meet",
+          "pdf_url": "https://nsearchives.nseindia.com/corporate/KSTPCL_02112026171009_Analyst_Call_Q2FY27.pdf",
+          "attached_at": "02-Nov-2026 17:12:16",
+          "source": "NSE"
+        }
+      ],
+      "news": [],
+      "events": [],
+      "sebi_mentions": [],
+      "price_action": {
+        "date": "2026-11-02",
+        "open": 344.1,
+        "high": 356.75,
+        "low": 344.1,
+        "close": 355.9,
+        "prev_close": 345.05,
+        "change_pct": 3.14,
+        "gap_pct": -0.28,
+        "intraday_range_pct": 3.67,
+        "volume": 5172325,
+        "avg_volume_20d": 4282176,
+        "volume_ratio": 1.21,
+        "sparkline": [
+          374.8,
+          367.15,
+          367.0,
+          369.0,
+          363.45,
+          367.5,
+          361.9,
+          359.0,
+          359.0,
+          350.15,
+          351.5,
+          351.65,
+          345.15,
+          335.65,
+          342.15,
+          343.7,
+          345.0,
+          353.0,
+          349.8,
+          353.85,
+          352.25,
+          352.0,
+          353.5,
+          348.1,
+          338.5,
+          339.1,
+          335.0,
+          344.55,
+          345.05,
+          355.9
+        ]
+      },
+      "analysis": {
+        "classification": "no_signal",
+        "primary_catalyst": null,
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
+        "flags": []
+      }
+    },
+    {
+      "symbol": "SUZLON",
+      "name": "Suzlon Energy Limited",
+      "sector": "Renewable Energy",
+      "notes": null,
+      "skip_catalysts": false,
+      "bse_announcements": [],
+      "nse_announcements": [],
+      "news": [
+        {
+          "title": "Suzlon at Bharat Renewable Energy Summit & Expo 2026 | Good Energies That Work",
+          "source": "Suzlon",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0tSHhUbUh4bVdEbWY3OFhJRU9VbUFXbk9ObDlMVmh0aUNKUE1vOV9WcU5QTVg5bGdzempKUFR0U0pKQlBxaXMyZFBHT2xWeEh4ZmQzQ3k2UQ?oc=5",
+          "published_at": "2026-11-02T13:24:43+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE0tSHhUbUh4bVdEbWY3OFhJRU9VbUFXbk9ObDlMVmh0aUNKUE1vOV9WcU5QTVg5bGdzempKUFR0U0pKQlBxaXMyZFBHT2xWeEh4ZmQzQ3k2UQ?oc=5\" target=\"_blank\">Suzlon at Bharat Renewable Energy Summit & Expo 2026 | Good Energies That Work</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Suzlon</font>"
+        },
+        {
+          "title": "Suzlon shares may rally 100%, say Centrum; check key reasons, ratings, targets and more",
+          "source": "Business Today",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVi1nRmlUNWVXYmJsbXdBRDNvcVpkcmMxaXIwQUZGT2dwcG5EU1dXYUF2N3Q5cFZ1U2s0WEJmRWJtb2sxUUROeElWTGprbGpObVFpZjZlRmRna3N3TVY4YWQxbTBqczdPVHFIRFdhU294VF9iaWJoVm80WDlXNUFPS3U0cXJreG5XUThOM1F1M3Zyc09vUEFOSUtmX1BUeDZHV3ZyNUJQSkx2SXExbTZSSzZCdHpWOS1IOGF0QnczV3NTSG9zTDF1T3BiLXZfWndPUEg5anN4TTFTWGF2cmVwUU43S3PSAeoBQVVfeXFMTjROWHVodHRESl9vbHBIV0xsZkhmSk1UcGNva0N4S2pSY0ZkNFhEbW50QVVPYmxsZlVjZ0JDRlFBWl8xZHFJeFFQMnFoR2E0Y29ZX1BpeTlzN3gyQ2FaUUlJaU1mRmRqSzg4VnNWUHRlOFcxVVpNUGZldUw1bkhxSlhkbTh1Ujc5TVRRN2ZGWDRXbjg2OVZiZ192dm1aUVJUdW03U0w4SXpMSXhmMFZob0lkZkltTlVUWmlGLUc5YWd2RUlyQWVXX2h1SnlJQXNhNks4WVB0THc4ajhjUWV3TFdRTWd5dWtYdkNB?oc=5",
+          "published_at": "2026-11-02T07:23:19+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVi1nRmlUNWVXYmJsbXdBRDNvcVpkcmMxaXIwQUZGT2dwcG5EU1dXYUF2N3Q5cFZ1U2s0WEJmRWJtb2sxUUROeElWTGprbGpObVFpZjZlRmRna3N3TVY4YWQxbTBqczdPVHFIRFdhU294VF9iaWJoVm80WDlXNUFPS3U0cXJreG5XUThOM1F1M3Zyc09vUEFOSUtmX1BUeDZHV3ZyNUJQSkx2SXExbTZSSzZCdHpWOS1IOGF0QnczV3NTSG9zTDF1T3BiLXZfWndPUEg5anN4TTFTWGF2cmVwUU43S3PSAeoBQVVfeXFMTjROWHVodHRESl9vbHBIV0xsZkhmSk"
+        },
+        {
+          "title": "Suzlon Energy Q2 profit rises 1.3% to INR 394 crore as revenue grows 26%",
+          "source": "Prop News Time",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcjhXeW9acmdSaGR1UGhwcWR3ZDBpdzRIV3RhWGIwSTJDa3hNakhPMEdZVUNQWTVGd0dFc3JuQzFzYzRzSFZDNVlSbGppUUVxSWRuVG14NUVYY0MxMVRsM3Y1dFBrdldDNS1EbGswY2VqbE1ISW12NVRNUXB2Ym50M2dCa3NvOWdUVTBUdkVGTjRsZjdJSUVqb2FYVWU1WlpQdHZqUGl1aUEtU294dU9OZHVtWHJybld0bnFVazJjSzAtUQ?oc=5",
+          "published_at": "2026-11-02T19:04:42+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcjhXeW9acmdSaGR1UGhwcWR3ZDBpdzRIV3RhWGIwSTJDa3hNakhPMEdZVUNQWTVGd0dFc3JuQzFzYzRzSFZDNVlSbGppUUVxSWRuVG14NUVYY0MxMVRsM3Y1dFBrdldDNS1EbGswY2VqbE1ISW12NVRNUXB2Ym50M2dCa3NvOWdUVTBUdkVGTjRsZjdJSUVqb2FYVWU1WlpQdHZqUGl1aUEtU294dU9OZHVtWHJybld0bnFVazJjSzAtUQ?oc=5\" target=\"_blank\">Suzlon Energy Q2 profit rises 1.3% to INR 394 crore as revenue gr"
+        },
+        {
+          "title": "Top power stocks: Jaiprakash Power vs Suzlon vs Vedanta Power vs Reliance Power vs Inox Wind | Experts' views, target",
+          "source": "Livemint",
+          "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPUEVNWG1JSl9MM200Z25BVDVxei1fUW1LOWQzQ1F6dmctNGVrQlNIN3BkY2JrU1BjLWFScGlSQzFPZzVUMENvckdqTTBWbVdydUFNZkEwQlo1WGczZjY0Zi1oc3dXSjFHR1lOMEo3Q0Y4TDRVMTBWVlE1d21tMkxSWmdYV25GY1pMOXdLblJnc2FEaE12RjRPN0c0TXFTQ21qNEUxWC1nUUVQVWtGMnlZTUE5Vml5cEZ5aFhlYkFxblJfaFAza2cxZmxwSEZ2REJvQ284eldxRjVnblJkUFdFek1NYW5qTklCemJuc0NYLW1SeE1WSXRscmI0TTRwTW5UNjFmdnJ0cTBGMEhfN3pV0gGUAkFVX3lxTE8zMks5SWlQendaY1V2WEJPUnl5NjBrcEdiSG1EbG1OZExMV2hfZ0k5dWYyaUZPdHJyYkgzVjMwV2xTTmRtTkdOWTJJMG5RNmw2c1FMeGdNV2pTTDRnVGdGX1VxT2dCY09aMjVxTFdYMmxNUXl5cDlfSmlmSnNlMWtwV1VPYzVGMmRqdmVnVHVlUy1lQXU4czNmZjdyNjQyRkRMX1J1V3Z1cm9jNlhzbmlmUE1jd3NHTzZCcVp1Z2dJMC0xbFJFQVJOeHZVUmQ4QzFTd0N5UjhpSGw4T3VJRHFmMlJOXzBkSmJ3TlVBQjBRUWFPNEdPeUVIQVh6TVBTcHdGSi11dF9lZy1OTlMtVUItb0poVw?oc=5",
+          "published_at": "2026-11-02T08:18:07+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxPUEVNWG1JSl9MM200Z25BVDVxei1fUW1LOWQzQ1F6dmctNGVrQlNIN3BkY2JrU1BjLWFScGlSQzFPZzVUMENvckdqTTBWbVdydUFNZkEwQlo1WGczZjY0Zi1oc3dXSjFHR1lOMEo3Q0Y4TDRVMTBWVlE1d21tMkxSWmdYV25GY1pMOXdLblJnc2FEaE12RjRPN0c0TXFTQ21qNEUxWC1nUUVQVWtGMnlZTUE5Vml5cEZ5aFhlYkFxblJfaFAza2cxZmxwSEZ2REJvQ284eldxRjVnblJkUFdFek1NYW5qTklCemJuc0NYLW1SeE1WSXRscmI0TTRwTW5UNjFmdn"
+        },
+        {
+          "title": "This Suzlon peer rises 10%, hit 52-week low last week",
+          "source": "Business Today",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZHBXUDc1VzA4NGh5c1VfXzJWR2JtdDNBdXJBMzJwZXRPaUhlaGsxc1VzUEVtM1ZOdVFNcHlDa1BBQ1RJRDBnOTRabm0xMXMyczhTaDNwRlhhSjdTWXlBdnJhNm1ZOUQxZy1HOWs5eHlhMEtJQ1praXVFZUxiU1VhbUlLbEV1ZG1HdVEwdDk0ajFQNWNDckZyNWdwQ2lpM1hrUUp4S2lHNGxCM2R3aWdvTW5jS1lfYlFrZ0xj0gHAAUFVX3lxTE1wZXE1VUNHQjJiTl9zbnNlaEhaZ3lKRjhjZURmcFpKeWIwTlJIekN6WHRyd1N5NmN0TEFUVTFSUUtTQ2VQVUZKVE5XSHpTTS1iazl4WS13NXhmWGdld0tkbjRkcGk5SWZ2QmZfT0NvcEFLVFpncVo1OTNwbmM2SnZTQkRlYjlUaHBoUXZPUGxtbF96cTZPZlhnaUZXQV8ycmhaZFlsRXNKRmNLYzRwbHNHRE5vTHJQZ0doeWVXcXFLMA?oc=5",
+          "published_at": "2026-11-02T06:14:16+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZHBXUDc1VzA4NGh5c1VfXzJWR2JtdDNBdXJBMzJwZXRPaUhlaGsxc1VzUEVtM1ZOdVFNcHlDa1BBQ1RJRDBnOTRabm0xMXMyczhTaDNwRlhhSjdTWXlBdnJhNm1ZOUQxZy1HOWs5eHlhMEtJQ1praXVFZUxiU1VhbUlLbEV1ZG1HdVEwdDk0ajFQNWNDckZyNWdwQ2lpM1hrUUp4S2lHNGxCM2R3aWdvTW5jS1lfYlFrZ0xj0gHAAUFVX3lxTE1wZXE1VUNHQjJiTl9zbnNlaEhaZ3lKRjhjZURmcFpKeWIwTlJIekN6WHRyd1N5NmN0TEFUVTFSUUtTQ2VQVU"
+        },
+        {
+          "title": "Power Stocks: JP Power vs Suzlon vs Vedanta Power, Rel Power",
+          "source": "Univest",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOT1VMVlhrSG1PZy04VUxKYUw3d1h4VEhaaUVkZEpLVmxMQUxfMWNCbGU1alFHX1BEbkhNUG9oZGFDckU0MUhTUzZ5ZXlfZXlwWl9RYTlSVDZYQmpEXzRSOW5ocW5mSFFPdFpxcUZ0X19TWkdTTEZpS0l1SS10RDNneUE3QzU4RXZfVEZhVGU2NXZUX0FOV3d3YU4xMjBPQnVYRmcxQXpUdXJiaFBEejkzeTFUdU1UNGdHRmR4QmI4VGF1LUtWc3c2ZGN2dkJTRE16?oc=5",
+          "published_at": "2026-11-02T09:55:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOT1VMVlhrSG1PZy04VUxKYUw3d1h4VEhaaUVkZEpLVmxMQUxfMWNCbGU1alFHX1BEbkhNUG9oZGFDckU0MUhTUzZ5ZXlfZXlwWl9RYTlSVDZYQmpEXzRSOW5ocW5mSFFPdFpxcUZ0X19TWkdTTEZpS0l1SS10RDNneUE3QzU4RXZfVEZhVGU2NXZUX0FOV3d3YU4xMjBPQnVYRmcxQXpUdXJiaFBEejkzeTFUdU1UNGdHRmR4QmI4VGF1LUtWc3c2ZGN2dkJTRE16?oc=5\" target=\"_blank\">Power Stocks: JP Power vs Suzlon vs Vedanta Pow"
+        },
+        {
+          "title": "Suzlon Energy Limited Earnings Missed Analyst Estimates: Here's What Analysts Are Forecasting Now",
+          "source": "Simply Wall St",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdS1HTGFqWm1uVWJkX1h0MU5tMHhFNlh0VDNudzVxVWR3QzhscVF4X3ZvcHVGQU1lcUkzTTgyR3p5WUp3R1pVdmxxeTJwMzhJXy1Peld1QjBjankwZWU3YXRJem5IWGVnVnpCNEV2c1Q5Y0JYQmM2d1pFRk5ndHQ5TXAtZW81UWRXdlR4TTFwUkRrUDhnUDlrblNKNVJ6VDFiRU9fbTNENXlYM0dYNXA4cm9zR0ItRzZYeDhOMXdFRFZzZjZPaUdwTW55ZUM5NGZHSXROb3ZwNXJfTGfSAeABQVVfeXFMTjNVLUJONVZ6alNXV19CckNkcThCSERnd1FsSGxEQTZHNU4wdzNndTNxbEJ0VXZEUkhSa01mMnFybTdlSDk3M3FLQkdjN2xiWnFjOVFvQ0RZbTRtcmxvaW9xS1RtbkxNTUpIbUFUa3BldkdPU2NoUVRIT3VpTDBjNEVnMWxGMmVTUTNldWItZmZqRUNtUTIyTU9BVkY3SDAwQy1GbDJwMmNER0JOWTF5MVNRRW44bDJ5bTZPa2xXWE9tcU9sWk1zejR6NUhVam1yYzZSVGw5NHRQQVlXVmxYZzY?oc=5",
+          "published_at": "2026-11-02T01:12:42+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdS1HTGFqWm1uVWJkX1h0MU5tMHhFNlh0VDNudzVxVWR3QzhscVF4X3ZvcHVGQU1lcUkzTTgyR3p5WUp3R1pVdmxxeTJwMzhJXy1Peld1QjBjankwZWU3YXRJem5IWGVnVnpCNEV2c1Q5Y0JYQmM2d1pFRk5ndHQ5TXAtZW81UWRXdlR4TTFwUkRrUDhnUDlrblNKNVJ6VDFiRU9fbTNENXlYM0dYNXA4cm9zR0ItRzZYeDhOMXdFRFZzZjZPaUdwTW55ZUM5NGZHSXROb3ZwNXJfTGfSAeABQVVfeXFMTjNVLUJONVZ6alNXV19CckNkcThCSERnd1FsSGxEQT"
+        },
+        {
+          "title": "Wind Turbine, Iron Ore and Oil Explorer Stocks",
+          "source": "Univest",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcWw4OHpzejBydTJlVVFCUEJSdnlPRGd5bEJGY1pCUmhqakpDUm1oMV9FY3BFc0Nrbmp1ZW41NFZDc2llZExLYVRrX3p4NHYyQ2EzU2RpVDFNMEJlTjJ2OV9XTWxRZklSQ3FwQnNkWjFjSDZCX2Y0TnM5Wl81ekFUTmhKNDJNSkNxd3loWVl6RFEyN1hrdlFlWmtnWG0tYzhKZWdGQWhhRVVBYzl4Z21SV3FxdklkWXh2ckx3cWNONlhFaWI2cFg1Njd6VQ?oc=5",
+          "published_at": "2026-11-02T09:35:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQcWw4OHpzejBydTJlVVFCUEJSdnlPRGd5bEJGY1pCUmhqakpDUm1oMV9FY3BFc0Nrbmp1ZW41NFZDc2llZExLYVRrX3p4NHYyQ2EzU2RpVDFNMEJlTjJ2OV9XTWxRZklSQ3FwQnNkWjFjSDZCX2Y0TnM5Wl81ekFUTmhKNDJNSkNxd3loWVl6RFEyN1hrdlFlWmtnWG0tYzhKZWdGQWhhRVVBYzl4Z21SV3FxdklkWXh2ckx3cWNONlhFaWI2cFg1Njd6VQ?oc=5\" target=\"_blank\">Wind Turbine, Iron Ore and Oil Explorer Stocks</a>&nb"
+        }
+      ],
+      "events": [
+        {
+          "subject": null,
+          "purpose": "Financial Results",
+          "date": "29-Oct-2026",
+          "details": "To consider and approve the financial results for the period ended September 30, 2026"
+        }
+      ],
+      "sebi_mentions": [
+        {
+          "title": "Final Order in the matter of EKI Energy Services Ltd.",
+          "url": "https://www.sebi.gov.in/enforcement/orders/oct-2026/final-order-in-the-matter-of-eki-energy-services-ltd-_105524.html",
+          "published_at": "30 Oct, 2026 +0530",
+          "summary": "Final Order in the matter of EKI Energy Services Ltd."
+        }
+      ],
+      "price_action": {
+        "date": "2026-11-02",
+        "open": 33.7,
+        "high": 35.57,
+        "low": 33.34,
+        "close": 35.25,
+        "prev_close": 33.9,
+        "change_pct": 3.98,
+        "gap_pct": -0.59,
+        "intraday_range_pct": 6.58,
+        "volume": 118903115,
+        "avg_volume_20d": 88530403,
+        "volume_ratio": 1.34,
+        "sparkline": [
+          43.14,
+          43.34,
+          43.0,
+          42.39,
+          40.74,
+          40.8,
+          39.66,
+          39.5,
+          39.49,
+          38.91,
+          38.92,
+          39.16,
+          38.34,
+          36.43,
+          37.6,
+          39.57,
+          40.19,
+          40.8,
+          40.95,
+          42.0,
+          40.38,
+          39.4,
+          38.57,
+          37.4,
+          37.12,
+          36.92,
+          37.3,
+          36.79,
+          33.9,
+          35.25
+        ]
+      },
+      "analysis": {
+        "classification": "no_signal",
+        "primary_catalyst": null,
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
+        "flags": []
+      }
+    },
+    {
+      "symbol": "IREDA",
+      "name": "Indian Renewable Energy Development Agency Limited",
+      "sector": "Renewable Energy Finance",
+      "notes": null,
+      "skip_catalysts": false,
+      "bse_announcements": [],
+      "nse_announcements": [],
+      "news": [
+        {
+          "title": "IREDA inks MoU with govt; revenue target set at Rs 4350 cr for 2023-24, Rs 5220 cr for 2024-25",
+          "source": "ET Government",
+          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQSEc3SFB5Vm9qcUt0a1JEbTFBSmt1cUxMMWxzV1Y4SXlJSng1SEc0ZXhZS1kweEU4VS1fQ2NVOURCVmxqS2FtSGpsRkNLRF9zcmZyQ3ExZ0dWN1RWempMNm5oTGx4bG9jNk5pV3A3TVhSSFhVdjZVcDN5MTRyQzFSaG1pbWtsSHo4X0IzWHFwS2htMDZ3SkNnbFZCeDh5eUZ5M2thVTJKVWlVU2UxTzQ1THRPOHNRdU5iVTk5ckgwWFlQbTV2RXg5alg2YUF3cmtHMF9wa2lQSVBjX0hzTVo5c0NJdlFQS3M0RUY5OXRUUzBpNlM1ZzVHcjZGUE5aRTJ4Rm54UdIB_wFBVV95cUxQeHl1by1mcjB4SDVlOG9zckc0dXFad256eDIxN0QxZkQyZF91cTEtSC1rYUNvN191ZE1ucDljSy14Wjd1bXVyNTFFeFN0RFVxQW92RGVsSGJhWWRpaUFLTDZLRDl2WnZJX25LZXc1YkpPMEt5Z3hPS2FucU9fWk5nV0ZpLVZaR0QtWGFEZWZ6a0s4UDFGZWNQUzBocEZBcXRXTGlRcmxVZVdhcDdkTk9lVExfTjdiV1ladEdOejZweS1kcWtxLXZQQVM1alZLZ1VTY2RSUVVCOHRIbWQxNTNxRnJiRDc1cnMwckxzZFluUVBoVHdsRWJMRWdxUUNTNE0?oc=5",
+          "published_at": "2026-11-02T03:40:47+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxQSEc3SFB5Vm9qcUt0a1JEbTFBSmt1cUxMMWxzV1Y4SXlJSng1SEc0ZXhZS1kweEU4VS1fQ2NVOURCVmxqS2FtSGpsRkNLRF9zcmZyQ3ExZ0dWN1RWempMNm5oTGx4bG9jNk5pV3A3TVhSSFhVdjZVcDN5MTRyQzFSaG1pbWtsSHo4X0IzWHFwS2htMDZ3SkNnbFZCeDh5eUZ5M2thVTJKVWlVU2UxTzQ1THRPOHNRdU5iVTk5ckgwWFlQbTV2RXg5alg2YUF3cmtHMF9wa2lQSVBjX0hzTVo5c0NJdlFQS3M0RUY5OXRUUzBpNlM1ZzVHcjZGUE5aRTJ4Rm54Ud"
+        }
+      ],
+      "events": [],
+      "sebi_mentions": [],
+      "price_action": {
+        "date": "2026-11-02",
+        "open": 100.0,
+        "high": 104.23,
+        "low": 99.72,
+        "close": 102.24,
+        "prev_close": 99.5,
+        "change_pct": 2.75,
+        "gap_pct": 0.5,
+        "intraday_range_pct": 4.53,
+        "volume": 4680796,
+        "avg_volume_20d": 4665100,
+        "volume_ratio": 1.0,
+        "sparkline": [
+          114.32,
+          111.0,
+          110.25,
+          111.0,
+          110.11,
+          113.22,
+          114.82,
+          111.0,
+          111.68,
+          111.0,
+          109.0,
+          109.0,
+          107.33,
+          103.8,
+          104.4,
+          104.6,
+          108.39,
+          108.47,
+          108.26,
+          108.8,
+          106.54,
+          103.6,
+          102.61,
+          100.27,
+          101.87,
+          99.7,
+          100.59,
+          101.2,
+          99.5,
+          102.24
+        ]
+      },
+      "analysis": {
+        "classification": "no_signal",
+        "primary_catalyst": null,
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
+        "flags": []
+      }
+    },
+    {
+      "symbol": "SWSOLAR",
+      "name": "Sterling and Wilson Renewable Energy Limited",
+      "sector": "Solar EPC",
+      "notes": null,
+      "skip_catalysts": false,
+      "bse_announcements": [],
+      "nse_announcements": [],
+      "news": [
+        {
+          "title": "Sterling and Wilson Renewable Energy Limited (SWSOLAR) share price — eduinvesting",
+          "source": "Howl.Link",
+          "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE05WGhINDRhUXI3RFI4UVFNVnhUbjEtcmFOTmhoMkl2NzNBLTZtLW5ZeTlJYUJBYnlFYTFr?oc=5",
+          "published_at": "2026-11-02T04:24:47+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiO0FVX3lxTE05WGhINDRhUXI3RFI4UVFNVnhUbjEtcmFOTmhoMkl2NzNBLTZtLW5ZeTlJYUJBYnlFYTFr?oc=5\" target=\"_blank\">Sterling and Wilson Renewable Energy Limited (SWSOLAR) share price — eduinvesting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Howl.Link</font>"
+        }
+      ],
+      "events": [],
+      "sebi_mentions": [],
+      "price_action": {
+        "date": "2026-11-02",
+        "open": 136.61,
+        "high": 142.75,
+        "low": 136.6,
+        "close": 141.69,
+        "prev_close": 135.97,
+        "change_pct": 4.21,
+        "gap_pct": 0.47,
+        "intraday_range_pct": 4.52,
+        "volume": 1068947,
+        "avg_volume_20d": 1224812,
+        "volume_ratio": 0.87,
+        "sparkline": [
+          176.06,
+          173.27,
+          178.42,
+          180.76,
+          177.34,
+          176.65,
+          170.74,
+          171.08,
+          171.18,
+          164.82,
+          163.72,
+          172.54,
+          168.11,
+          160.09,
+          162.12,
+          167.77,
+          168.53,
+          171.74,
+          174.96,
+          165.47,
+          160.21,
+          152.44,
+          148.43,
+          142.13,
+          139.62,
+          142.41,
+          144.13,
+          144.22,
+          135.97,
+          141.69
+        ]
+      },
+      "analysis": {
+        "classification": "no_signal",
+        "primary_catalyst": null,
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
+        "flags": []
+      }
+    },
+    {
+      "symbol": "TARIL",
+      "name": "Transformers and Rectifiers (India) Limited",
+      "sector": "Heavy Electrical Equipment",
+      "notes": null,
+      "skip_catalysts": false,
+      "bse_announcements": [],
+      "nse_announcements": [],
+      "news": [],
+      "events": [],
+      "sebi_mentions": [],
+      "price_action": {
+        "date": "2026-11-02",
+        "open": 302.0,
+        "high": 311.0,
+        "low": 296.3,
+        "close": 308.4,
+        "prev_close": 298.3,
+        "change_pct": 3.39,
+        "gap_pct": 1.24,
+        "intraday_range_pct": 4.93,
+        "volume": 1693272,
+        "avg_volume_20d": 10139173,
+        "volume_ratio": 0.17,
+        "sparkline": [
+          279.85,
+          278.25,
+          280.75,
+          289.0,
+          280.4,
+          277.65,
+          270.45,
+          272.85,
+          270.1,
+          280.8,
+          285.45,
+          283.65,
+          289.15,
+          282.75,
+          290.65,
+          294.8,
+          304.0,
+          349.5,
+          333.45,
+          329.1,
+          326.1,
+          320.35,
+          314.5,
+          303.9,
+          299.7,
+          314.3,
+          314.7,
+          315.8,
+          298.3,
+          308.4
+        ]
+      },
+      "analysis": {
+        "classification": "no_signal",
+        "primary_catalyst": null,
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
+        "flags": []
+      }
+    },
+    {
+      "symbol": "ITC",
+      "name": "ITC Limited",
+      "sector": "FMCG",
+      "notes": null,
+      "skip_catalysts": false,
+      "bse_announcements": [],
+      "nse_announcements": [
+        {
+          "headline": "Amalgamation/Merger",
+          "category": "Cigarettes",
+          "more_info": "ITC Limited has informed the Exchange about Amalgamation/Merger",
+          "pdf_url": "https://nsearchives.nseindia.com/corporate/ITC_02112026184512_SE_Sproutlife_.pdf",
+          "attached_at": "02-Nov-2026 18:45:24",
+          "source": "NSE"
+        },
+        {
+          "headline": "General Updates",
+          "category": "Cigarettes",
+          "more_info": "ITC Limited has informed the Exchange about Media Statement and Presentation",
+          "pdf_url": "https://nsearchives.nseindia.com/corporate/ITC_02112026183159_SE_Media_.pdf",
+          "attached_at": "02-Nov-2026 18:32:13",
+          "source": "NSE"
+        },
+        {
+          "headline": "Outcome of Board Meeting",
+          "category": "Cigarettes",
+          "more_info": "ITC Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+          "pdf_url": "https://nsearchives.nseindia.com/corporate/ITC_02112026181912_SE_Results_.pdf",
+          "attached_at": "02-Nov-2026 18:20:16",
+          "source": "NSE"
+        },
+        {
+          "headline": "Outcome of Board Meeting",
+          "category": "Cigarettes",
+          "more_info": "ITC Limited has informed the Exchange regarding  Board meeting held on November 02, 2026.",
+          "pdf_url": "https://nsearchives.nseindia.com/corporate/ITC_02112026181547_SE_Results_.pdf",
+          "attached_at": "02-Nov-2026 18:15:57",
+          "source": "NSE"
+        }
+      ],
+      "news": [
+        {
+          "title": "ITC shares are a buy or sell after Q2 results? Here's how much upside analysts see",
+          "source": "CNBC TV18",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMVBtenRYUzhBS2VYTmJVRWNEWHJfVnlNUV9IZzR5U1FRVnBUT3B4TlZQYTBxM05DZWQtODZBQmRxUGpjWnJDSk9YRHEwS2xsR3A5VW9SNVRmeW5tM25CSmdVeUFidG5GTTNHV2owemxoc0pxSDlweDlpaXp2THNxSVZNTjRKU3J6b2J6NklZSDV1WF9WTFNIeDBPZTQxZkRkamRlNnVWVFZXYjlGWW1zdENmNmpnNTJaU1VSTi15SktfSEF6U1ZZa3o5aS1WcG1xYjR4UVNIX1hJZ2g4SDVYT2xIZjc4d9IB6wFBVV95cUxPOGxza0Zya0VOMXNrNlJJdW1BOWRSd19OZ0pfYlN0bXJseFlfczE0eVhxeXNHcWI5VUMzWHBCZmk3dTJDUDRqNE9tazI4bG5oR2tFUTVxS2xoM2IxaWtkaXhYSlZLcWQ4NE9wSml3SVFIWl9qVktqMldURDFhQ0VOVWd4U3dwOHRLOXdSVDBCclFOcjNYaUdYYTFPejJyanlpX1NyQ0VaSnNBQnVTR2JVeHd1Z0hOZ0NadThJVHUtQXgtVzVCSTBMRzBRbUk3U3B0eGc4dnBhX25nOGNZdWwzMW1qTkM2YVRwUFNZ?oc=5",
+          "published_at": "2026-11-03T02:21:51+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMVBtenRYUzhBS2VYTmJVRWNEWHJfVnlNUV9IZzR5U1FRVnBUT3B4TlZQYTBxM05DZWQtODZBQmRxUGpjWnJDSk9YRHEwS2xsR3A5VW9SNVRmeW5tM25CSmdVeUFidG5GTTNHV2owemxoc0pxSDlweDlpaXp2THNxSVZNTjRKU3J6b2J6NklZSDV1WF9WTFNIeDBPZTQxZkRkamRlNnVWVFZXYjlGWW1zdENmNmpnNTJaU1VSTi15SktfSEF6U1ZZa3o5aS1WcG1xYjR4UVNIX1hJZ2g4SDVYT2xIZjc4d9IB6wFBVV95cUxPOGxza0Zya0VOMXNrNlJJdW1BOW"
+        },
+        {
+          "title": "ITC Q2 preview: Cigarette biz may drag PAT down up to 28%, say analysts",
+          "source": "Business Standard",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQNUhDS3djLTQ0SGk2YU9FeG10dDN1Qks5MUdHOC0yeHlrNE9iVS1QM2xvNmI1ZWJBSzhOYXVLSlB0dm5LR1hKdjdUcEFZLVQzdGNoQzBPZDRYbERzYTZaYnVRSnBnaFo5dmVUM0xTQ1RSS1lrT1hoM29RRUtXRVBESXFSWWU5WXp2MEl3bklrQ1JGRTEyVHhhNTdsbkNFUlhFb1ZTMWVNVVdHWmJQSmxMbEFGdnQ5YlNKZkp1aU93Y3VoSWhiMHN1MlBiWG5oMmRlbnQ3UWJwLVg4U1pPWFBYLTMzU29Vd3EtNUE4b19JSl9lT1JETHVR0gH8AUFVX3lxTE1xRUJRRkJkZVBqZXNlb1VqRzNDSzkwTkMxZGpUeG5yMFk1aHBBUVJzT1V2U2xXWl9GaEltUVcxenViTXA2cEQxSVJTTVpVdURQUlJPWjJmb29LQlgzbWZHS2luQnhPQnNQU2V1T3A2V2VXQVRXTjM1Mi03eVZTdGZHb2V0bTZnVUplVndyZXlBSHhDcXJRaXpyLTFoTGRMTC0yMEFkMXBBcUxCYnAwY3FPLW5CTzVaUXBaMjkycUl4M0dRVTd1eXNWOFhBVDRSc0x1bkFpOE5PSnhxdkxZdHFZWFMycW5OUEY4TVF4YXNIOV9qM01YNmNtN2hoNQ?oc=5",
+          "published_at": "2026-11-02T03:17:29+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxQNUhDS3djLTQ0SGk2YU9FeG10dDN1Qks5MUdHOC0yeHlrNE9iVS1QM2xvNmI1ZWJBSzhOYXVLSlB0dm5LR1hKdjdUcEFZLVQzdGNoQzBPZDRYbERzYTZaYnVRSnBnaFo5dmVUM0xTQ1RSS1lrT1hoM29RRUtXRVBESXFSWWU5WXp2MEl3bklrQ1JGRTEyVHhhNTdsbkNFUlhFb1ZTMWVNVVdHWmJQSmxMbEFGdnQ5YlNKZkp1aU93Y3VoSWhiMHN1MlBiWG5oMmRlbnQ3UWJwLVg4U1pPWFBYLTMzU29Vd3EtNUE4b19JSl9lT1JETHVR0gH8AUFVX3lxTE1xRU"
+        },
+        {
+          "title": "ITC Q2 results: Net profit falls 20% to Rs 4,137 crore, revenue rises 44%",
+          "source": "The Financial Express",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRktyQVZvMmZlc0czbHF3b3Y0cE5YdVUtWE4wbXJBS3FLcy03ZkhmWWpzaDkxWjQtUGpoZWp4bHJiS214VXJJR2ZpeTJtZW4wZnllOFRJM05VczhFU2Y2U3Nub1RzLUZVZGtkMjltaWQxcWVmMmVhLWkxOEQtd3NENThDdWlGbjVOT1hwYnFEX2lVQmlUVTVONW96ZVFBSEFtbVhnRGgxV2FSUlZBNDFFWllvcVNCdDFiUHZtYkdDak5lbTg5SU5fa3RpRkp4MXdreFh0LdIB2wFBVV95cUxQaVh0UjZEcUN5UEpsYXpyMF95LTEtU1pkQnplRzk5c3dNVUp2bEVtejd2M043MFY1MmlUV2RFNExTQm53ZktHZ0p4VUNuQ0FUd1k3Z1hMcjU5T1Y0MEJJbzRyNEY2QWZVZy1NOFktQ3dEenVwR00wV2hUZld3cVk5UW1jZU5Zb0FCOVhjWDh3a0pkOTJrSno0Y1JFVDdxODJSanluVTctYkJFUjZ4WjhSd3pYajdRZ2UtSE5Kby1Bckt3XzN3djc5Nk4wQkFJcTV3elVhWkVNeXFhaTg?oc=5",
+          "published_at": "2026-11-02T12:54:08+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRktyQVZvMmZlc0czbHF3b3Y0cE5YdVUtWE4wbXJBS3FLcy03ZkhmWWpzaDkxWjQtUGpoZWp4bHJiS214VXJJR2ZpeTJtZW4wZnllOFRJM05VczhFU2Y2U3Nub1RzLUZVZGtkMjltaWQxcWVmMmVhLWkxOEQtd3NENThDdWlGbjVOT1hwYnFEX2lVQmlUVTVONW96ZVFBSEFtbVhnRGgxV2FSUlZBNDFFWllvcVNCdDFiUHZtYkdDak5lbTg5SU5fa3RpRkp4MXdreFh0LdIB2wFBVV95cUxQaVh0UjZEcUN5UEpsYXpyMF95LTEtU1pkQnplRzk5c3dNVUp2bE"
+        },
+        {
+          "title": "ITC Q2 results: Net profit likely to see double-digit fall due to subdued cigarette business growth",
+          "source": "Upstox",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOQ3NJTmNFaUk3aTBQMlo1OGIta2MzeV93UjI3Wm1odGtncXJ3VFFqR3NPa20yTE9scmlGRVR1MDNkSmc0TkRCdVpNX0FUQ1EwMXhBVEFwUy1CSDN6SDdvaEo3VG1KaDhGMGwtekFZVG9YVHhOeHhvT0ZOQ1EzRzQ1U2w5T0VraHhkOXpsaVZhU2VRMU92RUJFRVI5cFA4Y093NjllVkFyVVIyMGVpdW1YejZ6MmZxbWtWZ2k0b3BxbzNwYmctSXd2dlc0R3Z5ME5iQ2RLcTFEOXJxZVRRbDNyejdCU3JtWlpVb0tTVThfOEU?oc=5",
+          "published_at": "2026-11-02T04:44:58+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxOQ3NJTmNFaUk3aTBQMlo1OGIta2MzeV93UjI3Wm1odGtncXJ3VFFqR3NPa20yTE9scmlGRVR1MDNkSmc0TkRCdVpNX0FUQ1EwMXhBVEFwUy1CSDN6SDdvaEo3VG1KaDhGMGwtekFZVG9YVHhOeHhvT0ZOQ1EzRzQ1U2w5T0VraHhkOXpsaVZhU2VRMU92RUJFRVI5cFA4Y093NjllVkFyVVIyMGVpdW1YejZ6MmZxbWtWZ2k0b3BxbzNwYmctSXd2dlc0R3Z5ME5iQ2RLcTFEOXJxZVRRbDNyejdCU3JtWlpVb0tTVThfOEU?oc=5\" target=\"_blank\">ITC "
+        },
+        {
+          "title": "ITC shares: Can Nifty's worst performer since Diwali deliver healthy Q2 results today?",
+          "source": "Business Today",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUGJTZzlyazlFZG0yVXlmdHYyVlJhb0szNzQ5ME1xOUdSc0R1MlgyVFRVOG0wbnNaSXo2SUF3a3N4OWE0MW41Uy1SRzRaUVJFQkpDQUNoZzdWanY5OTJmTGZtc1NKOFd6QXFva19OYm5qX0F1WnFtdHVfdnNRb2N2REM1Q19oZXVyUUtuZ1pJT0UxZ281R2lod25uTmR4d3ZFNU1qQTQ5aXdkaGhzUFZ2TE5wM3p6UFlFV3VVd0N6eVNHdXlWa0xXTGd2QU11RG1wNUV6VVNTaGxXX1lrQ21pYVdIa05GUdIB6wFBVV95cUxQaFl4QThLQkQzLW1id3JZT0ZMLXQ4R3hwMmFEUHZNNnVhS3RfUXYwdDdHTFQxb3lCbnhBUC1UWmhQelpHMzFjQUpzYzdiOUhPbFdyclVhN2lTQWc4NXJxVC1FRVo1LVY0LWtZQXdleDJxLXJiUnFMN1pJNnRacGpGMXNOSVdvMFdYUng1dllXUnYtWm1wMGEzaFpNdDJhMEw0NFlHQk1vbU9qS210OHB4Y256SXBnd1FUOW42OHZTcmNUekJwR2ZqemVjbnRRVk44bTVWMi0zbkZzejctS25SSndnRE9DMFpBekZN?oc=5",
+          "published_at": "2026-11-02T06:22:53+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUGJTZzlyazlFZG0yVXlmdHYyVlJhb0szNzQ5ME1xOUdSc0R1MlgyVFRVOG0wbnNaSXo2SUF3a3N4OWE0MW41Uy1SRzRaUVJFQkpDQUNoZzdWanY5OTJmTGZtc1NKOFd6QXFva19OYm5qX0F1WnFtdHVfdnNRb2N2REM1Q19oZXVyUUtuZ1pJT0UxZ281R2lod25uTmR4d3ZFNU1qQTQ5aXdkaGhzUFZ2TE5wM3p6UFlFV3VVd0N6eVNHdXlWa0xXTGd2QU11RG1wNUV6VVNTaGxXX1lrQ21pYVdIa05GUdIB6wFBVV95cUxQaFl4QThLQkQzLW1id3JZT0ZMLX"
+        },
+        {
+          "title": "ITC Q2 earnings: Net profit slides 20 pc, margin shrinks to 28 pc",
+          "source": "Investment Guru India",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMlFwcWNLaURjQnhBMy1fMVFFcDRhYTRsSS1ITDBjMElZMG1BUkxlRlR2TVB0b2xfVGlwbFIxYTgtV2VPaTg1OHRkN1kycnB4emlmVjQ2TDJnSWVnZTVBSDZKZGlocW5wYVhRMzE4aGVIWm02US0xLUFzNUFiVGh5Uk81cXhSbHdCczF4dXdJdEhodnp1VTJ5N3dmQms0eDNCWmdNRVFUR2FOYjJ1d0g3eVNR?oc=5",
+          "published_at": "2026-11-03T03:30:04+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOMlFwcWNLaURjQnhBMy1fMVFFcDRhYTRsSS1ITDBjMElZMG1BUkxlRlR2TVB0b2xfVGlwbFIxYTgtV2VPaTg1OHRkN1kycnB4emlmVjQ2TDJnSWVnZTVBSDZKZGlocW5wYVhRMzE4aGVIWm02US0xLUFzNUFiVGh5Uk81cXhSbHdCczF4dXdJdEhodnp1VTJ5N3dmQms0eDNCWmdNRVFUR2FOYjJ1d0g3eVNR?oc=5\" target=\"_blank\">ITC Q2 earnings: Net profit slides 20 pc, margin shrinks to 28 pc</a>&nbsp;&nbsp;<font "
+        },
+        {
+          "title": "Top Indian cigarette maker ITC's profit drops 20% as higher prices dent demand",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSTBNLTF0d2Y1MVZNWWFWOElrM0VDb2ItcF92NXRUazl0aFlqLUZXLTZ4SHowZWJIRHJYSjBBQTVZNDhyeFpySHBTbzZzQXBFWngtTVBKUDY4WDJEX29yS0ppaFhMcGhyblV1dERBZE54TlFjbXNTd2lKcDBJY1ZQWjAyRG9mU3RaZWU0R1BpZVh4WW5PaXFkNWRQcGJLWUhUZWxKOHcwazdkNng3QW90aWtlWFRYRHRlQ09J?oc=5",
+          "published_at": "2026-11-02T14:03:31+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSTBNLTF0d2Y1MVZNWWFWOElrM0VDb2ItcF92NXRUazl0aFlqLUZXLTZ4SHowZWJIRHJYSjBBQTVZNDhyeFpySHBTbzZzQXBFWngtTVBKUDY4WDJEX29yS0ppaFhMcGhyblV1dERBZE54TlFjbXNTd2lKcDBJY1ZQWjAyRG9mU3RaZWU0R1BpZVh4WW5PaXFkNWRQcGJLWUhUZWxKOHcwazdkNng3QW90aWtlWFRYRHRlQ09J?oc=5\" target=\"_blank\">Top Indian cigarette maker ITC's profit drops 20% as higher prices dent dem"
+        },
+        {
+          "title": "ITC Q2 profit falls 20% as cigarette business weighs, FMCG growth hits 14-quarter high - CNBC TV18",
+          "source": "LinkedIn",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS1liS3RKZEdOOXp6M2Exck0yV1VHRGdmREJ4Wm0tUTFvVmd2T2JMUVBLYlIyMWNtM19TalFQMmVwb1dNRmVWY19sd3VxcGktcU1kRk9rNGwtbTZud3RtTTh2TXZyZUFZOFFCeFRVSXB5dXpCcThfYWtoMzAxdVFydnJKakM4dm9Dc0RKUDlPTnk5S3psTGhXSzhCblA2VEtFQWNYdzBneXFBcGhBN3djYk9SeERZSG9rZDk4?oc=5",
+          "published_at": "2026-11-02T13:45:15+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS1liS3RKZEdOOXp6M2Exck0yV1VHRGdmREJ4Wm0tUTFvVmd2T2JMUVBLYlIyMWNtM19TalFQMmVwb1dNRmVWY19sd3VxcGktcU1kRk9rNGwtbTZud3RtTTh2TXZyZUFZOFFCeFRVSXB5dXpCcThfYWtoMzAxdVFydnJKakM4dm9Dc0RKUDlPTnk5S3psTGhXSzhCblA2VEtFQWNYdzBneXFBcGhBN3djYk9SeERZSG9rZDk4?oc=5\" target=\"_blank\">ITC Q2 profit falls 20% as cigarette business weighs, FMCG growth hits 14-q"
+        }
+      ],
+      "events": [
+        {
+          "subject": null,
+          "purpose": "Financial Results",
+          "date": "02-Nov-2026",
+          "details": "To consider and approve the financial results for the period ended September 30, 2026"
+        }
+      ],
+      "sebi_mentions": [
+        {
+          "title": "SEBI Order for Compliance - Release Order for Recovery Certificate No. 9226 of 2026 against Jigar Bhailalbhai Khalash (PAN: ESZPK4415E) in the matter of Trading activity in the scrip of ANI Integrated Services Limited.",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/sebi-order-for-compliance-release-order-for-recovery-certificate-no-9226-of-2026-against-jigar-bhailalbhai-khalash-pan-eszpk4415e-in-the-matter-of-trading-activity-in-the-scrip-of-ani-integrated-_105560.html",
+          "published_at": "02 Nov, 2026 +0530",
+          "summary": "SEBI Order for Compliance - Release Order for Recovery Certificate No. 9226 of 2026 against Jigar Bhailalbhai Khalash (PAN: ESZPK4415E) in the matter of Trading activity in the scrip of ANI Integrated Services Limited."
+        },
+        {
+          "title": "Notice of Demand dated November 02, 2026 issued under RC No. 9315 of 2026 drawn against Jalaj Agarwal (PAN: AUDPA0226H)  in the matter of stock recommendation tips in the scrip of Unison Metals Limited",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-demand-dated-november-02-2026-issued-under-rc-no-9315-of-2026-drawn-against-jalaj-agarwal-pan-audpa0226h-in-the-matter-of-stock-recommendation-tips-in-the-scrip-of-unison-metals-limite-_105548.html",
+          "published_at": "02 Nov, 2026 +0530",
+          "summary": "Notice of Demand dated November 02, 2026 issued under RC No. 9315 of 2026 drawn against Jalaj Agarwal (PAN: AUDPA0226H)  in the matter of stock recommendation tips in the scrip of Unison Metals Limited"
+        },
+        {
+          "title": "Adjudication Order in the matter of Praveg Limited -formerly known as Praveg Communications India Limited",
+          "url": "https://www.sebi.gov.in/enforcement/orders/nov-2026/adjudication-order-in-the-matter-of-praveg-limited-formerly-known-as-praveg-communications-india-limited_105536.html",
+          "published_at": "02 Nov, 2026 +0530",
+          "summary": "Adjudication Order in the matter of Praveg Limited -formerly known as Praveg Communications India Limited"
+        },
+        {
+          "title": "Completion Order dated November 02, 2026, against Subair P (PAN: BDBPP7195N) in the matter of M/s Inditrade Capital Limited (formerly known as M/s JRG Securities Ltd.) under RC No. 9306 of 2026",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/completion-order-dated-november-02-2026-against-subair-p-pan-bdbpp7195n-in-the-matter-of-m-s-inditrade-capital-limited-formerly-known-as-m-s-jrg-securities-ltd-under-rc-no-9306-of-2026_105534.html",
+          "published_at": "02 Nov, 2026 +0530",
+          "summary": "Completion Order dated November 02, 2026, against Subair P (PAN: BDBPP7195N) in the matter of M/s Inditrade Capital Limited (formerly known as M/s JRG Securities Ltd.) under RC No. 9306 of 2026"
+        },
+        {
+          "title": "Notices of Attachment of Bank and Post Office accounts and Demat Accounts and mutual Fund Folios with AP Nos. 15863 and 15864 of 2026 dated October 30, 2026 against Jalaj Agrawal (PAN: AUDPA0226H) in the matter of market manipulation using social media in the scrip of Moksh Ornaments Limited under RC No. 9304 of 2026",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notices-of-attachment-of-bank-and-post-office-accounts-and-demat-accounts-and-mutual-fund-folios-with-ap-nos-15863-and-15864-of-2026-dated-october-30-2026-against-jalaj-agrawal-pan-audpa0226h-in-_105538.html",
+          "published_at": "30 Oct, 2026 +0530",
+          "summary": "Notices of Attachment of Bank and Post Office accounts and Demat Accounts and mutual Fund Folios with AP Nos. 15863 and 15864 of 2026 dated October 30, 2026 against Jalaj Agrawal (PAN: AUDPA0226H) in the matter of market manipulation using social media in the scrip of Moksh Ornaments Limited under RC No. 9304 of 2026"
+        },
+        {
+          "title": "Adjudication Order in the matter of Integra Switchgear Limited",
+          "url": "https://www.sebi.gov.in/enforcement/orders/oct-2026/adjudication-order-in-the-matter-of-integra-switchgear-limited_105517.html",
+          "published_at": "30 Oct, 2026 +0530",
+          "summary": "Adjudication Order in the matter of Integra Switchgear Limited"
+        },
+        {
+          "title": "Notice of Demand dated October 30, 2026 against Sunitadevi Niranjan Agarwal (PAN: ADRPS3295H) in the matter of Kalahridhaan Trendz Limited under RC No. 9311 of 2026",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-demand-dated-october-30-2026-against-sunitadevi-niranjan-agarwal-pan-adrps3295h-in-the-matter-of-kalahridhaan-trendz-limited-under-rc-no-9311-of-2026_105515.html",
+          "published_at": "30 Oct, 2026 +0530",
+          "summary": "Notice of Demand dated October 30, 2026 against Sunitadevi Niranjan Agarwal (PAN: ADRPS3295H) in the matter of Kalahridhaan Trendz Limited under RC No. 9311 of 2026"
+        },
+        {
+          "title": "Notice of Demand dated October 30, 2026 against Aditya N Agarwal (PAN: AKTPA4024B) in the matter of Kalahridhaan Trendz Limited under RC No. 9310 of 2026",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-demand-dated-october-30-2026-against-aditya-n-agarwal-pan-aktpa4024b-in-the-matter-of-kalahridhaan-trendz-limited-under-rc-no-9310-of-2026_105513.html",
+          "published_at": "30 Oct, 2026 +0530",
+          "summary": "Notice of Demand dated October 30, 2026 against Aditya N Agarwal (PAN: AKTPA4024B) in the matter of Kalahridhaan Trendz Limited under RC No. 9310 of 2026"
+        }
+      ],
+      "price_action": {
+        "date": "2026-11-02",
+        "open": 266.0,
+        "high": 269.3,
+        "low": 264.0,
+        "close": 266.4,
+        "prev_close": 265.6,
+        "change_pct": 0.3,
+        "gap_pct": 0.15,
+        "intraday_range_pct": 2.0,
+        "volume": 13139384,
+        "avg_volume_20d": 23430520,
+        "volume_ratio": 0.56,
+        "sparkline": [
+          262.3,
+          267.0,
+          265.8,
+          270.15,
+          268.0,
+          269.0,
+          265.2,
+          265.1,
+          262.75,
+          255.9,
+          268.9,
+          266.7,
+          265.7,
+          255.0,
+          266.0,
+          257.9,
+          261.0,
+          261.5,
+          263.9,
+          263.5,
+          260.8,
+          262.0,
+          258.9,
+          257.9,
+          260.5,
+          260.0,
+          259.5,
+          265.0,
+          265.6,
+          266.4
+        ]
+      },
+      "analysis": {
+        "classification": "no_signal",
+        "primary_catalyst": null,
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
+        "flags": []
+      }
+    },
+    {
+      "symbol": "ITCHOTELS",
+      "name": "ITC Hotels Limited",
+      "sector": "Hospitality",
+      "notes": "Demerged from ITC, listed Jan 2025.",
+      "skip_catalysts": false,
+      "bse_announcements": [],
+      "nse_announcements": [],
+      "news": [],
+      "events": [],
+      "sebi_mentions": [
+        {
+          "title": "SEBI Order for Compliance - Release Order for Recovery Certificate No. 9226 of 2026 against Jigar Bhailalbhai Khalash (PAN: ESZPK4415E) in the matter of Trading activity in the scrip of ANI Integrated Services Limited.",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/sebi-order-for-compliance-release-order-for-recovery-certificate-no-9226-of-2026-against-jigar-bhailalbhai-khalash-pan-eszpk4415e-in-the-matter-of-trading-activity-in-the-scrip-of-ani-integrated-_105560.html",
+          "published_at": "02 Nov, 2026 +0530",
+          "summary": "SEBI Order for Compliance - Release Order for Recovery Certificate No. 9226 of 2026 against Jigar Bhailalbhai Khalash (PAN: ESZPK4415E) in the matter of Trading activity in the scrip of ANI Integrated Services Limited."
+        },
+        {
+          "title": "Notice of Demand dated November 02, 2026 issued under RC No. 9315 of 2026 drawn against Jalaj Agarwal (PAN: AUDPA0226H)  in the matter of stock recommendation tips in the scrip of Unison Metals Limited",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-demand-dated-november-02-2026-issued-under-rc-no-9315-of-2026-drawn-against-jalaj-agarwal-pan-audpa0226h-in-the-matter-of-stock-recommendation-tips-in-the-scrip-of-unison-metals-limite-_105548.html",
+          "published_at": "02 Nov, 2026 +0530",
+          "summary": "Notice of Demand dated November 02, 2026 issued under RC No. 9315 of 2026 drawn against Jalaj Agarwal (PAN: AUDPA0226H)  in the matter of stock recommendation tips in the scrip of Unison Metals Limited"
+        },
+        {
+          "title": "Adjudication Order in the matter of Praveg Limited -formerly known as Praveg Communications India Limited",
+          "url": "https://www.sebi.gov.in/enforcement/orders/nov-2026/adjudication-order-in-the-matter-of-praveg-limited-formerly-known-as-praveg-communications-india-limited_105536.html",
+          "published_at": "02 Nov, 2026 +0530",
+          "summary": "Adjudication Order in the matter of Praveg Limited -formerly known as Praveg Communications India Limited"
+        },
+        {
+          "title": "Completion Order dated November 02, 2026, against Subair P (PAN: BDBPP7195N) in the matter of M/s Inditrade Capital Limited (formerly known as M/s JRG Securities Ltd.) under RC No. 9306 of 2026",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/completion-order-dated-november-02-2026-against-subair-p-pan-bdbpp7195n-in-the-matter-of-m-s-inditrade-capital-limited-formerly-known-as-m-s-jrg-securities-ltd-under-rc-no-9306-of-2026_105534.html",
+          "published_at": "02 Nov, 2026 +0530",
+          "summary": "Completion Order dated November 02, 2026, against Subair P (PAN: BDBPP7195N) in the matter of M/s Inditrade Capital Limited (formerly known as M/s JRG Securities Ltd.) under RC No. 9306 of 2026"
+        },
+        {
+          "title": "Notices of Attachment of Bank and Post Office accounts and Demat Accounts and mutual Fund Folios with AP Nos. 15863 and 15864 of 2026 dated October 30, 2026 against Jalaj Agrawal (PAN: AUDPA0226H) in the matter of market manipulation using social media in the scrip of Moksh Ornaments Limited under RC No. 9304 of 2026",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notices-of-attachment-of-bank-and-post-office-accounts-and-demat-accounts-and-mutual-fund-folios-with-ap-nos-15863-and-15864-of-2026-dated-october-30-2026-against-jalaj-agrawal-pan-audpa0226h-in-_105538.html",
+          "published_at": "30 Oct, 2026 +0530",
+          "summary": "Notices of Attachment of Bank and Post Office accounts and Demat Accounts and mutual Fund Folios with AP Nos. 15863 and 15864 of 2026 dated October 30, 2026 against Jalaj Agrawal (PAN: AUDPA0226H) in the matter of market manipulation using social media in the scrip of Moksh Ornaments Limited under RC No. 9304 of 2026"
+        },
+        {
+          "title": "Adjudication Order in the matter of Integra Switchgear Limited",
+          "url": "https://www.sebi.gov.in/enforcement/orders/oct-2026/adjudication-order-in-the-matter-of-integra-switchgear-limited_105517.html",
+          "published_at": "30 Oct, 2026 +0530",
+          "summary": "Adjudication Order in the matter of Integra Switchgear Limited"
+        },
+        {
+          "title": "Notice of Demand dated October 30, 2026 against Sunitadevi Niranjan Agarwal (PAN: ADRPS3295H) in the matter of Kalahridhaan Trendz Limited under RC No. 9311 of 2026",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-demand-dated-october-30-2026-against-sunitadevi-niranjan-agarwal-pan-adrps3295h-in-the-matter-of-kalahridhaan-trendz-limited-under-rc-no-9311-of-2026_105515.html",
+          "published_at": "30 Oct, 2026 +0530",
+          "summary": "Notice of Demand dated October 30, 2026 against Sunitadevi Niranjan Agarwal (PAN: ADRPS3295H) in the matter of Kalahridhaan Trendz Limited under RC No. 9311 of 2026"
+        },
+        {
+          "title": "Notice of Demand dated October 30, 2026 against Aditya N Agarwal (PAN: AKTPA4024B) in the matter of Kalahridhaan Trendz Limited under RC No. 9310 of 2026",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-demand-dated-october-30-2026-against-aditya-n-agarwal-pan-aktpa4024b-in-the-matter-of-kalahridhaan-trendz-limited-under-rc-no-9310-of-2026_105513.html",
+          "published_at": "30 Oct, 2026 +0530",
+          "summary": "Notice of Demand dated October 30, 2026 against Aditya N Agarwal (PAN: AKTPA4024B) in the matter of Kalahridhaan Trendz Limited under RC No. 9310 of 2026"
+        }
+      ],
+      "price_action": {
+        "date": "2026-11-02",
+        "open": 167.9,
+        "high": 171.85,
+        "low": 167.5,
+        "close": 170.48,
+        "prev_close": 167.17,
+        "change_pct": 1.98,
+        "gap_pct": 0.44,
+        "intraday_range_pct": 2.6,
+        "volume": 3312797,
+        "avg_volume_20d": 4001700,
+        "volume_ratio": 0.83,
+        "sparkline": [
+          158.8,
+          155.86,
+          158.6,
+          161.23,
+          164.01,
+          161.9,
+          158.57,
+          160.53,
+          164.13,
+          158.51,
+          158.96,
+          160.21,
+          159.17,
+          154.63,
+          154.52,
+          153.91,
+          155.87,
+          156.87,
+          158.68,
+          162.48,
+          158.5,
+          156.18,
+          161.83,
+          156.25,
+          164.31,
+          166.3,
+          165.1,
+          169.32,
+          167.17,
+          170.48
+        ]
+      },
+      "analysis": {
+        "classification": "no_signal",
+        "primary_catalyst": null,
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
+        "flags": []
+      }
+    },
+    {
+      "symbol": "LEMONTREE",
+      "name": "Lemon Tree Hotels Limited",
+      "sector": "Hospitality",
+      "notes": null,
+      "skip_catalysts": false,
+      "bse_announcements": [],
+      "nse_announcements": [],
+      "news": [
+        {
+          "title": "Lemon Tree Hotels (NSE:LEMONTREE) Rebrands Two Hotels in Bengaluru and Hyderabad from 1 November 2026",
+          "source": "Kalkine India",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdXpqNko2bWx1Ym95Mk9SblpQYm50QnNoUzJCSk5GLVBvTjJ4WTdWUndZOE4yYV8zZ0pEcDY5NnNwUTZ5VVI1YXZyN0ZzOFIwWkFfVXhxZmEyVDVDN29wOFRoSHp6emNuMndWQ3RaaGhXd0JxY2lxcGxwdVN6ZHZaSnlNWDRKQktFWVdfUzZrcTMydE5INFZFWVJuZ1pBelBIMWxqZkFtYzVKSmpfQWJNdVRENXJyek45MGM5YXU0d1JlUDhNWXRaV1FPVkUxQQ?oc=5",
+          "published_at": "2026-11-02T06:58:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNdXpqNko2bWx1Ym95Mk9SblpQYm50QnNoUzJCSk5GLVBvTjJ4WTdWUndZOE4yYV8zZ0pEcDY5NnNwUTZ5VVI1YXZyN0ZzOFIwWkFfVXhxZmEyVDVDN29wOFRoSHp6emNuMndWQ3RaaGhXd0JxY2lxcGxwdVN6ZHZaSnlNWDRKQktFWVdfUzZrcTMydE5INFZFWVJuZ1pBelBIMWxqZkFtYzVKSmpfQWJNdVRENXJyek45MGM5YXU0d1JlUDhNWXRaV1FPVkUxQQ?oc=5\" target=\"_blank\">Lemon Tree Hotels (NSE:LEMONTREE) Rebrands Two Ho"
+        }
+      ],
+      "events": [
+        {
+          "subject": null,
+          "purpose": "Financial Results",
+          "date": "05-Nov-2026",
+          "details": "To consider and approve the financial results for the period ended September 30, 2026"
+        }
+      ],
+      "sebi_mentions": [],
+      "price_action": {
+        "date": "2026-11-02",
+        "open": 110.0,
+        "high": 113.3,
+        "low": 109.5,
+        "close": 112.87,
+        "prev_close": 109.27,
+        "change_pct": 3.29,
+        "gap_pct": 0.67,
+        "intraday_range_pct": 3.48,
+        "volume": 2544780,
+        "avg_volume_20d": 5186775,
+        "volume_ratio": 0.49,
+        "sparkline": [
+          106.47,
+          105.99,
+          107.51,
+          107.92,
+          106.72,
+          106.15,
+          103.82,
+          104.17,
+          104.25,
+          107.67,
+          107.86,
+          110.12,
+          112.52,
+          110.05,
+          110.43,
+          110.69,
+          111.86,
+          111.46,
+          112.5,
+          113.42,
+          111.67,
+          109.82,
+          110.95,
+          108.94,
+          110.14,
+          106.53,
+          107.15,
+          111.34,
+          109.27,
+          112.87
+        ]
+      },
+      "analysis": {
+        "classification": "no_signal",
+        "primary_catalyst": null,
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
+        "flags": []
+      }
+    },
+    {
+      "symbol": "FINPIPE",
+      "name": "Finolex Industries Limited",
+      "sector": "Plastics / Pipes",
+      "notes": null,
+      "skip_catalysts": false,
+      "bse_announcements": [],
+      "nse_announcements": [],
+      "news": [
+        {
+          "title": "FINPIPE: Q2 volume rebounded 28%, but inventory-cost lag kept profitability flat amid an uncertain H2 outlook",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQMkJZZ1dVS2VmX2xQbzNHcGdrTVhrSEphUE5XUmNsUm10X3VLc1NERFFRRzBxTTFTM2E4YmFKMXdxOXB2S09OZXRENzRmNThyaGxyZFZzbEUxOXQ2T19FZl81eUUxWEllcVdOMlNreDNjZEo3ZkcwT1o3WExGRmViZ0NMQlJvT0twRnNpUG05Q0l2cVZEZkVqbXlJOEdvUk9uUHlXbHNBVVhWSUJtZmE4SlNOM2FSSXJ4Wjg2NUZqTG5yNDJhTngxd2NUaVlWRjJzNFFtX1YtbWNWNTVNd2pMMFdvYnJDblE4MDZYbnNkTEg2RmhwN3VPeVBHWEhEWVpJWFQwdjNxQ19YLU40VUNDQndzdnpBUGpRM0lEbkNR?oc=5",
+          "published_at": "2026-11-02T12:24:06+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMingJBVV95cUxQMkJZZ1dVS2VmX2xQbzNHcGdrTVhrSEphUE5XUmNsUm10X3VLc1NERFFRRzBxTTFTM2E4YmFKMXdxOXB2S09OZXRENzRmNThyaGxyZFZzbEUxOXQ2T19FZl81eUUxWEllcVdOMlNreDNjZEo3ZkcwT1o3WExGRmViZ0NMQlJvT0twRnNpUG05Q0l2cVZEZkVqbXlJOEdvUk9uUHlXbHNBVVhWSUJtZmE4SlNOM2FSSXJ4Wjg2NUZqTG5yNDJhTngxd2NUaVlWRjJzNFFtX1YtbWNWNTVNd2pMMFdvYnJDblE4MDZYbnNkTEg2RmhwN3VPeVBHWEhEWVpJWFQwdj"
+        },
+        {
+          "title": "Finolex Industries (NSE:FINPIPE): Where Can Investors Access the Q2 FY27 Analyst Call Recording?",
+          "source": "Kalkine India",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWXZlRUNRRUFvTGpkT1VCOGEyNDVGbk1ISlZfRExCN19qTGZVNUJmLWR4bDNXTkZDdXFUaHBkQmR1TVRYTFJreDZmb2EzRkxhNHJ4NEhIel9OSmlSN0gteFY1cGs3UG4ySjMwS3VzNlpEQnpJc0dLeS1Vbmh4UTFmYmUxd2NwamU3ZmxZRTdHdUcyZ25ubWEzbUxSOHNQRkNoV0dNWkJhenpKSXlVT0Z2TjhDckQxZm9DVHNpX1FrSTBKZ0NhR1BaMHl4UDBCWmxvWThCemdn?oc=5",
+          "published_at": "2026-11-02T15:15:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWXZlRUNRRUFvTGpkT1VCOGEyNDVGbk1ISlZfRExCN19qTGZVNUJmLWR4bDNXTkZDdXFUaHBkQmR1TVRYTFJreDZmb2EzRkxhNHJ4NEhIel9OSmlSN0gteFY1cGs3UG4ySjMwS3VzNlpEQnpJc0dLeS1Vbmh4UTFmYmUxd2NwamU3ZmxZRTdHdUcyZ25ubWEzbUxSOHNQRkNoV0dNWkJhenpKSXlVT0Z2TjhDckQxZm9DVHNpX1FrSTBKZ0NhR1BaMHl4UDBCWmxvWThCemdn?oc=5\" target=\"_blank\">Finolex Industries (NSE:FINPIPE): Where"
+        }
+      ],
+      "events": [
+        {
+          "subject": null,
+          "purpose": "Financial Results",
+          "date": "30-Oct-2026",
+          "details": "To consider and approve the Un-audited (Standalone and Consolidated) Financial Results of the Company for the Quarter and Half Year ended September 30, 2026"
+        }
+      ],
+      "sebi_mentions": [],
+      "price_action": {
+        "date": "2026-11-02",
+        "open": 145.0,
+        "high": 145.0,
+        "low": 137.49,
+        "close": NaN,
+        "prev_close": 137.16,
+        "change_pct": NaN,
+        "gap_pct": 5.72,
+        "intraday_range_pct": 5.48,
+        "volume": 564467,
+        "avg_volume_20d": 410631,
+        "volume_ratio": 1.37,
+        "sparkline": [
+          154.63,
+          152.16,
+          152.94,
+          154.16,
+          154.04,
+          154.16,
+          151.61,
+          151.15,
+          151.48,
+          150.49,
+          149.31,
+          154.72,
+          153.91,
+          149.76,
+          151.16,
+          151.58,
+          151.34,
+          151.6,
+          154.75,
+          153.64,
+          151.3,
+          147.92,
+          148.03,
+          142.4,
+          141.91,
+          141.45,
+          141.24,
+          142.06,
+          137.16,
+          NaN
+        ]
+      },
+      "analysis": {
+        "classification": "no_signal",
+        "primary_catalyst": null,
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
+        "flags": []
+      }
+    },
+    {
+      "symbol": "EBGNG",
+      "name": "GNG Electronics Limited",
+      "sector": "Electronics Refurbishing",
+      "notes": "Listed Jul-2025. NSE symbol is EBGNG (not GNG).",
+      "skip_catalysts": false,
+      "bse_announcements": [],
+      "nse_announcements": [],
+      "news": [],
+      "events": [
+        {
+          "subject": null,
+          "purpose": "Financial Results/Other business matters",
+          "date": "03-Nov-2026",
+          "details": "To consider and approve the financial results for the period ended September 30, 2026 and other business matters"
+        }
+      ],
+      "sebi_mentions": [
+        {
+          "title": "SEBI Order for Compliance - Release Order for Recovery Certificate No. 9226 of 2026 against Jigar Bhailalbhai Khalash (PAN: ESZPK4415E) in the matter of Trading activity in the scrip of ANI Integrated Services Limited.",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/sebi-order-for-compliance-release-order-for-recovery-certificate-no-9226-of-2026-against-jigar-bhailalbhai-khalash-pan-eszpk4415e-in-the-matter-of-trading-activity-in-the-scrip-of-ani-integrated-_105560.html",
+          "published_at": "02 Nov, 2026 +0530",
+          "summary": "SEBI Order for Compliance - Release Order for Recovery Certificate No. 9226 of 2026 against Jigar Bhailalbhai Khalash (PAN: ESZPK4415E) in the matter of Trading activity in the scrip of ANI Integrated Services Limited."
+        },
+        {
+          "title": "Notice of Demand dated November 02, 2026 issued under RC No. 9315 of 2026 drawn against Jalaj Agarwal (PAN: AUDPA0226H)  in the matter of stock recommendation tips in the scrip of Unison Metals Limited",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-demand-dated-november-02-2026-issued-under-rc-no-9315-of-2026-drawn-against-jalaj-agarwal-pan-audpa0226h-in-the-matter-of-stock-recommendation-tips-in-the-scrip-of-unison-metals-limite-_105548.html",
+          "published_at": "02 Nov, 2026 +0530",
+          "summary": "Notice of Demand dated November 02, 2026 issued under RC No. 9315 of 2026 drawn against Jalaj Agarwal (PAN: AUDPA0226H)  in the matter of stock recommendation tips in the scrip of Unison Metals Limited"
+        },
+        {
+          "title": "Adjudication Order in the matter of Praveg Limited -formerly known as Praveg Communications India Limited",
+          "url": "https://www.sebi.gov.in/enforcement/orders/nov-2026/adjudication-order-in-the-matter-of-praveg-limited-formerly-known-as-praveg-communications-india-limited_105536.html",
+          "published_at": "02 Nov, 2026 +0530",
+          "summary": "Adjudication Order in the matter of Praveg Limited -formerly known as Praveg Communications India Limited"
+        },
+        {
+          "title": "Completion Order dated November 02, 2026, against Subair P (PAN: BDBPP7195N) in the matter of M/s Inditrade Capital Limited (formerly known as M/s JRG Securities Ltd.) under RC No. 9306 of 2026",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/completion-order-dated-november-02-2026-against-subair-p-pan-bdbpp7195n-in-the-matter-of-m-s-inditrade-capital-limited-formerly-known-as-m-s-jrg-securities-ltd-under-rc-no-9306-of-2026_105534.html",
+          "published_at": "02 Nov, 2026 +0530",
+          "summary": "Completion Order dated November 02, 2026, against Subair P (PAN: BDBPP7195N) in the matter of M/s Inditrade Capital Limited (formerly known as M/s JRG Securities Ltd.) under RC No. 9306 of 2026"
+        },
+        {
+          "title": "Notices of Attachment of Bank and Post Office accounts and Demat Accounts and mutual Fund Folios with AP Nos. 15863 and 15864 of 2026 dated October 30, 2026 against Jalaj Agrawal (PAN: AUDPA0226H) in the matter of market manipulation using social media in the scrip of Moksh Ornaments Limited under RC No. 9304 of 2026",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notices-of-attachment-of-bank-and-post-office-accounts-and-demat-accounts-and-mutual-fund-folios-with-ap-nos-15863-and-15864-of-2026-dated-october-30-2026-against-jalaj-agrawal-pan-audpa0226h-in-_105538.html",
+          "published_at": "30 Oct, 2026 +0530",
+          "summary": "Notices of Attachment of Bank and Post Office accounts and Demat Accounts and mutual Fund Folios with AP Nos. 15863 and 15864 of 2026 dated October 30, 2026 against Jalaj Agrawal (PAN: AUDPA0226H) in the matter of market manipulation using social media in the scrip of Moksh Ornaments Limited under RC No. 9304 of 2026"
+        },
+        {
+          "title": "Adjudication Order in the matter of Integra Switchgear Limited",
+          "url": "https://www.sebi.gov.in/enforcement/orders/oct-2026/adjudication-order-in-the-matter-of-integra-switchgear-limited_105517.html",
+          "published_at": "30 Oct, 2026 +0530",
+          "summary": "Adjudication Order in the matter of Integra Switchgear Limited"
+        },
+        {
+          "title": "Notice of Demand dated October 30, 2026 against Sunitadevi Niranjan Agarwal (PAN: ADRPS3295H) in the matter of Kalahridhaan Trendz Limited under RC No. 9311 of 2026",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-demand-dated-october-30-2026-against-sunitadevi-niranjan-agarwal-pan-adrps3295h-in-the-matter-of-kalahridhaan-trendz-limited-under-rc-no-9311-of-2026_105515.html",
+          "published_at": "30 Oct, 2026 +0530",
+          "summary": "Notice of Demand dated October 30, 2026 against Sunitadevi Niranjan Agarwal (PAN: ADRPS3295H) in the matter of Kalahridhaan Trendz Limited under RC No. 9311 of 2026"
+        },
+        {
+          "title": "Notice of Demand dated October 30, 2026 against Aditya N Agarwal (PAN: AKTPA4024B) in the matter of Kalahridhaan Trendz Limited under RC No. 9310 of 2026",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-demand-dated-october-30-2026-against-aditya-n-agarwal-pan-aktpa4024b-in-the-matter-of-kalahridhaan-trendz-limited-under-rc-no-9310-of-2026_105513.html",
+          "published_at": "30 Oct, 2026 +0530",
+          "summary": "Notice of Demand dated October 30, 2026 against Aditya N Agarwal (PAN: AKTPA4024B) in the matter of Kalahridhaan Trendz Limited under RC No. 9310 of 2026"
+        }
+      ],
+      "price_action": {
+        "date": "2026-11-02",
+        "open": 658.85,
+        "high": 664.9,
+        "low": 628.55,
+        "close": NaN,
+        "prev_close": 659.45,
+        "change_pct": NaN,
+        "gap_pct": -0.09,
+        "intraday_range_pct": 5.51,
+        "volume": 595843,
+        "avg_volume_20d": 775227,
+        "volume_ratio": 0.77,
+        "sparkline": [
+          703.05,
+          690.45,
+          692.3,
+          715.15,
+          676.65,
+          669.0,
+          672.15,
+          674.8,
+          686.75,
+          704.7,
+          695.45,
+          685.15,
+          731.35,
+          692.15,
+          685.5,
+          698.25,
+          698.2,
+          729.4,
+          692.25,
+          708.05,
+          700.2,
+          670.4,
+          673.75,
+          682.5,
+          708.6,
+          720.1,
+          723.25,
+          690.1,
+          659.45,
+          NaN
+        ]
+      },
+      "analysis": {
+        "classification": "no_signal",
+        "primary_catalyst": null,
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
+        "flags": []
+      }
+    },
+    {
+      "symbol": "SGBJUN31I",
+      "name": "Sovereign Gold Bond 2.50% June 2031 Series I",
+      "sector": "Sovereign Gold Bond",
+      "notes": "Tracks gold spot. No filings/earnings — price-only display.",
+      "skip_catalysts": true,
+      "bse_announcements": [],
+      "nse_announcements": [],
+      "news": [],
+      "events": [],
+      "sebi_mentions": [],
+      "price_action": {
+        "error": "insufficient_data"
+      },
+      "analysis": {
+        "classification": "price_only",
+        "primary_catalyst": null,
+        "analysis": "Price-tracking instrument (SGB/ETF). No catalyst correlation performed.",
+        "confidence": "high",
+        "flags": []
+      }
+    }
+  ]
+}
