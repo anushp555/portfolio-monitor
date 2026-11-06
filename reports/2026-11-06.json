@@ -1,0 +1,1691 @@
+{
+  "report_date": "2026-11-06",
+  "trading_day": "2026-11-05",
+  "generated_at": "2026-11-06T09:01:03.352257+05:30",
+  "stocks": [
+    {
+      "symbol": "TMCV",
+      "name": "Tata Motors Limited",
+      "sector": "Commercial Vehicles",
+      "notes": "Post-demerger CV business (trucks, buses, Iveco). Yahoo uses TMCV; NSE uses TATAMOTORS.",
+      "skip_catalysts": false,
+      "bse_announcements": [],
+      "nse_announcements": [],
+      "news": [
+        {
+          "title": "Tata Motors shares gain 8% on Iveco synergy bets; Nomura, HSBC targets -",
+          "source": "IndiaIPO",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMnpYcFhHdXBnZVZ5TENIVmpDUThjUlh5TnkwdXRaOGwxRWhiajZxRUI5YzZxY2FwejhyS1F1YXc5Z3hRRXoyNTlwNE00RHdhaE45bE1TOTNPaE4zMTIzRWRkQmNWVTNyOWs5OU9lVENrTWhLcG5GVnRhb0RUQkNiZTRnUU42R0FZcUFmN0liTm5XVFJqSVptdUZ4MW5iMlhQckFyWlJR?oc=5",
+          "published_at": "2026-11-05T06:35:16+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQMnpYcFhHdXBnZVZ5TENIVmpDUThjUlh5TnkwdXRaOGwxRWhiajZxRUI5YzZxY2FwejhyS1F1YXc5Z3hRRXoyNTlwNE00RHdhaE45bE1TOTNPaE4zMTIzRWRkQmNWVTNyOWs5OU9lVENrTWhLcG5GVnRhb0RUQkNiZTRnUU42R0FZcUFmN0liTm5XVFJqSVptdUZ4MW5iMlhQckFyWlJR?oc=5\" target=\"_blank\">Tata Motors shares gain 8% on Iveco synergy bets; Nomura, HSBC targets -</a>&nbsp;&nbsp;<font color=\"#6"
+        },
+        {
+          "title": "Tata Motors shares gain 8% on Iveco synergy bets; Nomura, HSBC targets",
+          "source": "Business Today",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSzFkdTJON2N2OFE5WVFXOHlocVl1Rmt0akd0VWhuWnFkS0hZVm1Wd082QTFsdWVoVlJqNW5HaVZPaFUxT3dINk0xTHQ1cnlVWjVKTHowQzA2RTkxc21kRkNnSzZKNTFWT0RaU1RLTWw0YkNPWmpacG1PUTFvU0Z2enlGaWEwRzh6RnE4RmZVcVFvaXkwS2VVcmk4ZEU4ck1VdDV2eEJxVWpaWUcwdFVWLVIxZ2VXbW5QZXVyWmxid3ZfaTV2RC0wWDdvb2c4MVd50gHWAUFVX3lxTE44eFhYTXY3WHdGSVQtMFZKYmpKWWM0SFBLSUkxYWgxaGtQOTRYTEZYaS05b3B4WVdOY2RZVy1rQURGZXJVNU5QN3VmWjZzLWNkWTZqMk1yTDJTeXBpbWNVTWlqSXpOLTUyZWMtUWEtWnYzZDEyR3gzamg3bk44aWljX0p3YVRuWlBaUWhHYU93R2xQVXNyRUQ5M3AwMWFNbnRTTVRRXzFCSDlGXzRUdVlTUm5lY2p2M2JOb2lBR2pIVFBSRW44NWpKZFE1TkdrQURwWmdWX1E?oc=5",
+          "published_at": "2026-11-05T04:38:43+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSzFkdTJON2N2OFE5WVFXOHlocVl1Rmt0akd0VWhuWnFkS0hZVm1Wd082QTFsdWVoVlJqNW5HaVZPaFUxT3dINk0xTHQ1cnlVWjVKTHowQzA2RTkxc21kRkNnSzZKNTFWT0RaU1RLTWw0YkNPWmpacG1PUTFvU0Z2enlGaWEwRzh6RnE4RmZVcVFvaXkwS2VVcmk4ZEU4ck1VdDV2eEJxVWpaWUcwdFVWLVIxZ2VXbW5QZXVyWmxid3ZfaTV2RC0wWDdvb2c4MVd50gHWAUFVX3lxTE44eFhYTXY3WHdGSVQtMFZKYmpKWWM0SFBLSUkxYWgxaGtQOTRYTEZYaS"
+        },
+        {
+          "title": "TMCV Share Price Up 7%: Tata Motors Commercial Vehicles",
+          "source": "Univest",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOEpNTXlZMmctMkdmbFBVaXc2UWdOc2lUREpjZ1lSb1JxcUgyaU1TaE5YdVBsTTV6RTNFWHpidUd3Wm9MRzM4UThJbGUzRVBPblAzTmhMMkVsZkxLRm8tSFdsXzl4VnpBbzhPY0tUMFpVbmFJODEyb0NNQkVvbUh5UnI4ODNQalFuUTJlUEY0UlY2WlJIaUZJWFBfVQ?oc=5",
+          "published_at": "2026-11-05T04:35:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOOEpNTXlZMmctMkdmbFBVaXc2UWdOc2lUREpjZ1lSb1JxcUgyaU1TaE5YdVBsTTV6RTNFWHpidUd3Wm9MRzM4UThJbGUzRVBPblAzTmhMMkVsZkxLRm8tSFdsXzl4VnpBbzhPY0tUMFpVbmFJODEyb0NNQkVvbUh5UnI4ODNQalFuUTJlUEY0UlY2WlJIaUZJWFBfVQ?oc=5\" target=\"_blank\">TMCV Share Price Up 7%: Tata Motors Commercial Vehicles</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Univest</font>"
+        }
+      ],
+      "events": [],
+      "sebi_mentions": [],
+      "price_action": {
+        "date": "2026-11-05",
+        "open": 421.0,
+        "high": 439.9,
+        "low": 416.95,
+        "close": 429.05,
+        "prev_close": 402.8,
+        "change_pct": 6.52,
+        "gap_pct": 4.52,
+        "intraday_range_pct": 5.7,
+        "volume": 23130499,
+        "avg_volume_20d": 5832540,
+        "volume_ratio": 3.97,
+        "sparkline": [
+          450.2,
+          437.15,
+          441.5,
+          432.95,
+          430.15,
+          421.65,
+          415.5,
+          426.8,
+          433.8,
+          427.9,
+          413.2,
+          410.3,
+          404.5,
+          416.95,
+          415.25,
+          422.8,
+          421.05,
+          418.75,
+          417.5,
+          414.25,
+          396.0,
+          384.05,
+          399.2,
+          399.7,
+          400.3,
+          396.35,
+          401.4,
+          404.2,
+          402.8,
+          429.05
+        ]
+      },
+      "analysis": {
+        "classification": "no_signal",
+        "primary_catalyst": null,
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
+        "flags": []
+      }
+    },
+    {
+      "symbol": "TMPV",
+      "name": "Tata Motors Passenger Vehicles Limited",
+      "sector": "Passenger Vehicles",
+      "notes": "Post-demerger PV business (cars, EVs, JLR).",
+      "skip_catalysts": false,
+      "bse_announcements": [],
+      "nse_announcements": [],
+      "news": [
+        {
+          "title": "Ashok Leyland, M&M, TMPV, Eicher Motors, Bajaj Auto, Hero MotoCorp shares: Targets -",
+          "source": "IndiaIPO",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYm1SZGd3NkRTNWpDNlpTbDBzM2NSQ0VDemFlNzA4dGFXTXVhcU82d0lBSnlSNko2Qk52NDJPTUNwQXhZanVFdTc1bmNkLUJ3RDhDREtibjdpVVJjQlpqQ0d1TktYUm5nVWg0VFl4TXBDeXJLZzB2SXhYOFFKRngzUE9sRlRKX3pBSnIxaV9fei1Sb3MySFVSZ0M2RHNzOEVtMGk1ekw3Snh0SkxieGczTw?oc=5",
+          "published_at": "2026-11-05T13:55:44+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOYm1SZGd3NkRTNWpDNlpTbDBzM2NSQ0VDemFlNzA4dGFXTXVhcU82d0lBSnlSNko2Qk52NDJPTUNwQXhZanVFdTc1bmNkLUJ3RDhDREtibjdpVVJjQlpqQ0d1TktYUm5nVWg0VFl4TXBDeXJLZzB2SXhYOFFKRngzUE9sRlRKX3pBSnIxaV9fei1Sb3MySFVSZ0M2RHNzOEVtMGk1ekw3Snh0SkxieGczTw?oc=5\" target=\"_blank\">Ashok Leyland, M&amp;M, TMPV, Eicher Motors, Bajaj Auto, Hero MotoCorp shares: Targets -<"
+        }
+      ],
+      "events": [
+        {
+          "subject": null,
+          "purpose": "Financial Results",
+          "date": "13-Nov-2026",
+          "details": "To consider and approve the financial results for the period ended September 30, 2026"
+        }
+      ],
+      "sebi_mentions": [],
+      "price_action": {
+        "date": "2026-11-05",
+        "open": 284.0,
+        "high": 296.35,
+        "low": 284.0,
+        "close": 293.7,
+        "prev_close": 278.5,
+        "change_pct": 5.46,
+        "gap_pct": 1.97,
+        "intraday_range_pct": 4.43,
+        "volume": 16264124,
+        "avg_volume_20d": 7686332,
+        "volume_ratio": 2.12,
+        "sparkline": [
+          300.5,
+          295.0,
+          290.45,
+          281.75,
+          280.95,
+          283.5,
+          279.4,
+          288.65,
+          285.8,
+          283.0,
+          273.0,
+          279.9,
+          284.45,
+          285.85,
+          283.8,
+          287.05,
+          286.85,
+          278.0,
+          275.7,
+          270.0,
+          264.6,
+          263.7,
+          261.2,
+          263.6,
+          266.0,
+          265.4,
+          272.4,
+          276.7,
+          278.5,
+          293.7
+        ]
+      },
+      "analysis": {
+        "classification": "no_signal",
+        "primary_catalyst": null,
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
+        "flags": []
+      }
+    },
+    {
+      "symbol": "ICICIBANK",
+      "name": "ICICI Bank Limited",
+      "sector": "Banking",
+      "notes": null,
+      "skip_catalysts": false,
+      "bse_announcements": [],
+      "nse_announcements": [
+        {
+          "headline": "ESOP/ESOS/ESPS",
+          "category": "Banks",
+          "more_info": "ICICI Bank Limited has informed the Exchange regarding Allotment of 36937 Shares.",
+          "pdf_url": "https://nsearchives.nseindia.com/corporate/ICICIBANK1_05112026112709_LETTERTOSTOCKEXCHANGE.pdf",
+          "attached_at": "05-Nov-2026 11:27:25",
+          "source": "NSE"
+        }
+      ],
+      "news": [
+        {
+          "title": "Key facts: ICICI Bank $2M Transfer Loss Alleged; Buy Pick; Shares Issued",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPakh6NHF5NTctdXRPTFVJaTVMTVpBbE5ZS0swVnc0cEduQzk3bW1ycU52bEthX3BPQV9TanVxdEhycEozWXdEN0Z1WWszdjd2RjhlSUFkd1F1ajh4RVVvMnFydnJGYjlvbFpUbGNRZVBfM3BYRG5TMmwwWTlfRmg4cXhnUVF6YXlhUkdyTUtRQ0JfX09aNm5BV28zRHNIbDVIS29CS2RocmpoV0VDRFdUMV9pTDlrVGk0aGRPWGNXOUNQZDdJTGNHNnFB?oc=5",
+          "published_at": "2026-11-06T02:00:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPakh6NHF5NTctdXRPTFVJaTVMTVpBbE5ZS0swVnc0cEduQzk3bW1ycU52bEthX3BPQV9TanVxdEhycEozWXdEN0Z1WWszdjd2RjhlSUFkd1F1ajh4RVVvMnFydnJGYjlvbFpUbGNRZVBfM3BYRG5TMmwwWTlfRmg4cXhnUVF6YXlhUkdyTUtRQ0JfX09aNm5BV28zRHNIbDVIS29CS2RocmpoV0VDRFdUMV9pTDlrVGk0aGRPWGNXOUNQZDdJTGNHNnFB?oc=5\" target=\"_blank\">Key facts: ICICI Bank $2M Transfer Loss Alleged; Buy Pi"
+        },
+        {
+          "title": "ICICI Bank shares near 52-week high as allotments signal employee scheme activity",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaDYxclVZdGxfNjdCVlZYYzB1QTdFSjFuWEFwSlBoaHgyS295bE5McUx0MHJZMEl2clZYbk1jNVNQb3JjQUJZUHEwbEhkN0JTOFBWQ3plcU5kZ3Vqd2JVdW5KU0wyNGV2TXVDS0JpbFVBV0wyek5LTWhxUXdEaFZ2RXlGQzFBQm90Q3RnT2hWT0thZlI5SnNiNGltY0w0RHRvOW04bDBLbkxFRE9BUWRLRHQ0cXluTTNLU0czRXBuYk42dWlYM1BoZzQ5ZXZvTEt5QjZ1WQ?oc=5",
+          "published_at": "2026-11-05T07:10:25+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaDYxclVZdGxfNjdCVlZYYzB1QTdFSjFuWEFwSlBoaHgyS295bE5McUx0MHJZMEl2clZYbk1jNVNQb3JjQUJZUHEwbEhkN0JTOFBWQ3plcU5kZ3Vqd2JVdW5KU0wyNGV2TXVDS0JpbFVBV0wyek5LTWhxUXdEaFZ2RXlGQzFBQm90Q3RnT2hWT0thZlI5SnNiNGltY0w0RHRvOW04bDBLbkxFRE9BUWRLRHQ0cXluTTNLU0czRXBuYk42dWlYM1BoZzQ5ZXZvTEt5QjZ1WQ?oc=5\" target=\"_blank\">ICICI Bank shares near 52-week high as al"
+        },
+        {
+          "title": "ENNATURE Share Price Today - Ennature Bio Pharma Stock Analysis",
+          "source": "Equitypandit",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4yM2pUcGlMNDVPemlQM0dVMGdwZHlVSXg2bVhLMDFWcGZnaFY0SGFWajFEUEhtZEdiRVdqdzB6b1ZnaWZUTW9pUTN2MFBBWDBIZ3I1YlBzVFdWZ09XTUE?oc=5",
+          "published_at": "2026-11-05T03:48:19+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE4yM2pUcGlMNDVPemlQM0dVMGdwZHlVSXg2bVhLMDFWcGZnaFY0SGFWajFEUEhtZEdiRVdqdzB6b1ZnaWZUTW9pUTN2MFBBWDBIZ3I1YlBzVFdWZ09XTUE?oc=5\" target=\"_blank\">ENNATURE Share Price Today - Ennature Bio Pharma Stock Analysis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Equitypandit</font>"
+        },
+        {
+          "title": "Democratic victories threaten to slow US data-centre expansion, ease bond yields: Report",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPR0xsWVJlRW1qR09qNzRZQV9JR0c0WThMRXFsMVBtVDNOTmpNd0pfWTJWOHZFOFp3MHpId1ljem41UTlkWExfZncwLUliYm5MX3dDQ2gxalBnMDJjcXUwTmJjMlFRQy1QcXNSaU5lMnNJRm9SQVNxTkZzOFltaHo0ZmxDajZEY0RvUHNWQjA5SkVmR1U3bFZmVmc5ZjRmdzZ6MGh5TnVRZVZFVFVzWGpXZlV5eXRGenhpbzJPdl9QMWFBQVFZZlo3TURGS1N2emY1Tl91Vk9MVUZ2bUE?oc=5",
+          "published_at": "2026-11-05T02:58:31+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPR0xsWVJlRW1qR09qNzRZQV9JR0c0WThMRXFsMVBtVDNOTmpNd0pfWTJWOHZFOFp3MHpId1ljem41UTlkWExfZncwLUliYm5MX3dDQ2gxalBnMDJjcXUwTmJjMlFRQy1QcXNSaU5lMnNJRm9SQVNxTkZzOFltaHo0ZmxDajZEY0RvUHNWQjA5SkVmR1U3bFZmVmc5ZjRmdzZ6MGh5TnVRZVZFVFVzWGpXZlV5eXRGenhpbzJPdl9QMWFBQVFZZlo3TURGS1N2emY1Tl91Vk9MVUZ2bUE?oc=5\" target=\"_blank\">Democratic victories threaten to"
+        },
+        {
+          "title": "Persistent Systems allots INR 6 billion commercial paper",
+          "source": "InvestyWise",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE41M2s0NER1MnFSZWRmWkM3TGhka3BWanhlbjRzWjVINEhySTNSamRtb0tPNWRIY3NHOGhxOHpLcFZZRHJmOTVpNEpBX0tfLVd4NWJMc3NfaGg2NU5rLWUxYjZnblFZZEdPQXk4VW5Sdl8xSUJWZ3VmM2dkcXgzTWc?oc=5",
+          "published_at": "2026-11-05T18:29:31+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE41M2s0NER1MnFSZWRmWkM3TGhka3BWanhlbjRzWjVINEhySTNSamRtb0tPNWRIY3NHOGhxOHpLcFZZRHJmOTVpNEpBX0tfLVd4NWJMc3NfaGg2NU5rLWUxYjZnblFZZEdPQXk4VW5Sdl8xSUJWZ3VmM2dkcXgzTWc?oc=5\" target=\"_blank\">Persistent Systems allots INR 6 billion commercial paper</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">InvestyWise</font>"
+        }
+      ],
+      "events": [],
+      "sebi_mentions": [],
+      "price_action": {
+        "date": "2026-11-05",
+        "open": 1458.0,
+        "high": 1501.4,
+        "low": 1445.9,
+        "close": 1500.0,
+        "prev_close": 1424.1,
+        "change_pct": 5.33,
+        "gap_pct": 2.38,
+        "intraday_range_pct": 3.9,
+        "volume": 38324323,
+        "avg_volume_20d": 12494644,
+        "volume_ratio": 3.07,
+        "sparkline": [
+          1340.0,
+          1334.5,
+          1326.8,
+          1302.0,
+          1292.2,
+          1321.7,
+          1310.6,
+          1332.0,
+          1342.8,
+          1357.5,
+          1349.0,
+          1355.0,
+          1340.0,
+          1360.2,
+          1338.6,
+          1389.4,
+          1397.0,
+          1381.0,
+          1385.0,
+          1398.5,
+          1394.2,
+          1403.0,
+          1386.9,
+          1377.6,
+          1386.6,
+          1398.0,
+          1387.4,
+          1424.5,
+          1424.1,
+          1500.0
+        ]
+      },
+      "analysis": {
+        "classification": "no_signal",
+        "primary_catalyst": null,
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
+        "flags": []
+      }
+    },
+    {
+      "symbol": "HDFCLIFE",
+      "name": "HDFC Life Insurance Company Limited",
+      "sector": "Insurance",
+      "notes": "Assumed \"HDFC Live\" was HDFC Life. Tell me if you meant HDFC Bank.",
+      "skip_catalysts": false,
+      "bse_announcements": [],
+      "nse_announcements": [],
+      "news": [],
+      "events": [],
+      "sebi_mentions": [],
+      "price_action": {
+        "date": "2026-11-05",
+        "open": 537.8,
+        "high": 546.15,
+        "low": 536.2,
+        "close": NaN,
+        "prev_close": 532.5,
+        "change_pct": NaN,
+        "gap_pct": 1.0,
+        "intraday_range_pct": 1.87,
+        "volume": 3192797,
+        "avg_volume_20d": 2128155,
+        "volume_ratio": 1.5,
+        "sparkline": [
+          561.5,
+          526.9,
+          531.0,
+          531.6,
+          523.55,
+          521.2,
+          534.2,
+          531.0,
+          543.95,
+          546.05,
+          544.5,
+          556.65,
+          559.25,
+          560.0,
+          544.05,
+          550.55,
+          553.0,
+          545.5,
+          539.65,
+          528.35,
+          523.75,
+          519.0,
+          513.6,
+          514.1,
+          517.0,
+          524.9,
+          522.25,
+          525.5,
+          532.5,
+          NaN
+        ]
+      },
+      "analysis": {
+        "classification": "no_signal",
+        "primary_catalyst": null,
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
+        "flags": []
+      }
+    },
+    {
+      "symbol": "BANDHANBNK",
+      "name": "Bandhan Bank Limited",
+      "sector": "Banking",
+      "notes": null,
+      "skip_catalysts": false,
+      "bse_announcements": [],
+      "nse_announcements": [],
+      "news": [
+        {
+          "title": "Bandhan Bank Ltd. News — BSE:BANDHANBNK",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4wUFdndEJoX1BnYUhBcEJiNVlSWVRaNmE1RDYzWGFPakZOcm1XcTZrckVDenBwT3VaUFVlU0hLaUVBTVh3SmV5bXVhZC1tSFBLTGM0U0gyNWdBMXZYU3NFMWUtOG9tbmVHTU5NUzlEb2RtVDVqeVljVDhIUQ?oc=5",
+          "published_at": "2026-11-05T15:54:04+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE4wUFdndEJoX1BnYUhBcEJiNVlSWVRaNmE1RDYzWGFPakZOcm1XcTZrckVDenBwT3VaUFVlU0hLaUVBTVh3SmV5bXVhZC1tSFBLTGM0U0gyNWdBMXZYU3NFMWUtOG9tbmVHTU5NUzlEb2RtVDVqeVljVDhIUQ?oc=5\" target=\"_blank\">Bandhan Bank Ltd. News — BSE:BANDHANBNK</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+        }
+      ],
+      "events": [],
+      "sebi_mentions": [],
+      "price_action": {
+        "date": "2026-11-05",
+        "open": 162.0,
+        "high": 163.4,
+        "low": 160.52,
+        "close": 161.75,
+        "prev_close": 157.86,
+        "change_pct": 2.46,
+        "gap_pct": 2.62,
+        "intraday_range_pct": 1.82,
+        "volume": 13575990,
+        "avg_volume_20d": 11888571,
+        "volume_ratio": 1.14,
+        "sparkline": [
+          191.38,
+          182.9,
+          187.7,
+          181.0,
+          185.31,
+          178.23,
+          176.0,
+          168.27,
+          164.15,
+          162.99,
+          155.54,
+          157.0,
+          157.5,
+          172.0,
+          168.58,
+          170.34,
+          167.5,
+          163.8,
+          159.1,
+          158.44,
+          149.89,
+          150.86,
+          151.91,
+          155.36,
+          161.84,
+          154.33,
+          155.25,
+          156.8,
+          157.86,
+          161.75
+        ]
+      },
+      "analysis": {
+        "classification": "no_signal",
+        "primary_catalyst": null,
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
+        "flags": []
+      }
+    },
+    {
+      "symbol": "IDFCFIRSTB",
+      "name": "IDFC First Bank Limited",
+      "sector": "Banking",
+      "notes": null,
+      "skip_catalysts": false,
+      "bse_announcements": [],
+      "nse_announcements": [],
+      "news": [],
+      "events": [],
+      "sebi_mentions": [],
+      "price_action": {
+        "date": "2026-11-05",
+        "open": 76.25,
+        "high": 77.97,
+        "low": 75.6,
+        "close": 77.8,
+        "prev_close": 74.73,
+        "change_pct": 4.11,
+        "gap_pct": 2.03,
+        "intraday_range_pct": 3.17,
+        "volume": 33703689,
+        "avg_volume_20d": 16187219,
+        "volume_ratio": 2.08,
+        "sparkline": [
+          87.9,
+          83.76,
+          83.8,
+          80.55,
+          79.46,
+          81.44,
+          80.39,
+          82.22,
+          81.56,
+          79.54,
+          78.46,
+          79.52,
+          79.44,
+          78.83,
+          78.74,
+          79.07,
+          78.08,
+          76.33,
+          75.06,
+          74.89,
+          72.3,
+          71.74,
+          71.36,
+          73.53,
+          73.38,
+          72.0,
+          73.63,
+          73.2,
+          74.73,
+          77.8
+        ]
+      },
+      "analysis": {
+        "classification": "no_signal",
+        "primary_catalyst": null,
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
+        "flags": []
+      }
+    },
+    {
+      "symbol": "CGCL",
+      "name": "Capri Global Capital Limited",
+      "sector": "NBFC",
+      "notes": null,
+      "skip_catalysts": false,
+      "bse_announcements": [],
+      "nse_announcements": [],
+      "news": [],
+      "events": [],
+      "sebi_mentions": [
+        {
+          "title": "SEBI Order for Compliance - Release Order for Recovery Certificate No. 7413 of 2023 Yadunath Singh Thakur Proprietor of the Apex Global – in the matter of The Apex Global.",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/sebi-order-for-compliance-release-order-for-recovery-certificate-no-7413-of-2023-yadunath-singh-thakur-proprietor-of-the-apex-global-in-the-matter-of-the-apex-global-_105609.html",
+          "published_at": "04 Nov, 2026 +0530",
+          "summary": "SEBI Order for Compliance - Release Order for Recovery Certificate No. 7413 of 2023 Yadunath Singh Thakur Proprietor of the Apex Global – in the matter of The Apex Global."
+        },
+        {
+          "title": "SEBI Order for Compliance - Release Order for Recovery Certificate No. 6147 of 2022 The Apex Global, Proprietor – Yadunath Singh Thakur in the matter of Covidh Technologies Limited.",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/sebi-order-for-compliance-release-order-for-recovery-certificate-no-6147-of-2022-the-apex-global-proprietor-yadunath-singh-thakur-in-the-matter-of-covidh-technologies-limited-_105607.html",
+          "published_at": "04 Nov, 2026 +0530",
+          "summary": "SEBI Order for Compliance - Release Order for Recovery Certificate No. 6147 of 2022 The Apex Global, Proprietor – Yadunath Singh Thakur in the matter of Covidh Technologies Limited."
+        },
+        {
+          "title": "SEBI Order for Compliance - Completion Order for Recovery Certificate No. 7413 of 2023 Yadunath Singh Thakur Proprietor of the Apex Global – in the matter of The Apex Global.",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/sebi-order-for-compliance-completion-order-for-recovery-certificate-no-7413-of-2023-yadunath-singh-thakur-proprietor-of-the-apex-global-in-the-matter-of-the-apex-global-_105605.html",
+          "published_at": "04 Nov, 2026 +0530",
+          "summary": "SEBI Order for Compliance - Completion Order for Recovery Certificate No. 7413 of 2023 Yadunath Singh Thakur Proprietor of the Apex Global – in the matter of The Apex Global."
+        }
+      ],
+      "price_action": {
+        "date": "2026-11-05",
+        "open": 245.8,
+        "high": 245.8,
+        "low": 239.2,
+        "close": NaN,
+        "prev_close": 240.1,
+        "change_pct": NaN,
+        "gap_pct": 2.37,
+        "intraday_range_pct": 2.75,
+        "volume": 8122351,
+        "avg_volume_20d": 6775929,
+        "volume_ratio": 1.2,
+        "sparkline": [
+          268.6,
+          259.4,
+          253.7,
+          248.9,
+          246.9,
+          247.45,
+          249.23,
+          247.06,
+          246.88,
+          250.74,
+          241.54,
+          241.82,
+          241.02,
+          248.9,
+          247.91,
+          247.15,
+          247.56,
+          243.69,
+          238.54,
+          237.17,
+          235.84,
+          231.05,
+          234.25,
+          231.66,
+          231.61,
+          230.24,
+          232.65,
+          240.29,
+          240.1,
+          NaN
+        ]
+      },
+      "analysis": {
+        "classification": "no_signal",
+        "primary_catalyst": null,
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
+        "flags": []
+      }
+    },
+    {
+      "symbol": "TATAPOWER",
+      "name": "Tata Power Company Limited",
+      "sector": "Power",
+      "notes": null,
+      "skip_catalysts": false,
+      "bse_announcements": [],
+      "nse_announcements": [
+        {
+          "headline": "Press Release",
+          "category": "Power",
+          "more_info": "Tata Power Company Limited has informed the Exchange regarding a press release dated November 05, 2026, titled \"Tata Power Renewables Commissions 300 MW Project for SECI in Karnataka\".",
+          "pdf_url": "https://nsearchives.nseindia.com/corporate/KSTPCL_05112026103413_PR.pdf",
+          "attached_at": "05-Nov-2026 10:34:26",
+          "source": "NSE"
+        }
+      ],
+      "news": [],
+      "events": [
+        {
+          "subject": null,
+          "purpose": "Financial Results/Other business matters",
+          "date": "11-Nov-2026",
+          "details": "To consider and approve the financial results for the quarter and half year ended September 30, 2026, and other business matters"
+        }
+      ],
+      "sebi_mentions": [],
+      "price_action": {
+        "date": "2026-11-05",
+        "open": 365.0,
+        "high": 366.9,
+        "low": 359.85,
+        "close": 364.55,
+        "prev_close": 360.0,
+        "change_pct": 1.26,
+        "gap_pct": 1.39,
+        "intraday_range_pct": 1.96,
+        "volume": 4043164,
+        "avg_volume_20d": 4395000,
+        "volume_ratio": 0.92,
+        "sparkline": [
+          369.0,
+          363.45,
+          367.5,
+          361.9,
+          359.0,
+          359.0,
+          350.15,
+          351.5,
+          351.65,
+          345.15,
+          335.65,
+          342.15,
+          343.7,
+          345.0,
+          353.0,
+          349.8,
+          353.85,
+          352.25,
+          352.0,
+          353.5,
+          348.1,
+          338.5,
+          339.1,
+          335.0,
+          344.55,
+          345.05,
+          355.9,
+          356.55,
+          360.0,
+          364.55
+        ]
+      },
+      "analysis": {
+        "classification": "no_signal",
+        "primary_catalyst": null,
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
+        "flags": []
+      }
+    },
+    {
+      "symbol": "SUZLON",
+      "name": "Suzlon Energy Limited",
+      "sector": "Renewable Energy",
+      "notes": null,
+      "skip_catalysts": false,
+      "bse_announcements": [],
+      "nse_announcements": [
+        {
+          "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "category": "Electrical Equipment",
+          "more_info": "Suzlon Energy Limited has informed the Exchange about Schedule of meet",
+          "pdf_url": "https://nsearchives.nseindia.com/corporate/SUZLON1_05112026171020_Suzlon05112026.pdf",
+          "attached_at": "05-Nov-2026 17:10:51",
+          "source": "NSE"
+        },
+        {
+          "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "category": "Electrical Equipment",
+          "more_info": "Suzlon Energy Limited has informed the Exchange about Schedule of meet",
+          "pdf_url": "https://nsearchives.nseindia.com/corporate/SUZLON1_05112026170822_Suzlon05112026.pdf",
+          "attached_at": "05-Nov-2026 17:08:57",
+          "source": "NSE"
+        }
+      ],
+      "news": [
+        {
+          "title": "As Suzlon gains speed, familiar concerns re-emerge",
+          "source": "Moneycontrol.com",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSFhHYTJtYm1sbDlEZFo3S043b1dDOFpYRlJxSlZaTUhjNXhleVJrSmlHb3pkOTlldkROU2VIQnh1Ul8tWnloc2tKLUhSRWtlLWhlcjVmR0VrQ3hNdkhEbGNkLWswYjE0akp6dDZXODI4V1JJdy1vU2o5UlBGX0ZfMzdUZ1l4bjVDMUswMzQ2bXExT0h2S2l0dzhFVEEzc2U5WmFGOGlrQ2LSAa4BQVVfeXFMT0k3RXJ1OTc3cnNJM2tpYl9iLUU0ekt5aEpZOFQtRlZodmZaZVhIbFhueTYwa2hEaFRZcDZEWlUxazNxVGUyRDM1ZDVGamRkRUREWFhpbEJDS3k5U3FQVVFJOVZwdjlGRloxY2lDbVlQM1E3aEM2OXNJWGhEeVRPODhQMkhhLWI2TFBkMU9QeUxQUXhXX0o2V1dvNmZKOVJYbDlBclZ0dGFvcmU0VldR?oc=5",
+          "published_at": "2026-11-05T03:07:13+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSFhHYTJtYm1sbDlEZFo3S043b1dDOFpYRlJxSlZaTUhjNXhleVJrSmlHb3pkOTlldkROU2VIQnh1Ul8tWnloc2tKLUhSRWtlLWhlcjVmR0VrQ3hNdkhEbGNkLWswYjE0akp6dDZXODI4V1JJdy1vU2o5UlBGX0ZfMzdUZ1l4bjVDMUswMzQ2bXExT0h2S2l0dzhFVEEzc2U5WmFGOGlrQ2LSAa4BQVVfeXFMT0k3RXJ1OTc3cnNJM2tpYl9iLUU0ekt5aEpZOFQtRlZodmZaZVhIbFhueTYwa2hEaFRZcDZEWlUxazNxVGUyRDM1ZDVGamRkRUREWFhpbEJDS3"
+        },
+        {
+          "title": "Suzlon targets 10 GW business in Karnataka in 5 years; plans two wind parks, blade plant",
+          "source": "BusinessLine",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOaHRpWkhfdElpVU9ONUo1ai1wdU9QTWtKci1jZUh0SV80YjlaR1gwRUZOUGNSVXNBM0ZSamZTdTlMMHp3ZUh2NElWRTN1WTBfbXcteEw0bW85eFIyZkZQWndvMHYya01TRUxVTmgxb1lNaEdibExxNGhnNEhZV0JfM3NkR3dFelZMd0tVX2hKbnRwOThCWTdQd1RLOWdaM3RoaEtxRVRQTm1QNmtpS0ZPeGszaXFhY3VCY0NqMTFTR25LSk1FOE9QOHVQdWxDcVhLbDNlZG1Mb3h6aU5FTlBQb0J6RW1RMTVB0gHvAUFVX3lxTFA5MWRyYXBmbGZXaklTd082cWJKM2lxYk5CN1B3Y1pySkwtbDQ4ZmFMUnRvQ0hKS0tTZThzVkFFRmppWS1NZ1ZzY1M3eTdfY0IyUmN2SnFMVkhrQk1sMkQ3R0NSWHVydzAwbGMtMC16TWdVWnFpU3NwNzF6SE83VnJDVzJ3Y0ZsY003T0Q0ZnM1Wk0wVDRGbkdpd2E3MUJlVWFLUXRHaTBRVTM4amIxQXdSWUE5MDhQazU5V2tLUmFncEZyTlBMbXRBckU5LWhWSHBuWWJLbFZpWU85YmNSbnFmSVFBYkZZSVI2NHFRQ1dn?oc=5",
+          "published_at": "2026-11-05T14:33:27+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxOaHRpWkhfdElpVU9ONUo1ai1wdU9QTWtKci1jZUh0SV80YjlaR1gwRUZOUGNSVXNBM0ZSamZTdTlMMHp3ZUh2NElWRTN1WTBfbXcteEw0bW85eFIyZkZQWndvMHYya01TRUxVTmgxb1lNaEdibExxNGhnNEhZV0JfM3NkR3dFelZMd0tVX2hKbnRwOThCWTdQd1RLOWdaM3RoaEtxRVRQTm1QNmtpS0ZPeGszaXFhY3VCY0NqMTFTR25LSk1FOE9QOHVQdWxDcVhLbDNlZG1Mb3h6aU5FTlBQb0J6RW1RMTVB0gHvAUFVX3lxTFA5MWRyYXBmbGZXaklTd082cW"
+        },
+        {
+          "title": "Suzlon Energy to host analyst meets with JM Financial, Avendus Spark",
+          "source": "scanx.trade",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOT1JHV2ZtWXliZm5tb1ZENXpwUnBFaWI4cVdkZXJkaU5VU21RUGxGcHZKcUZkWjJ3VWxjZzlGY2RGU2xkdmpsRjU2aHlVbGp1d1ZFQ2RqZ0xxQWRmbGRjRjFaMTNmYW5EU1hqV012d190al9MMWVFeE5YS19HQ1g1aFBTWVNFZDNtT1h6WU5ZLUxtM2p2anIxbWl0YUNiSlFzM2l6Y1RfODFwU1l0Z1VtalZoa3FIS1k?oc=5",
+          "published_at": "2026-11-05T13:48:52+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOT1JHV2ZtWXliZm5tb1ZENXpwUnBFaWI4cVdkZXJkaU5VU21RUGxGcHZKcUZkWjJ3VWxjZzlGY2RGU2xkdmpsRjU2aHlVbGp1d1ZFQ2RqZ0xxQWRmbGRjRjFaMTNmYW5EU1hqV012d190al9MMWVFeE5YS19HQ1g1aFBTWVNFZDNtT1h6WU5ZLUxtM2p2anIxbWl0YUNiSlFzM2l6Y1RfODFwU1l0Z1VtalZoa3FIS1k?oc=5\" target=\"_blank\">Suzlon Energy to host analyst meets with JM Financial, Avendus Spark</a>&nbsp;&n"
+        },
+        {
+          "title": "Grasim, Aditya Birla Renewables and Suzlon Join Hands to Develop Wind Turbines with Recyclable Blades",
+          "source": "Machine Maker",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOd3JXNHF1cFNaOGt3bXdBNzlHYjQxRXo0amdmQnRjY2FmNWRjYlBSVWt5ajdISTJpMmhKTjdoUWF5RWo5ZEdEUHM2NUJnZjlPX0ZJYmtMX0NqQTZaWkV0VEpSUlJLY0xoRk1ybWhNUG5QMm5PTnR2TnU4MWlxRTZPN0dXNkEyNGQzclJsZWY0SEhrUVc4blhvaDJNNW1NR0F3V2h4aVFqWjF6UWFLTExiVjZ6S00wbUx5S3VxdDBhXzhRbjBlQXNWZVVxSWY3cTA?oc=5",
+          "published_at": "2026-11-05T11:21:33+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOd3JXNHF1cFNaOGt3bXdBNzlHYjQxRXo0amdmQnRjY2FmNWRjYlBSVWt5ajdISTJpMmhKTjdoUWF5RWo5ZEdEUHM2NUJnZjlPX0ZJYmtMX0NqQTZaWkV0VEpSUlJLY0xoRk1ybWhNUG5QMm5PTnR2TnU4MWlxRTZPN0dXNkEyNGQzclJsZWY0SEhrUVc4blhvaDJNNW1NR0F3V2h4aVFqWjF6UWFLTExiVjZ6S00wbUx5S3VxdDBhXzhRbjBlQXNWZVVxSWY3cTA?oc=5\" target=\"_blank\">Grasim, Aditya Birla Renewables and Suzlon Join "
+        },
+        {
+          "title": "Suzlon Plans 10 GW Karnataka Push With Two Wind Parks",
+          "source": "Urban Acres",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOS1Z6bVhyOHJCUkRFTlNHaF9QOS1LbTRrcUFFSEU1MmdWUURmUmstTWVkMnBIYXJfWXItMjE1ZlZZdTd1UDh2VE05QkFfcHlOU21STHp0ODlPTi1TdEFpajBXVXE1ZUtudEVWeUlsbU1Pd2xpLTlxdUxkSHhfNzRHalh3?oc=5",
+          "published_at": "2026-11-05T15:37:38+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOS1Z6bVhyOHJCUkRFTlNHaF9QOS1LbTRrcUFFSEU1MmdWUURmUmstTWVkMnBIYXJfWXItMjE1ZlZZdTd1UDh2VE05QkFfcHlOU21STHp0ODlPTi1TdEFpajBXVXE1ZUtudEVWeUlsbU1Pd2xpLTlxdUxkSHhfNzRHalh3?oc=5\" target=\"_blank\">Suzlon Plans 10 GW Karnataka Push With Two Wind Parks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urban Acres</font>"
+        },
+        {
+          "title": "Suzlon cuts FY27 EBITDA-margin outlook to 15.1% plus 1%",
+          "source": "Multibagg AI",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQM2l2eVJKTjUxSjVuTW1SQlhRX2FnZEFIWVNabTM0NjBqYUpWaHo2MjJqZElXaU5nLVJkYTRvOUMxamFBaTNfNWhFaUVJVV9ocVlqRDhIVGtST2hsTXcyR19vdF9fM2FyTkQ0d1hLM0VtTGtYdkctVldNYWVPQ2Q1Mm1jcmJxN2lLd0NMc1FGMTNROTZJTnkyZmRNSHdmdjA4X3lQTkU1U2hIZGF2QXYyNg?oc=5",
+          "published_at": "2026-11-05T09:49:50+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQM2l2eVJKTjUxSjVuTW1SQlhRX2FnZEFIWVNabTM0NjBqYUpWaHo2MjJqZElXaU5nLVJkYTRvOUMxamFBaTNfNWhFaUVJVV9ocVlqRDhIVGtST2hsTXcyR19vdF9fM2FyTkQ0d1hLM0VtTGtYdkctVldNYWVPQ2Q1Mm1jcmJxN2lLd0NMc1FGMTNROTZJTnkyZmRNSHdmdjA4X3lQTkU1U2hIZGF2QXYyNg?oc=5\" target=\"_blank\">Suzlon cuts FY27 EBITDA-margin outlook to 15.1% plus 1%</a>&nbsp;&nbsp;<font color=\"#6f6f"
+        },
+        {
+          "title": "Grasim, ABRen and Suzlon Partner to Develop Recyclable Wind Blades",
+          "source": "Energetica India Magazine",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNc0ZqRFlpbmRyQ05IbGZuS1FEMjA0QWZWOEVLV1BFY2Rqc0JKbHV2VHc1ZkxKbHBtNTFfZFgyYTdMWXMtbTF1RklIWEdSODdpM3RSQ0VjZThMV3lVV1JWR294dkh3cjFEQlJKdW5OcHlqWERkR19hSlN1OUtYWHp3emNhdWVuMFJvdEF4emZDV2R1Z0ZUSDFONGFwcGp0N1VIaDc3WXdB?oc=5",
+          "published_at": "2026-11-05T04:26:10+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNc0ZqRFlpbmRyQ05IbGZuS1FEMjA0QWZWOEVLV1BFY2Rqc0JKbHV2VHc1ZkxKbHBtNTFfZFgyYTdMWXMtbTF1RklIWEdSODdpM3RSQ0VjZThMV3lVV1JWR294dkh3cjFEQlJKdW5OcHlqWERkR19hSlN1OUtYWHp3emNhdWVuMFJvdEF4emZDV2R1Z0ZUSDFONGFwcGp0N1VIaDc3WXdB?oc=5\" target=\"_blank\">Grasim, ABRen and Suzlon Partner to Develop Recyclable Wind Blades</a>&nbsp;&nbsp;<font color=\"#6f6f6f\""
+        },
+        {
+          "title": "Suzlon says commissioning-linked receivables lift working capital",
+          "source": "Multibagg AI",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVGc5ckVYX2R3TV83Tk5vUEU3dHpPMWJCWWJNMTJRb0dqc0lPNDE0bDhhTmtEVzVrY2xPLV9OZHFueWRSOWI0SUdFNkl4OC1tdUtGMW1nWi1iYkl5ZTZFNTUwSWhfWUR3VEEzLUY4eUZ4ZXdfcGN0azVyTFlpaGFDZmFpMC1EQnBNU0lLMFFEVXBLVXNNTk1MM2lzWEtQX3RHX0dwWnN5R3lnOTVWQjZmUF84SlJDNTFqdzE3ZXpyYUdEYjVLRkZkNA?oc=5",
+          "published_at": "2026-11-05T09:51:26+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVGc5ckVYX2R3TV83Tk5vUEU3dHpPMWJCWWJNMTJRb0dqc0lPNDE0bDhhTmtEVzVrY2xPLV9OZHFueWRSOWI0SUdFNkl4OC1tdUtGMW1nWi1iYkl5ZTZFNTUwSWhfWUR3VEEzLUY4eUZ4ZXdfcGN0azVyTFlpaGFDZmFpMC1EQnBNU0lLMFFEVXBLVXNNTk1MM2lzWEtQX3RHX0dwWnN5R3lnOTVWQjZmUF84SlJDNTFqdzE3ZXpyYUdEYjVLRkZkNA?oc=5\" target=\"_blank\">Suzlon says commissioning-linked receivables lift working"
+        }
+      ],
+      "events": [],
+      "sebi_mentions": [],
+      "price_action": {
+        "date": "2026-11-05",
+        "open": 38.5,
+        "high": 38.69,
+        "low": 38.05,
+        "close": 38.59,
+        "prev_close": 37.45,
+        "change_pct": 3.04,
+        "gap_pct": 2.8,
+        "intraday_range_pct": 1.71,
+        "volume": 67429628,
+        "avg_volume_20d": 95538254,
+        "volume_ratio": 0.71,
+        "sparkline": [
+          42.39,
+          40.74,
+          40.8,
+          39.66,
+          39.5,
+          39.49,
+          38.91,
+          38.92,
+          39.16,
+          38.34,
+          36.43,
+          37.6,
+          39.57,
+          40.19,
+          40.8,
+          40.95,
+          42.0,
+          40.38,
+          39.4,
+          38.57,
+          37.4,
+          37.12,
+          36.92,
+          37.3,
+          36.79,
+          33.9,
+          35.25,
+          35.75,
+          37.45,
+          38.59
+        ]
+      },
+      "analysis": {
+        "classification": "no_signal",
+        "primary_catalyst": null,
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
+        "flags": []
+      }
+    },
+    {
+      "symbol": "IREDA",
+      "name": "Indian Renewable Energy Development Agency Limited",
+      "sector": "Renewable Energy Finance",
+      "notes": null,
+      "skip_catalysts": false,
+      "bse_announcements": [],
+      "nse_announcements": [],
+      "news": [
+        {
+          "title": "Websol clears IREDA term loan using internal accruals in August",
+          "source": "Multibagg AI",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMEQwWWVvQllzOGl4WVpMLTljVUNaRWtUVm5lLU1NNmd6QkgwRjl3NHB1MnppMlFMbE5laGdvSFc2elNYbTkyMkYzOFd1WjNrVGV4bjRLOVpLX1VXMVRkeFZRalAzazRpNG5MZW02SkRiXzhXbkExSW91WjRtX3hlUjdzZHhkUFZjdERMVzN2dmdscUgyWUlEMDh2VTVzazUxU1dqMXJKdEQ1UFo1Qlc0RVVTdw?oc=5",
+          "published_at": "2026-11-05T11:31:37+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNMEQwWWVvQllzOGl4WVpMLTljVUNaRWtUVm5lLU1NNmd6QkgwRjl3NHB1MnppMlFMbE5laGdvSFc2elNYbTkyMkYzOFd1WjNrVGV4bjRLOVpLX1VXMVRkeFZRalAzazRpNG5MZW02SkRiXzhXbkExSW91WjRtX3hlUjdzZHhkUFZjdERMVzN2dmdscUgyWUlEMDh2VTVzazUxU1dqMXJKdEQ1UFo1Qlc0RVVTdw?oc=5\" target=\"_blank\">Websol clears IREDA term loan using internal accruals in August</a>&nbsp;&nbsp;<font "
+        },
+        {
+          "title": "India’s IREDA seeks cheaper long-term funding for renewable developers",
+          "source": "Utilities Middle East",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1RWmRPWl9SM294NVhqQVdTWUU2YkYyT2tNRTZXYWVHMFA3eUFxY3ZaVGVqU1pEUEFOMVpoREt6NWQ1bF9DdFQ5cnJwbms1ODY2NFEwaTlWbjF2MEZuaFdzeXFyMHlEOEVBRW5LTEVjUGlodE5wbUE?oc=5",
+          "published_at": "2026-11-05T10:00:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1RWmRPWl9SM294NVhqQVdTWUU2YkYyT2tNRTZXYWVHMFA3eUFxY3ZaVGVqU1pEUEFOMVpoREt6NWQ1bF9DdFQ5cnJwbms1ODY2NFEwaTlWbjF2MEZuaFdzeXFyMHlEOEVBRW5LTEVjUGlodE5wbUE?oc=5\" target=\"_blank\">India’s IREDA seeks cheaper long-term funding for renewable developers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Utilities Middle East</font>"
+        },
+        {
+          "title": "IREDA Explores Long-Term Clean Energy Partnership with Kenya",
+          "source": "PSU Connect",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNanVvTjlSWGstNWxIUjN6X2YtbTlVOF9ZTUNQb01fRlFqTzNqd0ZTUDlHeEFEU0dTd3lCU01URVB4bnItcVBxT0w4MEJxZzgxUGJnLXZPQzRPVzlCaGkyTXo0NUMtbFM1WmlSOUNhdGlCMnczTlVZMjJDaEdVb0hYNG0xS2x2SFcwTEFfQVpyNldhNFZjVWotdWRKWQ?oc=5",
+          "published_at": "2026-11-05T10:15:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNanVvTjlSWGstNWxIUjN6X2YtbTlVOF9ZTUNQb01fRlFqTzNqd0ZTUDlHeEFEU0dTd3lCU01URVB4bnItcVBxT0w4MEJxZzgxUGJnLXZPQzRPVzlCaGkyTXo0NUMtbFM1WmlSOUNhdGlCMnczTlVZMjJDaEdVb0hYNG0xS2x2SFcwTEFfQVpyNldhNFZjVWotdWRKWQ?oc=5\" target=\"_blank\">IREDA Explores Long-Term Clean Energy Partnership with Kenya</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PSU Connect</font>"
+        }
+      ],
+      "events": [],
+      "sebi_mentions": [],
+      "price_action": {
+        "date": "2026-11-05",
+        "open": 108.0,
+        "high": 110.15,
+        "low": 107.99,
+        "close": 110.15,
+        "prev_close": 106.0,
+        "change_pct": 3.92,
+        "gap_pct": 1.89,
+        "intraday_range_pct": 2.04,
+        "volume": 6989217,
+        "avg_volume_20d": 4698331,
+        "volume_ratio": 1.49,
+        "sparkline": [
+          111.0,
+          110.11,
+          113.22,
+          114.82,
+          111.0,
+          111.68,
+          111.0,
+          109.0,
+          109.0,
+          107.33,
+          103.8,
+          104.4,
+          104.6,
+          108.39,
+          108.47,
+          108.26,
+          108.8,
+          106.54,
+          103.6,
+          102.61,
+          100.27,
+          101.87,
+          99.7,
+          100.59,
+          101.2,
+          99.5,
+          102.24,
+          102.3,
+          106.0,
+          110.15
+        ]
+      },
+      "analysis": {
+        "classification": "no_signal",
+        "primary_catalyst": null,
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
+        "flags": []
+      }
+    },
+    {
+      "symbol": "SWSOLAR",
+      "name": "Sterling and Wilson Renewable Energy Limited",
+      "sector": "Solar EPC",
+      "notes": null,
+      "skip_catalysts": false,
+      "bse_announcements": [],
+      "nse_announcements": [],
+      "news": [],
+      "events": [],
+      "sebi_mentions": [],
+      "price_action": {
+        "date": "2026-11-05",
+        "open": 153.0,
+        "high": 155.25,
+        "low": 151.2,
+        "close": 151.59,
+        "prev_close": 150.25,
+        "change_pct": 0.89,
+        "gap_pct": 1.83,
+        "intraday_range_pct": 2.7,
+        "volume": 1054457,
+        "avg_volume_20d": 1228537,
+        "volume_ratio": 0.86,
+        "sparkline": [
+          180.76,
+          177.34,
+          176.65,
+          170.74,
+          171.08,
+          171.18,
+          164.82,
+          163.72,
+          172.54,
+          168.11,
+          160.09,
+          162.12,
+          167.77,
+          168.53,
+          171.74,
+          174.96,
+          165.47,
+          160.21,
+          152.44,
+          148.43,
+          142.13,
+          139.62,
+          142.41,
+          144.13,
+          144.22,
+          135.97,
+          141.69,
+          141.26,
+          150.25,
+          151.59
+        ]
+      },
+      "analysis": {
+        "classification": "no_signal",
+        "primary_catalyst": null,
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
+        "flags": []
+      }
+    },
+    {
+      "symbol": "TARIL",
+      "name": "Transformers and Rectifiers (India) Limited",
+      "sector": "Heavy Electrical Equipment",
+      "notes": null,
+      "skip_catalysts": false,
+      "bse_announcements": [],
+      "nse_announcements": [],
+      "news": [
+        {
+          "title": "TARIL and 4 Other Stocks That Reported Strong EBITDA Margin Expansion in Q2 to Keep on Your Radar",
+          "source": "Trade Brains",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZTQ3RnJPZTZyTkRmM056S2c1LVVDcHhkaWhKLUR5Zmg5eTRBcHc5OVVqenR3S05rNU9nNWxSSFpMTUZBU0ZhT1M4bU9HQlJXcTkxcGRLRTNQS0tlS0JabHZFbVlZUzJUVjVlRjBWUkJyQklIbk5JdHBZYkRJM2FNU2V2Nk9ZSFI1OXJPTW4xVlAzZ2lBZmpicVFhQXVsa3o2UmoxRkprZmRnVy1wNVVrOV9XQ1kwaDQzMnlIZzVrM0g3Qlk0UU5rUGdmSFp4RVFxSUdNVTJaWU5RSkRO?oc=5",
+          "published_at": "2026-11-05T10:35:12+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZTQ3RnJPZTZyTkRmM056S2c1LVVDcHhkaWhKLUR5Zmg5eTRBcHc5OVVqenR3S05rNU9nNWxSSFpMTUZBU0ZhT1M4bU9HQlJXcTkxcGRLRTNQS0tlS0JabHZFbVlZUzJUVjVlRjBWUkJyQklIbk5JdHBZYkRJM2FNU2V2Nk9ZSFI1OXJPTW4xVlAzZ2lBZmpicVFhQXVsa3o2UmoxRkprZmRnVy1wNVVrOV9XQ1kwaDQzMnlIZzVrM0g3Qlk0UU5rUGdmSFp4RVFxSUdNVTJaWU5RSkRO?oc=5\" target=\"_blank\">TARIL and 4 Other Stocks That R"
+        }
+      ],
+      "events": [],
+      "sebi_mentions": [],
+      "price_action": {
+        "date": "2026-11-05",
+        "open": 327.0,
+        "high": 327.0,
+        "low": 313.9,
+        "close": 315.6,
+        "prev_close": 317.55,
+        "change_pct": -0.61,
+        "gap_pct": 2.98,
+        "intraday_range_pct": 4.13,
+        "volume": 2146675,
+        "avg_volume_20d": 6767672,
+        "volume_ratio": 0.32,
+        "sparkline": [
+          289.0,
+          280.4,
+          277.65,
+          270.45,
+          272.85,
+          270.1,
+          280.8,
+          285.45,
+          283.65,
+          289.15,
+          282.75,
+          290.65,
+          294.8,
+          304.0,
+          349.5,
+          333.45,
+          329.1,
+          326.1,
+          320.35,
+          314.5,
+          303.9,
+          299.7,
+          314.3,
+          314.7,
+          315.8,
+          298.3,
+          308.4,
+          301.55,
+          317.55,
+          315.6
+        ]
+      },
+      "analysis": {
+        "classification": "no_signal",
+        "primary_catalyst": null,
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
+        "flags": []
+      }
+    },
+    {
+      "symbol": "ITC",
+      "name": "ITC Limited",
+      "sector": "FMCG",
+      "notes": null,
+      "skip_catalysts": false,
+      "bse_announcements": [],
+      "nse_announcements": [],
+      "news": [
+        {
+          "title": "ITC Limited (NSE:ITC) Just Released Its Second-Quarter Earnings: Here's What Analysts Think",
+          "source": "Simply Wall St",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZXByc3F1R21VZDhMdWkzamZyd1BLWkRieDVUOUxpcEdUZG9hM1Y3eVJPWnk0V3FsbzFfM2FrM0Y5M2ZxcDllS3FyTmtUTUdELVJQMHVlLTQ4ZnFpWUhoMGViSWVxVGVQbXNlVS11T254S2NDc19QTVc2N3JRa2tjWmxONEgtWkl3ZW5MZDFpNmc1QVhGNmp5VDRQVi1ub01ycXhlNExvNzRSdEZjVHhKUW0zTk9Rbnc0ckM3WllMLS0tdVUzYUhTZ25ESmhqUndSVEJORNIB2gFBVV95cUxQYWtySU15WEJKNEUzcTAzNXJnMlNzM0trdEN0SDZxdzdzTkJBSnNuenl4QjROWUdjOTQzTjJCZ1Mtb1EyVjN0NmI5Q2pFSWdRTnV4bWh1eEYyV0l3Z09EU0pfSC1DNHJJM3hSUUhfbU9uLUlRSnFrOVhzY3VOSTNxUUk2S2FxeGk0eFc4SXhHZ055TFFueXhoc3pITjlFNTA2RGlYVFJkbm50QTE3eVRZS2I2V1JCSnBGRTIxNGktT2tMOXZjSkhsNjJ5RTBoclEzUEN5U19hZ0VwQQ?oc=5",
+          "published_at": "2026-11-05T00:14:59+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZXByc3F1R21VZDhMdWkzamZyd1BLWkRieDVUOUxpcEdUZG9hM1Y3eVJPWnk0V3FsbzFfM2FrM0Y5M2ZxcDllS3FyTmtUTUdELVJQMHVlLTQ4ZnFpWUhoMGViSWVxVGVQbXNlVS11T254S2NDc19QTVc2N3JRa2tjWmxONEgtWkl3ZW5MZDFpNmc1QVhGNmp5VDRQVi1ub01ycXhlNExvNzRSdEZjVHhKUW0zTk9Rbnc0ckM3WllMLS0tdVUzYUhTZ25ESmhqUndSVEJORNIB2gFBVV95cUxQYWtySU15WEJKNEUzcTAzNXJnMlNzM0trdEN0SDZxdzdzTkJBSn"
+        },
+        {
+          "title": "ITC Hotels signs management agreement for 95-key Storii Shantiniketan in West Bengal",
+          "source": "ET HospitalityWorld",
+          "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOZEZueUR3Rm9JVm0tSl9Td0wybFM1d2hqNnFvbDk0ODQ0Z0sxOEMtU01xYlhVdFFNdllobEZPTnk0VU1pUGM3dXpzWmpZTXpfTU1iWnFoT01Ma1lHd09vUDNfajNpTHB6Yzc1NGtSWGJUNHZTUm54SlFEbjRQSkFKTGp1eXVTMTMzNGhRakdQQUk4WFoxdVRGSlduQ2tMNC1XVDl4el9MUEkzT3p3eDI3YTNQWG5lMENzc2p6anpoX1dTcC1CZGFFS3lWbVMwMDBib0UtY3JBN1Fwc0w0T3dfZERSTGw4X0JtRTUzR25QSGlQV25PUUVzVm41UXZQeGhWcjB1VDg3UzRMVm5IMWdFM0xjNEhkRDJXenBuV0pmQkZ3V2QwbFhr0gHvAUFVX3lxTE8zUzdpTzNmOHduUEdyQmdOdUR5UTM5VFcwVVFOOV82cUNuNWpKS1VVcnRtUUdnNXBLVWJ5V1FxWXpSNVczZXVET2J6MmtqTnBXNTNBZWFBU21WT1EwaXVGN0Rpd2ZZcG9KbGl0d3RPN0IzZ3dHelRiVDhpUmtkQXNQVE9YYVgyQlBqNHUyb0tTSGhLWkxyODZPMldrOFlUNkxaUHlpeVpJM2hzdUoxYno2ZjBtM1lCcDVMTzd0Ri1IaU9LZ3Z4WC1mUzEySmFhLXhPT3djel8zaWFxekZtcmVBV1c5X21nUEYyaTBUNlNz?oc=5",
+          "published_at": "2026-11-05T14:38:11+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwJBVV95cUxOZEZueUR3Rm9JVm0tSl9Td0wybFM1d2hqNnFvbDk0ODQ0Z0sxOEMtU01xYlhVdFFNdllobEZPTnk0VU1pUGM3dXpzWmpZTXpfTU1iWnFoT01Ma1lHd09vUDNfajNpTHB6Yzc1NGtSWGJUNHZTUm54SlFEbjRQSkFKTGp1eXVTMTMzNGhRakdQQUk4WFoxdVRGSlduQ2tMNC1XVDl4el9MUEkzT3p3eDI3YTNQWG5lMENzc2p6anpoX1dTcC1CZGFFS3lWbVMwMDBib0UtY3JBN1Fwc0w0T3dfZERSTGw4X0JtRTUzR25QSGlQV25PUUVzVm41UXZQeGhWcjB1VD"
+        },
+        {
+          "title": "ITC Hotels enters Tagore’s abode with 95-key boutique retreat",
+          "source": "The Statesman",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdnJNY29Bel9sc0lNY2dWU1o3ZHRkamQwVkJiZW1YNXFOZElJZzlFU3V0ejRrQTNFaHYtT19MRmxHQjN0NHJaMVNPU1BpaDlwbFpaZWhwblVFOEx6WEtUamFfRS00WF92QmczYTREZUFEQ3FzbFR6RjkwQUN2b19Mbm1jdlZRZkM5OXNGX1A0LWhGWWJYRUxnUUExUUsxS3JjbVRFNFlHeTl5LTVVLVM3ME1PcTlPTHJJbzh5WNIBwgFBVV95cUxNZnNaU1hINzdMblU3Qnh6aDV0dlZIbU53NXlfbHNFWGx1RElDRVRrSGdtMWFxYTVHMnZHWW5kNGpWMnRlUUxYcDlGNVNnYTZMZ0x4QmhuZS1pY2VOdVI4M3R3aHo2WVYzRXliVE9rVGNvVWxNcXE2Zk9NZ2lSU1JKSWg0enk4OFI4MjhKbE9XTkxOV3RCLUd1cUtGZGl4c0hJajR6VmFVRE9YdF9JUVozSlIyM3h4U09BMlM5dElUemgzZw?oc=5",
+          "published_at": "2026-11-05T13:00:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPdnJNY29Bel9sc0lNY2dWU1o3ZHRkamQwVkJiZW1YNXFOZElJZzlFU3V0ejRrQTNFaHYtT19MRmxHQjN0NHJaMVNPU1BpaDlwbFpaZWhwblVFOEx6WEtUamFfRS00WF92QmczYTREZUFEQ3FzbFR6RjkwQUN2b19Mbm1jdlZRZkM5OXNGX1A0LWhGWWJYRUxnUUExUUsxS3JjbVRFNFlHeTl5LTVVLVM3ME1PcTlPTHJJbzh5WNIBwgFBVV95cUxNZnNaU1hINzdMblU3Qnh6aDV0dlZIbU53NXlfbHNFWGx1RElDRVRrSGdtMWFxYTVHMnZHWW5kNGpWMnRlUU"
+        },
+        {
+          "title": "Buy, Sell Or Hold: ICICI Bank, ITC, Kalyan Jewellers, Mahindra & Mahindra, HDFC Bank And ONGC — Ask Profit",
+          "source": "NDTV Profit",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeEx5SVVwcTUtUkhaWlRCMGx2SDA2LS1KU3JyREl6Z21KcFdEU0w2Vnc2aFJJd2U5VnpYZWZWU0FxV0lGUjRWQVBvZmU5WXJhZ1d2bUh1bTdQYjFnSk1wbzk4YXNXXzIxRDNNS1JmY0JYb2NTWVBTMkRFeFZMS0xkZ1l3c2E4YWpGNmxQRGdXWHBDQUZkTlVNVUZmbU1zQWgzVWRKaVRvZjJEVmFiZThqOWY5Mm1Wa1VSNHVUX0xlalNBRTkyeUpILXRR0gHSAUFVX3lxTE1PdlJoaU5Wczh4QThWRDBEQ0l5SFZJSXRXRTlTM05KNlBad3l4QzNEZE9ZbmNyYTBUajRfdVlZVVN4MkQzVjJkc3ctYmFGcWNlZ1lWX2lCVXdQUG94T2ZEb1VXQnh5bkR6RUlITGZrUVhtLWNxNC1TbnpITDV1bmNVY1IwZ01QUGdMdVIxTWxJd0ItNGkwOUFjUWNDcnl3TndVZXR3MEJESTFpWTN0bHZfaktKaV83SFJjRXBNaGRsYkpsT1dJU3c5d3BGZjhRT2EzUQ?oc=5",
+          "published_at": "2026-11-05T17:17:36+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPeEx5SVVwcTUtUkhaWlRCMGx2SDA2LS1KU3JyREl6Z21KcFdEU0w2Vnc2aFJJd2U5VnpYZWZWU0FxV0lGUjRWQVBvZmU5WXJhZ1d2bUh1bTdQYjFnSk1wbzk4YXNXXzIxRDNNS1JmY0JYb2NTWVBTMkRFeFZMS0xkZ1l3c2E4YWpGNmxQRGdXWHBDQUZkTlVNVUZmbU1zQWgzVWRKaVRvZjJEVmFiZThqOWY5Mm1Wa1VSNHVUX0xlalNBRTkyeUpILXRR0gHSAUFVX3lxTE1PdlJoaU5Wczh4QThWRDBEQ0l5SFZJSXRXRTlTM05KNlBad3l4QzNEZE9ZbmNyYT"
+        },
+        {
+          "title": "Seer wins ITC staff backing for import ban on Nanomics products",
+          "source": "Investing.com India",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaDBvNll2VUJzdHdlODA2SVVzTzFuTHJSa01VUFRkUFVUNWZudlV3cFpZUEdvOGNMZGZpNzNlemZXQzJTNmtrd21PZzI5T3dEWnYtQmVXTWQ5c1F6NVFtRE9QLTFPdU9wV2xwNWZuckJ4RkxqdFlHYlNRQ2oxU0RNN1NpTWJtemltODdQRnlRNVNVeEh2Q2FaZG5acmR4N0lhbDJQS293M2xYVGZ4aU5mX3A3cWdWbENMQkRUS0FFWUVYZw?oc=5",
+          "published_at": "2026-11-05T12:32:46+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaDBvNll2VUJzdHdlODA2SVVzTzFuTHJSa01VUFRkUFVUNWZudlV3cFpZUEdvOGNMZGZpNzNlemZXQzJTNmtrd21PZzI5T3dEWnYtQmVXTWQ5c1F6NVFtRE9QLTFPdU9wV2xwNWZuckJ4RkxqdFlHYlNRQ2oxU0RNN1NpTWJtemltODdQRnlRNVNVeEh2Q2FaZG5acmR4N0lhbDJQS293M2xYVGZ4aU5mX3A3cWdWbENMQkRUS0FFWUVYZw?oc=5\" target=\"_blank\">Seer wins ITC staff backing for import ban on Nanomics products</"
+        },
+        {
+          "title": "ITC Hotels Signs Management Agreement for 95-Key Storii Shantiniketan in West Bengal",
+          "source": "Hotelier Buzz",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA2MWdoclp2c1VyRkNwdkJLWkhzYTBWV0N0a1RSZ3h4aDJQellqV2p0aEVaeXdCdnNZMjBDS2RBVVpiVjNZUEIwdWhBdUdGNjYyeXpPYnJuazdKZmE0dk9xM0RzcmNkZjZJMGlrZXdjWXlScWpVQ2ZCNA?oc=5",
+          "published_at": "2026-11-05T04:31:13+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFA2MWdoclp2c1VyRkNwdkJLWkhzYTBWV0N0a1RSZ3h4aDJQellqV2p0aEVaeXdCdnNZMjBDS2RBVVpiVjNZUEIwdWhBdUdGNjYyeXpPYnJuazdKZmE0dk9xM0RzcmNkZjZJMGlrZXdjWXlScWpVQ2ZCNA?oc=5\" target=\"_blank\">ITC Hotels Signs Management Agreement for 95-Key Storii Shantiniketan in West Bengal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hotelier Buzz</font>"
+        },
+        {
+          "title": "Caution: Last Month to avail GST ITC of FY 2025-2026",
+          "source": "CAclubindia",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeWhRUVlTYV9TckxlLXE1OVRqYm5TeVFjWl9EMm15TVRpSk4wQk1OM0xVZ0d4enlDb1gydWhhM1lIaTd4ZFJHdGpVSnpsQTB0NWUwcjNSRURwWndiSy1BVDVyOVh6c2tJUE43aXBsY0VlSjVpS1dnaGRobWF3cTRqcVRSYW5nS2RCR3ZDZXlrMmJHS0kzdld5YVItWE5lakE?oc=5",
+          "published_at": "2026-11-05T03:47:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOeWhRUVlTYV9TckxlLXE1OVRqYm5TeVFjWl9EMm15TVRpSk4wQk1OM0xVZ0d4enlDb1gydWhhM1lIaTd4ZFJHdGpVSnpsQTB0NWUwcjNSRURwWndiSy1BVDVyOVh6c2tJUE43aXBsY0VlSjVpS1dnaGRobWF3cTRqcVRSYW5nS2RCR3ZDZXlrMmJHS0kzdld5YVItWE5lakE?oc=5\" target=\"_blank\">Caution: Last Month to avail GST ITC of FY 2025-2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CAclubindia</font>"
+        },
+        {
+          "title": "Digital brands, premium FMCG to drive ITC's growth ambitions",
+          "source": "The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaFpORDNJTVpnalZXWWZfdVJSaHdMZUxiUXhCazBvNWxxWWhHcnl5Y0p6X3ExcTN1c0Rzd2lWVjBXTWZVX0taeHB0RG5vLUhWaGFEbFhtMGRtRVJzSmw2WFhicU4tWGMzRm80VURvclpTYWFlbnJBR0NadzVrWHRYSzZLVjR4SVd4WURyWHhmOUlvY3YyVkh6ckdZVHozb19wV3Ezdkg5cjVobkdYQ0U4NFFWU0FIdWEycHRMY2VxU3p4a2VvaU40Y2NBY0JzMkN6VHfSAdcBQVVfeXFMT0lIVmJ1TnpEMERhTkJWdTdxY3RMS28wMWx0dHhZTkhSaGJCTmlsdFZxbGlHQjh5amdkZzRuUFVrMkF1NjZXMi1jakNtU2ZGaV9aWDIwYThRVWpUdUxLTElHXzhsaEh5ZElpUlB1MWhlZWp3bjg4WGxPQnJCSklUVnhfTGN4RVVqbGI1Y2Y4OHc2TXowRWRfdDdoVDI1VGlGeTlGanBrSjdydU9yai1PM2cyS3l4WHZSVEZpSGYzNHJ4eXBmX25ETUdEaUFOTlFQRFFyeDVlZ0U?oc=5",
+          "published_at": "2026-11-05T01:27:17+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaFpORDNJTVpnalZXWWZfdVJSaHdMZUxiUXhCazBvNWxxWWhHcnl5Y0p6X3ExcTN1c0Rzd2lWVjBXTWZVX0taeHB0RG5vLUhWaGFEbFhtMGRtRVJzSmw2WFhicU4tWGMzRm80VURvclpTYWFlbnJBR0NadzVrWHRYSzZLVjR4SVd4WURyWHhmOUlvY3YyVkh6ckdZVHozb19wV3Ezdkg5cjVobkdYQ0U4NFFWU0FIdWEycHRMY2VxU3p4a2VvaU40Y2NBY0JzMkN6VHfSAdcBQVVfeXFMT0lIVmJ1TnpEMERhTkJWdTdxY3RMS28wMWx0dHhZTkhSaGJCTmlsdF"
+        }
+      ],
+      "events": [
+        {
+          "subject": null,
+          "purpose": "Financial Results",
+          "date": "02-Nov-2026",
+          "details": "To consider and approve the financial results for the period ended September 30, 2026"
+        }
+      ],
+      "sebi_mentions": [
+        {
+          "title": "Notice of Demand under Recovery Certificate number 9317 of 2026 dated November 05, 2026, issued to Manish Mishra (PAN: AMPPM6823L), Anshu Mishra (PAN: BMIPS3480H), Dipak Dwiwedi (PAN: ATDPD4055C), Vivek Chauhan (PAN: AHPPC9620A), Ankur Sharma (PAN: BMIPS3640D), Abhay Dwivedi (PAN: CWYPD8949K), Neetu Dwivedi (PAN: CTTPD8770N), Pallavi (PAN: BRTPP3401M), and Amrit Pal Singh (PAN: DTMPS0895B), [Defaulters], jointly and severally, in the matter of Decillion Finance Limited: under Recovery Certificate No. 9317 of 2026.",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-demand-under-recovery-certificate-number-9317-of-2026-dated-november-05-2026-issued-to-manish-mishra-pan-amppm6823l-anshu-mishra-pan-bmips3480h-dipak-dwiwedi-pan-atdpd4055c-viv-_105625.html",
+          "published_at": "05 Nov, 2026 +0530",
+          "summary": "Notice of Demand under Recovery Certificate number 9317 of 2026 dated November 05, 2026, issued to Manish Mishra (PAN: AMPPM6823L), Anshu Mishra (PAN: BMIPS3480H), Dipak Dwiwedi (PAN: ATDPD4055C), Vivek Chauhan (PAN: AHPPC9620A), Ankur Sharma (PAN: BMIPS3640D), Abhay Dwivedi (PAN: CWYPD8949K), Neetu Dwivedi (PAN: CTTPD8770N), Pallavi (PAN: BRTPP3401M), and Amrit Pal Singh (PAN: DTMPS0895B), [Defaulters], jointly and severally, in the matter of Decillion Finance Limited: under Recovery Certificat"
+        },
+        {
+          "title": "Notice of Demand under Recovery Certificate number 9316 of 2026 dated November 05, 2026, issued to Manish Mishra (PAN:AMPPM6823L), Dipak Dwiwedi (PAN:ATDPD4055C), Vivek Chauhan (PAN:AHPPC9620A), Ankur Sharma (PAN:BMIPS3640D) and Neetu Dwivedi (PAN:CTTPD8770N) [Defaulters], jointly and severally, in the matter of Investigation in the trading activities of certain entities in the scrip of Decillion Finance Limited: under Recovery Certificate No. 9316 of 2026.",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-demand-under-recovery-certificate-number-9316-of-2026-dated-november-05-2026-issued-to-manish-mishra-pan-amppm6823l-dipak-dwiwedi-pan-atdpd4055c-vivek-chauhan-pan-ahppc9620a-ankur-_105623.html",
+          "published_at": "05 Nov, 2026 +0530",
+          "summary": "Notice of Demand under Recovery Certificate number 9316 of 2026 dated November 05, 2026, issued to Manish Mishra (PAN:AMPPM6823L), Dipak Dwiwedi (PAN:ATDPD4055C), Vivek Chauhan (PAN:AHPPC9620A), Ankur Sharma (PAN:BMIPS3640D) and Neetu Dwivedi (PAN:CTTPD8770N) [Defaulters], jointly and severally, in the matter of Investigation in the trading activities of certain entities in the scrip of Decillion Finance Limited: under Recovery Certificate No. 9316 of 2026."
+        },
+        {
+          "title": "SEBI Order for Compliance - Release Order for Recovery Certificate No. 6147 of 2022 The Apex Global, Proprietor – Yadunath Singh Thakur in the matter of Covidh Technologies Limited.",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/sebi-order-for-compliance-release-order-for-recovery-certificate-no-6147-of-2022-the-apex-global-proprietor-yadunath-singh-thakur-in-the-matter-of-covidh-technologies-limited-_105607.html",
+          "published_at": "04 Nov, 2026 +0530",
+          "summary": "SEBI Order for Compliance - Release Order for Recovery Certificate No. 6147 of 2022 The Apex Global, Proprietor – Yadunath Singh Thakur in the matter of Covidh Technologies Limited."
+        },
+        {
+          "title": "Adjudication Order in the matter of Swastika Investmart Limited",
+          "url": "https://www.sebi.gov.in/enforcement/orders/nov-2026/adjudication-order-in-the-matter-of-swastika-investmart-limited_105600.html",
+          "published_at": "04 Nov, 2026 +0530",
+          "summary": "Adjudication Order in the matter of Swastika Investmart Limited"
+        },
+        {
+          "title": "Exemption Order in the matter of Emmbi Industries Limited",
+          "url": "https://www.sebi.gov.in/https://www.sebi.gov.in/sebi_data/attachdocs/nov-2026/exemption_order_embil.pdf",
+          "published_at": "03 Nov, 2026 +0530",
+          "summary": "Exemption Order in the matter of Emmbi Industries Limited"
+        },
+        {
+          "title": "Completion of Recovery Certificate No. 9303 of 2026 dated October 13, 2026, issued to Mr. Aviral Saxena (PAN: KVYPS1652D) in the matter of market manipulation using social media in the scrip of Moksh Ornaments Limited.",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/completion-of-recovery-certificate-no-9303-of-2026-dated-october-13-2026-issued-to-mr-aviral-saxena-pan-kvyps1652d-in-the-matter-of-market-manipulation-using-social-media-in-the-scrip-of-moksh-_105572.html",
+          "published_at": "03 Nov, 2026 +0530",
+          "summary": "Completion of Recovery Certificate No. 9303 of 2026 dated October 13, 2026, issued to Mr. Aviral Saxena (PAN: KVYPS1652D) in the matter of market manipulation using social media in the scrip of Moksh Ornaments Limited."
+        },
+        {
+          "title": "Completion of Recovery Certificate No. RC9307 of 2026 in respect of Sri Salasar Suppliers Pvt. Ltd  (PAN: AADCS8457R) in the matter of Decillon Finance Limited",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/completion-of-recovery-certificate-no-rc9307-of-2026-in-respect-of-sri-salasar-suppliers-pvt-ltd-pan-aadcs8457r-in-the-matter-of-decillon-finance-limited_105568.html",
+          "published_at": "02 Nov, 2026 +0530",
+          "summary": "Completion of Recovery Certificate No. RC9307 of 2026 in respect of Sri Salasar Suppliers Pvt. Ltd  (PAN: AADCS8457R) in the matter of Decillon Finance Limited"
+        },
+        {
+          "title": "SEBI Order for Compliance - Release Order for Recovery Certificate No. 9226 of 2026 against Jigar Bhailalbhai Khalash (PAN: ESZPK4415E) in the matter of Trading activity in the scrip of ANI Integrated Services Limited.",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/sebi-order-for-compliance-release-order-for-recovery-certificate-no-9226-of-2026-against-jigar-bhailalbhai-khalash-pan-eszpk4415e-in-the-matter-of-trading-activity-in-the-scrip-of-ani-integrated-_105560.html",
+          "published_at": "02 Nov, 2026 +0530",
+          "summary": "SEBI Order for Compliance - Release Order for Recovery Certificate No. 9226 of 2026 against Jigar Bhailalbhai Khalash (PAN: ESZPK4415E) in the matter of Trading activity in the scrip of ANI Integrated Services Limited."
+        },
+        {
+          "title": "Notice of Demand dated November 02, 2026 issued under RC No. 9315 of 2026 drawn against Jalaj Agarwal (PAN: AUDPA0226H)  in the matter of stock recommendation tips in the scrip of Unison Metals Limited",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-demand-dated-november-02-2026-issued-under-rc-no-9315-of-2026-drawn-against-jalaj-agarwal-pan-audpa0226h-in-the-matter-of-stock-recommendation-tips-in-the-scrip-of-unison-metals-limite-_105548.html",
+          "published_at": "02 Nov, 2026 +0530",
+          "summary": "Notice of Demand dated November 02, 2026 issued under RC No. 9315 of 2026 drawn against Jalaj Agarwal (PAN: AUDPA0226H)  in the matter of stock recommendation tips in the scrip of Unison Metals Limited"
+        }
+      ],
+      "price_action": {
+        "date": "2026-11-05",
+        "open": 283.1,
+        "high": 283.9,
+        "low": 277.25,
+        "close": 278.85,
+        "prev_close": 280.0,
+        "change_pct": -0.41,
+        "gap_pct": 1.11,
+        "intraday_range_pct": 2.37,
+        "volume": 23247461,
+        "avg_volume_20d": 23406423,
+        "volume_ratio": 0.99,
+        "sparkline": [
+          270.15,
+          268.0,
+          269.0,
+          265.2,
+          265.1,
+          262.75,
+          255.9,
+          268.9,
+          266.7,
+          265.7,
+          255.0,
+          266.0,
+          257.9,
+          261.0,
+          261.5,
+          263.9,
+          263.5,
+          260.8,
+          262.0,
+          258.9,
+          257.9,
+          260.5,
+          260.0,
+          259.5,
+          265.0,
+          265.6,
+          266.4,
+          273.9,
+          280.0,
+          278.85
+        ]
+      },
+      "analysis": {
+        "classification": "no_signal",
+        "primary_catalyst": null,
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
+        "flags": []
+      }
+    },
+    {
+      "symbol": "ITCHOTELS",
+      "name": "ITC Hotels Limited",
+      "sector": "Hospitality",
+      "notes": "Demerged from ITC, listed Jan 2025.",
+      "skip_catalysts": false,
+      "bse_announcements": [],
+      "nse_announcements": [],
+      "news": [],
+      "events": [],
+      "sebi_mentions": [
+        {
+          "title": "Notice of Demand under Recovery Certificate number 9317 of 2026 dated November 05, 2026, issued to Manish Mishra (PAN: AMPPM6823L), Anshu Mishra (PAN: BMIPS3480H), Dipak Dwiwedi (PAN: ATDPD4055C), Vivek Chauhan (PAN: AHPPC9620A), Ankur Sharma (PAN: BMIPS3640D), Abhay Dwivedi (PAN: CWYPD8949K), Neetu Dwivedi (PAN: CTTPD8770N), Pallavi (PAN: BRTPP3401M), and Amrit Pal Singh (PAN: DTMPS0895B), [Defaulters], jointly and severally, in the matter of Decillion Finance Limited: under Recovery Certificate No. 9317 of 2026.",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-demand-under-recovery-certificate-number-9317-of-2026-dated-november-05-2026-issued-to-manish-mishra-pan-amppm6823l-anshu-mishra-pan-bmips3480h-dipak-dwiwedi-pan-atdpd4055c-viv-_105625.html",
+          "published_at": "05 Nov, 2026 +0530",
+          "summary": "Notice of Demand under Recovery Certificate number 9317 of 2026 dated November 05, 2026, issued to Manish Mishra (PAN: AMPPM6823L), Anshu Mishra (PAN: BMIPS3480H), Dipak Dwiwedi (PAN: ATDPD4055C), Vivek Chauhan (PAN: AHPPC9620A), Ankur Sharma (PAN: BMIPS3640D), Abhay Dwivedi (PAN: CWYPD8949K), Neetu Dwivedi (PAN: CTTPD8770N), Pallavi (PAN: BRTPP3401M), and Amrit Pal Singh (PAN: DTMPS0895B), [Defaulters], jointly and severally, in the matter of Decillion Finance Limited: under Recovery Certificat"
+        },
+        {
+          "title": "Notice of Demand under Recovery Certificate number 9316 of 2026 dated November 05, 2026, issued to Manish Mishra (PAN:AMPPM6823L), Dipak Dwiwedi (PAN:ATDPD4055C), Vivek Chauhan (PAN:AHPPC9620A), Ankur Sharma (PAN:BMIPS3640D) and Neetu Dwivedi (PAN:CTTPD8770N) [Defaulters], jointly and severally, in the matter of Investigation in the trading activities of certain entities in the scrip of Decillion Finance Limited: under Recovery Certificate No. 9316 of 2026.",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-demand-under-recovery-certificate-number-9316-of-2026-dated-november-05-2026-issued-to-manish-mishra-pan-amppm6823l-dipak-dwiwedi-pan-atdpd4055c-vivek-chauhan-pan-ahppc9620a-ankur-_105623.html",
+          "published_at": "05 Nov, 2026 +0530",
+          "summary": "Notice of Demand under Recovery Certificate number 9316 of 2026 dated November 05, 2026, issued to Manish Mishra (PAN:AMPPM6823L), Dipak Dwiwedi (PAN:ATDPD4055C), Vivek Chauhan (PAN:AHPPC9620A), Ankur Sharma (PAN:BMIPS3640D) and Neetu Dwivedi (PAN:CTTPD8770N) [Defaulters], jointly and severally, in the matter of Investigation in the trading activities of certain entities in the scrip of Decillion Finance Limited: under Recovery Certificate No. 9316 of 2026."
+        },
+        {
+          "title": "SEBI Order for Compliance - Release Order for Recovery Certificate No. 6147 of 2022 The Apex Global, Proprietor – Yadunath Singh Thakur in the matter of Covidh Technologies Limited.",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/sebi-order-for-compliance-release-order-for-recovery-certificate-no-6147-of-2022-the-apex-global-proprietor-yadunath-singh-thakur-in-the-matter-of-covidh-technologies-limited-_105607.html",
+          "published_at": "04 Nov, 2026 +0530",
+          "summary": "SEBI Order for Compliance - Release Order for Recovery Certificate No. 6147 of 2022 The Apex Global, Proprietor – Yadunath Singh Thakur in the matter of Covidh Technologies Limited."
+        },
+        {
+          "title": "Adjudication Order in the matter of Swastika Investmart Limited",
+          "url": "https://www.sebi.gov.in/enforcement/orders/nov-2026/adjudication-order-in-the-matter-of-swastika-investmart-limited_105600.html",
+          "published_at": "04 Nov, 2026 +0530",
+          "summary": "Adjudication Order in the matter of Swastika Investmart Limited"
+        },
+        {
+          "title": "Exemption Order in the matter of Emmbi Industries Limited",
+          "url": "https://www.sebi.gov.in/https://www.sebi.gov.in/sebi_data/attachdocs/nov-2026/exemption_order_embil.pdf",
+          "published_at": "03 Nov, 2026 +0530",
+          "summary": "Exemption Order in the matter of Emmbi Industries Limited"
+        },
+        {
+          "title": "Completion of Recovery Certificate No. 9303 of 2026 dated October 13, 2026, issued to Mr. Aviral Saxena (PAN: KVYPS1652D) in the matter of market manipulation using social media in the scrip of Moksh Ornaments Limited.",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/completion-of-recovery-certificate-no-9303-of-2026-dated-october-13-2026-issued-to-mr-aviral-saxena-pan-kvyps1652d-in-the-matter-of-market-manipulation-using-social-media-in-the-scrip-of-moksh-_105572.html",
+          "published_at": "03 Nov, 2026 +0530",
+          "summary": "Completion of Recovery Certificate No. 9303 of 2026 dated October 13, 2026, issued to Mr. Aviral Saxena (PAN: KVYPS1652D) in the matter of market manipulation using social media in the scrip of Moksh Ornaments Limited."
+        },
+        {
+          "title": "Completion of Recovery Certificate No. RC9307 of 2026 in respect of Sri Salasar Suppliers Pvt. Ltd  (PAN: AADCS8457R) in the matter of Decillon Finance Limited",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/completion-of-recovery-certificate-no-rc9307-of-2026-in-respect-of-sri-salasar-suppliers-pvt-ltd-pan-aadcs8457r-in-the-matter-of-decillon-finance-limited_105568.html",
+          "published_at": "02 Nov, 2026 +0530",
+          "summary": "Completion of Recovery Certificate No. RC9307 of 2026 in respect of Sri Salasar Suppliers Pvt. Ltd  (PAN: AADCS8457R) in the matter of Decillon Finance Limited"
+        },
+        {
+          "title": "SEBI Order for Compliance - Release Order for Recovery Certificate No. 9226 of 2026 against Jigar Bhailalbhai Khalash (PAN: ESZPK4415E) in the matter of Trading activity in the scrip of ANI Integrated Services Limited.",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/sebi-order-for-compliance-release-order-for-recovery-certificate-no-9226-of-2026-against-jigar-bhailalbhai-khalash-pan-eszpk4415e-in-the-matter-of-trading-activity-in-the-scrip-of-ani-integrated-_105560.html",
+          "published_at": "02 Nov, 2026 +0530",
+          "summary": "SEBI Order for Compliance - Release Order for Recovery Certificate No. 9226 of 2026 against Jigar Bhailalbhai Khalash (PAN: ESZPK4415E) in the matter of Trading activity in the scrip of ANI Integrated Services Limited."
+        },
+        {
+          "title": "Notice of Demand dated November 02, 2026 issued under RC No. 9315 of 2026 drawn against Jalaj Agarwal (PAN: AUDPA0226H)  in the matter of stock recommendation tips in the scrip of Unison Metals Limited",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-demand-dated-november-02-2026-issued-under-rc-no-9315-of-2026-drawn-against-jalaj-agarwal-pan-audpa0226h-in-the-matter-of-stock-recommendation-tips-in-the-scrip-of-unison-metals-limite-_105548.html",
+          "published_at": "02 Nov, 2026 +0530",
+          "summary": "Notice of Demand dated November 02, 2026 issued under RC No. 9315 of 2026 drawn against Jalaj Agarwal (PAN: AUDPA0226H)  in the matter of stock recommendation tips in the scrip of Unison Metals Limited"
+        }
+      ],
+      "price_action": {
+        "date": "2026-11-05",
+        "open": 176.0,
+        "high": 178.0,
+        "low": 175.2,
+        "close": 176.53,
+        "prev_close": 173.29,
+        "change_pct": 1.87,
+        "gap_pct": 1.56,
+        "intraday_range_pct": 1.62,
+        "volume": 4525067,
+        "avg_volume_20d": 4186278,
+        "volume_ratio": 1.08,
+        "sparkline": [
+          161.23,
+          164.01,
+          161.9,
+          158.57,
+          160.53,
+          164.13,
+          158.51,
+          158.96,
+          160.21,
+          159.17,
+          154.63,
+          154.52,
+          153.91,
+          155.87,
+          156.87,
+          158.68,
+          162.48,
+          158.5,
+          156.18,
+          161.83,
+          156.25,
+          164.31,
+          166.3,
+          165.1,
+          169.32,
+          167.17,
+          170.48,
+          171.03,
+          173.29,
+          176.53
+        ]
+      },
+      "analysis": {
+        "classification": "no_signal",
+        "primary_catalyst": null,
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
+        "flags": []
+      }
+    },
+    {
+      "symbol": "LEMONTREE",
+      "name": "Lemon Tree Hotels Limited",
+      "sector": "Hospitality",
+      "notes": null,
+      "skip_catalysts": false,
+      "bse_announcements": [],
+      "nse_announcements": [
+        {
+          "headline": "Investor Presentation",
+          "category": null,
+          "more_info": "Lemon Tree Hotels Limited has informed the Exchange about Investor Presentation",
+          "pdf_url": "https://nsearchives.nseindia.com/corporate/LEMONTREE_05112026223353_Presentation_Signed.pdf",
+          "attached_at": "05-Nov-2026 22:34:15",
+          "source": "NSE"
+        },
+        {
+          "headline": "Outcome of Board Meeting",
+          "category": null,
+          "more_info": "Lemon Tree Hotels Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+          "pdf_url": "https://nsearchives.nseindia.com/corporate/LEMONTREE_05112026204533_Outcome_of_Board_Meeting_Nov_2026.pdf",
+          "attached_at": "05-Nov-2026 20:53:06",
+          "source": "NSE"
+        },
+        {
+          "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "category": null,
+          "more_info": "Lemon Tree Hotels Limited has informed the Exchange about Schedule of meet",
+          "pdf_url": "https://nsearchives.nseindia.com/corporate/LEMONTREE_05112026131936_Intimation.pdf",
+          "attached_at": "05-Nov-2026 13:19:50",
+          "source": "NSE"
+        }
+      ],
+      "news": [
+        {
+          "title": "Lemon Tree Hotels Limited Q2 profit rises 90% to Rs 79.76 crore",
+          "source": "Multibagg AI",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaUlyMzNtb0hkTndVQ3VkSlBBdXU4cUNvejNmR0hKSlFwQkN4TER6M3YxLUxBX3R5UjNVa0VRZWNWR2kyX25NTDJQc1FYTzBfaVgxVFdLdUhEMnlqRU1EVmM5dWlIZjJibGNTaFB4bldBTEswZVZfTVJpS2hGZGU2SE9YbExIS0pVSHNNZEZjeGNtYUNhUEVyRmFWSmF2TDhqOWNtZlN5SnNCenFuWW1RUVpOZlk?oc=5",
+          "published_at": "2026-11-05T15:33:15+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQaUlyMzNtb0hkTndVQ3VkSlBBdXU4cUNvejNmR0hKSlFwQkN4TER6M3YxLUxBX3R5UjNVa0VRZWNWR2kyX25NTDJQc1FYTzBfaVgxVFdLdUhEMnlqRU1EVmM5dWlIZjJibGNTaFB4bldBTEswZVZfTVJpS2hGZGU2SE9YbExIS0pVSHNNZEZjeGNtYUNhUEVyRmFWSmF2TDhqOWNtZlN5SnNCenFuWW1RUVpOZlk?oc=5\" target=\"_blank\">Lemon Tree Hotels Limited Q2 profit rises 90% to Rs 79.76 crore</a>&nbsp;&nbsp;<font"
+        },
+        {
+          "title": "LEMONTREE: Record Q2 growth paired with stronger occupancy, margins and a 24,061-room portfolio",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQeWlHMWQzRmJ0eHVOWEFlaXVOaDM2X1MwZk9oT2w5TUs4YUdzM3FnUHotaFBzQWQ2djVxbzh2M2p4Wms5MHNtOWRFWVdJWXN0OHg5TlVQMDB6ZjlraDV4ajFlMDQzWkpSVGduT0l2Q0pkM0ltVjdtVk1ZQWpGT2NCWGktdkk0M296cnFNcFhNd1NYY0pZUjNLMFRmbGI3aWFMUVp5S3RKUGNZX1NGeWV0VWNTaDBKTjlmVnBTQ1V1OFV2SDl4Z1F2VTZSdXhCRzFCaHFoZnJXVXZMZWZCYzFZYnZ6MkkwV1BtMlRqVXZaOUVfcjVYVmVEWXpuM1RfaXE5SUd6Vks3TQ?oc=5",
+          "published_at": "2026-11-05T17:10:02+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxQeWlHMWQzRmJ0eHVOWEFlaXVOaDM2X1MwZk9oT2w5TUs4YUdzM3FnUHotaFBzQWQ2djVxbzh2M2p4Wms5MHNtOWRFWVdJWXN0OHg5TlVQMDB6ZjlraDV4ajFlMDQzWkpSVGduT0l2Q0pkM0ltVjdtVk1ZQWpGT2NCWGktdkk0M296cnFNcFhNd1NYY0pZUjNLMFRmbGI3aWFMUVp5S3RKUGNZX1NGeWV0VWNTaDBKTjlmVnBTQ1V1OFV2SDl4Z1F2VTZSdXhCRzFCaHFoZnJXVXZMZWZCYzFZYnZ6MkkwV1BtMlRqVXZaOUVfcjVYVmVEWXpuM1RfaXE5SUd6Vk"
+        },
+        {
+          "title": "Lemon Tree Hotels LEMONTREE Q2 FY27 Results Board Outcome",
+          "source": "Kalkine India",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQWtQM3dHUHFZVHdVNE15SWc4WXg2OXNPQVNtOVpwMEtjUXdGbTRoVmNQMFpva1RqbkZ4Vkl2Z0FmdmRIZDRyWGRld3lYLVN6SUM5RUxBZ0d2bmJfelVJWmdCNmRxbm9NUUU2SmRERlBfa1FXa0wyUFlVUnRwbmFGUDhONENGbDNuU3pJcHZkeC1GdVcyVFJ2OUhiS3VNTVVOWjZNaWhMc3llUzUwVU42ZmRDSkdYd09fMm9Nb1ZKV2hzUQ?oc=5",
+          "published_at": "2026-11-05T15:23:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQWtQM3dHUHFZVHdVNE15SWc4WXg2OXNPQVNtOVpwMEtjUXdGbTRoVmNQMFpva1RqbkZ4Vkl2Z0FmdmRIZDRyWGRld3lYLVN6SUM5RUxBZ0d2bmJfelVJWmdCNmRxbm9NUUU2SmRERlBfa1FXa0wyUFlVUnRwbmFGUDhONENGbDNuU3pJcHZkeC1GdVcyVFJ2OUhiS3VNTVVOWjZNaWhMc3llUzUwVU42ZmRDSkdYd09fMm9Nb1ZKV2hzUQ?oc=5\" target=\"_blank\">Lemon Tree Hotels LEMONTREE Q2 FY27 Results Board Outcome</a>&nbs"
+        },
+        {
+          "title": "Lemon Tree Hotels Limited Approves Q2 FY27 Results, Call Set Nov 11",
+          "source": "Multibagg AI",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQXI4N1FTeEVGbGlnR3dNQUhYQzRaWTRZVUcyU2tYdzcxODhmWWhnSDIwdlgxbGUtci12RGY2T3E5OTBXRkJrbGhpakVKc1VoaG0yXzdibEg2Mnp2ejdKbXI2b2lDVE5ZOG5tUmZDSTRuVHBVYmdMRE1GaXhyYUcyd2E5RGJqVEZoYW80NkVRUnNLLXdtdVFpaVctcElDQkVL?oc=5",
+          "published_at": "2026-11-05T15:29:13+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNQXI4N1FTeEVGbGlnR3dNQUhYQzRaWTRZVUcyU2tYdzcxODhmWWhnSDIwdlgxbGUtci12RGY2T3E5OTBXRkJrbGhpakVKc1VoaG0yXzdibEg2Mnp2ejdKbXI2b2lDVE5ZOG5tUmZDSTRuVHBVYmdMRE1GaXhyYUcyd2E5RGJqVEZoYW80NkVRUnNLLXdtdVFpaVctcElDQkVL?oc=5\" target=\"_blank\">Lemon Tree Hotels Limited Approves Q2 FY27 Results, Call Set Nov 11</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Multib"
+        }
+      ],
+      "events": [
+        {
+          "subject": null,
+          "purpose": "Financial Results",
+          "date": "05-Nov-2026",
+          "details": "To consider and approve the financial results for the period ended September 30, 2026"
+        }
+      ],
+      "sebi_mentions": [],
+      "price_action": {
+        "date": "2026-11-05",
+        "open": 117.09,
+        "high": 118.8,
+        "low": 116.5,
+        "close": 117.53,
+        "prev_close": 115.57,
+        "change_pct": 1.7,
+        "gap_pct": 1.32,
+        "intraday_range_pct": 1.99,
+        "volume": 5435589,
+        "avg_volume_20d": 3550262,
+        "volume_ratio": 1.53,
+        "sparkline": [
+          107.92,
+          106.72,
+          106.15,
+          103.82,
+          104.17,
+          104.25,
+          107.67,
+          107.86,
+          110.12,
+          112.52,
+          110.05,
+          110.43,
+          110.69,
+          111.86,
+          111.46,
+          112.5,
+          113.42,
+          111.67,
+          109.82,
+          110.95,
+          108.94,
+          110.14,
+          106.53,
+          107.15,
+          111.34,
+          109.27,
+          112.87,
+          114.26,
+          115.57,
+          117.53
+        ]
+      },
+      "analysis": {
+        "classification": "no_signal",
+        "primary_catalyst": null,
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
+        "flags": []
+      }
+    },
+    {
+      "symbol": "FINPIPE",
+      "name": "Finolex Industries Limited",
+      "sector": "Plastics / Pipes",
+      "notes": null,
+      "skip_catalysts": false,
+      "bse_announcements": [],
+      "nse_announcements": [],
+      "news": [],
+      "events": [
+        {
+          "subject": null,
+          "purpose": "Financial Results",
+          "date": "30-Oct-2026",
+          "details": "To consider and approve the Un-audited (Standalone and Consolidated) Financial Results of the Company for the Quarter and Half Year ended September 30, 2026"
+        }
+      ],
+      "sebi_mentions": [
+        {
+          "title": "Exemption Order in the matter of Emmbi Industries Limited",
+          "url": "https://www.sebi.gov.in/https://www.sebi.gov.in/sebi_data/attachdocs/nov-2026/exemption_order_embil.pdf",
+          "published_at": "03 Nov, 2026 +0530",
+          "summary": "Exemption Order in the matter of Emmbi Industries Limited"
+        }
+      ],
+      "price_action": {
+        "date": "2026-11-05",
+        "open": 146.0,
+        "high": 147.34,
+        "low": 144.1,
+        "close": 144.78,
+        "prev_close": 143.95,
+        "change_pct": 0.58,
+        "gap_pct": 1.42,
+        "intraday_range_pct": 2.25,
+        "volume": 554963,
+        "avg_volume_20d": 467056,
+        "volume_ratio": 1.19,
+        "sparkline": [
+          154.16,
+          154.04,
+          154.16,
+          151.61,
+          151.15,
+          151.48,
+          150.49,
+          149.31,
+          154.72,
+          153.91,
+          149.76,
+          151.16,
+          151.58,
+          151.34,
+          151.6,
+          154.75,
+          153.64,
+          151.3,
+          147.92,
+          148.03,
+          142.4,
+          141.91,
+          141.45,
+          141.24,
+          142.06,
+          137.16,
+          140.84,
+          138.02,
+          143.95,
+          144.78
+        ]
+      },
+      "analysis": {
+        "classification": "no_signal",
+        "primary_catalyst": null,
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
+        "flags": []
+      }
+    },
+    {
+      "symbol": "EBGNG",
+      "name": "GNG Electronics Limited",
+      "sector": "Electronics Refurbishing",
+      "notes": "Listed Jul-2025. NSE symbol is EBGNG (not GNG).",
+      "skip_catalysts": false,
+      "bse_announcements": [],
+      "nse_announcements": [
+        {
+          "headline": "Copy of Newspaper Publication",
+          "category": null,
+          "more_info": "GNG Electronics Limited has informed the Exchange about Copy of Newspaper Publication in which the financial results of the Company for the quarter and half year ended September 30, 2026 is published.",
+          "pdf_url": "https://nsearchives.nseindia.com/corporate/GNGNSE_05112026140510_Newspaper_Publication_Q2FY27_Results.pdf",
+          "attached_at": "05-Nov-2026 14:05:31",
+          "source": "NSE"
+        }
+      ],
+      "news": [
+        {
+          "title": "GNG Electronics Ltd (NSE:EBGNG) (Q2 2027) Earnings Call Highlights: Record Revenue Surge and ...",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVGpTMGRlVlZicC1fZExyNVBTUElLbVBjbWxtMlhJaUdlSWVaS0NEMkVpY0U3X0V3al9CZjlzZVp6QUFCYzRvV0JzSUpCa09vdVpINkdwejRrQ2ppRGNsb2FLMGxRcEhUTDMxMFh5dGxqeThpc19KVmVxNHpjWlMycFpmZW96VnNNYU1US19aaHJmeHN6eFVJQW9n?oc=5",
+          "published_at": "2026-11-05T21:07:29+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQVGpTMGRlVlZicC1fZExyNVBTUElLbVBjbWxtMlhJaUdlSWVaS0NEMkVpY0U3X0V3al9CZjlzZVp6QUFCYzRvV0JzSUpCa09vdVpINkdwejRrQ2ppRGNsb2FLMGxRcEhUTDMxMFh5dGxqeThpc19KVmVxNHpjWlMycFpmZW96VnNNYU1US19aaHJmeHN6eFVJQW9n?oc=5\" target=\"_blank\">GNG Electronics Ltd (NSE:EBGNG) (Q2 2027) Earnings Call Highlights: Record Revenue Surge and ...</a>&nbsp;&nbsp;<font c"
+        }
+      ],
+      "events": [
+        {
+          "subject": null,
+          "purpose": "Financial Results/Other business matters",
+          "date": "03-Nov-2026",
+          "details": "To consider and approve the financial results for the period ended September 30, 2026 and other business matters"
+        }
+      ],
+      "sebi_mentions": [
+        {
+          "title": "Notice of Demand under Recovery Certificate number 9317 of 2026 dated November 05, 2026, issued to Manish Mishra (PAN: AMPPM6823L), Anshu Mishra (PAN: BMIPS3480H), Dipak Dwiwedi (PAN: ATDPD4055C), Vivek Chauhan (PAN: AHPPC9620A), Ankur Sharma (PAN: BMIPS3640D), Abhay Dwivedi (PAN: CWYPD8949K), Neetu Dwivedi (PAN: CTTPD8770N), Pallavi (PAN: BRTPP3401M), and Amrit Pal Singh (PAN: DTMPS0895B), [Defaulters], jointly and severally, in the matter of Decillion Finance Limited: under Recovery Certificate No. 9317 of 2026.",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-demand-under-recovery-certificate-number-9317-of-2026-dated-november-05-2026-issued-to-manish-mishra-pan-amppm6823l-anshu-mishra-pan-bmips3480h-dipak-dwiwedi-pan-atdpd4055c-viv-_105625.html",
+          "published_at": "05 Nov, 2026 +0530",
+          "summary": "Notice of Demand under Recovery Certificate number 9317 of 2026 dated November 05, 2026, issued to Manish Mishra (PAN: AMPPM6823L), Anshu Mishra (PAN: BMIPS3480H), Dipak Dwiwedi (PAN: ATDPD4055C), Vivek Chauhan (PAN: AHPPC9620A), Ankur Sharma (PAN: BMIPS3640D), Abhay Dwivedi (PAN: CWYPD8949K), Neetu Dwivedi (PAN: CTTPD8770N), Pallavi (PAN: BRTPP3401M), and Amrit Pal Singh (PAN: DTMPS0895B), [Defaulters], jointly and severally, in the matter of Decillion Finance Limited: under Recovery Certificat"
+        },
+        {
+          "title": "Notice of Demand under Recovery Certificate number 9316 of 2026 dated November 05, 2026, issued to Manish Mishra (PAN:AMPPM6823L), Dipak Dwiwedi (PAN:ATDPD4055C), Vivek Chauhan (PAN:AHPPC9620A), Ankur Sharma (PAN:BMIPS3640D) and Neetu Dwivedi (PAN:CTTPD8770N) [Defaulters], jointly and severally, in the matter of Investigation in the trading activities of certain entities in the scrip of Decillion Finance Limited: under Recovery Certificate No. 9316 of 2026.",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-demand-under-recovery-certificate-number-9316-of-2026-dated-november-05-2026-issued-to-manish-mishra-pan-amppm6823l-dipak-dwiwedi-pan-atdpd4055c-vivek-chauhan-pan-ahppc9620a-ankur-_105623.html",
+          "published_at": "05 Nov, 2026 +0530",
+          "summary": "Notice of Demand under Recovery Certificate number 9316 of 2026 dated November 05, 2026, issued to Manish Mishra (PAN:AMPPM6823L), Dipak Dwiwedi (PAN:ATDPD4055C), Vivek Chauhan (PAN:AHPPC9620A), Ankur Sharma (PAN:BMIPS3640D) and Neetu Dwivedi (PAN:CTTPD8770N) [Defaulters], jointly and severally, in the matter of Investigation in the trading activities of certain entities in the scrip of Decillion Finance Limited: under Recovery Certificate No. 9316 of 2026."
+        },
+        {
+          "title": "SEBI Order for Compliance - Release Order for Recovery Certificate No. 6147 of 2022 The Apex Global, Proprietor – Yadunath Singh Thakur in the matter of Covidh Technologies Limited.",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/sebi-order-for-compliance-release-order-for-recovery-certificate-no-6147-of-2022-the-apex-global-proprietor-yadunath-singh-thakur-in-the-matter-of-covidh-technologies-limited-_105607.html",
+          "published_at": "04 Nov, 2026 +0530",
+          "summary": "SEBI Order for Compliance - Release Order for Recovery Certificate No. 6147 of 2022 The Apex Global, Proprietor – Yadunath Singh Thakur in the matter of Covidh Technologies Limited."
+        },
+        {
+          "title": "Adjudication Order in the matter of Swastika Investmart Limited",
+          "url": "https://www.sebi.gov.in/enforcement/orders/nov-2026/adjudication-order-in-the-matter-of-swastika-investmart-limited_105600.html",
+          "published_at": "04 Nov, 2026 +0530",
+          "summary": "Adjudication Order in the matter of Swastika Investmart Limited"
+        },
+        {
+          "title": "Exemption Order in the matter of Emmbi Industries Limited",
+          "url": "https://www.sebi.gov.in/https://www.sebi.gov.in/sebi_data/attachdocs/nov-2026/exemption_order_embil.pdf",
+          "published_at": "03 Nov, 2026 +0530",
+          "summary": "Exemption Order in the matter of Emmbi Industries Limited"
+        },
+        {
+          "title": "Completion of Recovery Certificate No. 9303 of 2026 dated October 13, 2026, issued to Mr. Aviral Saxena (PAN: KVYPS1652D) in the matter of market manipulation using social media in the scrip of Moksh Ornaments Limited.",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/completion-of-recovery-certificate-no-9303-of-2026-dated-october-13-2026-issued-to-mr-aviral-saxena-pan-kvyps1652d-in-the-matter-of-market-manipulation-using-social-media-in-the-scrip-of-moksh-_105572.html",
+          "published_at": "03 Nov, 2026 +0530",
+          "summary": "Completion of Recovery Certificate No. 9303 of 2026 dated October 13, 2026, issued to Mr. Aviral Saxena (PAN: KVYPS1652D) in the matter of market manipulation using social media in the scrip of Moksh Ornaments Limited."
+        },
+        {
+          "title": "Completion of Recovery Certificate No. RC9307 of 2026 in respect of Sri Salasar Suppliers Pvt. Ltd  (PAN: AADCS8457R) in the matter of Decillon Finance Limited",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/completion-of-recovery-certificate-no-rc9307-of-2026-in-respect-of-sri-salasar-suppliers-pvt-ltd-pan-aadcs8457r-in-the-matter-of-decillon-finance-limited_105568.html",
+          "published_at": "02 Nov, 2026 +0530",
+          "summary": "Completion of Recovery Certificate No. RC9307 of 2026 in respect of Sri Salasar Suppliers Pvt. Ltd  (PAN: AADCS8457R) in the matter of Decillon Finance Limited"
+        },
+        {
+          "title": "SEBI Order for Compliance - Release Order for Recovery Certificate No. 9226 of 2026 against Jigar Bhailalbhai Khalash (PAN: ESZPK4415E) in the matter of Trading activity in the scrip of ANI Integrated Services Limited.",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/sebi-order-for-compliance-release-order-for-recovery-certificate-no-9226-of-2026-against-jigar-bhailalbhai-khalash-pan-eszpk4415e-in-the-matter-of-trading-activity-in-the-scrip-of-ani-integrated-_105560.html",
+          "published_at": "02 Nov, 2026 +0530",
+          "summary": "SEBI Order for Compliance - Release Order for Recovery Certificate No. 9226 of 2026 against Jigar Bhailalbhai Khalash (PAN: ESZPK4415E) in the matter of Trading activity in the scrip of ANI Integrated Services Limited."
+        },
+        {
+          "title": "Notice of Demand dated November 02, 2026 issued under RC No. 9315 of 2026 drawn against Jalaj Agarwal (PAN: AUDPA0226H)  in the matter of stock recommendation tips in the scrip of Unison Metals Limited",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-demand-dated-november-02-2026-issued-under-rc-no-9315-of-2026-drawn-against-jalaj-agarwal-pan-audpa0226h-in-the-matter-of-stock-recommendation-tips-in-the-scrip-of-unison-metals-limite-_105548.html",
+          "published_at": "02 Nov, 2026 +0530",
+          "summary": "Notice of Demand dated November 02, 2026 issued under RC No. 9315 of 2026 drawn against Jalaj Agarwal (PAN: AUDPA0226H)  in the matter of stock recommendation tips in the scrip of Unison Metals Limited"
+        }
+      ],
+      "price_action": {
+        "date": "2026-11-05",
+        "open": 740.0,
+        "high": 750.0,
+        "low": 721.05,
+        "close": NaN,
+        "prev_close": 728.9,
+        "change_pct": NaN,
+        "gap_pct": 1.52,
+        "intraday_range_pct": 3.97,
+        "volume": 629164,
+        "avg_volume_20d": 1103874,
+        "volume_ratio": 0.57,
+        "sparkline": [
+          715.15,
+          676.65,
+          669.0,
+          672.15,
+          674.8,
+          686.75,
+          704.7,
+          695.45,
+          685.15,
+          731.35,
+          692.15,
+          685.5,
+          698.25,
+          698.2,
+          729.4,
+          692.25,
+          708.05,
+          700.2,
+          670.4,
+          673.75,
+          682.5,
+          708.6,
+          720.1,
+          723.25,
+          690.1,
+          659.45,
+          659.6,
+          687.2,
+          728.9,
+          NaN
+        ]
+      },
+      "analysis": {
+        "classification": "no_signal",
+        "primary_catalyst": null,
+        "analysis": "Automated analysis unavailable; review raw catalysts below.",
+        "confidence": "low",
+        "flags": []
+      }
+    },
+    {
+      "symbol": "SGBJUN31I",
+      "name": "Sovereign Gold Bond 2.50% June 2031 Series I",
+      "sector": "Sovereign Gold Bond",
+      "notes": "Tracks gold spot. No filings/earnings — price-only display.",
+      "skip_catalysts": true,
+      "bse_announcements": [],
+      "nse_announcements": [],
+      "news": [],
+      "events": [],
+      "sebi_mentions": [],
+      "price_action": {
+        "error": "insufficient_data"
+      },
+      "analysis": {
+        "classification": "price_only",
+        "primary_catalyst": null,
+        "analysis": "Price-tracking instrument (SGB/ETF). No catalyst correlation performed.",
+        "confidence": "high",
+        "flags": []
+      }
+    }
+  ]
+}
