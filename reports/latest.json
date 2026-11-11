@@ -1,7 +1,7 @@
 {
   "report_date": "2026-11-10",
   "trading_day": "2026-11-09",
-  "generated_at": "2026-11-10T09:00:46.397292+05:30",
+  "generated_at": "2026-11-11T09:00:57.264473+05:30",
   "stocks": [
     {
       "symbol": "TMCV",
@@ -85,7 +85,15 @@
       "skip_catalysts": false,
       "bse_announcements": [],
       "nse_announcements": [],
-      "news": [],
+      "news": [
+        {
+          "title": "Tata Motors Share Price - Live NSE: TMPV Stock Price & Chart",
+          "source": "Upstox",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4tRUNlRENKdi05NTFRNHg0VEZ1TURMZzlEWGg1Y2M2QnM0ZThZdHdRVzRpbG8yR0Z4NFV1dzNTdzJOZkFOUEZtaWFQMEJ5MFlMcmNiWkpWRFFmNVpoblVkMk1Qckx3TDcxX250eGdxMTY?oc=5",
+          "published_at": "2026-11-10T00:40:08+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE4tRUNlRENKdi05NTFRNHg0VEZ1TURMZzlEWGg1Y2M2QnM0ZThZdHdRVzRpbG8yR0Z4NFV1dzNTdzJOZkFOUEZtaWFQMEJ5MFlMcmNiWkpWRFFmNVpoblVkMk1Qckx3TDcxX250eGdxMTY?oc=5\" target=\"_blank\">Tata Motors Share Price - Live NSE: TMPV Stock Price & Chart</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Upstox</font>"
+        }
+      ],
       "events": [
         {
           "subject": null,
@@ -168,11 +176,32 @@
       ],
       "news": [
         {
-          "title": "Weekly Recap: Transfer allegations and Shriram Research Diwali pick",
+          "title": "ICICI Bank Limited (IBN) stock price, news, quote and history",
+          "source": "Yahoo Finance UK",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1EaUlLVUM3SjRHZTN3MHo5Q3JlWGVtaTdnTENMVnVpVURlUDVway16ZVJhLWE1bmdwREgtREZfSTVVdk5Ka2xwdURQenFCV2ds?oc=5",
+          "published_at": "2026-11-10T22:55:27+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE1EaUlLVUM3SjRHZTN3MHo5Q3JlWGVtaTdnTENMVnVpVURlUDVway16ZVJhLWE1bmdwREgtREZfSTVVdk5Ka2xwdURQenFCV2ds?oc=5\" target=\"_blank\">ICICI Bank Limited (IBN) stock price, news, quote and history</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance UK</font>"
+        },
+        {
+          "title": "Lower oil prices pull down bond yields; 10-year G-sec seen trading at 7.10-7.25%: Report",
           "source": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMEVpUzEzQkkwS0NMdFFPNDJjZzhxTXl3ZkcxVEZjay0tOThiUndVQVE4WlR5eS1WeTJyTFNmckMzQ0habWtTRDZ3RnhhMTJsclRKcFhWdl9uZEdKellVejZEY29TSkVHVlJLLTBkM1k4S0dyX0VsRmRycWF3TWJ5M3BGYjJuUU1wbEpWWUJmRVdScVYxanA0U0UzYTZ6WThwalN6UVJRaVFVU0NWcEdTUGZPRmN4a05IbDdqNUwzU2V5dWhEZDNZ?oc=5",
-          "published_at": "2026-11-09T01:00:00+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOMEVpUzEzQkkwS0NMdFFPNDJjZzhxTXl3ZkcxVEZjay0tOThiUndVQVE4WlR5eS1WeTJyTFNmckMzQ0habWtTRDZ3RnhhMTJsclRKcFhWdl9uZEdKellVejZEY29TSkVHVlJLLTBkM1k4S0dyX0VsRmRycWF3TWJ5M3BGYjJuUU1wbEpWWUJmRVdScVYxanA0U0UzYTZ6WThwalN6UVJRaVFVU0NWcEdTUGZPRmN4a05IbDdqNUwzU2V5dWhEZDNZ?oc=5\" target=\"_blank\">Weekly Recap: Transfer allegations and Shriram Research Diw"
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOGRDRzZzSVdlRDRwQ3B6WFM5b1VXWkZudDl6Z2hMaWZTeFNUZHAzV3gwOVlWZVhmYUl0NEVFM1lCTDZrWjU0djRLbURPLWowN3JVQmF6TTlhb2txdktYZFpIMHZpM2NhQk1udEFWMnBiSFZuZDhiVjZZZWwzMHZ0MExlcXlqNG1JTmFUSHRQcThQdzVlUU9aYzM5d1Q2a3U1aXFaZnFqaUktZmpSQ3gtZzJLclFpcWl3R3JOZVR0cms5MEdjX1ZHZVpzYXNKZHAzSXdvMV9jQVFCZw?oc=5",
+          "published_at": "2026-11-10T02:51:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOGRDRzZzSVdlRDRwQ3B6WFM5b1VXWkZudDl6Z2hMaWZTeFNUZHAzV3gwOVlWZVhmYUl0NEVFM1lCTDZrWjU0djRLbURPLWowN3JVQmF6TTlhb2txdktYZFpIMHZpM2NhQk1udEFWMnBiSFZuZDhiVjZZZWwzMHZ0MExlcXlqNG1JTmFUSHRQcThQdzVlUU9aYzM5d1Q2a3U1aXFaZnFqaUktZmpSQ3gtZzJLclFpcWl3R3JOZVR0cms5MEdjX1ZHZVpzYXNKZHAzSXdvMV9jQVFCZw?oc=5\" target=\"_blank\">Lower oil prices pull down bond y"
+        },
+        {
+          "title": "Strong FII buying, stable macro-outlook to support equities ahead of Budget: Axis Direct's Hemang Gor",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUWRDMWJTbXRRVWpobVBfOUxTS3NEUmEwVWsycjMtekQxelJmTVlGNXU5TlM0MHF4SWV1c3ZtV0V0QTBpZDBWVXBSSFVDelY2djJ6UGhNV0JtTll5aGE4bmN5aWVuVUY4MWNFd1pfR0hJSl9PZktBN1BwYVEyNHczNTZ3MV84cjc5NG90MFJJd1p1am14dWlucGVGbG5EemVyZW5IelU4QVVhNkVSbDRRWlM1NmZfLWNqUkVFbEk1bGE4TWIwUlhrcl9nSHJnbnpxRWdDX0N6WWl0N2RTSnlrYjdVLWZPZG12bHBYMA?oc=5",
+          "published_at": "2026-11-09T06:20:41+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUWRDMWJTbXRRVWpobVBfOUxTS3NEUmEwVWsycjMtekQxelJmTVlGNXU5TlM0MHF4SWV1c3ZtV0V0QTBpZDBWVXBSSFVDelY2djJ6UGhNV0JtTll5aGE4bmN5aWVuVUY4MWNFd1pfR0hJSl9PZktBN1BwYVEyNHczNTZ3MV84cjc5NG90MFJJd1p1am14dWlucGVGbG5EemVyZW5IelU4QVVhNkVSbDRRWlM1NmZfLWNqUkVFbEk1bGE4TWIwUlhrcl9nSHJnbnpxRWdDX0N6WWl0N2RTSnlrYjdVLWZPZG12bHBYMA?oc=5\" target=\"_blank\">Strong FI"
+        },
+        {
+          "title": "Bank profitability to improve in FY27 on margin recovery, healthy credit growth: Systematix",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNFNxOVVGSG5SQ1g5d0FDNTlvNFV5VnhCNWVpanNGQXktTEpCOVg4YXlZaGk4TlpIcm8xeTFHTnJmallkNU5pQ21SbXZiZERoSndnNENNWUVuQXpUbHZHbGY3Q3VYODMtLW1qcFktSnNZdTY4Mi1PcV84MWtmbGZIUkdLUF94Wng5d3cyajZWeVNicnNvYWJENnR1YUJyd05IRy1taURDR09SWm5pUFBWUDdmbHhTNS1odFZabk5fUGRic3ZtazVwRXRqSUQzYVl2S3VVMFFuNVZYOURjTjlz?oc=5",
+          "published_at": "2026-11-09T13:24:10+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNFNxOVVGSG5SQ1g5d0FDNTlvNFV5VnhCNWVpanNGQXktTEpCOVg4YXlZaGk4TlpIcm8xeTFHTnJmallkNU5pQ21SbXZiZERoSndnNENNWUVuQXpUbHZHbGY3Q3VYODMtLW1qcFktSnNZdTY4Mi1PcV84MWtmbGZIUkdLUF94Wng5d3cyajZWeVNicnNvYWJENnR1YUJyd05IRy1taURDR09SWm5pUFBWUDdmbHhTNS1odFZabk5fUGRic3ZtazVwRXRqSUQzYVl2S3VVMFFuNVZYOURjTjlz?oc=5\" target=\"_blank\">Bank profitability to impro"
         }
       ],
       "events": [],
@@ -238,14 +267,23 @@
       "notes": "Assumed \"HDFC Live\" was HDFC Life. Tell me if you meant HDFC Bank.",
       "skip_catalysts": false,
       "bse_announcements": [],
-      "nse_announcements": [],
+      "nse_announcements": [
+        {
+          "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "category": null,
+          "more_info": "HDFC Life Insurance Company Limited has informed the Exchange about Schedule of meet",
+          "pdf_url": "https://nsearchives.nseindia.com/corporate/HDFCLIFE2_10112026184938_Analyst_Meet.pdf",
+          "attached_at": "10-Nov-2026 18:49:47",
+          "source": "NSE"
+        }
+      ],
       "news": [
         {
-          "title": "Weekly Recap: H2 growth near industry and non-par savings share to rise",
-          "source": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdjZHcGxORGRQc0RlSHp6LTFvdDA2ZUkzRkZxVkVDMWZRWi1ISFppc19aNnRUc280VlI2YTBPejllT2ZhQjFtaDg3R3MtUDZZU1MxcFFpLXhidGF1RUVpaHZJM1JyQVAybE9pY1BNSVBDX19aUjNLbGU3bzFvZXhqTVZZNjF1V2RkQXJCSW41bEVzTVo2WVVJV2VBcDhVVXBtTWh6MkphZGxlWnFkRXh0RXZIaWkzSTJ2ZmE1V0pVTDJySWZQZGQ3V2pWbkQ?oc=5",
-          "published_at": "2026-11-09T01:00:00+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPdjZHcGxORGRQc0RlSHp6LTFvdDA2ZUkzRkZxVkVDMWZRWi1ISFppc19aNnRUc280VlI2YTBPejllT2ZhQjFtaDg3R3MtUDZZU1MxcFFpLXhidGF1RUVpaHZJM1JyQVAybE9pY1BNSVBDX19aUjNLbGU3bzFvZXhqTVZZNjF1V2RkQXJCSW41bEVzTVo2WVVJV2VBcDhVVXBtTWh6MkphZGxlWnFkRXh0RXZIaWkzSTJ2ZmE1V0pVTDJySWZQZGQ3V2pWbkQ?oc=5\" target=\"_blank\">Weekly Recap: H2 growth near industry and non-par sa"
+          "title": "HDFC Life (HDFCLIFE) Share Price Today (NSE), Market News",
+          "source": "TechGraph",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1vMEFKTjY2dUxNZjhBdlBfTFU5dldGMTVPeU1ZNURPaF9HZnpvbUNLYUhRQTBOVm9SYmp1ZUllMVdTb09fV0N3SnFlR3JKMmdJXzE0MWc0T1YwQm1EUl9TMnhn?oc=5",
+          "published_at": "2026-11-09T14:55:52+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1vMEFKTjY2dUxNZjhBdlBfTFU5dldGMTVPeU1ZNURPaF9HZnpvbUNLYUhRQTBOVm9SYmp1ZUllMVdTb09fV0N3SnFlR3JKMmdJXzE0MWc0T1YwQm1EUl9TMnhn?oc=5\" target=\"_blank\">HDFC Life (HDFCLIFE) Share Price Today (NSE), Market News</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechGraph</font>"
         }
       ],
       "events": [],
@@ -260,7 +298,7 @@
         "change_pct": 0.02,
         "gap_pct": 0.17,
         "intraday_range_pct": 2.02,
-        "volume": 2498360,
+        "volume": 2498411,
         "avg_volume_20d": 2331631,
         "volume_ratio": 1.07,
         "sparkline": [
@@ -381,6 +419,18 @@
       "events": [],
       "sebi_mentions": [
         {
+          "title": "Notice of attachment dated November 10, 2026 issued against Chennai Commodities under RC No.7470 of 2023 in the matter of First Futures and Stocks Private Limited",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-attachment-dated-november-10-2026-issued-against-chennai-commodities-under-rc-no-7470-of-2023-in-the-matter-of-first-futures-and-stocks-private-limited_105696.html",
+          "published_at": "10 Nov, 2026 +0530",
+          "summary": "Notice of attachment dated November 10, 2026 issued against Chennai Commodities under RC No.7470 of 2023 in the matter of First Futures and Stocks Private Limited"
+        },
+        {
+          "title": "Notice of attachment dated November 10, 2026 issued against First Futures and Stocks Private Limited under RC No.7469 of 2023 in the matter of First Futures and Stocks Private Limited",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-attachment-dated-november-10-2026-issued-against-first-futures-and-stocks-private-limited-under-rc-no-7469-of-2023-in-the-matter-of-first-futures-and-stocks-private-limited_105694.html",
+          "published_at": "10 Nov, 2026 +0530",
+          "summary": "Notice of attachment dated November 10, 2026 issued against First Futures and Stocks Private Limited under RC No.7469 of 2023 in the matter of First Futures and Stocks Private Limited"
+        },
+        {
           "title": "Notice of Demand dated November 06, 2026, against First Overseas Capital Limited (AAACL4737A) in the matter of Veerkrupa Jewellers Limited under RC No. 9322 of 2026",
           "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-demand-dated-november-06-2026-against-first-overseas-capital-limited-aaacl4737a-in-the-matter-of-veerkrupa-jewellers-limited-under-rc-no-9322-of-2026_105658.html",
           "published_at": "06 Nov, 2026 +0530",
@@ -450,6 +500,94 @@
       "bse_announcements": [],
       "nse_announcements": [
         {
+          "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "category": null,
+          "more_info": "Capri Global Capital Limited has informed the Exchange about Schedule of meet",
+          "pdf_url": "https://nsearchives.nseindia.com/corporate/CGCL_10112026235126_SEIntimation_Investormeetings.pdf",
+          "attached_at": "10-Nov-2026 23:55:09",
+          "source": "NSE"
+        },
+        {
+          "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "category": null,
+          "more_info": "Capri Global Capital Limited has informed the Exchange about Schedule of meet",
+          "pdf_url": "https://nsearchives.nseindia.com/corporate/CGCL_10112026235300_SEIntimation_Investormeetings.pdf",
+          "attached_at": "10-Nov-2026 23:55:09",
+          "source": "NSE"
+        },
+        {
+          "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "category": null,
+          "more_info": "Capri Global Capital Limited has informed the Exchange about Schedule of meet",
+          "pdf_url": "https://nsearchives.nseindia.com/corporate/CGCL_10112026234950_SEIntimation_Investormeetings.pdf",
+          "attached_at": "10-Nov-2026 23:55:09",
+          "source": "NSE"
+        },
+        {
+          "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "category": null,
+          "more_info": "Capri Global Capital Limited has informed the Exchange about Schedule of meet",
+          "pdf_url": "https://nsearchives.nseindia.com/corporate/CGCL_10112026235213_SEIntimation_Investormeetings.pdf",
+          "attached_at": "10-Nov-2026 23:55:09",
+          "source": "NSE"
+        },
+        {
+          "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "category": null,
+          "more_info": "Capri Global Capital Limited has informed the Exchange about Schedule of meet",
+          "pdf_url": "https://nsearchives.nseindia.com/corporate/CGCL_10112026235043_SEIntimation_Investormeetings.pdf",
+          "attached_at": "10-Nov-2026 23:55:09",
+          "source": "NSE"
+        },
+        {
+          "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "category": null,
+          "more_info": "Capri Global Capital Limited has informed the Exchange about Schedule of meet",
+          "pdf_url": "https://nsearchives.nseindia.com/corporate/CGCL_10112026233028_SEIntimation_Investormeetings.pdf",
+          "attached_at": "10-Nov-2026 23:36:29",
+          "source": "NSE"
+        },
+        {
+          "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "category": null,
+          "more_info": "Capri Global Capital Limited has informed the Exchange about Schedule of meet",
+          "pdf_url": "https://nsearchives.nseindia.com/corporate/CGCL_10112026233159_SEIntimation_Investormeetings.pdf",
+          "attached_at": "10-Nov-2026 23:36:29",
+          "source": "NSE"
+        },
+        {
+          "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "category": null,
+          "more_info": "Capri Global Capital Limited has informed the Exchange about Schedule of meet",
+          "pdf_url": "https://nsearchives.nseindia.com/corporate/CGCL_10112026233306_SEIntimation_Investormeetings.pdf",
+          "attached_at": "10-Nov-2026 23:36:29",
+          "source": "NSE"
+        },
+        {
+          "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "category": null,
+          "more_info": "Capri Global Capital Limited has informed the Exchange about Schedule of meet",
+          "pdf_url": "https://nsearchives.nseindia.com/corporate/CGCL_10112026231628_SEIntimation_Investormeetings.pdf",
+          "attached_at": "10-Nov-2026 23:27:52",
+          "source": "NSE"
+        },
+        {
+          "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "category": null,
+          "more_info": "Capri Global Capital Limited has informed the Exchange about Schedule of meet",
+          "pdf_url": "https://nsearchives.nseindia.com/corporate/CGCL_10112026231851_SEIntimation_Investormeetings.pdf",
+          "attached_at": "10-Nov-2026 23:27:52",
+          "source": "NSE"
+        },
+        {
+          "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+          "category": null,
+          "more_info": "Capri Global Capital Limited has informed the Exchange about Schedule of meet",
+          "pdf_url": "https://nsearchives.nseindia.com/corporate/CGCL_10112026231544_SEIntimation_Investormeetings.pdf",
+          "attached_at": "10-Nov-2026 23:27:52",
+          "source": "NSE"
+        },
+        {
           "headline": "Updates",
           "category": null,
           "more_info": "Capri Global Capital Limited has informed the Exchange regarding 'Certificate for Payment of Interest (BSE Listed)'.",
@@ -468,11 +606,25 @@
       ],
       "news": [
         {
+          "title": "Capri Global Capital Limited (CGCL.NS) Seasonal returns chart",
+          "source": "Yahoo Finance UK",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBBTGpqYWc3SkNuM285THRUUmFFd0RWSTY2cVA4UUtzakExelU0YlR5MFlqbUp6STNlRVRPTUtUZW0za05OazVVSWJYemVSc2x3Rkx6TENjc1ZEV3ZpbW95NGsxRHR4Zw?oc=5",
+          "published_at": "2026-11-10T02:29:09+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBBTGpqYWc3SkNuM285THRUUmFFd0RWSTY2cVA4UUtzakExelU0YlR5MFlqbUp6STNlRVRPTUtUZW0za05OazVVSWJYemVSc2x3Rkx6TENjc1ZEV3ZpbW95NGsxRHR4Zw?oc=5\" target=\"_blank\">Capri Global Capital Limited (CGCL.NS) Seasonal returns chart</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance UK</font>"
+        },
+        {
           "title": "Capri Global Capital Limited (CGCL.BO) Seasonal returns chart",
           "source": "Yahoo Finance UK",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ubjNYdWc2QXgyeS1ZSGVpZ1c4TTFQVWE1MU9od0NUcy1XMG1USWM1dHpBbC1HZ01YcWNJWXJMNE5uNGtaX3gtVTR5VnNkNThOSWNVNTE0dnN0RmVjSFlvOFBodzZhZw?oc=5",
           "published_at": "2026-11-09T17:52:12+00:00",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ubjNYdWc2QXgyeS1ZSGVpZ1c4TTFQVWE1MU9od0NUcy1XMG1USWM1dHpBbC1HZ01YcWNJWXJMNE5uNGtaX3gtVTR5VnNkNThOSWNVNTE0dnN0RmVjSFlvOFBodzZhZw?oc=5\" target=\"_blank\">Capri Global Capital Limited (CGCL.BO) Seasonal returns chart</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance UK</font>"
+        },
+        {
+          "title": "Capri Global Confirms Timely NCD Interest Payment",
+          "source": "TipRanks",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQUpyOHhfNnJSd1M3ZTBZUWRscy02aldOUUtPeTFaWE5Pa3JVQ1l3aDdUVEJNdmJtbWEwS044bTlkc3lISlJMWV9lRm94Y19pMHQ1QTBKU2doLVZ2V2g2eXNMQnJWdjR1MHFQbC1uMXRzblItSTE3SHBxU0lNWkktN3lOTEhpM05adzBGcWxiVE9qLVBidTBjRHZ2bXNfWTJyMnhn?oc=5",
+          "published_at": "2026-11-09T10:10:24+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOQUpyOHhfNnJSd1M3ZTBZUWRscy02aldOUUtPeTFaWE5Pa3JVQ1l3aDdUVEJNdmJtbWEwS044bTlkc3lISlJMWV9lRm94Y19pMHQ1QTBKU2doLVZ2V2g2eXNMQnJWdjR1MHFQbC1uMXRzblItSTE3SHBxU0lNWkktN3lOTEhpM05adzBGcWxiVE9qLVBidTBjRHZ2bXNfWTJyMnhn?oc=5\" target=\"_blank\">Capri Global Confirms Timely NCD Interest Payment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>"
         }
       ],
       "events": [],
@@ -487,7 +639,7 @@
         "change_pct": 2.3,
         "gap_pct": 1.65,
         "intraday_range_pct": 3.88,
-        "volume": 9561846,
+        "volume": 9561864,
         "avg_volume_20d": 7556689,
         "volume_ratio": 1.27,
         "sparkline": [
@@ -613,32 +765,18 @@
       "nse_announcements": [],
       "news": [
         {
-          "title": "Grasim, Suzlon Partner to Develop Recyclable Wind Turbine Blades",
-          "source": "Construction World",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbE4xZkxNa0Q2N0xIcURkeWdybDFPWTFyUjQxWjY0bzlYYThkZ00xMUl6R200c0piVVVTSXVmRVNWdjVzbEg2UDNnbVZwMHpwWXBqS05JZmRDTFRwTENBS3VKclR0QmI0SDJGbVY4VkRHQmtFWXhkb0hhdEU4TEY2WUpZMEdIQjFuQXF4SXhWSEd2dzBNbEtOaGh4OVVVUXhiSnpzcUt3a2tfQnp5R3BoVFNTZWdubm1wUFBqUlZ6ZmRaTjJqTEZiNGM0ZlI3Zk0?oc=5",
-          "published_at": "2026-11-09T10:53:49+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPbE4xZkxNa0Q2N0xIcURkeWdybDFPWTFyUjQxWjY0bzlYYThkZ00xMUl6R200c0piVVVTSXVmRVNWdjVzbEg2UDNnbVZwMHpwWXBqS05JZmRDTFRwTENBS3VKclR0QmI0SDJGbVY4VkRHQmtFWXhkb0hhdEU4TEY2WUpZMEdIQjFuQXF4SXhWSEd2dzBNbEtOaGh4OVVVUXhiSnpzcUt3a2tfQnp5R3BoVFNTZWdubm1wUFBqUlZ6ZmRaTjJqTEZiNGM0ZlI3Zk0?oc=5\" target=\"_blank\">Grasim, Suzlon Partner to Develop Recyclable Win"
-        },
-        {
-          "title": "India's Wind Energy Sector Moves Towards First Recyclable Turbine Blades With Grasim-Suzlon Partnership",
-          "source": "The 420.in",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRcnNJeTdwaC0zZGVDcm9WLUcxN05kWFFlZFpvb3FvRGJlcVd0d2lPV2FCRVN1M1VyNG94UWEtTHpVSXJlNUR5N1JQRUlXWU5iUXB1SEtJY3pXS3p3Y255SFVkN21wVTZOUmx3Nzdha0E?oc=5",
-          "published_at": "2026-11-09T08:39:00+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBRcnNJeTdwaC0zZGVDcm9WLUcxN05kWFFlZFpvb3FvRGJlcVd0d2lPV2FCRVN1M1VyNG94UWEtTHpVSXJlNUR5N1JQRUlXWU5iUXB1SEtJY3pXS3p3Y255SFVkN21wVTZOUmx3Nzdha0E?oc=5\" target=\"_blank\">India's Wind Energy Sector Moves Towards First Recyclable Turbine Blades With Grasim-Suzlon Partnership</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The 420.in</font>"
-        },
-        {
-          "title": "Grasim Industries and Suzlon partner to develop India's first wind turbines with recyclable blades",
-          "source": "Prop News Time",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNzZBemhOTGNTREkyUkhZb3hxZEktaVFfa2I4SHdGUndreVRRMHhpTXdwbG5qR1NmdVpmRGQ1aGY4TWJTUVZxQzA1R2tZUTZvVFlzRXNleVdybkQtWk4wN05IMHB4Vk9ZNmRWSlhKZ0JlLU1HUVVOajVjc3YzckZ6cnhZWE1SakR0MUs1cnBNNFNCblN3bFAycGoyN3JmNjAzRmVjVWhaS3o2aGdnMEh6LUplZ1dod0lDWFMxVDZ6RnIzbFg5OEZpVUhBeFVZTmhvY2FnSlpDbm5WdXZtdVctTTRmSHU?oc=5",
-          "published_at": "2026-11-09T03:05:36+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNzZBemhOTGNTREkyUkhZb3hxZEktaVFfa2I4SHdGUndreVRRMHhpTXdwbG5qR1NmdVpmRGQ1aGY4TWJTUVZxQzA1R2tZUTZvVFlzRXNleVdybkQtWk4wN05IMHB4Vk9ZNmRWSlhKZ0JlLU1HUVVOajVjc3YzckZ6cnhZWE1SakR0MUs1cnBNNFNCblN3bFAycGoyN3JmNjAzRmVjVWhaS3o2aGdnMEh6LUplZ1dod0lDWFMxVDZ6RnIzbFg5OEZpVUhBeFVZTmhvY2FnSlpDbm5WdXZtdVctTTRmSHU?oc=5\" target=\"_blank\">Grasim Industries an"
-        },
-        {
           "title": "Suzlon’s Girish Tanti Seeks 300 GW Wind Target by 2035",
           "source": "Construction World",
           "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQb3pqRlFsbGZZeG90U0p3enB2TDhQWGduellBejl5aV96Rlhhd21XM0hFYzJhOFgtem8wSTR5NlN1QUlqNWs3ZGVPenk5ZEVMcTJBVnpQNFdpRmZFSkN4aGZvamhTYmZCZFNjOWhDc255U2JtQVlOeWFLX196UEl0WTkwYm5tR1lHVjVzWFV6NUJGQk13QWdGb0g5ZmJRRUtjeUs5ZVJ5N25hWVFyTkpuSlV6dmlRSFhkb0dUcHhFeEV6eUM0YUxrbmNTa2ZYWHo0Qm5kV3BBelZOdw?oc=5",
           "published_at": "2026-11-09T06:11:32+00:00",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQb3pqRlFsbGZZeG90U0p3enB2TDhQWGduellBejl5aV96Rlhhd21XM0hFYzJhOFgtem8wSTR5NlN1QUlqNWs3ZGVPenk5ZEVMcTJBVnpQNFdpRmZFSkN4aGZvamhTYmZCZFNjOWhDc255U2JtQVlOeWFLX196UEl0WTkwYm5tR1lHVjVzWFV6NUJGQk13QWdGb0g5ZmJRRUtjeUs5ZVJ5N25hWVFyTkpuSlV6dmlRSFhkb0dUcHhFeEV6eUM0YUxrbmNTa2ZYWHo0Qm5kV3BBelZOdw?oc=5\" target=\"_blank\">Suzlon’s Girish Tanti Seeks 300 G"
+        },
+        {
+          "title": "Suzlon vs Solar Boom: Can Wind Survive India's Solar Obsession?",
+          "source": "Trade Brains",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNEJPWnIwTWRHRkxKbmNMU0loU0RxLUFKZFo3MGN3bUdnOVhaV3ZrMlpYZzltQ29VTm9PY1F2cmlWVzY0WGdDRTNNZF9WRi1xS3VzUXR3VGVWZW44dzFSUVdHdzg1TXoySUZBd0xEU29heC1CbTFsNTRNd0I1QkZhVHlZQ2NzeUJYbkdlQW5VNTVwaXJjX1AteGxQQUx5MllsNEE?oc=5",
+          "published_at": "2026-11-10T11:30:37+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPNEJPWnIwTWRHRkxKbmNMU0loU0RxLUFKZFo3MGN3bUdnOVhaV3ZrMlpYZzltQ29VTm9PY1F2cmlWVzY0WGdDRTNNZF9WRi1xS3VzUXR3VGVWZW44dzFSUVdHdzg1TXoySUZBd0xEU29heC1CbTFsNTRNd0I1QkZhVHlZQ2NzeUJYbkdlQW5VNTVwaXJjX1AteGxQQUx5MllsNEE?oc=5\" target=\"_blank\">Suzlon vs Solar Boom: Can Wind Survive India's Solar Obsession?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Trade B"
         }
       ],
       "events": [],
@@ -714,6 +852,20 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPN3FOZ3UwQ0F2bHVmenZBd3duWFFzbmJBM2RjdWVESEhVWjY4MGZkM2lhUXhBQm1aZVBGcnRsN244VHY2QW5fY3l3cWVVeHZ0azE5RnVibU4tSVNGMThKREYzUGlEUmwyUTJNZjg0aEh6d1pCMFN5dVByRlRZYWpHRC1XanBQOUdkbVNSS0FDemJEbDROeU95Y3owUmxuRkw1YjVtRkFnU3YwZ3VaeUZ3bUpHUGVSMlNjSzM5VVlIeGR5MjFw0gHMAUFVX3lxTE5JNF81YUt0Mm1SSUQzcExEVDZIeWoway1wcVFobXFpQ0oxRzBVbWVyaUZycEg2cGs3U2RUdX"
         },
         {
+          "title": "HDFC Bank, IREDA, Mankind Pharma: Top stocks to trade — Check key levels, targets & stop loss",
+          "source": "Business Today",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQakxSYkdTWVJpaFc1bDRteENmV1lMQVplTzRZV01ucEFuZXVTYkl5Zy1vb2dHaGtlSV9XbWZZbVVsWVpSV3F0X3UtbEtwa01ZZzhHWHMyLV9oNFF4YXUyay1UV0NXYXNJRTFSUTRCaG83Y2h6LVllTmR1UjkwSTUzWFlraEZ4SnNUQlZ1Wm5JTlBGdVRBZ3FQcmJ2eWkyaUJ5WHRKWnVHT0ZvTkdjcVhKeFAtTjY4Zm1NWHZRUVVydUxKdURvSEY3cUtxSnk3RHBCUzVhSEpWdzJIellHNTFSOHRqX1ZORVdf0gHuAUFVX3lxTE9jajZ6Q3lnTi1RREFiMmdGU3BGcEZ2VDF4THRLTHJiWjRLTm5xYUpkcElUY185eS12amdmZlV1Rm1tb2NULVpmTEZpeU8tQU9LVlRXcWgzWk5GMUtiSnBheUYxc3VPUVI0ZnEwWFp2QUZJZEUxVUhLeGZ0TzE4WUlVQkhMM29sQnRQZ0NpVWdqZnN5Y29tWDZHM3c1ZjZzWkJ4ZW5FYS1Cb1JyWXR2TDZ0WEZReHBjRktUM1FXZlhNVmRieFBwdXQwZlRUaGpibkdxVzRUc2R5eDhxNnZjc1hxNzdtTTFKR2xwdVU4OGc?oc=5",
+          "published_at": "2026-11-11T03:05:19+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQakxSYkdTWVJpaFc1bDRteENmV1lMQVplTzRZV01ucEFuZXVTYkl5Zy1vb2dHaGtlSV9XbWZZbVVsWVpSV3F0X3UtbEtwa01ZZzhHWHMyLV9oNFF4YXUyay1UV0NXYXNJRTFSUTRCaG83Y2h6LVllTmR1UjkwSTUzWFlraEZ4SnNUQlZ1Wm5JTlBGdVRBZ3FQcmJ2eWkyaUJ5WHRKWnVHT0ZvTkdjcVhKeFAtTjY4Zm1NWHZRUVVydUxKdURvSEY3cUtxSnk3RHBCUzVhSEpWdzJIellHNTFSOHRqX1ZORVdf0gHuAUFVX3lxTE9jajZ6Q3lnTi1RREFiMmdGU3"
+        },
+        {
+          "title": "IREDA shares climb 20% in seven sessions; what should existing investors do? -",
+          "source": "IndiaIPO",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTl9pWW5oOG9IREJQRWsxX3hrMnZkMVlQTUFNR3dFbTE4d1BTOXJVY1MtYkpsS0Z4S21HeHF1bWhEX1ZlUUpURktSVmhjODdwai0xYkpESVRScUtHWUJNREgtRFlKeW9rcFZmNVdwUHJXR2pZaUpVc3Q5R0czQzBVN0dMaE5MYVI4dXM0VW96UVFEcVlqSUtFOWk3d0V1M25ORFo4TnphdTNOZGZsc1E?oc=5",
+          "published_at": "2026-11-10T10:34:19+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNTl9pWW5oOG9IREJQRWsxX3hrMnZkMVlQTUFNR3dFbTE4d1BTOXJVY1MtYkpsS0Z4S21HeHF1bWhEX1ZlUUpURktSVmhjODdwai0xYkpESVRScUtHWUJNREgtRFlKeW9rcFZmNVdwUHJXR2pZaUpVc3Q5R0czQzBVN0dMaE5MYVI4dXM0VW96UVFEcVlqSUtFOWk3d0V1M25ORFo4TnphdTNOZGZsc1E?oc=5\" target=\"_blank\">IREDA shares climb 20% in seven sessions; what should existing investors do? -</a>&nbsp;&nbs"
+        },
+        {
           "title": "IREDA shares gain for the seventh straight day, have not closed above this level in nearly two years",
           "source": "CNBC TV18",
           "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPLXlFQm9PNDhPcEJtQTJ1N0xJMk5CM3pYa2FXMUJzbVZkWWhXU0xoQ1JGMGo5czk4MTRUbnE1NU9jMHVIanNQVl9TZVFKNGdxSnhxMUNNUjR2Y0JSUVFDa0d1YWhaZlktVHpJVnNkMmZjdmxKeVlZYnlUdktrdGhENnJjbVVobDNrakpmVWNSdkRRNUR5N3JSYUVBMkExTHN0SnVWdWZTVWhNOURwYnNXZzdwSUJVLUxPTnBIQlhrNUlvMXcybERHTDctdzBGNkZfUU8waEJOYVlkN05hV0Vr0gHkAUFVX3lxTE9xWVI4WXo1WlA5akZLcl9oQnA5cDFJVm9xb2tzUVpLQ2VEazlGNFdPNkRyMzFuZWJ2RW5vYUU1LWVEZXFhSGZqV3lHZGU2QVZLUDRFV0NfWTdBb2RoR3U5OVRwcnNVdTZvQ19vb1dWaGJ5bloyZjJQUkVDYW5tdUdGaFZYMFcyMWZNREtrVnZsLWVTSEFVejJINWYyMk1LUnFHb2NVLWhqd2pzalNYOTN2LTYzVlRLanR5SWZRTEM4b1FaM2FqVVIwdm0xN2xZT0ZDZ1hMT2RxQmhxaG0yUGQ5YjZ1cQ?oc=5",
@@ -728,6 +880,13 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbHRtRDVBNm1BbEluS05sdy14aFVmbFIyblVLZmotMFdKNkM1bTdQWmdrazRYYWdLUDh5dEl6R25yb0lyaVp1c0VNYVdkOV9GWVJOU200dVViLUx5NzJPRlpVZWdkN1NOQ0lLemk2ZDZvdGhlclNLdmwtT1Y0VHFiZmxvb0g5X2xhcGlwcjF5SnI0Um5XSzc3MVNMeVZSLXRKeno4OHA5WFZ2ci1waXEwbjlha0Z5UEVS?oc=5\" target=\"_blank\">IREDA shares gain for the seventh straight day, have not closed above this leve"
         },
         {
+          "title": "IREDA Explores Global Funding Route To Cut Green Energy Costs",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRkVoNEtJRGtKQm9reXNEeXZrek92dzJPV3pPRjhMUXBtVzJaODZ0WjRxLVFWOXlKU0M5ZkdqUVlQSExhQkZCMFRRVm9TSkMtZzBScHRqWGwwQXFROXZsR09aeGpja0dpdHRDby1hclBEai1wSEkxT19RR19IRUhHcjRKajRJa1RLdGRnYWJRYzVrS0ctT05uazZHSVpTNWNIQXc2WkRjVWNtTFBqY1FlUUZ1SEhKcmxXYWc?oc=5",
+          "published_at": "2026-11-10T07:00:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPRkVoNEtJRGtKQm9reXNEeXZrek92dzJPV3pPRjhMUXBtVzJaODZ0WjRxLVFWOXlKU0M5ZkdqUVlQSExhQkZCMFRRVm9TSkMtZzBScHRqWGwwQXFROXZsR09aeGpja0dpdHRDby1hclBEai1wSEkxT19RR19IRUhHcjRKajRJa1RLdGRnYWJRYzVrS0ctT05uazZHSVpTNWNIQXc2WkRjVWNtTFBqY1FlUUZ1SEhKcmxXYWc?oc=5\" target=\"_blank\">IREDA Explores Global Funding Route To Cut Green Energy Costs</a>&nbsp;&nbsp"
+        },
+        {
           "title": "IREDA shares jump 7% despite 20% fall in one year on high trading volume | Check target, stop loss, stock performance",
           "source": "Livemint",
           "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNZkZnVG5yLUpBRU1GeGliNjZCUXNWRlJJWWZXSlowclB4VjR6X3JxelVSbFVzY1hpN0lVYUo0TDNVNm9UMnlyenNFbHc5MlFVUGlBUlljUmVxNDNUUmhaY1VzQURtT09SeDlJMFZKWldJOEZLS2RHWXA3Q1MzWnBySkVHZWhxZERITTJtT0FkRV9PaFRlRGR6RDFYSC03eVBpUjZVcEpqM3FQZGg2aTk3T0xiTmswSE1aLTFfaTBJTnFRSmFGc1owSk5WQ19jX2lOOEFMU1JyY0tNSWZ4SXhNLV84V2k1SktfWUZwZkFidjVCbEczRXVLbW5jbkVYU0FfR2xiZDV6RGZUREVtLVHSAZMCQVVfeXFMUFRUWU5HQVZLcEZwU3BWN01VNEFiRE93ZThaSTlyYzV4Q0VTMWRodHp4UDduR0x4V0FnMjBHdklRUktoUFVGaUZ0QU9ydjl4LVF2YkNXeVQ5NXRmaFNhekp5VUdfc3NwNDkwbHpTOW5IMDJ5MDEyX3dncE5TbHZQY0FEUjJkQmk4WFlRQ0xYZWlCaXpGaEhQY2Nha0RVLUJVQmFzalE2RTZ2aFRybXZxVVJpUWR3bkp5NTQ3a082aUtVallsM1k3UzVHY2NRdl9PNlJQUm9wR0EwM09Sek9Sank2UGFDbmhzUklTR1lPbEkxZEFKZ3JrS3lDa05lVWdkUG9iT2wxTmo0WTVHME1DVDhUVVk?oc=5",
@@ -740,27 +899,6 @@
           "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxONTZBY1ZrVjNmeGtiMjJJSVV0N0FBRzJRVmNXWFRKWWlMOFZuYzRWOUkxcmxkNEpUa2pFVURIejRLT1ExdmRNVEhybFY4QnBaQ2JTNDdMNkQzTms4Rk5hVEtrZGVuS3hDNlZyY09vTWRLanlBYXJYMzluN01XWUlxWk14bmVuSVVmWXNLMC1rdXYtWjk5eEZ1MFpfa21McFB0MHZ6WVRxeU90NDZYc3lDT3hBWjBOT0FybzdHN3Y2aDdYYkk0ZnRMVjBYOW8wckR3V0kzd2ZSOFNIeWVXcXNGTldJTDNJSEc2NkNaSFh0SGc0cDYxSDFqNlBB0gH_AUFVX3lxTE4yNmNmNzl0MkNtSWRQUlZaMGdZN3Z2ZnRISXctLW92b1BSR3lEMG56dExoRUpxaHBRbW10NThzeGJBMlFtQlVlNWxnUEFlamFvNnlYNmMzc19zdkJZTlFteVNUTENtSlFGVUF2enFya0dSSWVWME1mdDl1SzZpMjlEWDB6MmMtMDJTSGJOWkhzcXV2cjFsUzIwVlIwNnBhaG91a0lpMEZna2tDQ3hYMmdtLXhqSTktYm9RaEhrNmNhZUF0V0k2QW03YTNfZjZlTWJ1OGJPZ05IdmZUaEpqdF9PSnpKcEZFblZIUldXdXVEd2lDLUFtZ0RHSlpDNE1BZw?oc=5",
           "published_at": "2026-11-09T10:03:27+00:00",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxONTZBY1ZrVjNmeGtiMjJJSVV0N0FBRzJRVmNXWFRKWWlMOFZuYzRWOUkxcmxkNEpUa2pFVURIejRLT1ExdmRNVEhybFY4QnBaQ2JTNDdMNkQzTms4Rk5hVEtrZGVuS3hDNlZyY09vTWRLanlBYXJYMzluN01XWUlxWk14bmVuSVVmWXNLMC1rdXYtWjk5eEZ1MFpfa21McFB0MHZ6WVRxeU90NDZYc3lDT3hBWjBOT0FybzdHN3Y2aDdYYkk0ZnRMVjBYOW8wckR3V0kzd2ZSOFNIeWVXcXNGTldJTDNJSEc2NkNaSFh0SGc0cDYxSDFqNlBB0gH_AUFVX3lxTE"
-        },
-        {
-          "title": "IREDA Share Price: IREDA Shares Jump 7% on Volume",
-          "source": "Univest",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNGxrUEVGd3ZOYzJiLVJsU1NfZGZyS3hmRFJEbjVudE4wR3EzbUktNDZTb2V0emZqSW9USW9yVzhsZHk2VUhBZGtsT05pZ1p0T3A2OHhsWXNsX0U5c3g2ZW9jaVpjVUZHWmRQYktWMmdoeVltSzBpb0ZvRmsyWWpyaWIwRmhKblZMaVhDcjI4Y2RFa2pzMHFZYVVyb2ZuSWhqNXRBM0NpRjdXTWdLal9hSWpCSWZ2MlpYdkgtTEhfcw?oc=5",
-          "published_at": "2026-11-09T12:59:39+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQNGxrUEVGd3ZOYzJiLVJsU1NfZGZyS3hmRFJEbjVudE4wR3EzbUktNDZTb2V0emZqSW9USW9yVzhsZHk2VUhBZGtsT05pZ1p0T3A2OHhsWXNsX0U5c3g2ZW9jaVpjVUZHWmRQYktWMmdoeVltSzBpb0ZvRmsyWWpyaWIwRmhKblZMaVhDcjI4Y2RFa2pzMHFZYVVyb2ZuSWhqNXRBM0NpRjdXTWdLal9hSWpCSWZ2MlpYdkgtTEhfcw?oc=5\" target=\"_blank\">IREDA Share Price: IREDA Shares Jump 7% on Volume</a>&nbsp;&nbsp;<fon"
-        },
-        {
-          "title": "Indian Renewable Energy Development Agency Ltd Share Price, Stock Price - NSE/BSE Live",
-          "source": "NDTV Profit",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5UQk5sZExSaUl0XzFBbk1GdndjZkpEb2tDUHNlekNlSGVmSF81djRueHFYa3NNUW5jclVyeXR3TG1yS2k3dndMb3c5aEt6VkJ1Y0M4YlBKSG04ckxwRDQ0bi00aDJfbFNRUTBpU29FMFRwTUU5UUJF?oc=5",
-          "published_at": "2026-11-09T05:36:44+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5UQk5sZExSaUl0XzFBbk1GdndjZkpEb2tDUHNlekNlSGVmSF81djRueHFYa3NNUW5jclVyeXR3TG1yS2k3dndMb3c5aEt6VkJ1Y0M4YlBKSG04ckxwRDQ0bi00aDJfbFNRUTBpU29FMFRwTUU5UUJF?oc=5\" target=\"_blank\">Indian Renewable Energy Development Agency Ltd Share Price, Stock Price - NSE/BSE Live</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDTV Profit</font>"
-        },
-        {
-          "title": "Top stock picks: HDFC Securities, Bonanza Portfolio recommend Birlasoft, CDSL, Jio Financial, HUDCO",
-          "source": "CNBC TV18",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT2k3azVyZzI5VGNWSUllX3RYYmptTmtJSWxQdjBHaUs5V0hWYjhXNmlFYl9JU1BlcEFvajE4V21zY3B4OTlsQkVQNzJsYXdpOVItc0lMNHY4eU5CQk5WM1B3RjlLTU5ORGN3SUdOTkhMVjNEWmNwZ2tMQ0dPQ2NEUDBTdWd2a1RMOEQ5d1V5RlZWUFlQVjRwN1V1dXF1bzBFY05jS2F5d3ZJb0ZURWVxajFLQQ?oc=5",
-          "published_at": "2026-11-09T03:58:32+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNT2k3azVyZzI5VGNWSUllX3RYYmptTmtJSWxQdjBHaUs5V0hWYjhXNmlFYl9JU1BlcEFvajE4V21zY3B4OTlsQkVQNzJsYXdpOVItc0lMNHY4eU5CQk5WM1B3RjlLTU5ORGN3SUdOTkhMVjNEWmNwZ2tMQ0dPQ2NEUDBTdWd2a1RMOEQ5d1V5RlZWUFlQVjRwN1V1dXF1bzBFY05jS2F5d3ZJb0ZURWVxajFLQQ?oc=5\" target=\"_blank\">Top stock picks: HDFC Securities, Bonanza Portfolio recommend Birlasoft, CDSL, Jio Fi"
         }
       ],
       "events": [],
@@ -840,7 +978,7 @@
         "change_pct": 2.74,
         "gap_pct": 1.25,
         "intraday_range_pct": 3.11,
-        "volume": 625059,
+        "volume": 625214,
         "avg_volume_20d": 1220370,
         "volume_ratio": 0.51,
         "sparkline": [
@@ -892,7 +1030,15 @@
       "skip_catalysts": false,
       "bse_announcements": [],
       "nse_announcements": [],
-      "news": [],
+      "news": [
+        {
+          "title": "Power Equipment Stocks Compared: CG Power vs TARIL vs Genus",
+          "source": "Univest",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOVplX0xReGhFU2lQa1Zub0RxNGdEXzFfU2xZNVFDN1JkX093R1RfQnhjbzNhYlRwNDlMRDQwR1NjU1ZfNDYtOGlOWFhuVG9hOEJXRGdkaXNSeUZIUGVZdHhid09lY2tFcFVwcXF5aVBCMnhRc2dVaEE1VVUyeGM0NGEwazJ3ejhrVVJ1N093R3pmczZjWGdTNEJUNG1KWURfR29JTTF4MXlLNVpoTWJEdldzd3c5RXI2NVA1Z244SllVUQ?oc=5",
+          "published_at": "2026-11-10T06:53:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOVplX0xReGhFU2lQa1Zub0RxNGdEXzFfU2xZNVFDN1JkX093R1RfQnhjbzNhYlRwNDlMRDQwR1NjU1ZfNDYtOGlOWFhuVG9hOEJXRGdkaXNSeUZIUGVZdHhid09lY2tFcFVwcXF5aVBCMnhRc2dVaEE1VVUyeGM0NGEwazJ3ejhrVVJ1N093R3pmczZjWGdTNEJUNG1KWURfR29JTTF4MXlLNVpoTWJEdldzd3c5RXI2NVA1Z244SllVUQ?oc=5\" target=\"_blank\">Power Equipment Stocks Compared: CG Power vs TARIL vs Genus</a>&n"
+        }
+      ],
       "events": [],
       "sebi_mentions": [],
       "price_action": {
@@ -905,7 +1051,7 @@
         "change_pct": 1.16,
         "gap_pct": 2.1,
         "intraday_range_pct": 2.19,
-        "volume": 724669,
+        "volume": 725289,
         "avg_volume_20d": 6748285,
         "volume_ratio": 0.11,
         "sparkline": [
@@ -962,36 +1108,36 @@
           "title": "ITC Share Price",
           "source": "Upstox",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IMkRMcVVlTDVzbjFob3JsSlJPSWdHbFpvZjJyLTlwQnY4ejlneWdlUk01d1VMbnE2ejBSeWNvcXZuMnZWbklIeVM4UU5hcmMwendocGU1UmE1UQ?oc=5",
-          "published_at": "2026-11-09T17:11:54+00:00",
+          "published_at": "2026-11-10T14:45:21+00:00",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IMkRMcVVlTDVzbjFob3JsSlJPSWdHbFpvZjJyLTlwQnY4ejlneWdlUk01d1VMbnE2ejBSeWNvcXZuMnZWbklIeVM4UU5hcmMwendocGU1UmE1UQ?oc=5\" target=\"_blank\">ITC Share Price</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Upstox</font>"
         },
         {
-          "title": "ITC Hotels Signs 105-Key Fortune Select Greater Noida, Expanding NCR Presence",
-          "source": "Hotelier Buzz",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1mQTN5bHRzMTVPbjd3aFpJM1RNZUNuRUxnc3A1bTN4NktIVTFiZkdJX2FVaDROQnQ4RThyYVRQTzluSGY1RThSVl9ZTFJlMHZwYUtNNlRjMWhLOEJrOE1RdGVtT0g5ajk0OXNzdTFiTzE3R2hSVXU0OFo0Y1lVZw?oc=5",
-          "published_at": "2026-11-10T03:10:15+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1mQTN5bHRzMTVPbjd3aFpJM1RNZUNuRUxnc3A1bTN4NktIVTFiZkdJX2FVaDROQnQ4RThyYVRQTzluSGY1RThSVl9ZTFJlMHZwYUtNNlRjMWhLOEJrOE1RdGVtT0g5ajk0OXNzdTFiTzE3R2hSVXU0OFo0Y1lVZw?oc=5\" target=\"_blank\">ITC Hotels Signs 105-Key Fortune Select Greater Noida, Expanding NCR Presence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hotelier Buzz</font>"
+          "title": "ITC Savlon sings a warning about India’s love of antibiotics",
+          "source": "afaqs!",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUEVXWGI1YzNlOEtBaE1KSHJJQzQ5UGNNeHNkYXgtQ1g2Mm90aFZONHlrWjRwMmhhUmVwMkxQeHJySXFZODZ4a3pjUHY1WUpOcEtpeHF2allBcWtScks3RzMtSE03NHN5QmY0ak1BRHBpY2F6NlJyV2ZqQ19VQTNaa3hYenVpenE4YnZqVUNRSUQzRlo3TXJ3M2Y4YzhHVXo2Q2R4dW1CTnd5Wm8?oc=5",
+          "published_at": "2026-11-11T00:01:37+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUEVXWGI1YzNlOEtBaE1KSHJJQzQ5UGNNeHNkYXgtQ1g2Mm90aFZONHlrWjRwMmhhUmVwMkxQeHJySXFZODZ4a3pjUHY1WUpOcEtpeHF2allBcWtScks3RzMtSE03NHN5QmY0ak1BRHBpY2F6NlJyV2ZqQ19VQTNaa3hYenVpenE4YnZqVUNRSUQzRlo3TXJ3M2Y4YzhHVXo2Q2R4dW1CTnd5Wm8?oc=5\" target=\"_blank\">ITC Savlon sings a warning about India’s love of antibiotics</a>&nbsp;&nbsp;<font color=\"#6f6f6f"
         },
         {
-          "title": "Indian man receives International Labour Organisation award in Italy",
-          "source": "Deccan Herald",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTE0xU0wxTnJXUVVVYXoxOGdENWZVQjlKdUxpSUQ1Tm9LY2piOUszLXY0N0pGZEE1U2JvVXhjZFk1Wkh3b0ctdWVoeU5SZmRPZXZMc0Roek9NUWpNMlJjMmpvSGE0aURJd1BadkViWjRFdlR5djJyVlpXY09wVGxpODc0dUt2eXVramhZTzhuNDBhZndIVnQtNTNKOFV0VEFCSFc4ZmJ4S1cxcVg1cmZGUA?oc=5",
-          "published_at": "2026-11-10T00:05:21+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPTE0xU0wxTnJXUVVVYXoxOGdENWZVQjlKdUxpSUQ1Tm9LY2piOUszLXY0N0pGZEE1U2JvVXhjZFk1Wkh3b0ctdWVoeU5SZmRPZXZMc0Roek9NUWpNMlJjMmpvSGE0aURJd1BadkViWjRFdlR5djJyVlpXY09wVGxpODc0dUt2eXVramhZTzhuNDBhZndIVnQtNTNKOFV0VEFCSFc4ZmJ4S1cxcVg1cmZGUA?oc=5\" target=\"_blank\">Indian man receives International Labour Organisation award in Italy</a>&nbsp;&nbsp;<font"
+          "title": "Jindal Steel receives ₹8.41 crore GST demand for alleged excess ITC",
+          "source": "scanx.trade",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYWVMZlQ3ZGd0RlJreFJDUEVHQkszc0llc2I2dU56Nmo2djRuNmdaM2V4Zk9GNDFOWU1oNzFEYzhmeWNDV0ZHc0dXQjFlRTAtalFlbnlDemtFN3V6RUVDaHU5N1RWRDVDdDFhWkZxYWtUUGZEdTcxeVJHdVYxX29QX2VXTWF4WjFFMXA2SnVUcnNMTU1yeW5vVFZFazJoQzlGUmdTeHV5SFJUZmFod09KWU1QQWJEZ1E3TjY0?oc=5",
+          "published_at": "2026-11-10T16:58:27+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYWVMZlQ3ZGd0RlJreFJDUEVHQkszc0llc2I2dU56Nmo2djRuNmdaM2V4Zk9GNDFOWU1oNzFEYzhmeWNDV0ZHc0dXQjFlRTAtalFlbnlDemtFN3V6RUVDaHU5N1RWRDVDdDFhWkZxYWtUUGZEdTcxeVJHdVYxX29QX2VXTWF4WjFFMXA2SnVUcnNMTU1yeW5vVFZFazJoQzlGUmdTeHV5SFJUZmFod09KWU1QQWJEZ1E3TjY0?oc=5\" target=\"_blank\">Jindal Steel receives ₹8.41 crore GST demand for alleged excess ITC</a>&nbs"
         },
         {
-          "title": "ITC Mangaldeep drives a 25% sales uptick across channels during festive season",
-          "source": "Storyboard18",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNDVqVTEtcnhjZkJqT2pUM1ZMckkwZVlMc3BRMTVZNHR1VGpTQVhqXzNKQmhSa21QeUdSOVRaSFJXSXJKcXpINjZRa3IxX0FBd0xUeFlmdjJXaENjdzdFd3dMZ29QSW82XzhfYjdrb3ZwTDA5dHkxUXBuTW5reW5sOXdWc1JMeXVPZWhGU3M2NHlHSFl4cHNJeFVhanJWSzU3d2VSdXZkMWhjV3ZUMjdTRE1CbWtDWE3SAbwBQVVfeXFMT3ZoSTFsaTVpZDc4VWNUakl4RGZSVHZFRGlsci1VNG1UWjlDYlM5cnBHSnlhakk2T3dfU1V4SFdIZjNneXFiaVk0bTQtT3JXTkxURURGQUhld3ZMbFo2d01vMUVmLWFVSEUxOVlXaTM2SHY0eWhIbmtFQzlhZTlzaWpBenZWcE8zN3VtOHZJOHlQTjRvUHBTcHFsY2M4Y2xYd2N5WlRrdnlvb3ltaWxndm9haEhqU21wSUMyWS0?oc=5",
-          "published_at": "2026-11-09T03:13:02+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNNDVqVTEtcnhjZkJqT2pUM1ZMckkwZVlMc3BRMTVZNHR1VGpTQVhqXzNKQmhSa21QeUdSOVRaSFJXSXJKcXpINjZRa3IxX0FBd0xUeFlmdjJXaENjdzdFd3dMZ29QSW82XzhfYjdrb3ZwTDA5dHkxUXBuTW5reW5sOXdWc1JMeXVPZWhGU3M2NHlHSFl4cHNJeFVhanJWSzU3d2VSdXZkMWhjV3ZUMjdTRE1CbWtDWE3SAbwBQVVfeXFMT3ZoSTFsaTVpZDc4VWNUakl4RGZSVHZFRGlsci1VNG1UWjlDYlM5cnBHSnlhakk2T3dfU1V4SFdIZjNneXFiaVk0bT"
+          "title": "Competition for Britannia, Parle, ITC? Reliance Consumer Products expands with 'Independence' biscuits portfolio",
+          "source": "Business Today",
+          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOWS0tVWp5U3h2MTBsaGNpbDM3M2FBZlFJQUFCeF9taVBROU5GRTFoYU9mN0xpTE55YTN5WWJ2clJvNFVrbTlfTEY5V3d2czdrMWFPdmlQS0ZvM2JMZWdEWjJwTlRQSC15bWdvb3RJMGdUODNRd0hfTEIzSzhZVm5UalBoVnRFYk90MFdGWUQ0RnJ5THVsakYzRDJUMEg3d3I1SDdKa2ZfQnctMGRXQTVLa3QwTU8zWHZhRUlCck94YUg5d3U3Z1hYVnluUy04amJMeE4xcVVHWDRJWldCUFBmX3BuZVp0MUtZUC1aRkhBb085MmpMNDBkV0FaQUZFYXFLaGFJVkt30gGLAkFVX3lxTFBoOFB6ZVZZLWZvU3RTd1BmSXdsMGNKTnA2Z2Z2S2RMWDdxR1pnU0s4X245ZGNVQmI1WjFJUVEzS0VzQ1VfaHcxajRRZU9Xb0lZTWtBT0U2ZnpnSVh5dk9xS0hlQ2w2YUY5ODRiV2lpVnFDQ0JWYzFGUW9KOTV2YmNuY1R3emt1S1dZMml2R0tHZGhBZnlYb3pxckI0akJORS1lM1NUSEJUbnByekJndWFCVjV6QlJtbkh2SXAzU3Zkend3NE1GUUszM1prTlhCb1ZTQXFSOGpKU0dhNUVFV2J2Mi1fM3BBQXN2N2l5NktBeGxuYWxIZmtkQW5zb3gxQmFDQm4yRU5DeDFOUQ?oc=5",
+          "published_at": "2026-11-10T08:14:35+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgJBVV95cUxOWS0tVWp5U3h2MTBsaGNpbDM3M2FBZlFJQUFCeF9taVBROU5GRTFoYU9mN0xpTE55YTN5WWJ2clJvNFVrbTlfTEY5V3d2czdrMWFPdmlQS0ZvM2JMZWdEWjJwTlRQSC15bWdvb3RJMGdUODNRd0hfTEIzSzhZVm5UalBoVnRFYk90MFdGWUQ0RnJ5THVsakYzRDJUMEg3d3I1SDdKa2ZfQnctMGRXQTVLa3QwTU8zWHZhRUlCck94YUg5d3U3Z1hYVnluUy04amJMeE4xcVVHWDRJWldCUFBmX3BuZVp0MUtZUC1aRkhBb085MmpMNDBkV0FaQUZFYXFLaGFJVk"
         },
         {
-          "title": "Weekly Recap: Shares lead Nifty 50 and cigarette EBIT declines",
-          "source": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWDJtZ3NNZEJmUEZmV1RhNDgtVFlKVGdWRk9HOFRyMEJnMXF0VUJxQVlUVWhpcWRaLVVaWHdnbGZHV0lLaTI0X2h1MUpOUHV6aHNrdm1hb1hMU3ZsU19QN2VRR3pSQlVfV1pRRGhxSW1fRjBKbGZTeHBNYkJvWGVOeWhvVk1HbUtQZE9ObUREOW15cTFlOU1RaFVkVFR0dnJ1emo2c240X2k2WHBfeUg5VGl4Njg4aVVFNXIxME5NbWk?oc=5",
-          "published_at": "2026-11-09T01:00:00+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWDJtZ3NNZEJmUEZmV1RhNDgtVFlKVGdWRk9HOFRyMEJnMXF0VUJxQVlUVWhpcWRaLVVaWHdnbGZHV0lLaTI0X2h1MUpOUHV6aHNrdm1hb1hMU3ZsU19QN2VRR3pSQlVfV1pRRGhxSW1fRjBKbGZTeHBNYkJvWGVOeWhvVk1HbUtQZE9ObUREOW15cTFlOU1RaFVkVFR0dnJ1emo2c240X2k2WHBfeUg5VGl4Njg4aVVFNXIxME5NbWk?oc=5\" target=\"_blank\">Weekly Recap: Shares lead Nifty 50 and cigarette EBIT declines</a>&n"
+          "title": "ITC Holdings CEO says data center growth is helping cut Midwest transmission rates 13%",
+          "source": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaEFfZlVISWE5X3lkQjg4akp1cDNaT2tCbjlDRHdoRmpETGg5dmp4em4zYjJ1bnNDWkJsLXppRVFUWkdSS3Y5MzJDQmdOa1ZXRVlBTnZuTnNuNHVwMlNUNkhoUmhtUGMtU0ZjOU9PM2QwSmR5YlZXOGNCclJWbHZCTDNDbUJZVE9BaGM1SkRxR0R6anpuY295QjA1SzBhR24wQ2dVQkZyc0tSQkt6TVJFUHhGZDFzSWVIQVhKdGtVSWNjUFdNMmltck1VLTg5bDRt?oc=5",
+          "published_at": "2026-11-10T21:02:38+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaEFfZlVISWE5X3lkQjg4akp1cDNaT2tCbjlDRHdoRmpETGg5dmp4em4zYjJ1bnNDWkJsLXppRVFUWkdSS3Y5MzJDQmdOa1ZXRVlBTnZuTnNuNHVwMlNUNkhoUmhtUGMtU0ZjOU9PM2QwSmR5YlZXOGNCclJWbHZCTDNDbUJZVE9BaGM1SkRxR0R6anpuY295QjA1SzBhR24wQ2dVQkZyc0tSQkt6TVJFUHhGZDFzSWVIQVhKdGtVSWNjUFdNMmltck1VLTg5bDRt?oc=5\" target=\"_blank\">ITC Holdings CEO says data center growth is hel"
         },
         {
           "title": "Angel One flags Nifty hurdle at 25,150; bullish on ITC, SBI, Force Motors",
@@ -1001,22 +1147,46 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPX0hTY0M2V0lVT0FRZW0tOWg1R3pXckg1eXdpWE5mM19yNG50VVNYb2FEMjdBSktpekdsZktQTGh3TzNHdEczcUNlUk94NzNROC1Ka3NERERzc0VuZmwwWF9fdk5ncFRUNWV0Q01xanI3bW4yejhraWRDVkNISEF5SzRrNmY1b29vd3NxWjd4S0pxc19mOS1tY0UyaEtBczhaWGJ1WmVwU3k?oc=5\" target=\"_blank\">Angel One flags Nifty hurdle at 25,150; bullish on ITC, SBI, Force Motors</a>&nbsp;&nbsp;<font color"
         },
         {
-          "title": "Happiest Minds Targets $1 Billion FY28 Revenue Post ITC Infotech Merger",
-          "source": "Sahi",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVzk1T3pRTlVCUmQ5T0ZfUlEwMjg0cXVYMHJNem1HOFZ1bkVkWU42RXVQeDlkQUFmdF9kTzNkZ0JPa3E0MzFiUnkwMGVhRllDZnhCcWRDN0RLNXdTSEowZGluUHMyZTNDNkNkUjNBTEp1bHFNWEhqZmZaUy1hMGlJRXlnOXVKS3lfemd6cWFrUmpoNU56a3NkZE02dU8?oc=5",
-          "published_at": "2026-11-09T12:36:33+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQVzk1T3pRTlVCUmQ5T0ZfUlEwMjg0cXVYMHJNem1HOFZ1bkVkWU42RXVQeDlkQUFmdF9kTzNkZ0JPa3E0MzFiUnkwMGVhRllDZnhCcWRDN0RLNXdTSEowZGluUHMyZTNDNkNkUjNBTEp1bHFNWEhqZmZaUy1hMGlJRXlnOXVKS3lfemd6cWFrUmpoNU56a3NkZE02dU8?oc=5\" target=\"_blank\">Happiest Minds Targets $1 Billion FY28 Revenue Post ITC Infotech Merger</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sahi</f"
+          "title": "Wrong ITC Reporting Is Not Wrongful Availment but Supplier's Tax Default May Bar Credit",
+          "source": "CAclubindia",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYnh0RkgxaFp0eFRnNDRsRmU3ZkZmdGZxbDNsZVhsTmo4RTNWcWhidjZCUFc4T1I0RUVpZnhYUGV4bUpnQ0V2NVFURDhJVDdha1VUQ1RnaDVfbWJtVThVSTJLTGcyVVU4U20yNHBuMXVQcmp0WjhPLV9KZng2SEh0NHdwcjZRNzlIME5PWjBzN2lSWU9OdnAyWmNzMjl2S2FzMllsUWplM01KYmNiQ21zWGV2SW52UVloRm1hRVdobGVHamsyMDNXSDd4QXJoWDQ?oc=5",
+          "published_at": "2026-11-10T04:54:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPYnh0RkgxaFp0eFRnNDRsRmU3ZkZmdGZxbDNsZVhsTmo4RTNWcWhidjZCUFc4T1I0RUVpZnhYUGV4bUpnQ0V2NVFURDhJVDdha1VUQ1RnaDVfbWJtVThVSTJLTGcyVVU4U20yNHBuMXVQcmp0WjhPLV9KZng2SEh0NHdwcjZRNzlIME5PWjBzN2lSWU9OdnAyWmNzMjl2S2FzMllsUWplM01KYmNiQ21zWGV2SW52UVloRm1hRVdobGVHamsyMDNXSDd4QXJoWDQ?oc=5\" target=\"_blank\">Wrong ITC Reporting Is Not Wrongful Availment bu"
         },
         {
-          "title": "Calviks AB (publ) (CALVIK) Launches Group With Pro4u and ITC Network",
-          "source": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQS0lWcElBeDJaRm5XM1lEVWxzaFlBYTBEbnRNTW1jYjFvRU5wWHNidkxVV2dyd2RDUHgyNGVMZ0VicUN4OUZ0X1BleEtMMFJlRHlYSGI2Q1ozX1RsTUJLUUEtOGY2TFFoOUV4Ykl4cUVOR2R6QWwxRlhZLUNHRUFhNVM4QXVqYWE5dHRpZ3hNZEQzbVBLbGRCbVlRdG5CNmw3TjBfeHNma3d1dnMtSzQyNU9wRUc1OTRvNHpwdlRwVThtSUxP?oc=5",
-          "published_at": "2026-11-09T06:00:00+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQS0lWcElBeDJaRm5XM1lEVWxzaFlBYTBEbnRNTW1jYjFvRU5wWHNidkxVV2dyd2RDUHgyNGVMZ0VicUN4OUZ0X1BleEtMMFJlRHlYSGI2Q1ozX1RsTUJLUUEtOGY2TFFoOUV4Ykl4cUVOR2R6QWwxRlhZLUNHRUFhNVM4QXVqYWE5dHRpZ3hNZEQzbVBLbGRCbVlRdG5CNmw3TjBfeHNma3d1dnMtSzQyNU9wRUc1OTRvNHpwdlRwVThtSUxP?oc=5\" target=\"_blank\">Calviks AB (publ) (CALVIK) Launches Group With Pro4u and ITC Ne"
+          "title": "GSTAT: Wrong Table Entry in TRAN-1 Cannot Deny Transitional ITC",
+          "source": "Taxscan",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcEJuWTFLX012c29DOEdvaE1GbGluZTZiR09SSGdWaEN5ZFpzQ1lzNDhXYzhQdVF6RW8yMTVBZUpoTVJ5V3pMODdJNXEyT2xST1FWREctU3hHczJiLWFuUVRPSXBRZXFNbU9MNFlCdlRqODJDNUFYaklVSlZyeUZxSWFsRGxMWkJiZWtiM0J2LVVyNU1mYzhNcThGRXYxeGloMm1WblRlZ25QS212VnpHS195NXIxc0xzUXhlLU9nZjBtNVR5cFhYZjZDcVFSRkp1QnhB?oc=5",
+          "published_at": "2026-11-10T10:30:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcEJuWTFLX012c29DOEdvaE1GbGluZTZiR09SSGdWaEN5ZFpzQ1lzNDhXYzhQdVF6RW8yMTVBZUpoTVJ5V3pMODdJNXEyT2xST1FWREctU3hHczJiLWFuUVRPSXBRZXFNbU9MNFlCdlRqODJDNUFYaklVSlZyeUZxSWFsRGxMWkJiZWtiM0J2LVVyNU1mYzhNcThGRXYxeGloMm1WblRlZ25QS212VnpHS195NXIxc0xzUXhlLU9nZjBtNVR5cFhYZjZDcVFSRkp1QnhB?oc=5\" target=\"_blank\">GSTAT: Wrong Table Entry in TRAN-1 Cannot D"
         }
       ],
       "events": [],
       "sebi_mentions": [
+        {
+          "title": "Notice of attachment dated November 10, 2026 issued against Secunderabad Healthcare Limited under RC No.7734 of 2024 in the matter of Secunderabad Healthcare Limited",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-attachment-dated-november-10-2026-issued-against-secunderabad-healthcare-limited-under-rc-no-7734-of-2024-in-the-matter-of-secunderabad-healthcare-limited_105698.html",
+          "published_at": "10 Nov, 2026 +0530",
+          "summary": "Notice of attachment dated November 10, 2026 issued against Secunderabad Healthcare Limited under RC No.7734 of 2024 in the matter of Secunderabad Healthcare Limited"
+        },
+        {
+          "title": "Notice of attachment dated November 10, 2026 issued against Chennai Commodities under RC No.7470 of 2023 in the matter of First Futures and Stocks Private Limited",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-attachment-dated-november-10-2026-issued-against-chennai-commodities-under-rc-no-7470-of-2023-in-the-matter-of-first-futures-and-stocks-private-limited_105696.html",
+          "published_at": "10 Nov, 2026 +0530",
+          "summary": "Notice of attachment dated November 10, 2026 issued against Chennai Commodities under RC No.7470 of 2023 in the matter of First Futures and Stocks Private Limited"
+        },
+        {
+          "title": "Notice of attachment dated November 10, 2026 issued against First Futures and Stocks Private Limited under RC No.7469 of 2023 in the matter of First Futures and Stocks Private Limited",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-attachment-dated-november-10-2026-issued-against-first-futures-and-stocks-private-limited-under-rc-no-7469-of-2023-in-the-matter-of-first-futures-and-stocks-private-limited_105694.html",
+          "published_at": "10 Nov, 2026 +0530",
+          "summary": "Notice of attachment dated November 10, 2026 issued against First Futures and Stocks Private Limited under RC No.7469 of 2023 in the matter of First Futures and Stocks Private Limited"
+        },
+        {
+          "title": "Prohibitory Order No. 1583 of 2026 issued against CAT Technologies Limited associated with RC 4398 of 2021 in the matter of CAT Technologies Ltd.",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/prohibitory-order-no-1583-of-2026-issued-against-cat-technologies-limited-associated-with-rc-4398-of-2021-in-the-matter-of-cat-technologies-ltd-_105693.html",
+          "published_at": "10 Nov, 2026 +0530",
+          "summary": "Prohibitory Order No. 1583 of 2026 issued against CAT Technologies Limited associated with RC 4398 of 2021 in the matter of CAT Technologies Ltd."
+        },
         {
           "title": "Cancellation of Recovery Certificate No. 9227 of 2026 dated 20.07.2026 issued against Lataben Narotambhai Rangi (PAN: AYRPR7467F) in the matter of trading activity in the scrip of ANI Integrated Services Limited.",
           "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/cancellation-of-recovery-certificate-no-9227-of-2026-dated-20-07-2026-issued-against-lataben-narotambhai-rangi-pan-ayrpr7467f-in-the-matter-of-trading-activity-in-the-scrip-of-ani-integrated-servi-_105685.html",
@@ -1174,6 +1344,30 @@
       "events": [],
       "sebi_mentions": [
         {
+          "title": "Notice of attachment dated November 10, 2026 issued against Secunderabad Healthcare Limited under RC No.7734 of 2024 in the matter of Secunderabad Healthcare Limited",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-attachment-dated-november-10-2026-issued-against-secunderabad-healthcare-limited-under-rc-no-7734-of-2024-in-the-matter-of-secunderabad-healthcare-limited_105698.html",
+          "published_at": "10 Nov, 2026 +0530",
+          "summary": "Notice of attachment dated November 10, 2026 issued against Secunderabad Healthcare Limited under RC No.7734 of 2024 in the matter of Secunderabad Healthcare Limited"
+        },
+        {
+          "title": "Notice of attachment dated November 10, 2026 issued against Chennai Commodities under RC No.7470 of 2023 in the matter of First Futures and Stocks Private Limited",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-attachment-dated-november-10-2026-issued-against-chennai-commodities-under-rc-no-7470-of-2023-in-the-matter-of-first-futures-and-stocks-private-limited_105696.html",
+          "published_at": "10 Nov, 2026 +0530",
+          "summary": "Notice of attachment dated November 10, 2026 issued against Chennai Commodities under RC No.7470 of 2023 in the matter of First Futures and Stocks Private Limited"
+        },
+        {
+          "title": "Notice of attachment dated November 10, 2026 issued against First Futures and Stocks Private Limited under RC No.7469 of 2023 in the matter of First Futures and Stocks Private Limited",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-attachment-dated-november-10-2026-issued-against-first-futures-and-stocks-private-limited-under-rc-no-7469-of-2023-in-the-matter-of-first-futures-and-stocks-private-limited_105694.html",
+          "published_at": "10 Nov, 2026 +0530",
+          "summary": "Notice of attachment dated November 10, 2026 issued against First Futures and Stocks Private Limited under RC No.7469 of 2023 in the matter of First Futures and Stocks Private Limited"
+        },
+        {
+          "title": "Prohibitory Order No. 1583 of 2026 issued against CAT Technologies Limited associated with RC 4398 of 2021 in the matter of CAT Technologies Ltd.",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/prohibitory-order-no-1583-of-2026-issued-against-cat-technologies-limited-associated-with-rc-4398-of-2021-in-the-matter-of-cat-technologies-ltd-_105693.html",
+          "published_at": "10 Nov, 2026 +0530",
+          "summary": "Prohibitory Order No. 1583 of 2026 issued against CAT Technologies Limited associated with RC 4398 of 2021 in the matter of CAT Technologies Ltd."
+        },
+        {
           "title": "Cancellation of Recovery Certificate No. 9227 of 2026 dated 20.07.2026 issued against Lataben Narotambhai Rangi (PAN: AYRPR7467F) in the matter of trading activity in the scrip of ANI Integrated Services Limited.",
           "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/cancellation-of-recovery-certificate-no-9227-of-2026-dated-20-07-2026-issued-against-lataben-narotambhai-rangi-pan-ayrpr7467f-in-the-matter-of-trading-activity-in-the-scrip-of-ani-integrated-servi-_105685.html",
           "published_at": "06 Nov, 2026 +0530",
@@ -1326,7 +1520,15 @@
       "skip_catalysts": false,
       "bse_announcements": [],
       "nse_announcements": [],
-      "news": [],
+      "news": [
+        {
+          "title": "LemonTree starts construction of 18,000 sqm Match Warsaw development",
+          "source": "EurobuildCEE",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaGdiUUFNZGc4SVZyUWVqUXA4bEg2SXJXTGlKMGJGUkxFYTYtU2ZJc3lpU2M0VUJIM2hJa1Yzenk4dllKdExYUHkxcnVxdkRPY2RpTVdJYnQxN3NoTkt2NjBsSDJUUm9LWDRuWlY3MGxERGJKdFQzTkdPTTFjcTNaYm51ckN3VGptbXlDUzllWU00M0xjRWRNN0M5bVRBa3YyZWhaUFkxUzFNZw?oc=5",
+          "published_at": "2026-11-10T14:19:41+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaGdiUUFNZGc4SVZyUWVqUXA4bEg2SXJXTGlKMGJGUkxFYTYtU2ZJc3lpU2M0VUJIM2hJa1Yzenk4dllKdExYUHkxcnVxdkRPY2RpTVdJYnQxN3NoTkt2NjBsSDJUUm9LWDRuWlY3MGxERGJKdFQzTkdPTTFjcTNaYm51ckN3VGptbXlDUzllWU00M0xjRWRNN0M5bVRBa3YyZWhaUFkxUzFNZw?oc=5\" target=\"_blank\">LemonTree starts construction of 18,000 sqm Match Warsaw development</a>&nbsp;&nbsp;<font color=\""
+        }
+      ],
       "events": [
         {
           "subject": null,
@@ -1411,7 +1613,7 @@
         "change_pct": 1.91,
         "gap_pct": 2.71,
         "intraday_range_pct": 2.04,
-        "volume": 399124,
+        "volume": 399125,
         "avg_volume_20d": 487429,
         "volume_ratio": 0.82,
         "sparkline": [
@@ -1472,24 +1674,33 @@
           "source": "NSE"
         }
       ],
-      "news": [
-        {
-          "title": "GNG Electronics Limited says FY27 plan uses 40%-50% capacity",
-          "source": "Multibagg AI",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWXhmbUw1N1VqNzBGOTk0VXpZNHpQNjlFMXRIdy10cXV3WWtlTDZmczdGb0lzQWRVSW5zR3Z6MW9JWTdlLVV1ZzJHcFZTdFpFckhZcm9seXZqRXVHLVljOEhkY3Z4M1V1UmdReHJBYUMtQjFQYnBEZ1FxRTVPQ3FpQ1doN0N4SWFYcWFKUjhVLVNXcVVSS1VPYUxaVzIzTUtPa1I1cmYzNTAwUExy?oc=5",
-          "published_at": "2026-11-09T08:42:08+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQWXhmbUw1N1VqNzBGOTk0VXpZNHpQNjlFMXRIdy10cXV3WWtlTDZmczdGb0lzQWRVSW5zR3Z6MW9JWTdlLVV1ZzJHcFZTdFpFckhZcm9seXZqRXVHLVljOEhkY3Z4M1V1UmdReHJBYUMtQjFQYnBEZ1FxRTVPQ3FpQ1doN0N4SWFYcWFKUjhVLVNXcVVSS1VPYUxaVzIzTUtPa1I1cmYzNTAwUExy?oc=5\" target=\"_blank\">GNG Electronics Limited says FY27 plan uses 40%-50% capacity</a>&nbsp;&nbsp;<font color=\"#6f6f6"
-        }
-      ],
-      "events": [
-        {
-          "subject": null,
-          "purpose": "Financial Results/Other business matters",
-          "date": "03-Nov-2026",
-          "details": "To consider and approve the financial results for the period ended September 30, 2026 and other business matters"
-        }
-      ],
+      "news": [],
+      "events": [],
       "sebi_mentions": [
+        {
+          "title": "Notice of attachment dated November 10, 2026 issued against Secunderabad Healthcare Limited under RC No.7734 of 2024 in the matter of Secunderabad Healthcare Limited",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-attachment-dated-november-10-2026-issued-against-secunderabad-healthcare-limited-under-rc-no-7734-of-2024-in-the-matter-of-secunderabad-healthcare-limited_105698.html",
+          "published_at": "10 Nov, 2026 +0530",
+          "summary": "Notice of attachment dated November 10, 2026 issued against Secunderabad Healthcare Limited under RC No.7734 of 2024 in the matter of Secunderabad Healthcare Limited"
+        },
+        {
+          "title": "Notice of attachment dated November 10, 2026 issued against Chennai Commodities under RC No.7470 of 2023 in the matter of First Futures and Stocks Private Limited",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-attachment-dated-november-10-2026-issued-against-chennai-commodities-under-rc-no-7470-of-2023-in-the-matter-of-first-futures-and-stocks-private-limited_105696.html",
+          "published_at": "10 Nov, 2026 +0530",
+          "summary": "Notice of attachment dated November 10, 2026 issued against Chennai Commodities under RC No.7470 of 2023 in the matter of First Futures and Stocks Private Limited"
+        },
+        {
+          "title": "Notice of attachment dated November 10, 2026 issued against First Futures and Stocks Private Limited under RC No.7469 of 2023 in the matter of First Futures and Stocks Private Limited",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-attachment-dated-november-10-2026-issued-against-first-futures-and-stocks-private-limited-under-rc-no-7469-of-2023-in-the-matter-of-first-futures-and-stocks-private-limited_105694.html",
+          "published_at": "10 Nov, 2026 +0530",
+          "summary": "Notice of attachment dated November 10, 2026 issued against First Futures and Stocks Private Limited under RC No.7469 of 2023 in the matter of First Futures and Stocks Private Limited"
+        },
+        {
+          "title": "Prohibitory Order No. 1583 of 2026 issued against CAT Technologies Limited associated with RC 4398 of 2021 in the matter of CAT Technologies Ltd.",
+          "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/prohibitory-order-no-1583-of-2026-issued-against-cat-technologies-limited-associated-with-rc-4398-of-2021-in-the-matter-of-cat-technologies-ltd-_105693.html",
+          "published_at": "10 Nov, 2026 +0530",
+          "summary": "Prohibitory Order No. 1583 of 2026 issued against CAT Technologies Limited associated with RC 4398 of 2021 in the matter of CAT Technologies Ltd."
+        },
         {
           "title": "Cancellation of Recovery Certificate No. 9227 of 2026 dated 20.07.2026 issued against Lataben Narotambhai Rangi (PAN: AYRPR7467F) in the matter of trading activity in the scrip of ANI Integrated Services Limited.",
           "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/cancellation-of-recovery-certificate-no-9227-of-2026-dated-20-07-2026-issued-against-lataben-narotambhai-rangi-pan-ayrpr7467f-in-the-matter-of-trading-activity-in-the-scrip-of-ani-integrated-servi-_105685.html",
