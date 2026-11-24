@@ -1,7 +1,7 @@
 {
-  "report_date": "2026-11-21",
-  "trading_day": "2026-11-20",
-  "generated_at": "2026-11-23T09:00:49.942530+05:30",
+  "report_date": "2026-11-24",
+  "trading_day": "2026-11-23",
+  "generated_at": "2026-11-24T09:00:48.571935+05:30",
   "stocks": [
     {
       "symbol": "TMCV",
@@ -11,32 +11,23 @@
       "skip_catalysts": false,
       "bse_announcements": [],
       "nse_announcements": [],
-      "news": [
-        {
-          "title": "Tata Motors Share Price - Live NSE: TMCV Stock Price & Chart",
-          "source": "Upstox",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ac2Nnb09DcjJJTVp6OU1mREltZ1FHTThpb0dEbUdZSl95dHpvcXpFX3lCZ0RLZjNGUDd5M3BiQVA1SzNab1c2Y3JPbEtFbXpfOC1ncnUxRTdsc2laVURLQjRTSzFFS3R6VEE?oc=5",
-          "published_at": "2026-11-20T08:00:00+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1ac2Nnb09DcjJJTVp6OU1mREltZ1FHTThpb0dEbUdZSl95dHpvcXpFX3lCZ0RLZjNGUDd5M3BiQVA1SzNab1c2Y3JPbEtFbXpfOC1ncnUxRTdsc2laVURLQjRTSzFFS3R6VEE?oc=5\" target=\"_blank\">Tata Motors Share Price - Live NSE: TMCV Stock Price & Chart</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Upstox</font>"
-        }
-      ],
+      "news": [],
       "events": [],
       "sebi_mentions": [],
       "price_action": {
-        "date": "2026-11-20",
-        "open": 445.0,
-        "high": 458.75,
-        "low": 440.25,
-        "close": 456.75,
-        "prev_close": 445.85,
-        "change_pct": 2.44,
-        "gap_pct": -0.19,
-        "intraday_range_pct": 4.15,
-        "volume": 5018245,
-        "avg_volume_20d": 8274706,
-        "volume_ratio": 0.61,
+        "date": "2026-11-23",
+        "open": 456.75,
+        "high": 456.75,
+        "low": 444.5,
+        "close": 453.8,
+        "prev_close": 456.75,
+        "change_pct": -0.65,
+        "gap_pct": 0.0,
+        "intraday_range_pct": 2.68,
+        "volume": 5205154,
+        "avg_volume_20d": 8291954,
+        "volume_ratio": 0.63,
         "sparkline": [
-          413.2,
           410.3,
           404.5,
           416.95,
@@ -65,7 +56,8 @@
           445.65,
           443.8,
           445.85,
-          456.75
+          456.75,
+          453.8
         ]
       },
       "analysis": {
@@ -86,37 +78,29 @@
       "nse_announcements": [],
       "news": [
         {
-          "title": "Tata Motors Share Price - Live NSE: TMPV Stock Price & Chart",
-          "source": "Upstox",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4tRUNlRENKdi05NTFRNHg0VEZ1TURMZzlEWGg1Y2M2QnM0ZThZdHdRVzRpbG8yR0Z4NFV1dzNTdzJOZkFOUEZtaWFQMEJ5MFlMcmNiWkpWRFFmNVpoblVkMk1Qckx3TDcxX250eGdxMTY?oc=5",
-          "published_at": "2026-11-20T08:00:00+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE4tRUNlRENKdi05NTFRNHg0VEZ1TURMZzlEWGg1Y2M2QnM0ZThZdHdRVzRpbG8yR0Z4NFV1dzNTdzJOZkFOUEZtaWFQMEJ5MFlMcmNiWkpWRFFmNVpoblVkMk1Qckx3TDcxX250eGdxMTY?oc=5\" target=\"_blank\">Tata Motors Share Price - Live NSE: TMPV Stock Price & Chart</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Upstox</font>"
-        },
-        {
-          "title": "RIL, SAIL, IndusInd Bank among top upgrades, TMPV, Waaree, ACC among top downgrades post Q2",
-          "source": "Business Today",
-          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOMm5EV3dwWlQtc0hnOFRNR2NHaWotWV9ZWC1xUElnWjlZQlVsRHUxVzVObklhb0R1ZDVlMlZPYzRaSVQ1SlhwcVhaU3JoRUFnUWhpd3M4TUtveDYtNG9pQ2F3NUlNVFB2WVVpQzZlZDN4NWwySE5kUVRaTkdldGQ0T0NROUN0UHVwZ1ZtYlJ1NUJQSkV2UnVLbUVLTlpFYUt5YVBFczhMbWZfcDJzdWlWR3lVWURycmhBNThpeFNYakg5QVlPc3BYcy1yNTBlMVphMW1lNXowbzQyT01hbDg5MGJHd19oZzl2cEwtRVdHMzl6bTFaYmfSAfsBQVVfeXFMTVZmNzdTU09HOWRSeW1CMmhRS2U5bXZOLVk1azlnVGRhT0Y4TWxad25wTHJnSjB5UmdCcjE1MENqRUVRVnNuamNZei10aGtZeXJaYTVfOHFDUVpfZ252WVpnNlU3RFVseGxxek4zZldQRHFJWjNyUXE1d1hobmlwM1FHeXdUZWFyMHpJM2VnUExWX2lTdHZ4TlFGZDVxb2d5cGdNTFc2R2FyTnJqWkZqbnBwMkxaeDNsUjFwNFBxVHhzdzkwWVhTaS1nWlZac0c2WF9JajJKT2NvUjZOUHBxM0c1elRPbTRSQ0t5VzUyU2NYX3ItTWZZTlpybEE?oc=5",
-          "published_at": "2026-11-20T06:09:10+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxOMm5EV3dwWlQtc0hnOFRNR2NHaWotWV9ZWC1xUElnWjlZQlVsRHUxVzVObklhb0R1ZDVlMlZPYzRaSVQ1SlhwcVhaU3JoRUFnUWhpd3M4TUtveDYtNG9pQ2F3NUlNVFB2WVVpQzZlZDN4NWwySE5kUVRaTkdldGQ0T0NROUN0UHVwZ1ZtYlJ1NUJQSkV2UnVLbUVLTlpFYUt5YVBFczhMbWZfcDJzdWlWR3lVWURycmhBNThpeFNYakg5QVlPc3BYcy1yNTBlMVphMW1lNXowbzQyT01hbDg5MGJHd19oZzl2cEwtRVdHMzl6bTFaYmfSAfsBQVVfeXFMTVZmNz"
+          "title": "TMPV Near 52-Week Low: JLR Performance and Q2 FY27 Results",
+          "source": "Kalkine India",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZzQ5NVJhcTc4NUZhRl9wQ0pCSXFUSXlGeGM4WHltMTlVeEotTXVvRnRkQllQSW0zbkE0RHo0VG9fT3dzaVlDTkdsTVc4SXpVYmMyeGxGNzZWTVNEU0QxYXNmai1HbEEtYVY2cEtCU2ZVSDctaVBvbTRBRDBQSWFlS3I1WUVoWVFaVkR5cTN0eVBnMVo4SkhicG9qOU93TWZtNzltYkhUS2pydW5iSFVEb0dLeWc5VkgxNUZyN1duamZCOFhGMktQck1JX3FzUzBUX0hJemJULS1IRjFLV2pj?oc=5",
+          "published_at": "2026-11-23T12:13:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZzQ5NVJhcTc4NUZhRl9wQ0pCSXFUSXlGeGM4WHltMTlVeEotTXVvRnRkQllQSW0zbkE0RHo0VG9fT3dzaVlDTkdsTVc4SXpVYmMyeGxGNzZWTVNEU0QxYXNmai1HbEEtYVY2cEtCU2ZVSDctaVBvbTRBRDBQSWFlS3I1WUVoWVFaVkR5cTN0eVBnMVo4SkhicG9qOU93TWZtNzltYkhUS2pydW5iSFVEb0dLeWc5VkgxNUZyN1duamZCOFhGMktQck1JX3FzUzBUX0hJemJULS1IRjFLV2pj?oc=5\" target=\"_blank\">TMPV Near 52-Week Low: JLR "
         }
       ],
       "events": [],
       "sebi_mentions": [],
       "price_action": {
-        "date": "2026-11-20",
-        "open": 262.3,
-        "high": 267.95,
-        "low": 261.25,
-        "close": 266.35,
-        "prev_close": 263.5,
-        "change_pct": 1.08,
-        "gap_pct": -0.46,
-        "intraday_range_pct": 2.54,
-        "volume": 13667727,
-        "avg_volume_20d": 11731870,
-        "volume_ratio": 1.17,
+        "date": "2026-11-23",
+        "open": 266.8,
+        "high": 269.0,
+        "low": 259.0,
+        "close": 259.0,
+        "prev_close": 266.35,
+        "change_pct": -2.76,
+        "gap_pct": 0.17,
+        "intraday_range_pct": 3.75,
+        "volume": 9631950,
+        "avg_volume_20d": 11936798,
+        "volume_ratio": 0.81,
         "sparkline": [
-          273.0,
           279.9,
           284.45,
           285.85,
@@ -145,7 +129,8 @@
           259.2,
           252.55,
           263.5,
-          266.35
+          266.35,
+          259.0
         ]
       },
       "analysis": {
@@ -163,42 +148,32 @@
       "notes": null,
       "skip_catalysts": false,
       "bse_announcements": [],
-      "nse_announcements": [
-        {
-          "headline": "ESOP/ESOS/ESPS",
-          "category": "Banks",
-          "more_info": "ICICI Bank Limited has informed the Exchange regarding Allotment of 37828  Shares.",
-          "pdf_url": "https://nsearchives.nseindia.in/corporate/ICICIBANK1_20112026111433_Lettertoexchange.pdf",
-          "attached_at": "20-Nov-2026 11:15:46",
-          "source": "NSE"
-        }
-      ],
+      "nse_announcements": [],
       "news": [
         {
-          "title": "ICICI Bank Share Price - Live NSE: ICICIBANK Stock Price & Chart",
-          "source": "Upstox",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE41ZWlLb1o0emplRlRyWWY3MnhuaG1TMzVobHB2ZVk4NGc5aTFkb3FrX2Q4ZjZaanV6V2oySlFPTlZZa05qUnNicW9pNktGdnlxU1BvalA3VjJVUlBqaUtSSmdaMA?oc=5",
-          "published_at": "2026-11-20T14:56:59+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE41ZWlLb1o0emplRlRyWWY3MnhuaG1TMzVobHB2ZVk4NGc5aTFkb3FrX2Q4ZjZaanV6V2oySlFPTlZZa05qUnNicW9pNktGdnlxU1BvalA3VjJVUlBqaUtSSmdaMA?oc=5\" target=\"_blank\">ICICI Bank Share Price - Live NSE: ICICIBANK Stock Price & Chart</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Upstox</font>"
+          "title": "ICICI Bank Limited (ICICIBANK.NS) Stock Price, News, Quote & History",
+          "source": "Yahoo! Finance Canada",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXZUxfbnNTLTF6ZUFMRGdWeVM2WUZxdFFUaW96MmRSbkVsdVZ1dTlBUVdxazNoQmJPcjFxSHROMktfUmRLR2ZVUGhrbV9yT2hUM1BCeFVMZHF3d0pk?oc=5",
+          "published_at": "2026-11-23T11:08:43+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXZUxfbnNTLTF6ZUFMRGdWeVM2WUZxdFFUaW96MmRSbkVsdVZ1dTlBUVdxazNoQmJPcjFxSHROMktfUmRLR2ZVUGhrbV9yT2hUM1BCeFVMZHF3d0pk?oc=5\" target=\"_blank\">ICICI Bank Limited (ICICIBANK.NS) Stock Price, News, Quote & History</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo! Finance Canada</font>"
         }
       ],
       "events": [],
       "sebi_mentions": [],
       "price_action": {
-        "date": "2026-11-20",
-        "open": 1602.0,
-        "high": 1645.0,
-        "low": 1600.9,
-        "close": 1640.0,
-        "prev_close": 1608.9,
-        "change_pct": 1.93,
-        "gap_pct": -0.43,
-        "intraday_range_pct": 2.74,
-        "volume": 17973342,
-        "avg_volume_20d": 16553745,
-        "volume_ratio": 1.09,
+        "date": "2026-11-23",
+        "open": 1639.0,
+        "high": 1644.8,
+        "low": 1585.5,
+        "close": 1585.5,
+        "prev_close": 1640.0,
+        "change_pct": -3.32,
+        "gap_pct": -0.06,
+        "intraday_range_pct": 3.62,
+        "volume": 22243169,
+        "avg_volume_20d": 16646996,
+        "volume_ratio": 1.34,
         "sparkline": [
-          1349.0,
           1355.0,
           1340.0,
           1360.2,
@@ -227,7 +202,8 @@
           1598.7,
           1601.3,
           1608.9,
-          1640.0
+          1640.0,
+          1585.5
         ]
       },
       "analysis": {
@@ -251,27 +227,26 @@
           "title": "HDFC Life Insurance Share Price - Live NSE: HDFCLIFE Stock Price & Chart",
           "source": "Upstox",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9rbmpVWmJiOEVqYWFGbHNBdFhudURwc01vMGRrM3lYdFZYRkNlRTc2cThBbXNDZ3pFVDhjUVEzOGQ3ZVl0dGhmUG8zSWlJZGlHZE0yNURUTUFtN1ZzNXlQQ1ZXUkxpb3Bjd3dj?oc=5",
-          "published_at": "2026-11-20T08:00:00+00:00",
+          "published_at": "2026-11-23T09:28:47+00:00",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9rbmpVWmJiOEVqYWFGbHNBdFhudURwc01vMGRrM3lYdFZYRkNlRTc2cThBbXNDZ3pFVDhjUVEzOGQ3ZVl0dGhmUG8zSWlJZGlHZE0yNURUTUFtN1ZzNXlQQ1ZXUkxpb3Bjd3dj?oc=5\" target=\"_blank\">HDFC Life Insurance Share Price - Live NSE: HDFCLIFE Stock Price & Chart</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Upstox</font>"
         }
       ],
       "events": [],
       "sebi_mentions": [],
       "price_action": {
-        "date": "2026-11-20",
-        "open": 572.0,
-        "high": 589.9,
-        "low": 567.65,
-        "close": 588.65,
-        "prev_close": 577.05,
-        "change_pct": 2.01,
-        "gap_pct": -0.88,
-        "intraday_range_pct": 3.86,
-        "volume": 4510623,
-        "avg_volume_20d": 2709703,
-        "volume_ratio": 1.66,
+        "date": "2026-11-23",
+        "open": 589.0,
+        "high": 594.25,
+        "low": 574.3,
+        "close": NaN,
+        "prev_close": 588.65,
+        "change_pct": NaN,
+        "gap_pct": 0.06,
+        "intraday_range_pct": 3.39,
+        "volume": 2219211,
+        "avg_volume_20d": 2887289,
+        "volume_ratio": 0.77,
         "sparkline": [
-          544.5,
           556.65,
           559.25,
           560.0,
@@ -300,7 +275,8 @@
           595.05,
           575.5,
           577.05,
-          588.65
+          588.65,
+          NaN
         ]
       },
       "analysis": {
@@ -319,46 +295,23 @@
       "skip_catalysts": false,
       "bse_announcements": [],
       "nse_announcements": [],
-      "news": [
-        {
-          "title": "Bandhan Bank Share Price - Live NSE: BANDHANBNK Stock Price & Chart",
-          "source": "Upstox",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96SXRuekpzdllWZzJjQjliS0Z5TUQwZUdGM1hYX0JWc1BDN0tYcHkxN0FCQ3cza3YxSEh3aDFOZ2FSZkcwU0djNU9reG5BSTk3cDVtU3NEeUpkZmdrUmw3ejFTNEpON1drNnpn?oc=5",
-          "published_at": "2026-11-20T08:00:00+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE96SXRuekpzdllWZzJjQjliS0Z5TUQwZUdGM1hYX0JWc1BDN0tYcHkxN0FCQ3cza3YxSEh3aDFOZ2FSZkcwU0djNU9reG5BSTk3cDVtU3NEeUpkZmdrUmw3ejFTNEpON1drNnpn?oc=5\" target=\"_blank\">Bandhan Bank Share Price - Live NSE: BANDHANBNK Stock Price & Chart</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Upstox</font>"
-        },
-        {
-          "title": "BANDHANBNK Outlook for the Week",
-          "source": "Equitypandit",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAtdWVxbVR1dk4xbFlhVUZPUGhlVmxaYTlMSWxFNXNqNXlMMWpWRF9lYzdUMGQ4NWdmdVQ3a0RFa2NjYmdHSnk2cmRXZ0tFV1hiMkdKRVBTU1pWUTRYVWE2aWRZajNyZ2NjR2NuUGx3?oc=5",
-          "published_at": "2026-11-20T08:00:00+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFAtdWVxbVR1dk4xbFlhVUZPUGhlVmxaYTlMSWxFNXNqNXlMMWpWRF9lYzdUMGQ4NWdmdVQ3a0RFa2NjYmdHSnk2cmRXZ0tFV1hiMkdKRVBTU1pWUTRYVWE2aWRZajNyZ2NjR2NuUGx3?oc=5\" target=\"_blank\">BANDHANBNK Outlook for the Week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Equitypandit</font>"
-        },
-        {
-          "title": "Bandhan Bank Ltd (BANDHANBNK) Share Price",
-          "source": "Business Today",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTTZNeHZWVWJGXzRqTzBqbElEcHF4SnpheC1WMDNZR3M1ZER2ai1fdlhuSERRM0RWd1Fkc0FfRUJ2OGFNTnRTVlZaYzJSbGN5V1BfdWpRSTlsQXR3bEwwV2ozSmJGMmFoaUdhOFZzN3hsbVo5cktYcm5oRy1icm9EbVduUU00RWJCc0E?oc=5",
-          "published_at": "2026-11-20T08:00:00+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNTTZNeHZWVWJGXzRqTzBqbElEcHF4SnpheC1WMDNZR3M1ZER2ai1fdlhuSERRM0RWd1Fkc0FfRUJ2OGFNTnRTVlZaYzJSbGN5V1BfdWpRSTlsQXR3bEwwV2ozSmJGMmFoaUdhOFZzN3hsbVo5cktYcm5oRy1icm9EbVduUU00RWJCc0E?oc=5\" target=\"_blank\">Bandhan Bank Ltd (BANDHANBNK) Share Price</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Today</font>"
-        }
-      ],
+      "news": [],
       "events": [],
       "sebi_mentions": [],
       "price_action": {
-        "date": "2026-11-20",
-        "open": 173.45,
-        "high": 177.4,
-        "low": 172.2,
-        "close": 175.07,
-        "prev_close": 175.0,
-        "change_pct": 0.04,
-        "gap_pct": -0.89,
-        "intraday_range_pct": 2.97,
-        "volume": 12766084,
-        "avg_volume_20d": 10487440,
-        "volume_ratio": 1.22,
+        "date": "2026-11-23",
+        "open": 177.1,
+        "high": 178.12,
+        "low": 172.0,
+        "close": NaN,
+        "prev_close": 175.07,
+        "change_pct": NaN,
+        "gap_pct": 1.16,
+        "intraday_range_pct": 3.5,
+        "volume": 9908881,
+        "avg_volume_20d": 10857347,
+        "volume_ratio": 0.91,
         "sparkline": [
-          155.54,
           157.0,
           157.5,
           172.0,
@@ -387,7 +340,8 @@
           174.62,
           170.06,
           175.0,
-          175.07
+          175.07,
+          NaN
         ]
       },
       "analysis": {
@@ -405,70 +359,24 @@
       "notes": null,
       "skip_catalysts": false,
       "bse_announcements": [],
-      "nse_announcements": [
-        {
-          "headline": "Rumour Verification - Regulation 30(11)",
-          "category": null,
-          "more_info": "IDFC First Bank Limited has informed the Exchange about Rumour Verification - Regulation 30(11)",
-          "pdf_url": "https://nsearchives.nseindia.in/corporate/IDFCFIRSTB_20112026102343_Disclosure_Rumor_Verification.pdf",
-          "attached_at": "20-Nov-2026 10:24:37",
-          "source": "NSE"
-        }
-      ],
-      "news": [
-        {
-          "title": "IDFC First Bank Share Price - Live NSE: IDFCFIRSTB Stock Price & Chart",
-          "source": "Upstox",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5TY2xoOFhmaXRGMk92QlRZRkNPSkR4R01IaVozSmJsaHBkd0Z2ZHo5MHVYTkdKejZGWVJJRjhhU0dfZVhEUEtjdU0zaG1CS1BrR0h5X1JMNHljUFNXNnhPUzFvTkNzeUhDZ29tc0JEZw?oc=5",
-          "published_at": "2026-11-20T02:24:07+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5TY2xoOFhmaXRGMk92QlRZRkNPSkR4R01IaVozSmJsaHBkd0Z2ZHo5MHVYTkdKejZGWVJJRjhhU0dfZVhEUEtjdU0zaG1CS1BrR0h5X1JMNHljUFNXNnhPUzFvTkNzeUhDZ29tc0JEZw?oc=5\" target=\"_blank\">IDFC First Bank Share Price - Live NSE: IDFCFIRSTB Stock Price & Chart</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Upstox</font>"
-        },
-        {
-          "title": "IDFC First Bank Limited (IDFCFIRSTB.NS) Seasonal returns chart",
-          "source": "Yahoo Finance UK",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE11bnp5TmlFeFdpYWdGWVgySWdnSXAyUklOYWQzMG9kYnc0Rk5xa2xjUS1mWTk1dF9BU1Z2SDBpZy1ka2tTZDU4NzQwRzJ1UDIzcnNmR0RJUXpOckMyU2RYUWUtTUxzaXdOU2RFT0pB?oc=5",
-          "published_at": "2026-11-20T09:58:10+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE11bnp5TmlFeFdpYWdGWVgySWdnSXAyUklOYWQzMG9kYnc0Rk5xa2xjUS1mWTk1dF9BU1Z2SDBpZy1ka2tTZDU4NzQwRzJ1UDIzcnNmR0RJUXpOckMyU2RYUWUtTUxzaXdOU2RFT0pB?oc=5\" target=\"_blank\">IDFC First Bank Limited (IDFCFIRSTB.NS) Seasonal returns chart</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance UK</font>"
-        },
-        {
-          "title": "IDFC FIRST Bank NSE:IDFCFIRSTB Rumour Clarification Nov 2026",
-          "source": "Kalkine India",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdjdmcWpndDdJczZWUzE3MmxaZXo3WXBlaHBMZTA3WlF2LXVJT1ppTG01NTdBdmF1YzJnNjVfbnViTk5TbVh6eTFyOEo5X0lZQmJoOXFBcjNlNUVmcFlSM3VWZmIxRGxaZVdUaWtCNXNmY3dTY2ZuU0gwUG1Mbl9oY01JYThZQkE3SklMWnVSNnVfNGxfMnNJVDdidTQ1Rjk3SjFscVQyalphd2cwY1g2WDZvd0tuSm1NV2lGajB6N29uNTJJY0FTQkRwOEVUOE41c3pnVXgxZTROeTF6?oc=5",
-          "published_at": "2026-11-20T04:54:00+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdjdmcWpndDdJczZWUzE3MmxaZXo3WXBlaHBMZTA3WlF2LXVJT1ppTG01NTdBdmF1YzJnNjVfbnViTk5TbVh6eTFyOEo5X0lZQmJoOXFBcjNlNUVmcFlSM3VWZmIxRGxaZVdUaWtCNXNmY3dTY2ZuU0gwUG1Mbl9oY01JYThZQkE3SklMWnVSNnVfNGxfMnNJVDdidTQ1Rjk3SjFscVQyalphd2cwY1g2WDZvd0tuSm1NV2lGajB6N29uNTJJY0FTQkRwOEVUOE41c3pnVXgxZTROeTF6?oc=5\" target=\"_blank\">IDFC FIRST Bank NSE:IDFCFIRSTB "
-        },
-        {
-          "title": "IDFC FIRST Bank Issues Clarification on Share Price Movement Following NSE and BSE Filing on 20 November 2026",
-          "source": "Kalkine Media",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQNE9rRkNZRWQ2dXVMbkdCZ3V5amFmRWVVdjVtdkEtclljUVg4TDVsQnVvd1Byd2NhUWF0VW1ZZHUxNUFfLXNiMGJIcENrYmY4Si1sbzJ1OHZicmxza0hRejFkcGc5dFZBNWZYM05Hdnk2YjRDU1RlNTZ5dXJLaUFLYzJGT2prdFBLSmxUNHc1SXJuSVIxaE14OWtTQjA2bm9iRTBOSFFnSzN3bXBWdS1hNl95VUIzUUk5VmlJY1hNaWtOTGRZaFl3cTkzNWZkRnFKMXhZV2R0a3dUWURXekh1SGNwQklzVE9ES3pSQQ?oc=5",
-          "published_at": "2026-11-20T04:54:00+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQNE9rRkNZRWQ2dXVMbkdCZ3V5amFmRWVVdjVtdkEtclljUVg4TDVsQnVvd1Byd2NhUWF0VW1ZZHUxNUFfLXNiMGJIcENrYmY4Si1sbzJ1OHZicmxza0hRejFkcGc5dFZBNWZYM05Hdnk2YjRDU1RlNTZ5dXJLaUFLYzJGT2prdFBLSmxUNHc1SXJuSVIxaE14OWtTQjA2bm9iRTBOSFFnSzN3bXBWdS1hNl95VUIzUUk5VmlJY1hNaWtOTGRZaFl3cTkzNWZkRnFKMXhZV2R0a3dUWURXekh1SGNwQklzVE9ES3pSQQ?oc=5\" target=\"_blank\">IDFC FIRS"
-        },
-        {
-          "title": "IDFC First Bank Ltd Share Price Today,, IDFCFIRSTB Share Price NSE, BSE",
-          "source": "Business Today",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQc0g0SVR3bG1lZXNSVk1udUpLSEstNVFJalNJMHZjelpwdlllRmE4VDFyZ2FsOXJicmF6aXFma0JXTzFaZnViZDVXN3h6bFQzWWtfVlEzVVFwWUpkajFPdUZrcnRCTnJYLWRNei1faklTNmtPM3lYR0J4WVZnV3MzSktKeEpwOHlCcTFyZnpR?oc=5",
-          "published_at": "2026-11-20T08:00:00+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQc0g0SVR3bG1lZXNSVk1udUpLSEstNVFJalNJMHZjelpwdlllRmE4VDFyZ2FsOXJicmF6aXFma0JXTzFaZnViZDVXN3h6bFQzWWtfVlEzVVFwWUpkajFPdUZrcnRCTnJYLWRNei1faklTNmtPM3lYR0J4WVZnV3MzSktKeEpwOHlCcTFyZnpR?oc=5\" target=\"_blank\">IDFC First Bank Ltd Share Price Today,, IDFCFIRSTB Share Price NSE, BSE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Today</font>"
-        }
-      ],
+      "nse_announcements": [],
+      "news": [],
       "events": [],
       "sebi_mentions": [],
       "price_action": {
-        "date": "2026-11-20",
-        "open": 85.5,
-        "high": 87.6,
-        "low": 84.86,
-        "close": 87.26,
-        "prev_close": 86.05,
-        "change_pct": 1.41,
-        "gap_pct": -0.64,
-        "intraday_range_pct": 3.18,
-        "volume": 33097278,
-        "avg_volume_20d": 21980117,
-        "volume_ratio": 1.51,
+        "date": "2026-11-23",
+        "open": 87.3,
+        "high": 88.18,
+        "low": 85.17,
+        "close": 85.4,
+        "prev_close": 87.26,
+        "change_pct": -2.13,
+        "gap_pct": 0.05,
+        "intraday_range_pct": 3.45,
+        "volume": 41426516,
+        "avg_volume_20d": 22955430,
+        "volume_ratio": 1.8,
         "sparkline": [
-          78.46,
           79.52,
           79.44,
           78.83,
@@ -497,7 +405,8 @@
           83.59,
           82.45,
           86.05,
-          87.26
+          87.26,
+          85.4
         ]
       },
       "analysis": {
@@ -517,19 +426,11 @@
       "bse_announcements": [],
       "nse_announcements": [
         {
-          "headline": "Allotment of Securities",
+          "headline": "Updates",
           "category": null,
-          "more_info": "Capri Global Capital Limited has informed the Exchange regarding allotment of 3000 securities pursuant to Non Convertible Securities ECB Bonds at its meeting held on November 19, 2026 - Revised Intimation",
-          "pdf_url": "https://nsearchives.nseindia.in/corporate/CGCL_20112026145840_Outcome_for_Allotment_Revised_Intimation.pdf",
-          "attached_at": "20-Nov-2026 14:58:49",
-          "source": "NSE"
-        },
-        {
-          "headline": "General Updates",
-          "category": null,
-          "more_info": "Capri Global Capital Limited has informed the Exchange about General Updates on revised  intimation of Allotment of ECB Bonds - USD 30 Million",
-          "pdf_url": "https://nsearchives.nseindia.in/corporate/CGCL_20112026145623_Outcome_for_Allotment_Revised_Intimation.pdf",
-          "attached_at": "20-Nov-2026 14:56:33",
+          "more_info": "Capri Global Capital Limited has informed the Exchange regarding 'Certificate for Payment of Interest (BSE Listed)'.",
+          "pdf_url": "https://nsearchives.nseindia.in/corporate/CGCL_23112026190648_Interest_Payment_Certificate_23112026.pdf",
+          "attached_at": "23-Nov-2026 19:06:54",
           "source": "NSE"
         }
       ],
@@ -537,20 +438,19 @@
       "events": [],
       "sebi_mentions": [],
       "price_action": {
-        "date": "2026-11-20",
-        "open": 237.05,
-        "high": 241.25,
-        "low": 233.19,
-        "close": 234.77,
-        "prev_close": 239.69,
-        "change_pct": -2.05,
-        "gap_pct": -1.1,
-        "intraday_range_pct": 3.36,
-        "volume": 7435140,
-        "avg_volume_20d": 8434359,
-        "volume_ratio": 0.88,
+        "date": "2026-11-23",
+        "open": 234.1,
+        "high": 235.95,
+        "low": 230.4,
+        "close": 232.61,
+        "prev_close": 234.77,
+        "change_pct": -0.92,
+        "gap_pct": -0.29,
+        "intraday_range_pct": 2.36,
+        "volume": 6884778,
+        "avg_volume_20d": 8211332,
+        "volume_ratio": 0.84,
         "sparkline": [
-          241.54,
           241.82,
           241.02,
           248.9,
@@ -579,7 +479,8 @@
           240.6,
           239.88,
           239.69,
-          234.77
+          234.77,
+          232.61
         ]
       },
       "analysis": {
@@ -597,56 +498,32 @@
       "notes": null,
       "skip_catalysts": false,
       "bse_announcements": [],
-      "nse_announcements": [
-        {
-          "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
-          "category": "Power",
-          "more_info": "Tata Power Company Limited has informed the Exchange about Schedule of meet",
-          "pdf_url": "https://nsearchives.nseindia.in/corporate/KSTPCL_20112026170748_Analyst_meet.pdf",
-          "attached_at": "20-Nov-2026 17:09:04",
-          "source": "NSE"
-        }
-      ],
+      "nse_announcements": [],
       "news": [
-        {
-          "title": "The Tata Power Company Limited (TATAPOWER.BO) stock price, news, quote and history",
-          "source": "Yahoo Finance Singapore",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE96c21LZ2lsVXJlYU9oazc4MW1pb2lMWmpodUs2NHdjemNiYjFIczlZdFlhdXJEaEFYM1hTVmFnNnJmVHVPZ0QxX05fWXlrbEoyakVyclhoNklha2Rj?oc=5",
-          "published_at": "2026-11-20T10:24:05+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE96c21LZ2lsVXJlYU9oazc4MW1pb2lMWmpodUs2NHdjemNiYjFIczlZdFlhdXJEaEFYM1hTVmFnNnJmVHVPZ0QxX05fWXlrbEoyakVyclhoNklha2Rj?oc=5\" target=\"_blank\">The Tata Power Company Limited (TATAPOWER.BO) stock price, news, quote and history</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance Singapore</font>"
-        },
         {
           "title": "Weekly Recap: Sanjay Banga named CEO-designate and Ausa wind commissioning",
           "source": "TradingView",
           "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQTg4MFhMc3hSZ1BSdmV1VHdPcjVSVVltY1h2VXJILW43V0puWEpIZm1DMjBFaWpaWE1kdkRRbDdLWFFvSGkwblVWRjJZaUFCUk1lOU5CTFR3NUZoN0l5QTJ1LXV4M29OdEhaUHMycTZNQkM3akVKNzk0aE82R2Vkbmc0TXp3RHVHamZMSV9MLVVIU1lHUk9HYVQ1T2hBZ0ZtUHMzcG9KajFOcU14V3lrTzVVd3BKZW9SVEZXU0NvQVpPUmFQTlpwd2ctT20tR3lr?oc=5",
           "published_at": "2026-11-23T01:00:00+00:00",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQTg4MFhMc3hSZ1BSdmV1VHdPcjVSVVltY1h2VXJILW43V0puWEpIZm1DMjBFaWpaWE1kdkRRbDdLWFFvSGkwblVWRjJZaUFCUk1lOU5CTFR3NUZoN0l5QTJ1LXV4M29OdEhaUHMycTZNQkM3akVKNzk0aE82R2Vkbmc0TXp3RHVHamZMSV9MLVVIU1lHUk9HYVQ1T2hBZ0ZtUHMzcG9KajFOcU14V3lrTzVVd3BKZW9SVEZXU0NvQVpPUmFQTlpwd2ctT20tR3lr?oc=5\" target=\"_blank\">Weekly Recap: Sanjay Banga named CEO-designate "
-        },
-        {
-          "title": "Tata Power Share Price - Live NSE: TATAPOWER Stock Price & Chart",
-          "source": "Upstox",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UVUN0OGR1YVBaQW9KZGJRS25XcElwWU01Z3lqRUdOM2ZlOUx2d3RONV9NRW9GN2RWaWQyRktSdlBtSzgySUdFNDlUelQ4UUJmUjZzSGpObTNjeVVnUDZSSjJBVEtnVzg?oc=5",
-          "published_at": "2026-11-20T08:00:00+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UVUN0OGR1YVBaQW9KZGJRS25XcElwWU01Z3lqRUdOM2ZlOUx2d3RONV9NRW9GN2RWaWQyRktSdlBtSzgySUdFNDlUelQ4UUJmUjZzSGpObTNjeVVnUDZSSjJBVEtnVzg?oc=5\" target=\"_blank\">Tata Power Share Price - Live NSE: TATAPOWER Stock Price & Chart</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Upstox</font>"
         }
       ],
       "events": [],
       "sebi_mentions": [],
       "price_action": {
-        "date": "2026-11-20",
-        "open": 339.0,
-        "high": 343.35,
-        "low": 336.2,
-        "close": 339.7,
-        "prev_close": 340.0,
-        "change_pct": -0.09,
-        "gap_pct": -0.29,
-        "intraday_range_pct": 2.1,
-        "volume": 9567088,
-        "avg_volume_20d": 7261735,
-        "volume_ratio": 1.32,
+        "date": "2026-11-23",
+        "open": 339.8,
+        "high": 341.7,
+        "low": 327.5,
+        "close": 328.0,
+        "prev_close": 339.7,
+        "change_pct": -3.44,
+        "gap_pct": 0.03,
+        "intraday_range_pct": 4.18,
+        "volume": 7595490,
+        "avg_volume_20d": 7586511,
+        "volume_ratio": 1.0,
         "sparkline": [
-          335.65,
           342.15,
           343.7,
           345.0,
@@ -675,7 +552,8 @@
           344.5,
           338.0,
           340.0,
-          339.7
+          339.7,
+          328.0
         ]
       },
       "analysis": {
@@ -693,54 +571,90 @@
       "notes": null,
       "skip_catalysts": false,
       "bse_announcements": [],
-      "nse_announcements": [],
+      "nse_announcements": [
+        {
+          "headline": "Updates",
+          "category": "Electrical Equipment",
+          "more_info": "Suzlon Energy Limited has informed the Exchange regarding 'Disclosure with respect to cyber incident'.",
+          "pdf_url": "https://nsearchives.nseindia.in/corporate/SUZLON1_23112026141719_Suzlon23112026.pdf",
+          "attached_at": "23-Nov-2026 14:17:37",
+          "source": "NSE"
+        }
+      ],
       "news": [
         {
-          "title": "Suzlon Energy net profit falls 6% in Q1FY27 despite record deliveries",
-          "source": "scanx.trade",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSjl6d3dIbERIOGpkZEctVUxLT2ZzNUhTUWExeFlZZnRlQlJlaDR4Y1ExSi0yUjRabkJhazdBUFEtbW5GdE9kQXJyREZ3ZnlMMC05b21BRWl4YWlSa29paC1wNDZaQ1BIZlcxTTlsRHNMMGVGbWRiMnNuM1REZnJVLUVDRmpodUNlZnRCVERCc1VsZXVoYzd5N0FRY2lFTFJsODBzeVV5N2NBRTJXUGk2RUt2b0R2YXJKVG5XTnVTQUx6SkUwWjNN?oc=5",
-          "published_at": "2026-11-22T12:53:16+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNSjl6d3dIbERIOGpkZEctVUxLT2ZzNUhTUWExeFlZZnRlQlJlaDR4Y1ExSi0yUjRabkJhazdBUFEtbW5GdE9kQXJyREZ3ZnlMMC05b21BRWl4YWlSa29paC1wNDZaQ1BIZlcxTTlsRHNMMGVGbWRiMnNuM1REZnJVLUVDRmpodUNlZnRCVERCc1VsZXVoYzd5N0FRY2lFTFJsODBzeVV5N2NBRTJXUGk2RUt2b0R2YXJKVG5XTnVTQUx6SkUwWjNN?oc=5\" target=\"_blank\">Suzlon Energy net profit falls 6% in Q1FY27 despite record "
+          "title": "Suzlon Energy hit by cyber incident, says critical business applications unaffected",
+          "source": "ET EnergyWorld",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOeUhHVmxTV0FMVnpXXy02VnpkM2MyeXNjVDJhZDVpTjYyaEkzbklqWms3LW0yMkdrSmxQSXhTYmZCOFBrQWdNXzFzOXFRRVd2UDRzZE8zdGRfRHpiWnZEWXU5UjhTSEpobzR1eEFTU1ZzYUkteVpkb2t2b1RnNjR5b2lObGpUaTRTOENVbGdlNVUyTE5KbGpLcEFfQ2NTWVI0WUN1ZkJwQkRBamlBSGVfT25OYXRDMldRV0M2WmQ0T0dBT2VuYk95VWttUGI3M0FhcnpTWEkyV0ttUkVoaDlHR29PaFZEQdIB6wFBVV95cUxOQ19wLTRodkpOU0JmYk1PMExBMGdXZ2xtVGJ3Tk9kWjNtbHJBcDNYR0ZBVUlZd3pJMnRFUTRIUE43NERsdzJjV0tNQWU3LUJRWmZMcFItYklCckFLQmxUdFRBV2REWjJpNUtnX3RyNWxKbnJvd2FkZUxiWWlpZXlBS3R3dmc1R0RqQ2YwQXZRazhBSGRMRnpELVJ1SHY2YW1xMEdCRzhLNUNPX25BTUtZSjFQUjZtSkdxaU16UHhNZEVFTjk1Zkh4UnQyazZlOUsyYVNkaFNLZWV5U0FwY2lPSC10SnJqbHVMVXpF?oc=5",
+          "published_at": "2026-11-23T12:17:18+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOeUhHVmxTV0FMVnpXXy02VnpkM2MyeXNjVDJhZDVpTjYyaEkzbklqWms3LW0yMkdrSmxQSXhTYmZCOFBrQWdNXzFzOXFRRVd2UDRzZE8zdGRfRHpiWnZEWXU5UjhTSEpobzR1eEFTU1ZzYUkteVpkb2t2b1RnNjR5b2lObGpUaTRTOENVbGdlNVUyTE5KbGpLcEFfQ2NTWVI0WUN1ZkJwQkRBamlBSGVfT25OYXRDMldRV0M2WmQ0T0dBT2VuYk95VWttUGI3M0FhcnpTWEkyV0ttUkVoaDlHR29PaFZEQdIB6wFBVV95cUxOQ19wLTRodkpOU0JmYk1PMExBMG"
         },
         {
-          "title": "Suzlon Energy 52 Week Low Streak: Second Straight Session",
-          "source": "Univest",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNU1p5SzZRX2tBNUFqa29YTVFEd1FFM0p2RTJkRVhWQS1hUGdmX1gzYzZuVDVxLVhxdHVWZTRPeVF5MTgzNmZIa05jcDJVaXpaZVJIMGNiMF9GU3puNlFfdktVZGt1THpNLU9YTVpMbGVKZkJ0TGt2S2RveWdmNjF4S0dzSUh3V1BDbHRUUkNKdw?oc=5",
-          "published_at": "2026-11-20T08:00:00+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNU1p5SzZRX2tBNUFqa29YTVFEd1FFM0p2RTJkRVhWQS1hUGdmX1gzYzZuVDVxLVhxdHVWZTRPeVF5MTgzNmZIa05jcDJVaXpaZVJIMGNiMF9GU3puNlFfdktVZGt1THpNLU9YTVpMbGVKZkJ0TGt2S2RveWdmNjF4S0dzSUh3V1BDbHRUUkNKdw?oc=5\" target=\"_blank\">Suzlon Energy 52 Week Low Streak: Second Straight Session</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Univest</font>"
+          "title": "Suzlon Energy reports cyber incident, says no impact on business-critical applications",
+          "source": "BusinessLine",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNTM4WlVveE1aQ2VkNDl6LTZwYjBONGVyc2ZhcHFObnNtRFEyN0E3OEhuZkV2ZWh2di1CS3Y5RTJ1M3ZNd0xBYnlxX3B4MTRuMGhHa0dTZWJXU0pMcFRWSUFZdWhwaFBUaGgxOEY3dmNTU1BEZE1wOXc5Z21vc0wwd0RvOTdHYnd1b25lblRXZ2lfcjJxN2tucXZEZWktbXRxdThmU3ZodEliVUZ6b09EYkJRT3pjeWgzZWUycFBvMmdSUTFyZmNsbTJsZUVuNUJwcThVSVUyS3hidko3a3NxSXlmVGF3VU3SAe4BQVVfeXFMT2tuTVlFTmFpRGtabXZxaVdQMHB1alpmempiMW9SQ3prUHctUHZlNTQ5NW9NWWF1cTg5VlR4UFRNZkc1bmprdjkyaDhzc1NPQVVXVlRfY2JibkVsakpDUWF6RG01WUFFR054WExBckhXUFBJMC1oY0txR05JUllJWjZyY3BjenlvLW1VVzdKRXhCcS0wVDNTMXZyTzJpNUVPRkNYWXRXaGQyem9sSEpUd0JCeTd0QXlBWHlHNWU5YVFTU1VTYlRpbFRhZmQ3Tm1LQmVoUWZUYl9SMzJWaHhUNlVGTW5ZNTBJM1czcTlpUQ?oc=5",
+          "published_at": "2026-11-23T14:05:53+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNTM4WlVveE1aQ2VkNDl6LTZwYjBONGVyc2ZhcHFObnNtRFEyN0E3OEhuZkV2ZWh2di1CS3Y5RTJ1M3ZNd0xBYnlxX3B4MTRuMGhHa0dTZWJXU0pMcFRWSUFZdWhwaFBUaGgxOEY3dmNTU1BEZE1wOXc5Z21vc0wwd0RvOTdHYnd1b25lblRXZ2lfcjJxN2tucXZEZWktbXRxdThmU3ZodEliVUZ6b09EYkJRT3pjeWgzZWUycFBvMmdSUTFyZmNsbTJsZUVuNUJwcThVSVUyS3hidko3a3NxSXlmVGF3VU3SAe4BQVVfeXFMT2tuTVlFTmFpRGtabXZxaVdQMH"
         },
         {
-          "title": "Suzlon Energy Share Price Fall Streak: Value and Benchmarks",
-          "source": "Univest",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMVB0R2E5dlp1QV9BTkNFZmlaWEJybUhVZFB6RExRaGpUbWpmWW45VjQzQWlFWDlsNzZGVHNYMjQwS3lTQmR3a1pYeVI3cHphUWNoTGV4VG4yclpfUVNxT19aWTNMSTVMcGNrWjdld0l0c1FLcDNqT3k5WmNLeUxYdnh3?oc=5",
-          "published_at": "2026-11-20T08:00:00+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPMVB0R2E5dlp1QV9BTkNFZmlaWEJybUhVZFB6RExRaGpUbWpmWW45VjQzQWlFWDlsNzZGVHNYMjQwS3lTQmR3a1pYeVI3cHphUWNoTGV4VG4yclpfUVNxT19aWTNMSTVMcGNrWjdld0l0c1FLcDNqT3k5WmNLeUxYdnh3?oc=5\" target=\"_blank\">Suzlon Energy Share Price Fall Streak: Value and Benchmarks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Univest</font>"
+          "title": "Suzlon Energy Reports Cyber Incident, Critical Applications Unaffected",
+          "source": "BW Businessworld",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaC1aTmxXZ3BJdmdodEJnTWFaWVVXNjdDcjRmTENBck1JUnlQOU9oWEZHRzhhMktVOGJxVjhiM0FNZGlTWHZPbHlneEREMmhMX1gtemR3cG1PYjNvWXY2N0hfaE41YjJpWjNRT0EzUjFWbVVnS1c0SmtKMGdPOXRRRnZ0QmhReFBkTDZuSzZ1YVNJQlJhN1prYW1TWUdYQ3JmZTNMWktUcU1paFNHWTBsb0ktNA?oc=5",
+          "published_at": "2026-11-23T22:06:42+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPaC1aTmxXZ3BJdmdodEJnTWFaWVVXNjdDcjRmTENBck1JUnlQOU9oWEZHRzhhMktVOGJxVjhiM0FNZGlTWHZPbHlneEREMmhMX1gtemR3cG1PYjNvWXY2N0hfaE41YjJpWjNRT0EzUjFWbVVnS1c0SmtKMGdPOXRRRnZ0QmhReFBkTDZuSzZ1YVNJQlJhN1prYW1TWUdYQ3JmZTNMWktUcU1paFNHWTBsb0ktNA?oc=5\" target=\"_blank\">Suzlon Energy Reports Cyber Incident, Critical Applications Unaffected</a>&nbsp;&nbsp"
         },
         {
-          "title": "Suzlon Share Price Falls: Buy the Dip? Levels, Targets, Risks",
-          "source": "Univest",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQnZROURCWTNDTERlSklLSW5BMXB2ZUwwZ3BxeE84OVdVS0RHRy1kSjhPZTFjTVZ0X1NxMm5tekNkRjdVSXFxT3NISmd0SDcyTENMUEN0TkNGTml4elJIQUN3ZkpQU1gwS3lXXzQ4TnNsRHMzSzdocThGMzRaYldLaWkyM0NJV0h4MlBENTBWNVBnalox?oc=5",
-          "published_at": "2026-11-20T08:00:00+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOQnZROURCWTNDTERlSklLSW5BMXB2ZUwwZ3BxeE84OVdVS0RHRy1kSjhPZTFjTVZ0X1NxMm5tekNkRjdVSXFxT3NISmd0SDcyTENMUEN0TkNGTml4elJIQUN3ZkpQU1gwS3lXXzQ4TnNsRHMzSzdocThGMzRaYldLaWkyM0NJV0h4MlBENTBWNVBnalox?oc=5\" target=\"_blank\">Suzlon Share Price Falls: Buy the Dip? Levels, Targets, Risks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Univest</font>"
+          "title": "Suzlon Energy discloses a cybersecurity incident; here's what it said about the impact",
+          "source": "CNBC TV18",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcEp5dzN2S3dLZ0Nva0c5bmN6dmVmcG5JS1NfYlpSbXBKMjY0a1J3MVdnd0FJYzR0ZEhwRVF5aWxBNG13Z2poSVg3Z0ZfY1UyVjNBSnQ0d3ZaWTBsMmd6bzAzTUdQMDVKQmZyVlA2SVdWNFR4TzNnQnREMEhqTmhBNFVJbTduMVVFZ1RtR3pqSU5Rc24wMTl5UEhNV3NMQ3g3LTcyNHBlR0ZveUVPcm9XZVV2ZDRFRnJFbWxWR2ZwaWVxd0VYSUo0Z1dfdGFWemZiYk9CZ0pLQkdqdWPSAeABQVVfeXFMTktxMWFwV0FvYXdYZkZjRFlMeUlBX1llcHlLVzRLVUhnZjZMdlA0ZVplSWo3T19QenhDbndPcDZrZVc3WXdMXzhHU1dYdlJCbWh2em5RZFNYX0VHQTcza2tQcWFLcC1OMzFfaWpBbTVhdzVxVkdfNTVhN2d0cWNicGZ4dFJnTVpTckNYTnJncFpLWHhDME5abE5lRHhNTTAzR0tvLWQ0YnByVXV2OWstNHNBdUFCN2pTR0E1emc2aDg0Rl9wZ05GTlZyaWE5TXRWR2lxRm5lMXFpQWJSZDJNNUQ?oc=5",
+          "published_at": "2026-11-23T09:33:25+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcEp5dzN2S3dLZ0Nva0c5bmN6dmVmcG5JS1NfYlpSbXBKMjY0a1J3MVdnd0FJYzR0ZEhwRVF5aWxBNG13Z2poSVg3Z0ZfY1UyVjNBSnQ0d3ZaWTBsMmd6bzAzTUdQMDVKQmZyVlA2SVdWNFR4TzNnQnREMEhqTmhBNFVJbTduMVVFZ1RtR3pqSU5Rc24wMTl5UEhNV3NMQ3g3LTcyNHBlR0ZveUVPcm9XZVV2ZDRFRnJFbWxWR2ZwaWVxd0VYSUo0Z1dfdGFWemZiYk9CZ0pLQkdqdWPSAeABQVVfeXFMTktxMWFwV0FvYXdYZkZjRFlMeUlBX1llcHlLVzRLVU"
+        },
+        {
+          "title": "Suzlon Energy Has Been Impacted By A Cyber Incident",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTjhMb19GMERxVmFIRTlVQmRxSlFTQk5EQXdWeVNrTmQyclF2UU9uTnhsVkd1NFVQZ2dDQ1VIQmdiTEg5STQzMDhwY1VYV3dBamJDRDZKYVI4TXo2VFlWbzlDNWdyalF3dmE4ZnVZQVE0UkxGdFhOOHR0RzlHaHJublV5cVJxUjRFOFlBR2ExLTFMS3JhVjRNSEYyXzNVYmhBSUluSW5zalVBM3A4WmRHbXgxOUppR0NTSzlLWGh3?oc=5",
+          "published_at": "2026-11-23T09:17:11+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQTjhMb19GMERxVmFIRTlVQmRxSlFTQk5EQXdWeVNrTmQyclF2UU9uTnhsVkd1NFVQZ2dDQ1VIQmdiTEg5STQzMDhwY1VYV3dBamJDRDZKYVI4TXo2VFlWbzlDNWdyalF3dmE4ZnVZQVE0UkxGdFhOOHR0RzlHaHJublV5cVJxUjRFOFlBR2ExLTFMS3JhVjRNSEYyXzNVYmhBSUluSW5zalVBM3A4WmRHbXgxOUppR0NTSzlLWGh3?oc=5\" target=\"_blank\">Suzlon Energy Has Been Impacted By A Cyber Incident</a>&nbsp;&nbsp;<fon"
+        },
+        {
+          "title": "Suzlon Energy and Persistent Systems Report Separate Cybersecurity Incidents to Stock Exchanges",
+          "source": "The 420.in",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSnBtNDhaekJNVDFNZjl0YzRTLWRDZGVFckRlU1Ztd2F6UDVmWDZGZXY1ZDFGa2pGcXU5cWZyY0wtX1JacU1PSlhOUDNuSmlSYURTOV8xMHpqVXdwQ2JPVlBjbXNnQUwtbFE5QzFDWkd4NHZzM1J4SXhvb0t2bzQ5SG1vNDlYeno2ZGV2VTk1QUhtdGo0QnRRdGtJMnc2OE5GLUFEX25kbURweGx6czlPUnNrU3k?oc=5",
+          "published_at": "2026-11-23T09:30:27+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQSnBtNDhaekJNVDFNZjl0YzRTLWRDZGVFckRlU1Ztd2F6UDVmWDZGZXY1ZDFGa2pGcXU5cWZyY0wtX1JacU1PSlhOUDNuSmlSYURTOV8xMHpqVXdwQ2JPVlBjbXNnQUwtbFE5QzFDWkd4NHZzM1J4SXhvb0t2bzQ5SG1vNDlYeno2ZGV2VTk1QUhtdGo0QnRRdGtJMnc2OE5GLUFEX25kbURweGx6czlPUnNrU3k?oc=5\" target=\"_blank\">Suzlon Energy and Persistent Systems Report Separate Cybersecurity Incidents to Stoc"
+        },
+        {
+          "title": "Suzlon notifies CERT-In of cyber incident; shares fall nearly 3 pc",
+          "source": "tennews.in",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUzgwVmtrSHI1QVczaE1QRVp6ZFpkYW1RNEx2MVBxelNkOGJXakpQcFRLeGpBQnBpVUk2bTBnMHNNMjBYbUpTRVlCVFdtSUlnVnpMSlNzWWFNZU1ReWxPUk1FdVVOUURoWGpBZlExLWROaGdiMmVvRkVzRHpqR0lOMllsMUh1SEpaNlRodm5R?oc=5",
+          "published_at": "2026-11-23T10:11:18+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQUzgwVmtrSHI1QVczaE1QRVp6ZFpkYW1RNEx2MVBxelNkOGJXakpQcFRLeGpBQnBpVUk2bTBnMHNNMjBYbUpTRVlCVFdtSUlnVnpMSlNzWWFNZU1ReWxPUk1FdVVOUURoWGpBZlExLWROaGdiMmVvRkVzRHpqR0lOMllsMUh1SEpaNlRodm5R?oc=5\" target=\"_blank\">Suzlon notifies CERT-In of cyber incident; shares fall nearly 3 pc</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tennews.in</font>"
+        },
+        {
+          "title": "Suzlon Energy reports cyber incident, says no impact on business-critical applications",
+          "source": "ETLegalWorld",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdU1XMW1GMGM4bmNTVGlFV0FLckxyYnJkR29NNURNOE9zazZuR1NiOWhGejl5YklOcFh1U0dQUVpuV1RMV2I2MGQwME1lNWJSaDVYSXJYWUE4akVnc2hsX3JBaHZLR1BvNnNobHVrV2JnaFE3TFZoenRNNlRyOEFLVkxSU2JnX2FHTVJ4UlBkelBGRWtYRFNJLW5QSm14eF9QYWItMm5KZU1FMVZxZFY1c21vY2VfVFZPWFpsOFc5b2tiMnNoQlZrMkV2eDkybEhsY1liYVc0bklHczlLTW9KRDVqdW9fVHo3dUljdkZLQTJWUkJz0gH6AUFVX3lxTFAzcG9VZ3dyOWp1TXFIZjZEMk50WDBYRDY2M21weFpmOFp0SG5HVmJQcElmR0ZsQXcxWTFIRnJoczZoVnpVeW5zanhNc19kNmNOdVNiRDhuYmxqNHRVOHNTellZblJQYzdQZGcycjZHWUxIY1RSYXZaeERoMmFaYzBJb3gxYW1JS1VDd1lvZE5BS25KSGpTa05PMHV5bnRFcWNudlg0OWYtQ1V0MXhkUEQtWDFIX0J2LXhqOG1VenFwOUJrb2hYVUdvVnM3cTlaR3RaRHpDakt6UjNiWnFzRmtGRERLeElSUGpuelI2eWhKZVZ2M1hGUjFPcnc?oc=5",
+          "published_at": "2026-11-23T10:38:25+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdU1XMW1GMGM4bmNTVGlFV0FLckxyYnJkR29NNURNOE9zazZuR1NiOWhGejl5YklOcFh1U0dQUVpuV1RMV2I2MGQwME1lNWJSaDVYSXJYWUE4akVnc2hsX3JBaHZLR1BvNnNobHVrV2JnaFE3TFZoenRNNlRyOEFLVkxSU2JnX2FHTVJ4UlBkelBGRWtYRFNJLW5QSm14eF9QYWItMm5KZU1FMVZxZFY1c21vY2VfVFZPWFpsOFc5b2tiMnNoQlZrMkV2eDkybEhsY1liYVc0bklHczlLTW9KRDVqdW9fVHo3dUljdkZLQTJWUkJz0gH6AUFVX3lxTFAzcG9VZ3"
         }
       ],
       "events": [],
       "sebi_mentions": [],
       "price_action": {
-        "date": "2026-11-20",
-        "open": 36.35,
-        "high": 37.26,
-        "low": 36.31,
-        "close": 36.96,
-        "prev_close": 36.95,
-        "change_pct": 0.03,
-        "gap_pct": -1.62,
-        "intraday_range_pct": 2.57,
-        "volume": 46557876,
-        "avg_volume_20d": 82361291,
-        "volume_ratio": 0.57,
+        "date": "2026-11-23",
+        "open": 37.03,
+        "high": 37.41,
+        "low": 35.86,
+        "close": 35.86,
+        "prev_close": 36.96,
+        "change_pct": -2.98,
+        "gap_pct": 0.19,
+        "intraday_range_pct": 4.19,
+        "volume": 49954013,
+        "avg_volume_20d": 82122875,
+        "volume_ratio": 0.61,
         "sparkline": [
-          36.43,
           37.6,
           39.57,
           40.19,
@@ -769,7 +683,8 @@
           37.19,
           36.13,
           36.95,
-          36.96
+          36.96,
+          35.86
         ]
       },
       "analysis": {
@@ -790,44 +705,29 @@
       "nse_announcements": [],
       "news": [
         {
-          "title": "IREDA Share Price Jumps 30% in November After Six-Month Losing Streak; PSU Stock Rebounds From ₹98.78 Low",
-          "source": "Kotak Neo",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcDRxQjhobHRJaEV5bE96R3NpbW1CcVJybmtrWEV1UnNFU3FJWS03REllekxjTnAtTGRKQy1OcHpJd1BFc2ZfUkZsUzBvRGlpaEJDaGpMTUFGaUtBa3hDTzBNR2tuTkxydk9GZnFoOWZ6LUFCUHlCTXhocHNqM244b290ZzhPcmJTQjF3SmdpWnlJTm1GT3Iwck1CNnhBTUJjMTVBXzdTcHhvRHVCcjJhTXZ5Y1hFSjlHNUVFdWpSMTA3LUxfQzZBU0hpTXlKOUhQQVd2VQ?oc=5",
-          "published_at": "2026-11-20T07:28:38+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcDRxQjhobHRJaEV5bE96R3NpbW1CcVJybmtrWEV1UnNFU3FJWS03REllekxjTnAtTGRKQy1OcHpJd1BFc2ZfUkZsUzBvRGlpaEJDaGpMTUFGaUtBa3hDTzBNR2tuTkxydk9GZnFoOWZ6LUFCUHlCTXhocHNqM244b290ZzhPcmJTQjF3SmdpWnlJTm1GT3Iwck1CNnhBTUJjMTVBXzdTcHhvRHVCcjJhTXZ5Y1hFSjlHNUVFdWpSMTA3LUxfQzZBU0hpTXlKOUhQQVd2VQ?oc=5\" target=\"_blank\">IREDA Share Price Jumps 30% in November A"
-        },
-        {
           "title": "IREDA Share Price Target 2026 Forecast",
           "source": "Univest",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5OWmFrOG5YTjI0bElZSUI2anNhX3dEVXV3dU8ycEo5aU54OXl3LXZITlZ0V0JRcXgyWnBtemlZY3ZjQ1ZzUEpwWGVkWXRxbDcteGVLbVNfMUV3UXVFckEwR0R4WXc?oc=5",
           "published_at": "2026-11-23T02:03:22+00:00",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5OWmFrOG5YTjI0bElZSUI2anNhX3dEVXV3dU8ycEo5aU54OXl3LXZITlZ0V0JRcXgyWnBtemlZY3ZjQ1ZzUEpwWGVkWXRxbDcteGVLbVNfMUV3UXVFckEwR0R4WXc?oc=5\" target=\"_blank\">IREDA Share Price Target 2026 Forecast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Univest</font>"
-        },
-        {
-          "title": "IREDA shares rally 27% in a month: What’s driving the PSU stock’s sharp rebound?",
-          "source": "Upstox",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPa2dnTUdhVjFESU84cEVGWS1UUjFHN2pHR004T0JaN2MtMnRjMWYzUUpjeTR2SE00b1FkdDV5Ulc3MlBfTGRFWjBXVjNTTXVOZGJWRTlfUTFPWHRDY0ExazV6YU5hNE96am12d01taFNiMDUzM0N4WGVIb09OT3IwenQwWWtBNDR5eDE3azFMcjhHREptNkxJVE00VnFYamZscExDa050dk1Ma0E5Q1RlRm9yUXZodEFWdF9EY0lYa2V2OWg5d1ZBSFFWMk1vaVVCekE?oc=5",
-          "published_at": "2026-11-20T03:54:55+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPa2dnTUdhVjFESU84cEVGWS1UUjFHN2pHR004T0JaN2MtMnRjMWYzUUpjeTR2SE00b1FkdDV5Ulc3MlBfTGRFWjBXVjNTTXVOZGJWRTlfUTFPWHRDY0ExazV6YU5hNE96am12d01taFNiMDUzM0N4WGVIb09OT3IwenQwWWtBNDR5eDE3azFMcjhHREptNkxJVE00VnFYamZscExDa050dk1Ma0E5Q1RlRm9yUXZodEFWdF9EY0lYa2V2OWg5d1ZBSFFWMk1vaVVCekE?oc=5\" target=\"_blank\">IREDA shares rally 27% in a month: What’s dr"
         }
       ],
       "events": [],
       "sebi_mentions": [],
       "price_action": {
-        "date": "2026-11-20",
-        "open": 129.0,
-        "high": 133.6,
-        "low": 128.01,
-        "close": 131.7,
-        "prev_close": 129.8,
-        "change_pct": 1.46,
-        "gap_pct": -0.62,
-        "intraday_range_pct": 4.31,
-        "volume": 39090577,
-        "avg_volume_20d": 15263395,
-        "volume_ratio": 2.56,
+        "date": "2026-11-23",
+        "open": 132.37,
+        "high": 132.4,
+        "low": 126.87,
+        "close": 132.2,
+        "prev_close": 131.7,
+        "change_pct": 0.38,
+        "gap_pct": 0.51,
+        "intraday_range_pct": 4.2,
+        "volume": 20194599,
+        "avg_volume_20d": 17002327,
+        "volume_ratio": 1.19,
         "sparkline": [
-          103.8,
           104.4,
           104.6,
           108.39,
@@ -856,7 +756,8 @@
           117.4,
           119.8,
           129.8,
-          131.7
+          131.7,
+          132.2
         ]
       },
       "analysis": {
@@ -874,25 +775,41 @@
       "notes": null,
       "skip_catalysts": false,
       "bse_announcements": [],
-      "nse_announcements": [],
-      "news": [],
+      "nse_announcements": [
+        {
+          "headline": "Press Release",
+          "category": null,
+          "more_info": "Sterling and Wilson Renewable Energy Limited has informed the Exchange regarding a press release dated November 23, 2026, titled \"SWREL bagged three domestic orders including L1 position for a marquee project with a combined value of more than INR 2050 crore \".",
+          "pdf_url": "https://nsearchives.nseindia.in/corporate/SWSOLAR_23112026112208_PRESSRELEASE.pdf",
+          "attached_at": "23-Nov-2026 11:22:48",
+          "source": "NSE"
+        }
+      ],
+      "news": [
+        {
+          "title": "Sterling and Wilson Renewable Energy Limited Announces Receipt of Three Domestic Orders Including L1 Position for A Marquee Project with A Combined Value of More Than INR 20,500 Million",
+          "source": "www.marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVG9TMkhQQzRTc3NLLUs0bW5xQndtTWk2em1QY2dTSWNWOWwwODNYX0M2U0t5czAwRVNydDZ4MTZjT21YNWQ0dGtTa29LeDBOV2VZQlh0ZTljdW12cHllN2trdTRHVWMtMzJMWUlkUkVqZUlLY2ZmMGxVYmQyU0RqM0hSOGppNGdqVmFVRHlNVUJwRTFMWXFjc3ZyR253am1iOWN1RGl6b0hsbTZNdFQwSE9Dc1dteC1YOHRTYlFQSmFXVjJYUmVpbFhucTM3c3FydldUQlhJUUVJdTZWTGNzWm1pdGp1R3J6?oc=5",
+          "published_at": "2026-11-23T10:36:54+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVG9TMkhQQzRTc3NLLUs0bW5xQndtTWk2em1QY2dTSWNWOWwwODNYX0M2U0t5czAwRVNydDZ4MTZjT21YNWQ0dGtTa29LeDBOV2VZQlh0ZTljdW12cHllN2trdTRHVWMtMzJMWUlkUkVqZUlLY2ZmMGxVYmQyU0RqM0hSOGppNGdqVmFVRHlNVUJwRTFMWXFjc3ZyR253am1iOWN1RGl6b0hsbTZNdFQwSE9Dc1dteC1YOHRTYlFQSmFXVjJYUmVpbFhucTM3c3FydldUQlhJUUVJdTZWTGNzWm1pdGp1R3J6?oc=5\" target=\"_blank\">Sterling and Wi"
+        }
+      ],
       "events": [],
       "sebi_mentions": [],
       "price_action": {
-        "date": "2026-11-20",
-        "open": 155.75,
-        "high": 156.28,
-        "low": 153.8,
-        "close": 154.52,
-        "prev_close": 156.7,
-        "change_pct": -1.39,
-        "gap_pct": -0.61,
-        "intraday_range_pct": 1.58,
-        "volume": 543371,
-        "avg_volume_20d": 1525424,
-        "volume_ratio": 0.36,
+        "date": "2026-11-23",
+        "open": 157.0,
+        "high": 165.0,
+        "low": 154.2,
+        "close": 161.33,
+        "prev_close": 154.52,
+        "change_pct": 4.41,
+        "gap_pct": 1.6,
+        "intraday_range_pct": 6.99,
+        "volume": 2492008,
+        "avg_volume_20d": 1495677,
+        "volume_ratio": 1.67,
         "sparkline": [
-          160.09,
           162.12,
           167.77,
           168.53,
@@ -921,7 +838,8 @@
           157.96,
           158.46,
           156.7,
-          154.52
+          154.52,
+          161.33
         ]
       },
       "analysis": {
@@ -940,62 +858,11 @@
       "skip_catalysts": false,
       "bse_announcements": [],
       "nse_announcements": [],
-      "news": [
-        {
-          "title": "Iván Guindey carves a 150-kilo taril in oak recognized as a national record",
-          "source": "Foro3D",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObHN0czRQSGg0MmNwbS1ZQXdlVmtsbTFYVHRCUzFfMmxBVm85QjZlVGJTT2N4eWJ0UGJjelNOaXRsQ1RqSWkxaHB1eGtkYzg4RjU0NjRHZVVSNUR4WWx3WXBjRF9GTThEazl0UkI4azl4cWk4Uzk2ZnljbmRqUFdpNkFBdUl3OEdIbzRTYmNkV0xPeUZkNzhUUVpqNThpdmN1MUk2TTBaRlp5NEpHMjR3T3J3?oc=5",
-          "published_at": "2026-11-22T15:34:13+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxObHN0czRQSGg0MmNwbS1ZQXdlVmtsbTFYVHRCUzFfMmxBVm85QjZlVGJTT2N4eWJ0UGJjelNOaXRsQ1RqSWkxaHB1eGtkYzg4RjU0NjRHZVVSNUR4WWx3WXBjRF9GTThEazl0UkI4azl4cWk4Uzk2ZnljbmRqUFdpNkFBdUl3OEdIbzRTYmNkV0xPeUZkNzhUUVpqNThpdmN1MUk2TTBaRlp5NEpHMjR3T3J3?oc=5\" target=\"_blank\">Iván Guindey carves a 150-kilo taril in oak recognized as a national record</a>&nbsp;&n"
-        }
-      ],
+      "news": [],
       "events": [],
       "sebi_mentions": [],
       "price_action": {
-        "date": "2026-11-20",
-        "open": 303.5,
-        "high": 303.55,
-        "low": 296.05,
-        "close": 297.1,
-        "prev_close": 305.2,
-        "change_pct": -2.65,
-        "gap_pct": -0.56,
-        "intraday_range_pct": 2.46,
-        "volume": 1415392,
-        "avg_volume_20d": 1895766,
-        "volume_ratio": 0.75,
-        "sparkline": [
-          282.75,
-          290.65,
-          294.8,
-          304.0,
-          349.5,
-          333.45,
-          329.1,
-          326.1,
-          320.35,
-          314.5,
-          303.9,
-          299.7,
-          314.3,
-          314.7,
-          315.8,
-          298.3,
-          308.4,
-          301.55,
-          317.55,
-          315.6,
-          306.55,
-          310.1,
-          316.25,
-          315.8,
-          314.8,
-          308.75,
-          306.65,
-          303.75,
-          305.2,
-          297.1
-        ]
+        "error": "insufficient_data"
       },
       "analysis": {
         "classification": "no_signal",
@@ -1015,11 +882,39 @@
       "nse_announcements": [],
       "news": [
         {
-          "title": "ITC: Highest monthly gain in over two years, strongly overbought on charts; fresh price targets and more",
-          "source": "Business Today",
-          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPaWNJZm5mcXNKU1dya1pUWDFBN0U0U0JDWmRGZGtlYXloei1nVGJSMnlqOWY2LWlnekRyeVZoZC0yWFBCbXIza3Q2eEFaNEZ0aVZoSkI1eGhPdG03U0YydHB5SDgtVUxsMzg3d2lYVzFWdm9jRFctSzNzOVJlQTJvVXMyeGlkbnZMXzFXN1JzZW85YVNYYjBXS3RSUHlKVjN3d09Nemd6YUlaX2JaaHJNR01yZnl6Ym5Pc1dyWTRLUV9sX25wMHU1MlZMdkUtcnNtTkNDNWxLZEE1d2plUDdhNkFHclRzdDZUVk9vQjlDSXRaUHU1NDlMSk01LVdVQdIBgwJBVV95cUxOZ2ZKeVExdUpoVFd6LTZCWlAyUE9hTWdESDlod280RzhFQ1ZtOEFPSkNZT3Y5RnNyWFJxTVNtVGJiT2xZRE1oVmNvdk1MT3N5YjMzR3owa3VTYlFLdGlvLWRzcHpBa1ZoTEhTSEFQdHVHbE8zaHlwQlVoZ0VGOTgtNGNQOHFKRzdsemtwckRteU5iNFp1WDdBMlJYS3RzTzZzdGFMZS1Bb3dtMGR5WUpIakxrOE5GZ3dqamZuRUNwTXVUaE5uWHc2WEQxRlRPUkxkajZyc0JBRS15b0JpLS1hZl84YVdCWFVOaVgxSnNrOFRMUmRoU2N6bkoxSVhLYTAxVUdn?oc=5",
-          "published_at": "2026-11-21T09:30:07+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxPaWNJZm5mcXNKU1dya1pUWDFBN0U0U0JDWmRGZGtlYXloei1nVGJSMnlqOWY2LWlnekRyeVZoZC0yWFBCbXIza3Q2eEFaNEZ0aVZoSkI1eGhPdG03U0YydHB5SDgtVUxsMzg3d2lYVzFWdm9jRFctSzNzOVJlQTJvVXMyeGlkbnZMXzFXN1JzZW85YVNYYjBXS3RSUHlKVjN3d09Nemd6YUlaX2JaaHJNR01yZnl6Ym5Pc1dyWTRLUV9sX25wMHU1MlZMdkUtcnNtTkNDNWxLZEE1d2plUDdhNkFHclRzdDZUVk9vQjlDSXRaUHU1NDlMSk01LVdVQdIBgwJBVV"
+          "title": "ITC stock: Religare revises target to INR 408, keeps Buy view - ad-hoc-news.de",
+          "source": "Google News",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaUV4NURJU1RpbkNqQkkyWFlXNXI1ZWpYeWp0N0RMX3UteS0xa1hVQXp0SGFGd0hmTGRqZThQNVlLMFNCd2NWdVZrb0Itb25Cd0NVb0d2dGJuRndzOFF4dVFETms5aEZuLXRDU2NFTVg2eEVvb1RZM0F6WEs2X1Y2Nk5mVWs1UXl1Q0NoMUxKaVVrbTdXLVVQMF8xUTZpeDV0N2VsRDVBUmFTQVhpVHNCT05KMzUyMU9yM0dFc2poTQ?oc=5",
+          "published_at": "2026-11-23T09:42:38+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNaUV4NURJU1RpbkNqQkkyWFlXNXI1ZWpYeWp0N0RMX3UteS0xa1hVQXp0SGFGd0hmTGRqZThQNVlLMFNCd2NWdVZrb0Itb25Cd0NVb0d2dGJuRndzOFF4dVFETms5aEZuLXRDU2NFTVg2eEVvb1RZM0F6WEs2X1Y2Nk5mVWs1UXl1Q0NoMUxKaVVrbTdXLVVQMF8xUTZpeDV0N2VsRDVBUmFTQVhpVHNCT05KMzUyMU9yM0dFc2poTQ?oc=5\" target=\"_blank\">ITC stock: Religare revises target to INR 408, keeps Buy view</a>&nbs"
+        },
+        {
+          "title": "What are mutual funds buying? ITC, BSE, Max Healthcare among top stocks bought by fund managers in October 2026",
+          "source": "Livemint",
+          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOcmtpWVNhVFkzMW1CckJ6eXBwMUF4d05sOW51N1RjMi1zY2VWM0pBV2Q4S1lrNWZ3RGdPRGVVNWNTYjNtY0JhT0lEa0s0YjZyTlN4UEtGM2RrQmFMSEgzTUJ0ck5xSEo1M3ZjcHAwbmpvRzFpZGlKN2NOYVBNUmdYVlducm05M1NoQTV6OGxfdWpwX0ZuUzkySXhYLTlwZk1QWlExWGFnenM2MU9hNmZaN3FpWjQ1VWVpN2xRVG9EUGtOejhqdHlnOUY5UjV2cVZVUml0SEFTRXJjS0RxaE52SkFQN21kZ2ZwaHR5MFdkMXlFazE3WmFobUNDUUFFWGNIcmxPdWNFWdIBjAJBVV95cUxNUmhzeU0wZkk3VFVyVUVzeGFzU0VrNHZSNjJTeE5tWjVrOGRsX1FjbU1GV0U4YUU5NUVuX0FqNDVfbGZQRXIzYWVmTFhPWWFZSHZWSG85VklYMVY5eU9OUWRYQ3RwUVRDMDBNbjJjZnZFbWZVRGo5Tm02eGlvYlZHc1JadFZOcTlXSlRjWlpTc25PQnpOWG1DY2QteU41QklkSTVFWHhGT0t3dW9pZGtXQ2JWTGR5UldPV2lOSWVKS19QSkl4cXJYM1E2NFN2Vk5Id010RURab0NlMllIM0xwZUd6clN0cUN6MmxxUVdNODRaWTBnZ0JteHY1dXZGWm8xX0s2WnpYLUVndTNt?oc=5",
+          "published_at": "2026-11-23T14:59:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxOcmtpWVNhVFkzMW1CckJ6eXBwMUF4d05sOW51N1RjMi1zY2VWM0pBV2Q4S1lrNWZ3RGdPRGVVNWNTYjNtY0JhT0lEa0s0YjZyTlN4UEtGM2RrQmFMSEgzTUJ0ck5xSEo1M3ZjcHAwbmpvRzFpZGlKN2NOYVBNUmdYVlducm05M1NoQTV6OGxfdWpwX0ZuUzkySXhYLTlwZk1QWlExWGFnenM2MU9hNmZaN3FpWjQ1VWVpN2xRVG9EUGtOejhqdHlnOUY5UjV2cVZVUml0SEFTRXJjS0RxaE52SkFQN21kZ2ZwaHR5MFdkMXlFazE3WmFobUNDUUFFWGNIcmxPdW"
+        },
+        {
+          "title": "GST Updates: ITC Reversal Deadline By 30 November 2026",
+          "source": "CAclubindia",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQemRZSG83TDg5b0F3SVJoYmlYbk5ueHlSSkxGR3ZHM3RBb0pHNkpQQmJrbUs2ZXJZM25ldFYtNW9YU25CN1l6NHJMU1hhekhxTExucUJveF81WUNiWDhxcFhlQ3YwaHpzQ2xPVkExcDdBcUhzZlREdjVsMUNMTEVvWUdHVWx2WnhxWmo1bE95SmhWRVRXcVFQc2lDZFRzM3dxOFE?oc=5",
+          "published_at": "2026-11-23T06:25:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQemRZSG83TDg5b0F3SVJoYmlYbk5ueHlSSkxGR3ZHM3RBb0pHNkpQQmJrbUs2ZXJZM25ldFYtNW9YU25CN1l6NHJMU1hhekhxTExucUJveF81WUNiWDhxcFhlQ3YwaHpzQ2xPVkExcDdBcUhzZlREdjVsMUNMTEVvWUdHVWx2WnhxWmo1bE95SmhWRVRXcVFQc2lDZFRzM3dxOFE?oc=5\" target=\"_blank\">GST Updates: ITC Reversal Deadline By 30 November 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CAclubindia</fon"
+        },
+        {
+          "title": "ITC staff finds StayTouch falls short on domestic industry in Apple patent case",
+          "source": "IAM Patent",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQkFFWkFTTVhDUWVWaDBpY1RsdDlvcndjTUxzZHFzZDhpQTBkcTBxSmpGQ2ZWaEtsV0N4MVM0d1hYd2JGaVRFRVJ1YUhlNzdZRHBtRXN1c1pqUW1Db0xQNS1RUVdSSnI1eGRkX0gwaVpfNWN1OXNIeFI2cmwxbEw1dDhBZDF0MkhOWFE5dHJ4aTJLVnQxLV9PSUQ1VmpLT3VBVi04R3pZSTM5X3M5elJN?oc=5",
+          "published_at": "2026-11-23T10:01:22+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPQkFFWkFTTVhDUWVWaDBpY1RsdDlvcndjTUxzZHFzZDhpQTBkcTBxSmpGQ2ZWaEtsV0N4MVM0d1hYd2JGaVRFRVJ1YUhlNzdZRHBtRXN1c1pqUW1Db0xQNS1RUVdSSnI1eGRkX0gwaVpfNWN1OXNIeFI2cmwxbEw1dDhBZDF0MkhOWFE5dHJ4aTJLVnQxLV9PSUQ1VmpLT3VBVi04R3pZSTM5X3M5elJN?oc=5\" target=\"_blank\">ITC staff finds StayTouch falls short on domestic industry in Apple patent case</a>&nbsp;&n"
+        },
+        {
+          "title": "CBIC Proposes GST Law Changes to Protect Genuine Buyers From ITC Denial",
+          "source": "The 420.in",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4tTkg0ZWMtYkFWRGUtNFI5al9kRWpaS0ZKWlJsYmlUYlRHbGs5MEYyc29uNUJGMVFycV9Ea1ZQdVREbW5Mbjlxa2FKb25veEx6aFBTUDN3d2JaVGRJU29TbGhB?oc=5",
+          "published_at": "2026-11-23T04:50:52+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE4tTkg0ZWMtYkFWRGUtNFI5al9kRWpaS0ZKWlJsYmlUYlRHbGs5MEYyc29uNUJGMVFycV9Ea1ZQdVREbW5Mbjlxa2FKb25veEx6aFBTUDN3d2JaVGRJU29TbGhB?oc=5\" target=\"_blank\">CBIC Proposes GST Law Changes to Protect Genuine Buyers From ITC Denial</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The 420.in</font>"
         },
         {
           "title": "Weekly Recap: Quarterly profit falls 20.1% and cigarette prices rise",
@@ -1029,65 +924,36 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNZExMcDBFNnhCYXRRUDFuUjBWX3JnY0ttTUtEdFN0bjVqcmc1VlNCbDJsVUQ3NzhkWUo2ZHcyRmhqZG9rQU1SMTV6Tnh0Mm52NmEzaGQtMGhtZXhmb0lEUEZWY0lqcWZYbHNNUE1Pd19rNDBNZ1p1U0lvbFZHeWNNQlhVSVhYTjh0RkRxd0J0YXprVFRkSXdXdkpPc0dMWWljV09IRlNLeDFQdkJIVE1zVDZFb2E1dzl1bFIzTndxVG1hRzBpRDdn?oc=5\" target=\"_blank\">Weekly Recap: Quarterly profit falls 20.1% and cigarette pr"
         },
         {
-          "title": "ITC Share Price",
-          "source": "Upstox",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IMkRMcVVlTDVzbjFob3JsSlJPSWdHbFpvZjJyLTlwQnY4ejlneWdlUk01d1VMbnE2ejBSeWNvcXZuMnZWbklIeVM4UU5hcmMwendocGU1UmE1UQ?oc=5",
-          "published_at": "2026-11-20T08:00:00+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IMkRMcVVlTDVzbjFob3JsSlJPSWdHbFpvZjJyLTlwQnY4ejlneWdlUk01d1VMbnE2ejBSeWNvcXZuMnZWbklIeVM4UU5hcmMwendocGU1UmE1UQ?oc=5\" target=\"_blank\">ITC Share Price</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Upstox</font>"
-        },
-        {
-          "title": "ITC extends Braille-enabled packaging to Fiama, takes total to 16 SKUs",
-          "source": "Business Standard",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOOFJnLWJLOTU4YVROX3g2MzlEaG42bl9NMGVpamxnUTdtcERieS1JQWpZYkU1NXg4OVRZakEyVmhrQXRGaWVvVEl4NEg0OUZ1UC1nemQtUjl0enBOMUtrSGM2dXFORGVLUXFFUGJ6T2pxbW43SkE3MmhNMm1CdzJKMUZ1MlZvcnFtUjFtVGhaNjNjUnhIUWpLMks2VlYycVNEYzU0Vi1YRjBWUklZWHVIblU1U2tEUkN4RkFJM2UzZ0J0YkIwMS1rMjBpc3JVRHRuUFNGdtIB2gFBVV95cUxOYURENDU5Vm85WEN1WEx4Ynl0YnJtSS1fWkw4Rnp2SXpHUEpPaXFfOTJEQkZpblg1NU5ncDQ5N0RjZzYyODU1NnNqY1BhRlNSaHJIUE5YTWJ1Zzlqd0poejA0Ry1NZG12V3ZJdFk1dXYyYjVKTTUzX0dsN1BpaDJjbEVJMzZXbGhWWENpdnVIZlF4Tkc3Y2EzNjI0eHJna1pvUzZhQ0JQZnhwUmZFWjhWUWNVc1VOZU16UW1YanI1V2owZWJpbjZhR2dBMlJiV3VDeXNkbmZpeXlBZw?oc=5",
-          "published_at": "2026-11-22T08:53:51+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOOFJnLWJLOTU4YVROX3g2MzlEaG42bl9NMGVpamxnUTdtcERieS1JQWpZYkU1NXg4OVRZakEyVmhrQXRGaWVvVEl4NEg0OUZ1UC1nemQtUjl0enBOMUtrSGM2dXFORGVLUXFFUGJ6T2pxbW43SkE3MmhNMm1CdzJKMUZ1MlZvcnFtUjFtVGhaNjNjUnhIUWpLMks2VlYycVNEYzU0Vi1YRjBWUklZWHVIblU1U2tEUkN4RkFJM2UzZ0J0YkIwMS1rMjBpc3JVRHRuUFNGdtIB2gFBVV95cUxOYURENDU5Vm85WEN1WEx4Ynl0YnJtSS1fWkw4Rnp2SXpHUEpPaX"
-        },
-        {
-          "title": "GST ITC Denied as Fabricated Transport Documents Failed to Prove Goods Receipt: GSTAT Prayagraj",
+          "title": "ITC Allowed on Capital Goods Used for Taxable Research Services: Uttarakhand GST AAR",
           "source": "TaxGuru",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQOXdyU0gwUXFRcWtfVnBpUlJaZDZTX0FkejFwNFRUbW9QNVhJOFRyREk3NG5RS1VsWXdScEpka2VfeWpORGNxTzE0UExWRVRrdHZseVpTc3VheXc1NFpUS3ZyeDRWdDBFc0Y1TkRCTkhsdnVqNTBmbGlBbmN1NGo3ZTZfbnhjMG5RZU80dzVFLUZORVBrV20zcFV3eWVVRzFnT1I3SVhoT2NkbDlnQl9rZUxoNTV2Y3VOSGI3ZTBfTTBhM1pMSWdnSFdQWGVrYlE?oc=5",
-          "published_at": "2026-11-23T03:23:57+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQOXdyU0gwUXFRcWtfVnBpUlJaZDZTX0FkejFwNFRUbW9QNVhJOFRyREk3NG5RS1VsWXdScEpka2VfeWpORGNxTzE0UExWRVRrdHZseVpTc3VheXc1NFpUS3ZyeDRWdDBFc0Y1TkRCTkhsdnVqNTBmbGlBbmN1NGo3ZTZfbnhjMG5RZU80dzVFLUZORVBrV20zcFV3eWVVRzFnT1I3SVhoT2NkbDlnQl9rZUxoNTV2Y3VOSGI3ZTBfTTBhM1pMSWdnSFdQWGVrYlE?oc=5\" target=\"_blank\">GST ITC Denied as Fabricated Transport Documents"
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYml6U1FvdEFQa3p3RUhETDNabzNNUkhZT3g0TzdOWFhGNEZJTmhFQUpvOUhiRlFwMkNnR1FlXzROcnNwR2xmQy1mcDdOWVRJNGNoYk15UDNJcjBIVUNpYld0bVdnWmVrR0hWNi00Z0JVYlFTbUJvZEJvanpXYTRhQVFGUi1JY1FzU1FwYXpzWHpjUlF3eEtIYzlLZEpySW1rLXVkcDJkNHFVQ09fbHQxRUJMU2RLQW42?oc=5",
+          "published_at": "2026-11-23T06:32:45+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYml6U1FvdEFQa3p3RUhETDNabzNNUkhZT3g0TzdOWFhGNEZJTmhFQUpvOUhiRlFwMkNnR1FlXzROcnNwR2xmQy1mcDdOWVRJNGNoYk15UDNJcjBIVUNpYld0bVdnWmVrR0hWNi00Z0JVYlFTbUJvZEJvanpXYTRhQVFGUi1JY1FzU1FwYXpzWHpjUlF3eEtIYzlLZEpySW1rLXVkcDJkNHFVQ09fbHQxRUJMU2RLQW42?oc=5\" target=\"_blank\">ITC Allowed on Capital Goods Used for Taxable Research Services: Uttarakhand GS"
         },
         {
-          "title": "CBIC Proposes GST Law Changes To Protect Genuine Buyers From ITC Denial",
-          "source": "BW Businessworld",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWW44SFd4SmEyaE5xZWVRdFEyWGloakU0ME9iNFY1SVU0U0QyWmgzYWg4NThZdmFpOGRKQnBoRDdVRk45Z1BEVmVFSlNyZmhQYXRDaVNhc3hQRmRJMVJyMEpWc1Frc2xvZVlFNGxEaWtJRDR6SkRnbHYyaE9WMFJRQ2l6LV9heGpNVkpLbzRUdTlOak1TUjF2TEQxUzNZVGxwMHRJbTFXRlhZaHh2OWZuS3drNUJrdw?oc=5",
-          "published_at": "2026-11-23T02:46:48+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPWW44SFd4SmEyaE5xZWVRdFEyWGloakU0ME9iNFY1SVU0U0QyWmgzYWg4NThZdmFpOGRKQnBoRDdVRk45Z1BEVmVFSlNyZmhQYXRDaVNhc3hQRmRJMVJyMEpWc1Frc2xvZVlFNGxEaWtJRDR6SkRnbHYyaE9WMFJRQ2l6LV9heGpNVkpLbzRUdTlOak1TUjF2TEQxUzNZVGxwMHRJbTFXRlhZaHh2OWZuS3drNUJrdw?oc=5\" target=\"_blank\">CBIC Proposes GST Law Changes To Protect Genuine Buyers From ITC Denial</a>&nbsp;"
-        },
-        {
-          "title": "Is ITC (NSEI:ITC) Fully Priced Given Its Cash Flow Outlook?",
-          "source": "Simply Wall St",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORnZ1a2s0VFZBVmFwV0Vocl9nV19mdktSNzVEckVYSHFCTFEzbWZIUlFZNXlwNlVZWnkza2FnV2ZQN0JueEZzMHlyUlZUTVlrSFkzc1hScEViUTJzR1hJTFd3Mm1WSUdsb1A1dVhjSFNsbmNsbzBGNzJyMllzMEFXNFk3dElpeUc3dUNpbkppWkFBZEtkVThoa2dmem5VdTdDOGdXNXByRGFZZlRrLV80dllHWmJJbGR4RXo2YmttdnplQlVtYTZGSVRTRHJDd9IB0wFBVV95cUxPVFlVOERNeHRmV1UyVGVFVTNvUV9YSWRqbGZ5MFM4QW1sNTVoSzNuVkZIUFZTY0dXWU1IVjZBVXlmMFhvU08zeFhvVHNFLWhERjE3X3pqYm5fUVN4d0VaRFp3a0t5Mlc1S2VPcHloWFdCRkpqZjc3d0pwaVRqUVRYbjl2UlpVQkxqSExtNkJiWHZITllhU2w1dElrTERCZEFVbm9lc2NqLW5BcGItemx1eEo1Z0hmZmVoMFV6dGhPX0NUd0pOb0EwSVlkTXpBMnNTTXg0?oc=5",
-          "published_at": "2026-11-22T19:07:46+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxORnZ1a2s0VFZBVmFwV0Vocl9nV19mdktSNzVEckVYSHFCTFEzbWZIUlFZNXlwNlVZWnkza2FnV2ZQN0JueEZzMHlyUlZUTVlrSFkzc1hScEViUTJzR1hJTFd3Mm1WSUdsb1A1dVhjSFNsbmNsbzBGNzJyMllzMEFXNFk3dElpeUc3dUNpbkppWkFBZEtkVThoa2dmem5VdTdDOGdXNXByRGFZZlRrLV80dllHWmJJbGR4RXo2YmttdnplQlVtYTZGSVRTRHJDd9IB0wFBVV95cUxPVFlVOERNeHRmV1UyVGVFVTNvUV9YSWRqbGZ5MFM4QW1sNTVoSzNuVkZIUF"
-        },
-        {
-          "title": "ITC Grand Chola’s New Tribute Room Celebrates The Legacy Of M.S. Dhoni",
-          "source": "Outlook Luxe",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdFFHd1ZmRDh2aEl6MEtudmZ3cnY2cXJWd0REei1aaXpvZXp3M1M5cXlQOUVQZWNsYkpXcExjUzRQWEpoZ2tXbUU3Q0dxbjVaaVg4Q2FYNHE2VW9LeWFhZkhTSG9neTZXTW1OeVpPYXVlOVhtWDVRbHVLUVFwMFctdWFQQkpzRFVrMU9UY2x1TGc2blhhN19CLWM4UGFaRG9VLWdSbmlZeXhLa2NIZXNFOUFoQ3VFU3Bz0gHGAUFVX3lxTE9HenpwbHhaMlhTc1dqdzRTeTBSQzVOdkdzX1gxRjdtckNlSUt5TGZGTmctUHFHdThxM0FiOEJpT0ZIVzQwT1ZaZGxrZ1NSdFRvNmhmY1YxM1JueWJTbzJuVlVPNUlYeFBkeFY2RlZRSkZzVXE4Vk1kd0kxOUZuM05VcjUtdUY1M3diMEtBbFI2YmN5ZXN0Yl9OMG0zWDd0c1d5TVVtMVA5ZnZEcnNFTDFoY1diRFh2WUtoVGdQNlpHcDFNYjZHQQ?oc=5",
-          "published_at": "2026-11-20T12:05:00+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdFFHd1ZmRDh2aEl6MEtudmZ3cnY2cXJWd0REei1aaXpvZXp3M1M5cXlQOUVQZWNsYkpXcExjUzRQWEpoZ2tXbUU3Q0dxbjVaaVg4Q2FYNHE2VW9LeWFhZkhTSG9neTZXTW1OeVpPYXVlOVhtWDVRbHVLUVFwMFctdWFQQkpzRFVrMU9UY2x1TGc2blhhN19CLWM4UGFaRG9VLWdSbmlZeXhLa2NIZXNFOUFoQ3VFU3Bz0gHGAUFVX3lxTE9HenpwbHhaMlhTc1dqdzRTeTBSQzVOdkdzX1gxRjdtckNlSUt5TGZGTmctUHFHdThxM0FiOEJpT0ZIVzQwT1ZaZG"
+          "title": "Section 16(5) Protects Qualifying GST ITC Claimed by 30 November 2021: Madras HC",
+          "source": "TaxGuru",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQd0NEWENwTUVZUGF3NW9LQjRQbjlJbkVYWWltU3VldjFnQi1PX0NubmNFOW9rOTNZRktORlZ4TEVJd2JhaTFNU2dtTlE4bER0LWFJRTBQMnJHQ3JFdmlZY1d5bjVFd3JFR01VQXFyNWFDNVctOUdYcEpvNnJ0ZjNKYVdKUVFiRUwyQ0tzaEhfQkRxSVN2U1JxclRnZWJlTG9UY3FwMzUwdzBQUE9YQk1CQTdkUTc0RE5aemdicVBn?oc=5",
+          "published_at": "2026-11-23T06:14:24+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQd0NEWENwTUVZUGF3NW9LQjRQbjlJbkVYWWltU3VldjFnQi1PX0NubmNFOW9rOTNZRktORlZ4TEVJd2JhaTFNU2dtTlE4bER0LWFJRTBQMnJHQ3JFdmlZY1d5bjVFd3JFR01VQXFyNWFDNVctOUdYcEpvNnJ0ZjNKYVdKUVFiRUwyQ0tzaEhfQkRxSVN2U1JxclRnZWJlTG9UY3FwMzUwdzBQUE9YQk1CQTdkUTc0RE5aemdicVBn?oc=5\" target=\"_blank\">Section 16(5) Protects Qualifying GST ITC Claimed by 30 November 2021: "
         }
       ],
       "events": [],
       "sebi_mentions": [],
       "price_action": {
-        "date": "2026-11-20",
-        "open": 299.95,
-        "high": 301.0,
-        "low": 294.3,
-        "close": 299.1,
-        "prev_close": 301.0,
-        "change_pct": -0.63,
-        "gap_pct": -0.35,
-        "intraday_range_pct": 2.23,
-        "volume": 28278608,
-        "avg_volume_20d": 21751888,
-        "volume_ratio": 1.3,
+        "date": "2026-11-23",
+        "open": 300.0,
+        "high": 303.5,
+        "low": 298.5,
+        "close": 301.0,
+        "prev_close": 299.1,
+        "change_pct": 0.64,
+        "gap_pct": 0.3,
+        "intraday_range_pct": 1.67,
+        "volume": 27512525,
+        "avg_volume_20d": 22400481,
+        "volume_ratio": 1.23,
         "sparkline": [
-          255.0,
           266.0,
           257.9,
           261.0,
@@ -1116,7 +982,8 @@
           293.3,
           296.6,
           301.0,
-          299.1
+          299.1,
+          301.0
         ]
       },
       "analysis": {
@@ -1135,32 +1002,23 @@
       "skip_catalysts": false,
       "bse_announcements": [],
       "nse_announcements": [],
-      "news": [
-        {
-          "title": "ITC HOTELS LIMITED Share Price - Live NSE: ITCHOTELS Stock Price & Chart",
-          "source": "Upstox",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54ekEtS1BNTlF3VnN1bUg0YVpoTUVxdXc2THdfb19HMkw1czNrRDFaVHZpU2NraGVpYXlMZGJGamhhcTJsTjNLazJHMzltX3lxdlRySWVJM29Ob0Z1cmJpNHRfcDFfTzJj?oc=5",
-          "published_at": "2026-11-20T08:00:00+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE54ekEtS1BNTlF3VnN1bUg0YVpoTUVxdXc2THdfb19HMkw1czNrRDFaVHZpU2NraGVpYXlMZGJGamhhcTJsTjNLazJHMzltX3lxdlRySWVJM29Ob0Z1cmJpNHRfcDFfTzJj?oc=5\" target=\"_blank\">ITC HOTELS LIMITED Share Price - Live NSE: ITCHOTELS Stock Price & Chart</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Upstox</font>"
-        }
-      ],
+      "news": [],
       "events": [],
       "sebi_mentions": [],
       "price_action": {
-        "date": "2026-11-20",
-        "open": 182.0,
-        "high": 185.42,
-        "low": 179.83,
-        "close": 184.25,
-        "prev_close": 183.66,
-        "change_pct": 0.32,
-        "gap_pct": -0.9,
-        "intraday_range_pct": 3.04,
-        "volume": 4933083,
-        "avg_volume_20d": 5755192,
-        "volume_ratio": 0.86,
+        "date": "2026-11-23",
+        "open": 185.5,
+        "high": 187.0,
+        "low": 183.3,
+        "close": 184.12,
+        "prev_close": 184.25,
+        "change_pct": -0.07,
+        "gap_pct": 0.68,
+        "intraday_range_pct": 2.01,
+        "volume": 4185721,
+        "avg_volume_20d": 5822843,
+        "volume_ratio": 0.72,
         "sparkline": [
-          154.63,
           154.52,
           153.91,
           155.87,
@@ -1189,7 +1047,8 @@
           177.81,
           177.16,
           183.66,
-          184.25
+          184.25,
+          184.12
         ]
       },
       "analysis": {
@@ -1212,20 +1071,19 @@
       "events": [],
       "sebi_mentions": [],
       "price_action": {
-        "date": "2026-11-20",
-        "open": 123.99,
-        "high": 128.3,
-        "low": 123.3,
-        "close": 127.54,
-        "prev_close": 124.83,
-        "change_pct": 2.17,
-        "gap_pct": -0.67,
-        "intraday_range_pct": 4.01,
-        "volume": 6421683,
-        "avg_volume_20d": 5018212,
-        "volume_ratio": 1.28,
+        "date": "2026-11-23",
+        "open": 129.06,
+        "high": 129.9,
+        "low": 127.2,
+        "close": NaN,
+        "prev_close": 127.54,
+        "change_pct": NaN,
+        "gap_pct": 1.19,
+        "intraday_range_pct": 2.12,
+        "volume": 4755579,
+        "avg_volume_20d": 5232626,
+        "volume_ratio": 0.91,
         "sparkline": [
-          110.05,
           110.43,
           110.69,
           111.86,
@@ -1254,7 +1112,8 @@
           123.31,
           123.59,
           124.83,
-          127.54
+          127.54,
+          NaN
         ]
       },
       "analysis": {
@@ -1277,20 +1136,19 @@
       "events": [],
       "sebi_mentions": [],
       "price_action": {
-        "date": "2026-11-20",
-        "open": 143.5,
-        "high": 145.12,
-        "low": 142.65,
-        "close": 143.48,
-        "prev_close": 145.12,
-        "change_pct": -1.13,
-        "gap_pct": -1.12,
-        "intraday_range_pct": 1.7,
-        "volume": 457996,
-        "avg_volume_20d": 530768,
-        "volume_ratio": 0.86,
+        "date": "2026-11-23",
+        "open": 143.19,
+        "high": 145.17,
+        "low": 140.67,
+        "close": 141.56,
+        "prev_close": 143.48,
+        "change_pct": -1.34,
+        "gap_pct": -0.2,
+        "intraday_range_pct": 3.14,
+        "volume": 400399,
+        "avg_volume_20d": 537954,
+        "volume_ratio": 0.74,
         "sparkline": [
-          149.76,
           151.16,
           151.58,
           151.34,
@@ -1319,7 +1177,8 @@
           148.56,
           144.42,
           145.12,
-          143.48
+          143.48,
+          141.56
         ]
       },
       "analysis": {
@@ -1337,33 +1196,41 @@
       "notes": "Listed Jul-2025. NSE symbol is EBGNG (not GNG).",
       "skip_catalysts": false,
       "bse_announcements": [],
-      "nse_announcements": [],
+      "nse_announcements": [
+        {
+          "headline": "Updates",
+          "category": null,
+          "more_info": "GNG Electronics Limited has informed the Exchange regarding 'disclosure received from Mr. Ajay Pancholi, Director the Company under Regulation 7(2) of SEBI (Prohibition of Insider Trading) Regulations, 2015'.",
+          "pdf_url": "https://nsearchives.nseindia.in/corporate/GNGNSE_23112026121402_Form_C_Ajay_Pancholi.pdf",
+          "attached_at": "23-Nov-2026 12:15:03",
+          "source": "NSE"
+        }
+      ],
       "news": [
         {
-          "title": "GNG Electronics Limited falls 8.82% as selling extends",
-          "source": "Multibagg AI",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdUtrR1p5T3IwLXpHcWRBMWxqWmRPUTBTNW5acDVBQmdOalQ5ZG1VREFvTjBFbGRVb0pwOE1MU21KSmctUG9mWEZCanB6TU1mV1NpeTc2WXZlSF96UkdGN0JUOXlEd1lmWnJUUnl0c0pEZWlnaXJGQ2w1bXZpY2FyTDl0TmNvZkVERnMtZWpJRXA3RHdWbGJJRGpUVWxHaGxKLThQaDVnNVo?oc=5",
-          "published_at": "2026-11-20T11:05:09+00:00",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdUtrR1p5T3IwLXpHcWRBMWxqWmRPUTBTNW5acDVBQmdOalQ5ZG1VREFvTjBFbGRVb0pwOE1MU21KSmctUG9mWEZCanB6TU1mV1NpeTc2WXZlSF96UkdGN0JUOXlEd1lmWnJUUnl0c0pEZWlnaXJGQ2w1bXZpY2FyTDl0TmNvZkVERnMtZWpJRXA3RHdWbGJJRGpUVWxHaGxKLThQaDVnNVo?oc=5\" target=\"_blank\">GNG Electronics Limited falls 8.82% as selling extends</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Multibag"
+          "title": "GNG Electronics EBGNG Director Share Purchase November 2026",
+          "source": "Kalkine India",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNM3djLXdVbVhyRU5wSXpIT2VDSVFpVG1JZVNnaFhpODVNUmI1VFFHRUZWOGwwZzl2TlBfM2ZkdHVOMHFTaGlnVEZlMDhyMU5sVk9vSXJRWUg3RVZnS2Uwem02LTNwS0JQdFVELVc4dHh4LUhMc280TmpvVDdJeWU5b0d3Y2FHcFlSNUE3cjh3cV82TU9sYjJVV1EwWlJDd0N4aEFSVUtFRDJIUXNRWlVRUDlOeDhReEQ5S2JLbA?oc=5",
+          "published_at": "2026-11-23T06:45:00+00:00",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNM3djLXdVbVhyRU5wSXpIT2VDSVFpVG1JZVNnaFhpODVNUmI1VFFHRUZWOGwwZzl2TlBfM2ZkdHVOMHFTaGlnVEZlMDhyMU5sVk9vSXJRWUg3RVZnS2Uwem02LTNwS0JQdFVELVc4dHh4LUhMc280TmpvVDdJeWU5b0d3Y2FHcFlSNUE3cjh3cV82TU9sYjJVV1EwWlJDd0N4aEFSVUtFRDJIUXNRWlVRUDlOeDhReEQ5S2JLbA?oc=5\" target=\"_blank\">GNG Electronics EBGNG Director Share Purchase November 2026</a>&nbsp;&nbs"
         }
       ],
       "events": [],
       "sebi_mentions": [],
       "price_action": {
-        "date": "2026-11-20",
-        "open": 504.9,
-        "high": 511.5,
-        "low": 468.0,
-        "close": 470.35,
-        "prev_close": 515.45,
-        "change_pct": -8.75,
-        "gap_pct": -2.05,
-        "intraday_range_pct": 8.44,
-        "volume": 1433816,
-        "avg_volume_20d": 1376775,
-        "volume_ratio": 1.04,
+        "date": "2026-11-23",
+        "open": 473.0,
+        "high": 491.95,
+        "low": 460.7,
+        "close": 485.15,
+        "prev_close": 470.35,
+        "change_pct": 3.15,
+        "gap_pct": 0.56,
+        "intraday_range_pct": 6.64,
+        "volume": 803296,
+        "avg_volume_20d": 1280192,
+        "volume_ratio": 0.63,
         "sparkline": [
-          692.15,
           685.5,
           698.25,
           698.2,
@@ -1392,7 +1259,8 @@
           527.4,
           517.2,
           515.45,
-          470.35
+          470.35,
+          485.15
         ]
       },
       "analysis": {
